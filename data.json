@@ -1,0 +1,674 @@
+{
+  "updated": "2026-09-07T18:32:13+00:00",
+  "window_days": 1,
+  "datetype": "edat",
+  "count": 20,
+  "tier1_count": 6,
+  "source": "PubMed (NCBI E-utilities)",
+  "articles": [
+    {
+      "pmid": "42668077",
+      "title": "Pharmacological inhibition of the SUMOylation pathway: Mechanisms, inhibitors and therapeutic opportunities.",
+      "abstract": "Small ubiquitin-like modifier (SUMO) conjugation, or SUMOylation, is a dynamic post-translational modification that regulates protein stability, localization, transcriptional activity, DNA damage response, and cellular stress adaptation. Increasing evidence indicates that dysregulated SUMOylation contributes to tumor progression, immune disorders, and neurodegenerative diseases, highlighting the SUMO pathway as a promising therapeutic target. However, despite extensive advances in SUMO biology, a comprehensive pharmacological assessment of SUMO pathway inhibitors, including their mechanisms of action, evidence quality, target engagement, and translational challenges, remains insufficient. This review presents an inhibitor-centered analysis of pharmacological strategies targeting the SUMOylation machinery. This review describes the molecular architecture of the SUMO conjugation cycle and identifies major druggable nodes, including the SUMO-activating enzyme (SAE), the SUMO-conjugating enzyme UBC9, SUMO-specific proteases (SENPs), and SUMO-dependent protein-protein interactions. It also examines the biological rationale for SUMO pathway inhibition in major disease contexts, with an emphasis on cancer, autoimmune disorders, and neurological diseases. Furthermore, SUMO pathway modulators are systematically classified according to their molecular targets and evidence maturity, including SAE inhibitors, UBC9-directed compounds, SENP inhibitors, direct SUMO binders, and natural product-derived modulators. Their mechanisms of action, biochemical potency, structural validation, cellular target engagement, in vivo efficacy, PK/PD properties, and developmental status are critically evaluated. Overall, this review provides a comprehensive pharmacological framework for understanding SUMO pathway inhibition and highlights key considerations for the development of next-generation SUMO-directed therapeutics.",
+      "journal": "Pharmacol Res",
+      "date": "2026-08-30",
+      "authors": [
+        "Lu J",
+        "Chen X",
+        "Chen Y",
+        "Wang D",
+        "Wu J",
+        "Jin R",
+        "Guo H",
+        "Zhang Q",
+        "Zhao P",
+        "Shi Y",
+        "Wang Y"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.phrs.2026.108417",
+      "journal_tier": 1,
+      "impact": 9.1,
+      "section": "onko",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1
+    },
+    {
+      "pmid": "42668075",
+      "title": "Decoding the bile acid-mitochondria axis: Implications for disease management and therapeutic opportunities.",
+      "abstract": "Bile acids, as cholesterol metabolites, orchestrate a regulatory network with mitochondrial quality control through nuclear receptor FXR, membrane receptor TGR5, and other signaling molecules, modulating mitochondrial biogenesis, dynamic equilibrium, selective autophagy, and redox homeostasis. TGR5 promotes PGC-1α-mediated mitochondrial biogenesis via the cAMP-PKA-CREB pathway, while concurrently regulating mitochondrial fission and calcium homeostasis through the PKCδ/Drp1 and GRP75-MAMs pathways. FXR, acting through transcriptional reprogramming and epigenetic mechanisms, governs fatty acid oxidation, antioxidant defense, and apoptotic pathways, and has been shown to restore PINK1/Parkin-dependent autophagy and suppress NLRP3 inflammasome activation in alcoholic liver disease. Noncanonical receptors, including S1PR2, VDR, and PXR, also participate in the regulation of mitochondrial dynamics and autophagy. Dysregulation of this network is closely associated with metabolic dysfunction-associated fatty liver disease, diabetic retinopathy, pancreatic β-cells injury, alcoholic liver disease, and sepsis-induced immunoparalysis. Agonists targeting the aforementioned receptors, such as INT-777, INT-767, and Fexaramine, have demonstrated the capacity to restore mitochondrial function and alleviate tissue damage in animal models. Future investigations should employ multi-omics and structural biology approaches to elucidate receptor crosstalk and concentration-dependent bidirectional effects, and to develop tissue-selective modulators, thereby facilitating clinical translation.",
+      "journal": "Pharmacol Res",
+      "date": "2026-08-30",
+      "authors": [
+        "Jia X",
+        "Zhang Z",
+        "Lin X",
+        "Dong X",
+        "Chen R",
+        "Liang N",
+        "Ding H",
+        "Li F"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.phrs.2026.108415",
+      "journal_tier": 1,
+      "impact": 9.1,
+      "section": "kardiyometabolik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1
+    },
+    {
+      "pmid": "42668076",
+      "title": "Targeted structural destabilization of flavonoids: A novel paradigm for metabolic reprogramming and anti-senescence to repair the alveolar-capillary barrier.",
+      "abstract": "Persistent disruption of the alveolar-capillary barrier (ACB) is the core pathological basis of acute respiratory distress syndrome (ARDS) and pulmonary fibrosis (PF). ACB deterioration reflects a complex pathological process involving macrophage immunometabolic reprogramming, epithelial stress responses, and senescence-associated impairment of alveolar repair. Traditional single-target anti-inflammatory strategies are difficult to reverse this microenvironmental deterioration. Based on evidence from literature mining, network pharmacology, molecular docking, molecular dynamics (MD) simulations, protein conformational biology, and structure-activity considerations, this paper proposes selected flavonoid compounds as candidate \"Targeted Structural Destabilizers.\" Rather than representing a universal class effect of all flavonoids, this hypothesis applies to structurally compatible compounds whose scaffold features, hydroxylation patterns, and target-interface compatibility may permit conformational perturbation of pathogenic hub proteins such as TP53 and STAT3. These compounds are hypothesized to shift selected hub proteins toward more flexible, partially destabilized, or molten globule-like conformational states, thereby attenuating pathological signaling outputs in a compound- and target-context-dependent manner. Functionally, this proposed mechanism may contribute to ACB repair by suppressing HIF-1/STAT3-associated inflammatory glycolysis in macrophages, supporting metabolic restoration, and modulating TP53-associated senescence-associated secretory phenotype (SASP) programs in alveolar epithelial cells. This review outlines a hypothesis-driven framework linking targeted structural destabilization, metabolic reprogramming, and anti-senescence repair. Direct biophysical, cellular, and disease-model validation will be required to determine whether this proposed flavonoid-based paradigm can be translated into effective ACB repair strategies.",
+      "journal": "Pharmacol Res",
+      "date": "2026-08-29",
+      "authors": [
+        "Li M",
+        "Zhang GS",
+        "Shen FQ",
+        "Wang HY",
+        "Man YC",
+        "Ren FL",
+        "Ye JY",
+        "Jiang B",
+        "Wang Y"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.phrs.2026.108416",
+      "journal_tier": 1,
+      "impact": 9.1,
+      "section": "immuno",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1
+    },
+    {
+      "pmid": "42668074",
+      "title": "Heterogeneous Associations of Antidiabetic Medications with Cancer Prognosis: Evidence from 61 Studies with Over 1.1 Million Patients.",
+      "abstract": "This systematic review and meta-analysis aimed to comprehensively evaluate the prognostic impacts of seven classes of antidiabetic medications in patients with cancer, predominantly in the setting of concomitant type 2 diabetes mellitus (T2DM), and to elucidate their potential differential effects.  A systematic search of PubMed, Embase, Cochrane Library, and the Web of Science was conducted from inception to May 2025, utilizing keywords including \"antidiabetic drugs,\" \"cancer,\" and \"prognosis.\" Based on predefined criteria, eligible English-language randomized controlled trials and cohort studies were included if they compared the prognostic impacts of metformin, insulin, sulfonylureas, dipeptidyl peptidase-4 (DPP-4) inhibitors, sodium-glucose cotransporter 2 (SGLT2) inhibitors, glucagon-like peptide-1 (GLP-1) receptor agonists, and thiazolidinediones in patients with cancer. The primary outcome domain was all-cause survival, represented by all-cause mortality (ACM) or overall survival (OS) according to the terminology of the original studies. Secondary cancer-related outcomes included cancer-specific mortality (CSM), disease-free survival (DFS), progression-free survival (PFS), and recurrence-free survival (RFS). Multiple independent investigators performed data extraction and quality assessment. Statistical analyses were performed using OnlineMeta V1.1. DerSimonian-Laird random-effects models were used for all primary meta-analyses to calculate hazard ratios (HRs) and 95% confidence intervals (CIs), while fixed-effects estimates were examined as complementary sensitivity analyses. Study quality was assessed using the Newcastle-Ottawa Scale and the Cochrane risk-of-bias tool for randomized trials.  A total of 61 studies comprising 1,106,966 patients with cancer were included. Metformin use was associated with lower ACM (HR=0.82, 95% CI: 0.74-0.91, P=0.0001) and CSM (HR=0.77, 95% CI: 0.69-0.87, P<0.0001), whereas insulin use was associated with higher ACM (HR=2.03, 95% CI: 1.63-2.51, P<0.0001). Among the drug classes analyzed, SGLT2 inhibitor use showed a nonsignificant inverse trend with ACM (HR=0.44, 95% CI: 0.11-1.71, P=0.24) and was associated with lower CSM (HR=0.21, 95% CI: 0.20-0.22, P<0.0001), although these estimates were based on few observational studies with study-specific comparator groups and do not establish superiority over other drug classes. In adjusted-HR-only sensitivity analyses, the direction of association was generally consistent for the major metformin outcomes and insulin-related ACM, whereas several other comparisons were attenuated or could not be pooled because too few studies reported adjusted estimates.  This meta-analysis identified heterogeneous associations between antidiabetic drug use and cancer-related survival outcomes, with variation across drug classes, cancer types, and study-level mean age groups. Because the evidence was derived predominantly from observational studies with study-specific comparator groups, substantial between-study heterogeneity, and limited data for newer agents, the pooled estimates should not be interpreted as evidence of treatment superiority or used to rank drug classes. These findings are hypothesis-generating and warrant confirmation in prospective studies using clinically comparable treatment groups, standardized outcome definitions, and rigorous control of confounding.",
+      "journal": "Pharmacol Res",
+      "date": "2026-08-29",
+      "authors": [
+        "Luo P",
+        "Ding Y",
+        "Huang W",
+        "Ma W",
+        "Lan X",
+        "Zhang J",
+        "Yang X",
+        "Lin A"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.phrs.2026.108420",
+      "journal_tier": 1,
+      "impact": 9.1,
+      "section": "klinik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1
+    },
+    {
+      "pmid": "42668072",
+      "title": "The complement system in the pathophysiology and treatment of depression: From synaptic pruning to pharmacological targeting.",
+      "abstract": "Major depressive disorder remains unsatisfactorily addressed by monoaminergic antidepressants, and the search for mechanistically novel targets has converged on the immune system. Among these, the complement system offers a defined molecular route through which locally synthesized complement proteins may tag synapses for microglial engulfment. Preclinical studies implicate the C1q-C3-CR3 pruning axis and the anaphylatoxin receptors C3aR and C5aR in linking immune activation to region-dependent synaptic and neuroinflammatory changes, but causal evidence in patients remains absent. This review synthesizes genetic and pharmacological studies of C3, C3aR, and C1q in stress- and inflammation-based animal models; critically appraises the heterogeneous human biomarker and large-scale proteomic literature; and organizes candidate pharmacology into natural products and small molecules, established drugs with secondary complement-related actions, and clinical-stage complement inhibitors developed for other indications. We emphasize that no randomized controlled trial has tested deliberate complement inhibition in depression and that physiological complement functions, infectious risk, CNS delivery, regional heterogeneity, sex, and patient selection remain major barriers. Complement therefore represents a testable, biomarker-linked therapeutic hypothesis rather than an established treatment mechanism, requiring stratified trials with direct pharmacodynamic evidence.",
+      "journal": "Pharmacol Res",
+      "date": "2026-08-29",
+      "authors": [
+        "Song JY",
+        "Zhang ZQ",
+        "Lin TC",
+        "Huang WF",
+        "Yi LT"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.phrs.2026.108419",
+      "journal_tier": 1,
+      "impact": 9.1,
+      "section": "klinik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1
+    },
+    {
+      "pmid": "42668070",
+      "title": "Challenges and approaches to the design of hydrophilic linkers for antibody-drug conjugates.",
+      "abstract": "Antibody-drug conjugates (ADCs) are now established approaches to the development of precision-guided therapeutics, yet some of the clinical translation effort has been constrained by a paradox at the heart of their design, that is the most effective cytotoxic payloads are also among the most hydrophobic. This intrinsic physicochemical mismatch - between a hydrophilic biological carrier and a hydrophobic small-molecule payload - continues to challenge the stability, pharmacokinetics, and therapeutic index of ADCs. Incorporation of hydrophilic linker architectures has therefore emerged as a critical strategy to counterbalance payload-associated hydrophobicity and enhance overall biophysical and biological performance. Here we examine these approaches within a systematically organized and conceptually unified framework that categorizes hydrophilic linker design according to the strategic placement of solubilizing elements along the linker-payload continuum, as illustrated in Fig. 1. Specifically, potential sites for hydrophilic group incorporation - listed in order of increasing distance from the antibody - include the antibody attachment region, the linker spacer, and the payload release site. Each section of the review surveys representative literature examples within one of these spatial domains, highlighting both established and emerging design principles and elucidating key structure-function relationships governing ADC stability, pharmacokinetics, and controlled payload release. Major classes of hydrophilic motifs, including polyethylene glycol (PEG) chains, zwitterionic structures, carbohydrate-based moieties, and next-generation water-solubilizing scaffolds, will be discussed in a comparative manner. We will also demonstrate how we conceive our internally developed patented hydrophilic linker architecture as an illustration for potential future directions. STATEMENT OF SIGNIFICANCE: We reviewed the principles of ADCs linkers and shared our perspectives on the challenges and innovative approaches to the future ADC drug development.",
+      "journal": "J Control Release",
+      "date": "2026-08-29",
+      "authors": [
+        "Ma X",
+        "Li B",
+        "Ma Y",
+        "Lau JY"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115314",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "klinik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1
+    },
+    {
+      "pmid": "42668073",
+      "title": "Eriodictyol regulates LDHB to trigger mitophagy-mediated NLRP3 inflammasome inactivation as a therapeutic strategy for bone loss.",
+      "abstract": "Imbalance of bone homeostasis triggers abnormal activation of osteoclasts and impaired osteogenic function, which further exacerbates bone resorption, reduces bone mass, and ultimately induces bone loss. Eriodictyol (ERI) possesses a wide range of biological activities and can effectively inhibit excessive bone destruction. Nevertheless, its role in ameliorating bone loss remains to be further elucidated. In this study, we identified ERI as a natural inhibitor of lactate dehydrogenase B (LDHB) that protects against bone loss, and revealed the molecular mechanism whereby ERI inhibits NLRP3 inflammasome activation via enhancing mitophagy.  To explore the relationship between ERI and osteoclast development and bone resorption, we performed CCK-8 assays, TRAcP staining, and scanning electron microscopy (SEM). RNA sequencing, western blotting, and qPCR were then carried out to dissect the molecular mechanisms by which ERI regulates osteoclast activity. The interaction between ERI and LDHB was evaluated using molecular docking, surface plasmon resonance (SPR), and cellular thermal shift assay (CETSA). Functional manipulation of LDHB through both silencing and overexpression confirmed its regulatory role in osteoclasts. Finally, the protective effect of ERI against systemic bone loss was assessed in vivo using a lipopolysaccharide (LPS)-induced mouse model, with micro-CT analysis and histological immunostaining.  Transcriptomic profiling indicated that ERI exerted suppressive impacts on osteoclast biological behavior, which was tightly linked to mitochondrial autophagy as well as the NLRP3 inflammatory complex. Mechanistically, ERI inactivated the NLRP3 inflammasome by enhancing mitophagy and reducing reactive oxygen species (ROS) formation. In addition, ERI directly and stably targets LDHB. Functional assays demonstrated that altered LDHB expression modulates the activation status of osteoclasts. Notably, ERI modulated osteoclast activity and mitophagy activation in a LDHB‑dependent manner. In vivo experiments further verified that ERI effectively alleviated bone loss triggered by LPS in mice.  Collectively, our findings confirm that ERI maintains bone homeostasis by regulating PINK1/Parkin-mediated mitophagy and suppressing NLRP3 inflammasome activation, which may provide a novel natural candidate for the treatment of bone loss-related diseases.",
+      "journal": "Pharmacol Res",
+      "date": "2026-08-29",
+      "authors": [
+        "Wang Y",
+        "Pu W",
+        "Su Y",
+        "Liu Z",
+        "Yang B",
+        "Lu J",
+        "Li X",
+        "Liu Q",
+        "Xu J",
+        "Song F"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.phrs.2026.108418",
+      "journal_tier": 1,
+      "impact": 9.1,
+      "section": "immuno",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2
+    },
+    {
+      "pmid": "42668069",
+      "title": "Thermogelling lacrimal duct-applied therapeutic platform for dry eye syndrome.",
+      "abstract": "Dry eye syndrome (DED), a multifactorial ocular surface disorder, presents significant treatment challenges in severe cases where conventional eye drops demonstrate limited efficacy. Current lacrimal occlusion strategies, while clinically valuable, are compromised by a device migration and sizing inaccuracies that undermine therapeutic reliability. To address these limitations, we engineered an innovative SwitchPlug hydrogel as a switchable punctal plug formed in situ from pre-assembled mPEG-PLGA nanoparticles under the morphological and thermal cues of the lacrimal canaliculus, which affords reversible punctal occlusion and broad-spectrum drug loading capacity. The SwitchPlug hydrogel exhibits rapid sol-gel transition at physiological canalicular temperature (∼37 °C), forming stable occlusions that significantly prolong tear retention while permitting gentle, cooling-induced liquefaction for atraumatic removal, a critical safety advantage over current plugs. Beyond its mechanical occlusion, this smart hydrogel functions as a versatile drug reservoir capable of sustained release across diverse therapeutics, including hydrophobic small molecules (e.g., cyclosporine A), hydrophilic compounds (e.g., dequafosil sodium), and macromolecular proteins (e.g., human epidermal growth factor). In both mouse and rabbit DED models, cyclosporine A-loaded SwitchPlug hydrogel (CsA@SwitchPlug) demonstrated superior therapeutic efficacy compared to commercial formulations, effectively restoring tear secretion, suppressing corneal inflammation, reducing epithelial apoptosis, and accelerating tissue repair. Comprehensive biosafety evaluation confirmed excellent ocular and systemic biocompatibility. This integrated platform represents a paradigm shift in DED management by simultaneously addressing three critical clinical needs, including prolonged ocular retention, customizable drug delivery, and reversible mechanical occlusion, offering new possibilities for personalized and combinatorial therapy of DED.",
+      "journal": "J Control Release",
+      "date": "2026-08-29",
+      "authors": [
+        "Fang Y",
+        "Shen J",
+        "Zhao H",
+        "Lv X",
+        "Li P",
+        "Miao Y",
+        "Zhang Q",
+        "Hou Z",
+        "Shuai S",
+        "Chen L",
+        "Yang Y",
+        "Shi Q",
+        "Chen Q"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115318",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2
+    },
+    {
+      "pmid": "42668068",
+      "title": "Position-specific polymeric-coated oncolytic adenovirus improves anti-tumor efficacy and evades neutralizing antibodies in pancreatic cancer models.",
+      "abstract": "Enhancing the safety and efficacy of systemically administered oncolytic adenoviruses remains a significant challenge to achieve effective targeting of primary tumors and disseminated disease. Intravenous administration exposes viral particles to various blood components interfering with their therapeutic activity. To protect adenoviruses from the inactivating factors we developed a shielding strategy based on a nanoparticle formulation reactive to a specific-site in the hexon hypervariable region 1. We propose a novel coating approach based on the combination of a bioresponsive oligopeptide-modified poly(β-aminoester)s (OM-PBAE-CRRR) and an irreversible linear PEG polymer with protruding ends to shield the oncolytic adenovirus AdNuPARc-E (PEPB). The formulated virus displays a slight delay in the transduction and replicative capacity at early time points that normalizes in a few days. Interestingly, similar oncolytic efficacy to the naked virus was observed in vitro, with enhanced antitumor effect in vivo in a pancreatic cancer model. In accordance, PEPB showed significantly enhanced pharmacokinetics and increased liver and tumor transduction in the xenograft model. In the presence of neutralizing antibodies (NAbs) coated viral particles maintained the infectivity and the replication capacity. Notably, in pre-immunized immunocompetent mice, protection from NAbs resulted in a higher viral accumulation in tumors than in the liver and was associated with significant antitumor activity. In summary, our findings indicate that the proposed formulation PEPB -the oncolytic adenovirus AdNuPARc-E site-specifically shielded with OM-PBAE-CRRR/PEG - offers a promising approach to improve tumor targeting after systemic administration, even in the presence of pre-existing neutralizing antibodies.",
+      "journal": "J Control Release",
+      "date": "2026-08-29",
+      "authors": [
+        "Otero-Mateo M",
+        "Estrany F",
+        "Pembaur D",
+        "Gracia-Batllori A",
+        "Parés M",
+        "Díaz-Permanyer A",
+        "Brugada-Vilà P",
+        "Fornaguera C",
+        "Cascante A",
+        "Borrós S",
+        "Kreppel F",
+        "Fillat C"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115320",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "klinik",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2
+    },
+    {
+      "pmid": "42633950",
+      "title": "Acute Kidney Injury During Vancomycin Treatment in Adult Patients With Haematologic Malignancies: A Multicentre Retrospective Study.",
+      "abstract": "Acute kidney injury (AKI) during vancomycin treatment remains a rare occurrence in adult patients with haematological malignancies (HMs). The objective of this multicentre study was to investigate the incidence and risk factors for AKI during vancomycin treatment in patients with HM.  The present study examined patients who were admitted to hospital and receiving vancomycin therapy between 2009 and 2024 at three tertiary hospitals. The primary outcome was the incidence of AKI during vancomycin treatment.  The study comprised a total of 610 out of 982 patients. The incidence of AKI during vancomycin treatment among patients with HM was 13.0% (79/610). Multiple logistic regression analysis revealed that cardiac insufficiency (OR 3.305, 95% CI = 1.498-7.290, p = 0.003), chronic kidney disease (OR 5.074, 95% CI = 1.636-15.735, p = 0.005), hypoalbuminaemia (OR 2.930, 95% CI = 1.515-5.664, p = 0.001), concomitant spironolactone (OR 3.362, 95% CI = 1.586-7.290, p = 0.002) and chemotherapeutic drugs (OR 6.683, 95% CI = 2.025-22.051, p = 0.002) were independent risk factors for AKI during vancomycin treatment.  The occurrence of AKI in adult patients with HM during vancomycin treatment is a prevalent issue and is associated with a number of clinical and treatment-related factors. HM patients with cardiac dysfunction, chronic kidney disease, hypoalbuminaemia or concomitant spironolactone, chemotherapeutic agents may have a higher risk of AKI during vancomycin treatment.",
+      "journal": "Basic Clin Pharmacol Toxicol",
+      "date": "2026-09",
+      "authors": [
+        "Wang Y",
+        "Li J",
+        "Hou X",
+        "Zhang Y",
+        "Zuo C",
+        "Ding X",
+        "Li X",
+        "Lv Q",
+        "Lai H",
+        "Pan K"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "doi": "10.1111/bcpt.70297",
+      "journal_tier": 2,
+      "impact": 2.9,
+      "section": "kardiyometabolik",
+      "score": 78.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 18,
+        "recency": 0.0
+      },
+      "tier": 3
+    },
+    {
+      "pmid": "42656057",
+      "title": "Plant-Derived Heterocyclic Compounds: A Promising Review on Natural Remedies for Rheumatoid Arthritis Management and Their Mechanistic Insights in Inflammation and Joint Protection.",
+      "abstract": "Rheumatoid arthritis (RA) represents a persistent autoimmune disease that causes continuous joint inflammation and results in synovial tissue overgrowth and worsening cartilage breakdown together with degeneration of bones. The existing pharmaceutical treatments provide symptom management although they create important adverse effects and raise ongoing security concerns. Plant-derived heterocyclic compounds present themselves as promising pharmaceutical substitution options because they demonstrate a wide spectrum of bioactivities that include anti-inflammatory protection together with immunomodulatory and antioxidative properties. This review investigates the therapeutic properties of natural heterocyclic compounds principally including flavonoids, alkaloids, coumarins and terpenoids for RA treatment. Medical plants contain these abundant compounds that adjust inflammatory pathways consisting of NF-κB, MAPK and JAK/STAT to decrease pro-inflammatory cytokines TNF-α, IL-1β and IL-6 and restrict synovial fibroblast proliferation. The heterocyclic compounds found in medicinal plants also protect joints through two mechanisms: by improving antioxidant defences and activating cartilage repair. In addition to laboratory and animal test results the study evaluates how these natural compounds work together when combined in treatment plans. Research into structure-activity interactions of heterocyclic compounds alongside their molecular targets enables better development of safe plant-derived drugs. The research review demonstrates that plant-derived heterocyclic compounds need to become essential components in treating RA while promoting clinical studies to determine their human subject action and mechanism of operation.",
+      "journal": "Basic Clin Pharmacol Toxicol",
+      "date": "2026-10",
+      "authors": [
+        "Dai J",
+        "Xia X",
+        "Hu X",
+        "Kanagaraj T",
+        "Rajalakshmi K",
+        "Deshpande M",
+        "Kiruthiga N",
+        "Zhu D",
+        "Fan Y"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1111/bcpt.70292",
+      "journal_tier": 2,
+      "impact": 2.9,
+      "section": "immuno",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 3
+    },
+    {
+      "pmid": "42665171",
+      "title": "ABCB1 rs2032582 as a potential biomarker for predicting Scutellaria baicalensis Georgi-drug induced liver injury in humans.",
+      "abstract": "Scutellaria baicalensis Georgi (SBG, Huangqin), a prominent traditional Chinese medicine, has a long history of clinical use for clearing heat and detoxifying, a classic TCM therapeutic concept corresponding to its well-documented anti-inflammatory, antimicrobial and hepatoprotective activities in modern pharmacological research. Despite its widespread therapeutic benefits, growing clinical evidence has linked SBG and its preparations with herb-induced liver injury (HILI). However, the population-level incidence of SBG-related drug-induced liver injury (SBG-DILI) and the potential genetic susceptibility mechanisms remain poorly understood.  To determine the clinical incidence of SBG-DILI, characterize its dose-dependent toxicity pattern, and identify candidate pharmacogenomic biomarkers of genetic susceptibility (specifically ABCB1 polymorphisms) in the Chinese Han population.  We conducted two multicenter studies across four Grade A tertiary hospitals of traditional Chinese medicine in Shanghai (the highest-tier public medical institutions in China), integrating a large-scale retrospective cohort and a two-phase prospective genetic association analysis. In the retrospective study, 1,928,526 outpatients were screened, and the patients of SBG-DILI were enrolled and then the relationships between SBG dosage, treatment duration and hepatotoxicity risk were analyzed. The prospective arm utilized an initial single-nucleotide polymorphism (SNP) discovery screening in 12 patients with rechallenge-proven SBG-DILI, followed by independent targeted genotyping validation via the MassArray iPLEX system in a replication cohort (20 SBG-DILI cases, 25 other-DILI cases, and 60 matched population controls).  All cases of liver injury were verified using causality assessment method (RUCAM score >6 and iEC-based HILI criteria); the confirmed clinical incidence of SBG-DILI was 0.095% (72/75,564). Multivariate logistic regression confirmed a clear dose-toxicity relationship, where daily doses exceeding the pharmacopoeia recommendation (>10 g/day) significantly increased the risk of liver injury (adjusted OR = 2.210, 95% CI = 1.185-4.122, P = 0.013). Genetically, the non-synonymous mutation ABCB1 rs2032582 (C allele) was identified as a strong, independent genetic risk factor. The homozygote C/C genotype was remarkably overrepresented in SBG-DILI patients (58.3%) compared to other-DILI cases (4.5%) and population controls (16.3%). Under the log-additive model, the C allele substantially augmented susceptibility to SBG-DILI (adjusted OR = 8.30 vs. other-DILI, P = 0.0001; adjusted OR = 3.70 vs. controls, P = 0.0017).  SBG-DILI, characterized by distinct dose-dependency, is relatively infrequent, but clinically important valvular problems may arises. The ABCB1 rs2032582 variant represents a pivotal genetic susceptibility locus in the Chinese Han population. These findings provide compelling evidence for predicting toxicity of herbal medicine and suggest that genotype-assisted risk stratification could facilitate safer, more precise applications of traditional herbal remedies.",
+      "journal": "J Ethnopharmacol",
+      "date": "2026-09-05",
+      "authors": [
+        "Fu L",
+        "Ji L",
+        "Yan X",
+        "Zhu W",
+        "Cui Y",
+        "Ren X",
+        "Song J",
+        "Tang Y",
+        "Huang L",
+        "Zhu X",
+        "Yu Z",
+        "Tang Y",
+        "Wu M",
+        "Zheng Y",
+        "Chen B",
+        "Zheng C",
+        "Lv J",
+        "Shi L",
+        "Zhang X",
+        "Dvorácskó S",
+        "Sun X",
+        "Li M",
+        "Gao Y"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jep.2026.122329",
+      "journal_tier": 2,
+      "impact": 5.4,
+      "section": "immuno",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3
+    },
+    {
+      "pmid": "42665197",
+      "title": "The role of biorelevant media components on the diffusion and enzymatic stability of oral cyclic peptide analogs.",
+      "abstract": "Despite significant advances in the design and development of peptide molecules, oral delivery remains a major challenge. Biorelevant colloids, composed of bile salts and phospholipids (PL), forming bile acid-phospholipid mixed micelles (BAPMM), are a critical factor that may influence the behavior of orally administered peptides. The role of biorelevant media composition in the absorption of peptide drugs remains underexplored. In this work, we investigated how BAPMM composition affects peptide-micelle interactions, focusing on the impact of bile salt hydroxylation state and phospholipid concentration. Amino acid-substituted analogs of octreotide (water-soluble cyclic octapeptide) were used as model molecules. In vitro experiments included measuring flux rates through a porous cellulose dialysis membrane and assessing pancreatic enzymatic stability. Additionally, a generalized linear regression model was used to identify the main factors and cofactors that may influence the observed membrane flux. Based on the data, the most important factor affecting flux rate is attributed to the interaction between logD and charge at residue 5 (charge5). Analogs with a positive charge5 and higher logD are more sensitive to PL levels in BAPMM and generally show increased interaction with mixed micelles. This interaction tends to reduce membrane flux and protect against enzymatic degradation. Conversely, analogs with a negative charge5 are less influenced by changes in PL concentration. All peptides exhibit stronger interactions with dihydroxy-versus trihydroxy-containing BAPMM, with the lowest flux observed for analogs with positive charge5 and higher logD. Understanding the complex interactions between oral peptides, bile salts, and phospholipids would be valuable in optimizing oral peptide delivery.",
+      "journal": "Int J Pharm",
+      "date": "2026-09-04",
+      "authors": [
+        "Al-Tamimi Z",
+        "Southard B",
+        "Melendrez Cuadros ML",
+        "Bernstein A",
+        "Hageman MJ"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127358",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3
+    },
+    {
+      "pmid": "42665195",
+      "title": "Protein aggregation in self-lubricating piston pumps: The impact of sustained shear stress.",
+      "abstract": "Inherent protein particles (IPP) in injectable biopharmaceutical products can compromise product stability and safety. Hydrodynamic forces during low‑volume aseptic filling have been suggested as a contributor to IPP formation, but the mechanisms, particularly in self‑lubricating piston pumps, are not well defined. We have systematically analyzed the working principle of these pumps and used an insulin analogue formulation to understand the root cause for protein aggregation cases reported in this type of system, focusing on the role of high shear forces as a main driving mechanism. Our work suggests that sustained exposure to mechanical forces in confined pump clearances can contribute to IPP formation for susceptible protein formulations. While routine single‑pass filling is unlikely to reproduce the extreme recirculation conditions tested here, the results highlight the importance of early screening for sensitivity to prolonged low‑to‑moderate shear, attention to pump design and operating modes, and targeted process controls to mitigate localized aggregation risk. Further targeted studies are needed to quantify clearance gap residence times, isolate interfacial versus shear effects, and define practical engineering and formulation strategies to prevent IPP formation.",
+      "journal": "Int J Pharm",
+      "date": "2026-09-03",
+      "authors": [
+        "Rebollo R",
+        "Winckelmann B",
+        "Carnerup A",
+        "Dorosz J",
+        "Gernaey KV",
+        "Buell AK"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127355",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3
+    },
+    {
+      "pmid": "42665194",
+      "title": "Pegylation modulates ApoE association and hepatic accumulation of DC-Chol-based nanoparticles through steric exclusion.",
+      "abstract": "Due in part to adsorption of apolipoprotein E (ApoE) and subsequent receptor-mediated uptake by hepatocytes, lipid nanoparticles (LNPs) have a propensity to accumulate within the liver. The mechanistic contribution of PEGylation to this phenomenon has yet to be fully elucidated. Using fluorescence quenching, circular dichroism spectroscopy, molecular dynamics simulations, and in vivo bioluminescence imaging, we investigated how PEGylation influences ApoE interactions with DC-Chol-based nanoparticles. Association studies revealed that non-PEGylated formulations bound ApoE ∼ 1.7-fold more strongly than particles with surface PEG moieties, quantified by Stern-Volmer constants of 0.083 vs. 0.048 μM, respectively. Circular dichroism measurements demonstrated a greater structural perturbation to ApoE upon binding to non-PEGylated particles (80% helical loss) versus PEGylated LNPs (24-48% helical loss). Molecular dynamics simulations showed that PEG-2000 creates a dynamic steric barrier that reduces direct protein-lipid contact formation by 2.9-fold and decreases the tendency of ApoE to remain closely associated with the nanoparticle surface. Correspondingly, biodistribution studies in mice showed rapid hepatic accumulation of non-PEGylated nanoparticles within 24 h, whereas PEGylated formulations exhibited delayed liver accumulation that became prominent at 48 h. Together, these findings indicate that PEGylation reduces ApoE association primarily through steric exclusion and highlight PEGylation as a useful strategy for modulating nanoparticle biodistribution.",
+      "journal": "Int J Pharm",
+      "date": "2026-09-02",
+      "authors": [
+        "Hosseini-Kharat M",
+        "Wignall A",
+        "Chereda B",
+        "Parkinson-Lawrence E",
+        "Bremmell KE",
+        "Prestidge CA"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127357",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3
+    },
+    {
+      "pmid": "42634354",
+      "title": "The Feasibility and Acceptability of a Collaborative Deprescribing Intervention to Reduce Anticholinergic Burden Among Hospitalised Older Patients.",
+      "abstract": "37%-48% of older patients receive anticholinergic medicines, increasing the risk for falls, delirium, dementia and death. Hospital admission may provide an opportunity for deprescribing to improve outcomes. This study evaluated the feasibility and acceptability of a digital tool to identify anticholinergic medicines and support deprescribing.  A pre-post feasibility study was conducted (May-September 2025). Patients aged ≥ 75 with an ACB score of ≥ 3, screened using a digital tool, were recruited. The identified medications were highlighted to the clinical team to prompt a medication review (stop, reduce or switch). Primary outcomes were recruitment and retention. Secondary outcomes included medication and patients' outcomes, healthcare use and acceptability from qualitative interviews.  Recruitment was challenging; 65 out of 301 patients with ACB ≥ 3 (22%) were eligible, 21 participated, of which 15 (80%) completed follow-up. Mean age was 84.7 years, and intervention costs were £9.33 per patient. Interviews indicated technical and organisational challenges. Mean ACB scores were 3.85 (admission), 3.45 (discharge), 3.0 (1 month) and 3.44 (3 months), with slight changes in cognition and delirium but no changes in depressive symptoms or quality of life.  Although acceptable, recruitment and technical challenges limited feasibility. Findings should be interpreted cautiously due to the small sample size, and further refinement is needed before implementation.",
+      "journal": "Basic Clin Pharmacol Toxicol",
+      "date": "2026-09",
+      "authors": [
+        "Ibrahim K",
+        "Radcliffe E",
+        "Hewertson E",
+        "Bates A",
+        "Fox A",
+        "Smith E",
+        "Mckenzie C",
+        "Jones L",
+        "Mckelvie S",
+        "Kandala NI",
+        "McCloskey S",
+        "Sach T",
+        "Lim S"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1111/bcpt.70277",
+      "journal_tier": 2,
+      "impact": 2.9,
+      "section": "klinik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3
+    },
+    {
+      "pmid": "42633991",
+      "title": "Neuroprotective Effects of Senecio brasiliensis Extract Against Chlorpyrifos-Induced Neurotoxicity and Oxidative Stress in Drosophila melanogaster.",
+      "abstract": "Chlorpyrifos (CP) is an organophosphate insecticide that induces neurotoxicity through acetylcholinesterase (AChE) inhibition and redox imbalance, raising environmental and occupational health concerns. Plant-derived compounds from Senecio brasiliensis, native to the Pampa biome, offer multitarget therapeutic potential. This study evaluated the protective effects of the hydroalcoholic extract of S. brasiliensis (HESB) against CP-induced toxicity in Drosophila melanogaster (Harwich strain). Adult females (3-5 days old) were exposed for 48 h to control (1% sucrose), CP (0.25 ppm), HESB (1 mg/mL) or CP + HESB. CP increased mortality (37.3% ± 6.6%; p < 0.001) and impaired locomotion in the negative geotaxis (17.2 ± 3.0 s; p < 0.001) and footbridge (52.2 ± 5.2 s) assays, decreased AChE, GST and CAT activity (-31.8%, -45.8% and -72.3%, respectively; p = 0.006, 0.025 and 0.006), elevated ROS (+97.0%; p = 0.007), nitrite (+13.1%; p = 0.006) and TBARS (+25.6%; p = 0.010), depleted NPSH (-29.2%; p = 0.003) and PSH (-35.9%; p = 0.013) and reduced cell viability (-17.9%; p = 0.013). HESB co-treatment attenuated all CP-induced alterations, bringing parameters to control-comparable values (p > 0.05). These findings indicate that HESB exerts neuroprotective effects against CP toxicity through modulation of cholinergic function, attenuation of oxidative and nitrosative stress and preservation of thiol homeostasis.",
+      "journal": "Basic Clin Pharmacol Toxicol",
+      "date": "2026-09",
+      "authors": [
+        "Mariano MVT",
+        "Dos Santos GGP",
+        "de Souza ABG",
+        "de Camargo Neves T",
+        "Nunes FVM",
+        "Vicenzi PH",
+        "Gomes KK",
+        "Nunes MEM",
+        "Farina M",
+        "Franco JL",
+        "Posser T"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1111/bcpt.70288",
+      "journal_tier": 2,
+      "impact": 2.9,
+      "section": "noro",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3
+    },
+    {
+      "pmid": "42633989",
+      "title": "Low-Dose Fisetin Supplementation and Its Association With Chronic Inflammation in Middle-Aged and Older Adults: Study Protocol for a Triple-Blind, Randomised, Placebo-Controlled Trial.",
+      "abstract": "Systemic chronic inflammation contributes to the development of many age-related chronic diseases and represents a promising target for interventions aiming at promoting healthy aging. Fisetin is a naturally occurring flavonoid with anti-inflammatory, antioxidant and senolytic effects in vitro and in animal models, but evidence from randomised controlled trials in humans is limited. This study is a triple-blind, randomised, placebo-controlled trial designed to investigate the association between daily fisetin supplementation and changes in plasma soluble urokinase plasminogen activator receptor (suPAR) levels, as well as the occurrence and severity of adverse events, in generally healthy middle-aged and older adults, with exploratory evaluation of additional biomarkers and functional outcomes. Participants aged ≥ 50 will be randomised to receive 100 mg of oral fisetin or placebo once daily for 7 weeks. The primary outcome is the between-group difference in the change in plasma levels of suPAR from Baseline to Week 7. The secondary outcome is the between-group difference in the occurrence and severity of adverse events during the study period. In addition, exploratory outcomes will evaluate the association of fisetin supplementation with other soluble and cellular biomarkers of inflammation, aging and cellular senescence, as well as measures of frailty, physical and cognitive function and subjective health.",
+      "journal": "Basic Clin Pharmacol Toxicol",
+      "date": "2026-09",
+      "authors": [
+        "Tavenier J",
+        "Berglind M",
+        "Hach LF",
+        "Christensen LWS",
+        "Masarikova MJ",
+        "Yahya R",
+        "Lindstrøm MB",
+        "Jawad BN",
+        "Zatkova A",
+        "Nielsen RL",
+        "Juul-Larsen HG",
+        "Kallemose T",
+        "Nehlin JO",
+        "Houlind MB",
+        "Andersen O",
+        "Rasmussen LJH"
+      ],
+      "pubtypes": [
+        "Clinical Trial Protocol",
+        "Journal Article"
+      ],
+      "doi": "10.1111/bcpt.70290",
+      "journal_tier": 2,
+      "impact": 2.9,
+      "section": "immuno",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3
+    },
+    {
+      "pmid": "42630105",
+      "title": "Poisoning With Toxic Alcohols in Denmark.",
+      "abstract": "Poisoning with ethylene glycol and methanol remains a recurrent problem in Scandinavia. This study aimed to describe the epidemiology, exposure circumstances, clinical characteristics and management of toxic alcohol poisonings reported to the Danish Poison Information Centre to support preventive initiatives and improve toxicological counselling.  All calls concerning confirmed or suspected ingestion of ethylene glycol or methanol registered by the Danish Poison Information Centre between 2006 and 2022 were reviewed.  A total of 592 exposures involving ethylene glycol (85%) or methanol were identified. Children accounted for 25% of exposures and adults for 61%, with a predominance of males (73%). Accidental ingestion accounted for 71% of exposures. In more than 60% of cases, the Danish Poison Information Centre assessed a risk of moderate to potentially fatal poisoning. Hospitalization was recommended in approximately 70% of cases.  Ethylene glycol poisoning was more common than methanol poisoning and was primarily associated with accidental ingestion of engine coolant products following inappropriate storage or handling. Many patients were referred for hospital evaluation because risk assessment relied mainly on circumstantial information suggesting potential severe poisoning.  Toxic alcohol poisoning in Denmark is primarily caused by accidental ethylene glycol ingestion. Rapid blood analysis of toxic alcohols may reduce delayed treatment and unnecessary hospitalization.",
+      "journal": "Basic Clin Pharmacol Toxicol",
+      "date": "2026-09",
+      "authors": [
+        "Jacobsen T",
+        "Huusom AJ",
+        "Petersen TS",
+        "Skaaby S",
+        "Hammer PEC"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1111/bcpt.70291",
+      "journal_tier": 2,
+      "impact": 2.9,
+      "section": "toksikoloji",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3
+    },
+    {
+      "pmid": "42668098",
+      "title": "Anti-colorectal cancer activity of sertraline in mice involves regulation of arachidonic acid metabolism revealed by UPLC-Q Exactive Orbitrap MS-based metabolomics.",
+      "abstract": "Sertraline, a widely used antidepressant, has shown emerging anticancer activity, but its metabolic mechanism in colorectal cancer (CRC) remains unclear. In this study, we evaluated the in vivo antitumor effect of sertraline using a CT26 tumor-bearing BALB/c mouse model, and performed UPLC-MS-based untargeted metabolomics to characterize serum metabolic alterations. Our results found that sertraline significantly inhibited tumor growth in BALB/c mice and partially reversed tumor-associated metabolic disturbances. Notably, levels of arachidonic acid (AA), 11,12-epoxyeicosatrienoic acid (11,12-EET), and 12-KETE were markedly elevated in the tumor model group but shifted toward normal levels after sertraline treatment. Pathway analysis identified arachidonic acid metabolism as the most significantly affected pathway, and Western blot confirmed that sertraline downregulated ALOXE3 expression in both tumor tissues and CT26 cells. ROC analysis revealed that a panel of only two metabolites achieved an AUC of 0.845, demonstrating good discriminatory ability between the tumor model and sertraline-treated groups, while expanding to ten metabolites further improved the AUC to 0.975 (95% CI: 0.800-1.000). These findings suggest that sertraline exerts antitumor effects in CRC associated with metabolic remodeling of arachidonic acid metabolism and altered ALOXE3 expression, providing preclinical evidence supporting further investigation of sertraline as a potential drug-repurposing candidate for CRC.",
+      "journal": "Toxicol Appl Pharmacol",
+      "date": "2026-08-29",
+      "authors": [
+        "Shen Y",
+        "He L",
+        "Zheng C",
+        "Liu D",
+        "He Z",
+        "Zou Y",
+        "Wu GS",
+        "He C",
+        "Wang X",
+        "Ding RB",
+        "Bao J"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.taap.2026.118021",
+      "journal_tier": 2,
+      "impact": 3.8,
+      "section": "noro",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3
+    }
+  ]
+}
