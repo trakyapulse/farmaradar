@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T11:02:33+00:00",
+  "updated": "2026-09-10T11:00:37+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -57,6 +57,82 @@
       },
       "tier": 2,
       "abstract_tr": ""
+    },
+    {
+      "pmid": "42717061",
+      "title": "Upcoming FDA approval decisions in Q4 2026.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-09",
+      "authors": [
+        "Dilzer K"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00150-1",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42717060",
+      "title": "A translational framework for extrahepatic oligonucleotide delivery.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-09",
+      "authors": [
+        "Kiełpiński ŁJ",
+        "Schumacher FF"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00125-2",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42714746",
+      "title": "Atacicept: First Approval.",
+      "abstract": "Atacicept (atacicept-vymj; TRUTAKNA™) is a human recombinant fusion glycoprotein targeting B lymphocyte stimulator [BLyS; also known as B cell-activating factor (BAFF)] and A proliferation-inducing ligand (APRIL) being developed by Vera Therapeutics, under a license from Merck Serono. On 7 July 2026, atacicept received accelerated approval in the USA to reduce proteinuria in adults with primary immunoglobulin A nephropathy (IgAN) at risk for disease progression. In patients with IgAN, atacicept produced sustained reductions in proteinuria across the ORIGIN clinical development program and stabilized estimated glomerular filtration rates through 96 weeks. This article summarizes the milestones in the development of atacicept leading to this first approval for IgAN.",
+      "journal": "Drugs",
+      "date": "2026-09-09",
+      "authors": [
+        "Blair HA"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s40265-026-02384-0",
+      "journal_tier": 1,
+      "impact": 13.4,
+      "section": "immuno",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": "Atacicept (atacicept-vymj; TRUTAKNA™), B lenfosit stimülatörünü [BLyS; B hücresi aktive edici faktör (BAFF) olarak da bilinir] ve A proliferasyonu indükleyen ligand (APRIL), Merck Serono lisansı altında Vera Therapeutics tarafından geliştirilmektedir. 7 Temmuz 2026'da atasisept, hastalığın ilerlemesi riski taşıyan primer immünoglobulin A nefropatisi (IgAN) olan yetişkinlerde proteinüriyi azaltmak için ABD'de hızlandırılmış onay aldı. IgAN'li hastalarda atasicept, ORIGIN klinik geliştirme programı boyunca proteinüride sürekli azalmalar sağladı ve tahmini glomerüler filtrasyon oranlarını 96 hafta boyunca stabilize etti. Bu makale, IgAN için bu ilk onaya yol açan atasiceptin geliştirilmesindeki kilometre taşlarını özetlemektedir."
     },
     {
       "pmid": "42702251",
@@ -162,6 +238,62 @@
       "abstract_tr": "Yağ dokusunun sistemik metabolizmanın merkezi düzenleyicisi olduğu giderek daha fazla kabul edilmektedir. Yağ dokusu, enerji depolamanın ötesinde besin algılamayı, endokrin sinyalini ve bağışıklık tepkilerini birleştirir ve metabolik homeostazı koordine etmek için diğer organlarla aktif olarak iletişim kurar. Bu fonksiyonel karmaşıklık, etkileşimleri hem fizyolojik hem de patolojik durumları dinamik olarak düzenleyen adipositlerin ve stromal hücrelerin koordineli aktivitesinden kaynaklanmaktadır. İlaç geliştirmede ve mekanik araştırmalarda kullanılan in vitro deneysel modellerin çoğu bu karmaşıklığı basitleştirirken, in vivo modeller sistemik fizyolojiyi bütünleştirir ancak insana özgü değildir. Bu uyumsuzluk, özellikle metabolik yolları, inflamasyonu veya organlar arası sinyalleşmeyi hedef alan bileşikler için yağa özgü ilaç etkilerini tahmin etme yeteneğini sınırlar. Farmakolojik bağlamlarda bu sınırlama özellikle önemlidir çünkü yağ dokusu yalnızca terapötik bir hedef olarak hareket etmekle kalmaz, aynı zamanda lipid bölünmesi, endokrin sinyalleme ve immün modülasyon yoluyla ilaç dağıtımını, biyoyararlanımını ve etkinliğini de etkiler. Bu özellikleri yakalayamayan modeller, temel eylem mekanizmalarını gözden kaçırma veya terapötik sonuçları yanlış tahmin etme riski taşır. Yağ dokusu karmaşıklığını yeniden yapılandıran mikrofizyolojik sistemler, bu boşluğu dolduracak bir çerçeve sunar. Olgun adipositler ve stromal vasküler fraksiyon hücreleri gibi yağla ilgili birden fazla hücre tipinin fizyolojik perfüzyon ve kontrol edilebilir mikro ortamlarla birlikte entegre edilmesiyle bu sistemler, hücre-hücre etkileşimlerinin metabolik fonksiyonu ve farmakolojik tepkileri nasıl şekillendirdiğinin ele alınmasına yardımcı olabilir. Bu nedenle, ilaç mekanizmalarını sorgulamak, dokuya özgü etkinliği değerlendirmek için çevirisel bir platformu temsil ederler ve metabolik olarak ilgili insan ortamlarında sistemik farmakolojik etkileri tahmin etmek için araçlar haline gelebilirler."
     },
     {
+      "pmid": "42716189",
+      "title": "Apolipoprotein E in spinal cord injury: mechanisms of lipid dysregulation, neuroinflammation, and opportunities for repair.",
+      "abstract": "Traumatic spinal cord injury (SCI) is a devastating condition that affects millions of people worldwide and remains without effective pharmacological therapies that substantially improve neurological recovery. A major barrier to repair is the persistent secondary neuroinflammatory response that evolves over weeks to months after injury. Although neuroinflammation represents an attractive therapeutic target, broadly acting immunosuppressive approaches have yielded limited clinical benefit, highlighting the need to identify mechanisms that drive detrimental inflammation while preserving beneficial immune functions that support repair. Emerging evidence identifies dysregulated lipid handling as one such mechanism. SCI generates a substantial lipid burden through myelin and cellular breakdown, while lipidomic and metabolomic studies reveal persistent, dynamic alterations in lipid processing, storage, and transport. The capacity of resident glia and infiltrating immune cells to manage this lipid burden has important consequences for inflammatory state and tissue repair. Apolipoprotein E (ApoE), a major regulator of lipid transport and redistribution in the central nervous system, lies at the intersection of these processes, linking lipid metabolism with neuroinflammation and recovery after SCI. Here, we critically evaluate ApoE biology and its relationship to lipid dysregulation after SCI, together with preclinical evidence targeting ApoE-associated and broader lipid-regulatory pathways, including ApoE mimetics, LXR/RXR and PPARγ signaling, and statins. We distinguish demonstrated therapeutic mechanisms from proposed ApoE-dependent effects and evaluate emerging clinical evidence for lipid-modifying interventions in SCI. Finally, we consider key barriers to translation, including injury heterogeneity, sex, age and ApoE genotype, therapeutic timing and delivery, and the integration of lipid-directed interventions into multimodal strategies for SCI repair. Together, current evidence positions lipid dysregulation as an important and potentially tractable component of SCI pathogenesis, while defining the studies needed to establish the contribution of ApoE-directed and broader lipid-modifying strategies to neurological repair.",
+      "journal": "Pharmacol Ther",
+      "date": "2026-09-09",
+      "authors": [
+        "Walsh CM",
+        "Ioannou MS",
+        "Brennan FH"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.pharmthera.2026.109122",
+      "journal_tier": 1,
+      "impact": 12.0,
+      "section": "kardiyometabolik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": "Travmatik omurilik yaralanması (SCI), dünya çapında milyonlarca insanı etkileyen ve nörolojik iyileşmeyi önemli ölçüde artıran etkili farmakolojik tedavilerin bulunmadığı yıkıcı bir durumdur. Onarımın önündeki en büyük engel, yaralanmadan haftalar veya aylar sonra gelişen kalıcı ikincil nöroinflamatuar yanıttır. Nöroinflamasyon çekici bir terapötik hedefi temsil etse de, geniş etkili immünsüpresif yaklaşımlar sınırlı klinik fayda sağlamıştır; bu durum, onarımı destekleyen yararlı bağışıklık fonksiyonlarını korurken, zararlı inflamasyonu yönlendiren mekanizmaların tanımlanması ihtiyacını vurgulamaktadır. Ortaya çıkan kanıtlar, düzensiz lipit yönetimini böyle bir mekanizma olarak tanımlamaktadır. SCI, miyelin ve hücresel yıkım yoluyla önemli bir lipid yükü oluştururken, lipidomik ve metabolomik çalışmalar, lipid işleme, depolama ve taşımada kalıcı, dinamik değişiklikleri ortaya koymaktadır. Yerleşik glia'nın ve sızan bağışıklık hücrelerinin bu lipit yükünü yönetme kapasitesi, inflamatuar durum ve doku onarımı açısından önemli sonuçlara sahiptir. Merkezi sinir sisteminde lipit taşınması ve yeniden dağıtımının ana düzenleyicilerinden biri olan Apolipoprotein E (ApoE), bu süreçlerin kesişiminde yer alır ve lipit metabolizmasını nöroenflamasyon ve SCI sonrası iyileşme ile ilişkilendirir. Burada, ApoE biyolojisini ve bunun SCI sonrası lipid düzensizliği ile ilişkisini, ApoE mimetikleri, LXR/RXR ve PPARγ sinyallemesi ve statinler dahil olmak üzere ApoE ile ilişkili ve daha geniş lipid düzenleyici yolları hedefleyen klinik öncesi kanıtlarla birlikte eleştirel bir şekilde değerlendiriyoruz. Gösterilen terapötik mekanizmaları önerilen ApoE'ye bağımlı etkilerden ayırıyoruz ve SCI'de lipit değiştirici müdahaleler için ortaya çıkan klinik kanıtları değerlendiriyoruz. Son olarak, yaralanma heterojenliği, cinsiyet, yaş ve ApoE genotipi, terapötik zamanlama ve teslimat ve lipide yönelik müdahalelerin SCI onarımı için çok modlu stratejilere entegrasyonu dahil olmak üzere çevirinin önündeki temel engelleri göz önünde bulunduruyoruz. Mevcut kanıtlar bir arada, lipid düzensizliğini SCI patogenezinin önemli ve potansiyel olarak izlenebilir bir bileşeni olarak konumlandırırken, ApoE'ye yönelik ve daha geniş lipid değiştirici stratejilerin nörolojik onarıma katkısını belirlemek için gereken çalışmaları tanımlamaktadır."
+    },
+    {
+      "pmid": "42716188",
+      "title": "Cell death-induced chronic inflammation as a therapeutic target for metabolic dysfunction-associated steatohepatitis.",
+      "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) is a progressive liver disease characterized by hepatic steatosis, inflammation, and fibrosis, which can ultimately lead to cirrhosis and hepatocellular carcinoma. Although recent Food and Drug Administration approvals of resmetirom and semaglutide mark a milestone in MASH therapy, no approved agents directly target hepatic inflammation or fibrosis, underscoring the urgent need for novel therapeutic strategies. Hepatocyte death is a histological hallmark that distinguishes MASH from simple steatosis, yet the mechanisms by which it drives chronic inflammation and fibrosis remain incompletely understood. We identified hepatic crown-like structures (CLSs), aggregates of macrophages surrounding dead hepatocytes, as the histological hub of this process. In steatotic livers, impaired dead cell clearance allows sustained macrophage-dead cell interactions within CLSs, where tissue-resident macrophages acquire profibrotic properties. Cholesterol accumulation in hepatocytes promotes cholesterol crystallization, triggering hepatocyte death and subsequent lysosomal cholesterol overload in CLS-constituting macrophages, thereby accelerating inflammation and fibrosis. Targeting this pathway using a liver-tropic supramolecular β-cyclodextrin polyrotaxane (βCD-PRX), which selectively delivers βCD to lysosomes via endocytosis, ameliorated macrophage lysosomal stress and hepatic fibrosis in murine MASH models without affecting body weight or steatosis. Beyond the liver, CLS-driven chronic inflammation contributes to adipose tissue dysfunction in obesity and the transition from acute kidney injury to chronic kidney disease, suggesting broad therapeutic relevance. Continued investigation of CLSs as a shared pathological microenvironment across metabolic diseases may pave the way for novel diagnostic and therapeutic modalities for MASH and related conditions.",
+      "journal": "Pharmacol Ther",
+      "date": "2026-09-09",
+      "authors": [
+        "Suganami T",
+        "Tanaka M",
+        "Itoh M"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.pharmthera.2026.109123",
+      "journal_tier": 1,
+      "impact": 12.0,
+      "section": "kardiyometabolik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": "Metabolik fonksiyon bozukluğu ile ilişkili steatohepatit (MASH), hepatik steatoz, inflamasyon ve fibrozis ile karakterize, sonuçta siroz ve hepatoselüler karsinoma yol açabilen ilerleyici bir karaciğer hastalığıdır. Gıda ve İlaç İdaresi'nin son dönemdeki resmetirom ve semaglutid onayları MASH terapisinde bir dönüm noktasına işaret etse de, onaylanmış hiçbir ajan doğrudan hepatik inflamasyonu veya fibrozisi hedef almıyor, bu da yeni terapötik stratejilere olan acil ihtiyacın altını çiziyor. Hepatosit ölümü, MASH'i basit steatozdan ayıran histolojik bir özelliktir, ancak kronik inflamasyonu ve fibrozisi yönlendiren mekanizmalar tam olarak anlaşılamamıştır. Bu sürecin histolojik merkezi olarak hepatik taç benzeri yapıları (CLS'ler), ölü hepatositleri çevreleyen makrofaj kümelerini belirledik. Steatotik karaciğerlerde, bozulmuş ölü hücre klirensi, dokuda yerleşik makrofajların profibrotik özellikler kazandığı CLS'ler içinde sürekli makrofaj-ölü hücre etkileşimlerine izin verir. Hepatositlerdeki kolesterol birikimi, kolesterol kristalleşmesini teşvik eder, hepatosit ölümünü tetikler ve ardından CLS'yi oluşturan makrofajlarda lizozomal kolesterol aşırı yüklenmesini tetikler, böylece inflamasyonu ve fibrozisi hızlandırır. Bu yolu, vücut ağırlığını veya steatozu etkilemeden murin MASH modellerinde endositoz, iyileştirilmiş makrofaj lizozomal stresi ve hepatik fibrozis yoluyla βCD'yi lizozomlara seçici olarak ileten bir karaciğer-tropik supramoleküler β-siklodekstrin polirotaksan (βCD-PRX) kullanarak hedeflemek. Karaciğerin ötesinde, CLS kaynaklı kronik inflamasyon, obezitede yağ dokusu disfonksiyonuna ve akut böbrek hasarından kronik böbrek hastalığına geçişe katkıda bulunur ve bu da geniş bir terapötik önemi gösterir. Metabolik hastalıklarda ortak bir patolojik mikro ortam olarak CLS'lerin sürekli araştırılması, MASH ve ilgili durumlar için yeni teşhis ve tedavi yöntemlerinin önünü açabilir."
+    },
+    {
       "pmid": "42711197",
       "title": "Emerging STAT1 post-translational modifications: mechanisms and translational perspectives.",
       "abstract": "Signal transducer and activator of transcription 1 (STAT1) is a central regulator of interferon signaling, antiviral defense, inflammation, and antitumor immunity. Although STAT1 activation has been traditionally defined by phosphorylation, recent studies have revealed diverse post-translational modifications (PTMs) that fine-tune its activity, stability, localization, and transcriptional output. Newly identified modifications, including vitamin C-derived vitcylation and pyruvate-induced pyruvylation, directly link nutrient and metabolic cues to STAT1 signaling. Additional PTMs, such as acylation, glycosylation, ubiquitination, methylation, and oxidative modifications, further shape STAT1 function in a context-dependent manner. In this review, we evaluate the evidence supporting STAT1 PTMs and discuss how specific modifications regulate STAT1 activation, stability, localization, and transcriptional output in immune and inflammatory contexts, while distinguishing established regulatory mechanisms from emerging modifications that require further validation.",
@@ -192,6 +324,36 @@
       "abstract_tr": "Sinyal dönüştürücü ve transkripsiyon 1 aktivatörü (STAT1), interferon sinyallemesinin, antiviral savunmanın, inflamasyonun ve antitümör immünitesinin merkezi düzenleyicisidir. STAT1 aktivasyonu geleneksel olarak fosforilasyon ile tanımlanmış olmasına rağmen, son çalışmalar aktivitesini, stabilitesini, lokalizasyonunu ve transkripsiyonel çıktısını hassas şekilde ayarlayan çeşitli translasyon sonrası modifikasyonları (PTM'ler) ortaya çıkarmıştır. C vitamini türevi vitsilasyon ve piruvat kaynaklı piruvilasyon dahil olmak üzere yeni tanımlanan modifikasyonlar, besin ve metabolik ipuçlarını doğrudan STAT1 sinyallemesine bağlar. Asilasyon, glikosilasyon, her yerde bulunma, metilasyon ve oksidatif modifikasyonlar gibi ek PTM'ler, bağlama bağlı bir şekilde STAT1 fonksiyonunu daha da şekillendirir. Bu derlemede, STAT1 PTM'leri destekleyen kanıtları değerlendiriyoruz ve spesifik modifikasyonların, immün ve inflamatuar bağlamlarda STAT1 aktivasyonunu, stabilitesini, lokalizasyonunu ve transkripsiyonel çıktısını nasıl düzenlediğini tartışırken, yerleşik düzenleyici mekanizmaları daha fazla doğrulama gerektiren yeni ortaya çıkan modifikasyonlardan ayırıyoruz."
     },
     {
+      "pmid": "42716878",
+      "title": "AI virtual cells for drug discovery and pharmacology.",
+      "abstract": "Drug discovery relies on cellular assays to determine whether a candidate produces a desired response, reveals its mechanism, or causes toxicity, but only a small fraction of compound-dose-time-context combinations can be measured experimentally. Recent perturbation atlases, single-cell and imaging technologies, and intervention-conditioned AI models now make prediction of unmeasured cellular responses a testable objective. AI virtual cells could therefore complement conventional discovery by prioritizing compounds, contexts, and follow-up experiments rather than replacing laboratory assays. Here, we review the resources and modeling advances supporting this capability, assess their value for mechanism-of-action analysis, efficacy, safety, resistance, and combination studies, and define evidence requirements for pharmacological use. Data coverage makes oncology, including immuno-oncology, plausible early proving grounds, with safety assessment as a crosscutting use case; broader deployment requires perturbation-specific, mechanistic, and decision-level validation.",
+      "journal": "Trends Pharmacol Sci",
+      "date": "2026-09-09",
+      "authors": [
+        "Wang S",
+        "Zhang Y",
+        "Wang D",
+        "Liu H",
+        "Yao X"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.tips.2026.08.006",
+      "journal_tier": 1,
+      "impact": 11.0,
+      "section": "onko",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": "İlaç keşfi, bir adayın istenen tepkiyi üretip üretmediğini, mekanizmasını ortaya çıkardığını veya toksisiteye neden olup olmadığını belirlemek için hücresel analizlere dayanır, ancak bileşik-doz-zaman-bağlam kombinasyonlarının yalnızca küçük bir kısmı deneysel olarak ölçülebilir. Son pertürbasyon atlasları, tek hücreli ve görüntüleme teknolojileri ve müdahaleye dayalı yapay zeka modelleri artık ölçülmeyen hücresel tepkilerin tahminini test edilebilir bir hedef haline getiriyor. Bu nedenle yapay zeka sanal hücreleri, laboratuvar analizlerinin yerini almak yerine bileşiklere, bağlamlara ve takip deneylerine öncelik vererek geleneksel keşfi tamamlayabilir. Burada, bu yeteneği destekleyen kaynakları ve modelleme ilerlemelerini gözden geçireceğiz, bunların etki mekanizması analizi, etkililik, güvenlik, direnç ve kombinasyon çalışmaları açısından değerlerini değerlendireceğiz ve farmakolojik kullanım için kanıt gerekliliklerini tanımlayacağız. Veri kapsamı, immüno-onkoloji de dahil olmak üzere onkolojiyi, güvenlik değerlendirmesinin kesişen bir kullanım durumu olarak kabul edilebilir erken kanıtlama alanları haline getirir; daha geniş dağıtım, tedirginliğe özgü, mekanik ve karar düzeyinde doğrulama gerektirir."
+    },
+    {
       "pmid": "42711198",
       "title": "Nitroxyl (HNO) therapeutics: exposure control and target engagement.",
       "abstract": "Nitroxyl (HNO) donors enhance cardiac contraction and relaxation. However, systemic administration of these donors provides limited control over local HNO exposure or interaction with the target. This forum discusses recent approaches and challenges to control HNO generation, reshape exposure, and assess target engagement, evaluating mechanisms, maturity, constraints, and therapeutic fit.",
@@ -215,6 +377,31 @@
       },
       "tier": 2,
       "abstract_tr": "Nitroksil (HNO) donörleri kalbin kasılmasını ve gevşemesini artırır. Ancak bu donörlerin sistemik uygulanması, lokal HNO maruziyeti veya hedefle etkileşim üzerinde sınırlı kontrol sağlar. Bu forumda HNO oluşumunu kontrol etmek, maruz kalmayı yeniden şekillendirmek ve hedef katılımını değerlendirmek, mekanizmaları, olgunluğu, kısıtlamaları ve terapötik uyumu değerlendirmek için en son yaklaşımlar ve zorluklar tartışılmaktadır."
+    },
+    {
+      "pmid": "42716877",
+      "title": "Pyroptotic pores reopen the case for caspase inhibitors.",
+      "abstract": "Caspase inhibitors have repeatedly entered clinical trials but have not reached clinical practice due to toxicity and limited efficacy. Groborz and colleagues now show that gasdermin D pores admit otherwise membrane-impermeable inhibitors into pyroptotic cells, turning poor permeability into a mechanism of cell-state selectivity.",
+      "journal": "Trends Pharmacol Sci",
+      "date": "2026-09-09",
+      "authors": [
+        "Amelio I"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.tips.2026.08.013",
+      "journal_tier": 1,
+      "impact": 11.0,
+      "section": "toksikoloji",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": "Kaspaz inhibitörleri defalarca klinik deneylere girmiştir ancak toksisite ve sınırlı etkinlik nedeniyle klinik uygulamaya ulaşamamıştır. Groborz ve meslektaşları şimdi gasdermin D gözeneklerinin piroptotik hücrelere zar geçirgen olmayan inhibitörleri kabul ettiğini ve zayıf geçirgenliği hücre durumu seçiciliği mekanizmasına dönüştürdüğünü gösteriyor."
     },
     {
       "pmid": "42668070",
@@ -281,6 +468,32 @@
       },
       "tier": 1,
       "abstract_tr": ""
+    },
+    {
+      "pmid": "42716128",
+      "title": "Addressing translational barriers in intra-articular drug delivery for cartilage regeneration.",
+      "abstract": "Despite growing interest in regenerative therapies for osteoarthritis (OA), clinical translation remains limited by biological and biophysical barriers that restrict target engagement within human cartilage. The recent identification of 15-hydroxyprostaglandin dehydrogenase (15-PGDH) inhibition as a strategy for restoring cartilage regeneration in experimental OA has renewed interest in regenerative disease-modifying osteoarthritis drugs (DMOADs), yet overcoming translational barriers likely requires looking beyond molecular-target engagement alone. This Review proposes that responsiveness to 15-PGDH inhibition depends on a biologically defined, cartilage-competent (\"index-responder\") phenotype-one retaining regenerative plasticity despite structural disease progression. It further advances the hypothesis that 15-PGDH activity is enriched in deep cartilage, creating a depth-dependent enzymatic barrier to target accessibility. Integrating current knowledge of cartilage biology, intra-articular (IA) drug transport, and joint mechanobiology, this study examines the multiscale transport processes governing therapeutic exposure, including synovial clearance, interfacial mass-transfer resistance, matrix diffusion, and depth-dependent target engagement. Collectively, these processes are proposed to generate a clearance-diffusion mismatch in which rapid IA elimination outpaces penetration into cartilage, potentially resulting in incomplete inhibition of deep-zone targets despite apparently adequate joint exposure. To address this challenge, a spatiotemporal pharmacomechanical framework is introduced in which regenerative therapy is conceptually segmented into preconditioning, delivery, and retention/remodeling phases. Within this framework, joint biomechanics act as active determinants of drug transport, target engagement, and signaling persistence rather than passive background variables. The central hypothesis is that successful cartilage regeneration depends on the coordinated alignment of molecular mechanisms, transport dynamics, spatial target accessibility, and biomechanical state. Together, these concepts provide experimentally testable predictions and a translational roadmap for the development of regenerative OA therapies.",
+      "journal": "J Control Release",
+      "date": "2026-09-09",
+      "authors": [
+        "Del Río E"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115338",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "immuno",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": "Osteoartrit (OA) için rejeneratif tedavilere artan ilgiye rağmen, klinik çeviri, insan kıkırdağı içindeki hedef katılımını kısıtlayan biyolojik ve biyofiziksel engellerle sınırlı olmaya devam etmektedir. Deneysel OA'da kıkırdak rejenerasyonunu yeniden sağlamaya yönelik bir strateji olarak 15-hidroksiprostaglandin dehidrojenaz (15-PGDH) inhibisyonunun yakın zamanda tanımlanması, rejeneratif hastalığı değiştiren osteoartrit ilaçlarına (DMOAD'ler) olan ilgiyi yeniden canlandırdı, ancak translasyonel engellerin aşılması muhtemelen yalnızca moleküler hedef katılımının ötesine bakmayı gerektiriyor. Bu İnceleme, 15-PGDH inhibisyonuna yanıt vermenin, biyolojik olarak tanımlanmış, kıkırdak açısından yetkin (\"indeks yanıt veren\") fenotip-birin, yapısal hastalık ilerlemesine rağmen rejeneratif plastisiteyi muhafaza etmesine bağlı olduğunu öne sürmektedir. 15-PGDH aktivitesinin derin kıkırdakta zenginleştiği hipotezini daha da ilerleterek hedef erişilebilirliğine yönelik derinliğe bağlı bir enzimatik bariyer oluşturur. Kıkırdak biyolojisi, eklem içi (IA) ilaç taşınması ve eklem mekanobiyolojisi hakkındaki mevcut bilgileri birleştiren bu çalışma, sinovyal açıklık, arayüzey kütle transfer direnci, matris difüzyonu ve derinliğe bağlı hedef etkileşimi dahil olmak üzere terapötik maruziyeti yöneten çok ölçekli taşıma süreçlerini incelemektedir. Toplu olarak, bu süreçlerin, hızlı IA eliminasyonunun kıkırdak içine nüfuz etmesini geride bıraktığı ve görünüşte yeterli eklem maruziyetine rağmen potansiyel olarak derin bölge hedeflerinin eksik inhibisyonuna yol açtığı bir temizleme-difüzyon uyumsuzluğu oluşturması önerilmektedir. Bu zorluğun üstesinden gelmek için, rejeneratif tedavinin kavramsal olarak ön koşullandırma, dağıtım ve tutma/yeniden modelleme aşamalarına ayrıldığı uzay-zamansal farmakomekanik bir çerçeve tanıtılmıştır. Bu çerçevede eklem biyomekaniği, pasif arka plan değişkenlerinden ziyade ilaç taşınmasının, hedef katılımının ve sinyal kalıcılığının aktif belirleyicileri olarak hareket eder. Temel hipotez, başarılı kıkırdak rejenerasyonunun, moleküler mekanizmaların, taşıma dinamiklerinin, mekansal hedef erişilebilirliğinin ve biyomekanik durumun koordineli hizalanmasına bağlı olmasıdır. Bu kavramlar birlikte, deneysel olarak test edilebilir tahminler ve rejeneratif OA tedavilerinin geliştirilmesi için çevirisel bir yol haritası sağlar."
     },
     {
       "pmid": "42668069",
@@ -455,6 +668,172 @@
       },
       "tier": 2,
       "abstract_tr": ""
+    },
+    {
+      "pmid": "42716130",
+      "title": "A coordination-assembled ferric nanoenzyme enables spatiotemporal radical storm for amplifying chemodynamic immunotherapy.",
+      "abstract": "Artificial enzymes show great promise in cancer therapy, yet inadequate in vivo catalytic selectivity and robustness restrict their therapeutic potencies. Here, we report a coordination-driven nanoassembly of ferric-indocyanine green complex in albumin nanocages as an activatable antitumor nanoenzyme for tumor-selective chemodynamic immunotherapy against aggressive cancers. The nanoenzyme undergoes the reduction of ferric ions into ferrous ions in lysosomes in response to pH and glutathione stimuli, followed by photooxidation-mediated lysosomal escape of ferrous ions into cytosol. The abundant ferrous ions catalyze cytosolic H2O2 to yield highly cytotoxic hydroxyl radicals (·OH) in cytosol via Fenton reaction, which is further amplified to elevate the yield efficiency of ·OH by increasing the Fenton reaction rate under the photoirradiated tumor hyperthermia. Meanwhile, the frequently overexpressed metabolic NAD(P)H:quinone oxidoreductase 1 (NQO1) in tumor cells catalyzes its substrate (e.g. molecularly targeted compound β-lapachone) to continuously produce excessive hydrogen peroxide (H2O2) for yielding a reactive oxygen species (ROS) storm under abundant ferrous ions. The photoamplified and metabolism-dependent ROS storm effectively disrupts the redox homeostasis, thus inhibiting aggressive triple-negative breast cancers. The ROS surge further induces immunogenic cell death and promotes dendritic cell maturation, thus synergizing with immune checkpoint inhibitors to elicit both robust innate and adaptive immunities against primary, distant, and rechallenged tumors. This study provides insights into rational design of robust and activatable nanoenzymes for precise cancer therapy.",
+      "journal": "J Control Release",
+      "date": "2026-09-09",
+      "authors": [
+        "Li T",
+        "Lin X",
+        "Zhao Z",
+        "Chen Y",
+        "Chen C",
+        "Chen X",
+        "Wang Y",
+        "Ke H",
+        "Yang T",
+        "Tao H",
+        "Zhang Y",
+        "Li S",
+        "Tang Y",
+        "Deng Y",
+        "Chen H"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115341",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": "Yapay enzimler kanser tedavisinde büyük umut vaat ediyor, ancak in vivo katalitik seçicilik ve sağlamlıklarının yetersiz olması terapötik güçlerini kısıtlıyor. Burada, agresif kanserlere karşı tümör seçici kemodinamik immünoterapi için aktive edilebilir bir antitümör nanoenzimi olarak albümin nanokafeslerinde ferrik-indosiyanin yeşili kompleksinin koordinasyon odaklı bir nano düzeneğini rapor ediyoruz. Nanoenzim, pH ve glutatyon uyarılarına yanıt olarak lizozomlarda demir iyonlarının demir iyonlarına indirgenmesine maruz kalır, ardından demir iyonlarının sitozole fotooksidasyon aracılı lizozomal kaçışı gerçekleşir. Bol demirli iyonlar sitozolik H2O2'yi katalize ederek Fenton reaksiyonu yoluyla sitozolde oldukça sitotoksik hidroksil radikalleri (·OH) verir; bu, ışıkla ışınlanmış tümör hipertermisi altında Fenton reaksiyon hızını artırarak ·OH'nin verim verimliliğini yükseltmek için daha da güçlendirilir. Bu arada, tümör hücrelerinde sıklıkla aşırı eksprese edilen metabolik NAD(P)H:kinon oksidoredüktaz 1 (NQO1), bol demir iyonları altında reaktif bir oksijen türü (ROS) fırtınası oluşturmak için sürekli olarak aşırı hidrojen peroksit (H2O2) üretmek üzere substratını (örn. moleküler olarak hedeflenen bileşik β-lapachone) katalize eder. Foto-amplifiye edilmiş ve metabolizmaya bağımlı ROS fırtınası, redoks homeostazisini etkili bir şekilde bozar, böylece agresif üçlü negatif meme kanserlerini engeller. ROS dalgalanması ayrıca immünojenik hücre ölümünü indükler ve dendritik hücre olgunlaşmasını teşvik eder, böylece birincil, uzak ve yeniden zorlanmış tümörlere karşı hem sağlam doğuştan gelen hem de uyarlanabilir bağışıklıkları ortaya çıkarmak için immün kontrol noktası inhibitörleriyle sinerji oluşturur. Bu çalışma, kesin kanser tedavisi için sağlam ve aktive edilebilir nanoenzimlerin rasyonel tasarımına ilişkin bilgiler sunmaktadır."
+    },
+    {
+      "pmid": "42716129",
+      "title": "A perspective on targeted LNPs.",
+      "abstract": "Actively targeted lipid nanoparticles (tLNPs), in which LNPs are decorated with ligands for targeted delivery, offer a promising strategy to address a major challenge in nanomedicine: achieving efficient uptake in extrahepatic cells while limiting dominant uptake by the liver and unintended uptake by immune cells. tLNPs have now entered early clinical trials, with encouraging results reported for in vivo T-cell reprogramming. In this Perspective, we cover key considerations for the development of tLNP formulations. We discuss physicochemical factors related to ligand-PEG-lipid design and incorporation into LNPs, including ligand density, orientation, and localization, as well as extracellular and intracellular ligand-target engagement and safety considerations. We highlight recent early-stage clinical results in this area and preclinical applications in which tLNPs are currently being explored. Finally, we briefly highlight potential challenges associated with the reproducible and cost-effective manufacture of tLNPs and emphasize the need for additional analytical methods to adequately characterize these complex formulations.",
+      "journal": "J Control Release",
+      "date": "2026-09-09",
+      "authors": [
+        "Simonsen JB",
+        "Spahn PN"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115344",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "kardiyometabolik",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": "LNP'lerin hedefe yönelik dağıtım için ligandlarla süslendiği aktif olarak hedeflenen lipid nanopartikülleri (tLNP'ler), nanotıptaki büyük bir zorluğun üstesinden gelmek için umut verici bir strateji sunar: Karaciğer tarafından baskın alımı ve bağışıklık hücreleri tarafından istenmeyen alımı sınırlandırırken ekstrahepatik hücrelerde etkili alımın sağlanması. tLNP'ler artık in vivo T hücresi yeniden programlaması için bildirilen cesaret verici sonuçlarla birlikte erken klinik çalışmalara girmiştir. Bu Perspektifte, tLNP formülasyonlarının geliştirilmesine yönelik temel hususları ele alıyoruz. Ligand-PEG-lipid tasarımı ve ligand yoğunluğu, oryantasyon ve lokalizasyonun yanı sıra hücre dışı ve hücre içi ligand-hedef etkileşimi ve güvenlik hususları dahil olmak üzere LNP'lere dahil edilmesiyle ilgili fizikokimyasal faktörleri tartışıyoruz. Bu alandaki son erken aşamadaki klinik sonuçları ve tLNP'lerin şu anda araştırıldığı klinik öncesi uygulamaları vurguluyoruz. Son olarak, tLNP'lerin tekrarlanabilir ve uygun maliyetli üretimiyle ilgili potansiyel zorlukları kısaca vurguluyor ve bu karmaşık formülasyonları yeterince karakterize etmek için ek analitik yöntemlere olan ihtiyacı vurguluyoruz."
+    },
+    {
+      "pmid": "42716127",
+      "title": "Effects of intestinal permeation enhancers on solubilization and epithelial transport of the proteolysis targeting chimera (PROTAC) ARV-471 in rats.",
+      "abstract": "The molecular properties of proteolysis targeting chimeras (PROTACs) often fall outside the 'drug-like' rule of five (Ro5) chemical space, associated with poor intestinal solubility, permeability, and absorption. While formulation strategies have primarily focused on solubility enhancement, the intrinsic permeability barriers of PROTACs and the use of permeation enhancers to modulate them remain largely unexplored. This in vivo rat study assessed the potential of permeation enhancers to improve the intestinal absorption of ARV-471, a model PROTAC characterized by low solubility and permeability (BCS class IV). Intestinal absorption was determined based on plasma drug exposure (AUC0-4h) following intraduodenal administration of an amorphous nanosuspension of ARV-471 (2.5 mg/kg), either alone or co-administered with three structurally diverse permeation enhancers (22 mg/kg): salcaprozate sodium (SNAC), lauroyl-l-carnitine (LLC), and sodium caprate (C10). The direct impact of these enhancers (4.4 mg/mL) on effective intestinal permeability was quantified using single-pass intestinal perfusion. These in vivo experiments were complemented by in vitro characterization of the colloidal properties and solubilization potential of ARV-471 in formulations with and without permeation enhancers. This integrated approach allowed the effects of epithelial permeation enhancement to be deconvoluted from those driven by luminal solubilization and dissolution. SNAC increased plasma AUC0-4h 1.7-fold and enhanced permeability 2.5-fold, with negligible effects on drug solubilization. In contrast, LLC exhibited a dual mechanism, increasing AUC0-4h 2.5-fold and permeability 2.2-fold, while simultaneously boosting apparent solubility 19-fold. C10 demonstrated only modest effects on absorption, likely related to membrane perturbation. Collectively, these findings demonstrate that permeation-enhancing excipients may improve the oral bioavailability of PROTACs and other BCS Class IV compounds by enhancing luminal solubilization and/or epithelial permeability.",
+      "journal": "J Control Release",
+      "date": "2026-09-09",
+      "authors": [
+        "Niessen J",
+        "Koziolek M",
+        "Borchardt T",
+        "Indulkar AS",
+        "Ortiz BJ",
+        "Sjöblom M",
+        "Hedeland M",
+        "Lennernäs H",
+        "Dahlgren D"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115340",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "formulasyon",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": "Kimeraları hedef alan proteolizin (PROTAC'ler) moleküler özellikleri genellikle zayıf bağırsak çözünürlüğü, geçirgenliği ve emilimiyle ilişkili beş (Ro5) kimyasal alan 'ilaç benzeri' kuralının dışında kalır. Formülasyon stratejileri öncelikli olarak çözünürlüğün arttırılmasına odaklanmış olsa da, PROTAC'ların içsel geçirgenlik bariyerleri ve bunları modüle etmek için geçirgenlik arttırıcıların kullanımı büyük ölçüde keşfedilmemiş durumdadır. Bu in vivo sıçan çalışması, düşük çözünürlük ve geçirgenlik (BCS sınıf IV) ile karakterize edilen bir PROTAC modeli olan ARV-471'in bağırsak emilimini iyileştirmek için geçirgenlik arttırıcıların potansiyelini değerlendirdi. Bağırsak emilimi, ARV-471'in (2,5 mg/kg) amorf bir nanosüspansiyonunun duodenal olarak uygulanmasını takiben plazma ilaç maruziyetine (AUC0-4 saat) dayanarak belirlendi; tek başına veya yapısal olarak çeşitli geçirgenlik arttırıcılar (22 mg/kg) ile birlikte uygulandı: salkaprozat sodyum (SNAC), lauroil-l-karnitin (LLC) ve sodyum kaprat (C10). Bu arttırıcıların (4,4 mg/mL) etkili bağırsak geçirgenliği üzerindeki doğrudan etkisi, tek geçişli bağırsak perfüzyonu kullanılarak ölçüldü. Bu in vivo deneyler, geçirgenlik artırıcılar içeren ve içermeyen formülasyonlarda ARV-471'in koloidal özelliklerinin ve çözünme potansiyelinin in vitro karakterizasyonuyla tamamlandı. Bu entegre yaklaşım, epitelyal geçirgenlik artışının etkilerinin, luminal çözünme ve çözünme tarafından yönlendirilen etkilerden ayrıştırılmasına olanak tanıdı. SNAC, plazma AUC0-4saat'i 1,7 kat artırdı ve geçirgenliği 2,5 kat arttırdı; ilacın çözünürlüğü üzerinde ihmal edilebilir etkiler oluştu. Buna karşılık LLC, AUC0-4h'yi 2,5 kat ve geçirgenliği 2,2 kat artırırken aynı anda görünür çözünürlüğü 19 kat artıran ikili bir mekanizma sergiledi. C10, muhtemelen membran bozulmasıyla ilişkili olarak emilim üzerinde yalnızca ılımlı etkiler gösterdi. Toplu olarak bu bulgular, geçirgenliği arttırıcı eksipiyanların, lümen çözünürlüğünü ve/veya epitelyal geçirgenliği artırarak PROTAC'ların ve diğer BCS Sınıf IV bileşiklerinin oral biyoyararlanımını geliştirebileceğini göstermektedir."
+    },
+    {
+      "pmid": "42716126",
+      "title": "Nanoparticles hijack intracellular glucose for sustained boron trapping in cancer cells.",
+      "abstract": "Boron neutron capture therapy (BNCT) requires selective accumulation and retention of 10B in cancer cells during neutron irradiation. However, current clinical boron agents are limited by transient intracellular residence, rapid clearance, and insufficient tumour selectivity. Here, we report a glucose-hijacking strategy that converts the glucose avidity of malignant cells into an endogenous chemical machinery for sustained boron trapping. We engineered AbChol10B, an albumin-based nanoparticle containing a 10B-labeled cholesterol derivative, Chol10B. Upon internalization, Chol10B is released and spontaneously covalently conjugates with intracellular glucose. This in situ process creates a bulky complex that anchors 10B within the cells, while simultaneously engaging glucose to disrupt tumour metabolic homeostasis. Driven by the increased glucose uptake of malignant cells, this reversible covalent binding becomes more pronounced, thereby promoting prolonged 10B retention. Compared with boronophenylalanine (10BPA), AbChol10B increased 10B uptake by 238.8-fold and reduced 10B clearance by 81.96%. GLUT1 knockdown markedly reduced this retention, supporting a glucose-dependent mechanism. In vivo, AbChol10B increased intratumoural 10B accumulation by 33.52-fold and achieved a tumour to blood ratio (T/B) of 24.48. Most notably, even at a sub-threshold macroscopic tumour boron concentration (~7.7 ppm), this boron trapping strategy suppressed tumour growth by 87.32% with minimal systemic toxicity. These findings suggest that intracellular boron trapping mediated by hijacking glucose can enhance the effective utilization of boron and reframes BNCT drug design from maximizing bulk tumour boron loading to engineering intracellular boron residence.",
+      "journal": "J Control Release",
+      "date": "2026-09-09",
+      "authors": [
+        "Yang J",
+        "Guan Y",
+        "Shang Y",
+        "Liu Y",
+        "Lou Y",
+        "Huang Y",
+        "Lai W",
+        "Liu Y",
+        "Dong H",
+        "Yu Y",
+        "Hu Y",
+        "Yue C"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115343",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "kardiyometabolik",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": "Bor nötron yakalama terapisi (BNCT), nötron ışınlaması sırasında kanser hücrelerinde 10B'nin seçici olarak birikmesini ve tutulmasını gerektirir. Bununla birlikte, mevcut klinik bor ajanları, hücre içi geçici ikamet, hızlı temizlenme ve yetersiz tümör seçiciliği nedeniyle sınırlıdır. Burada, kötü huylu hücrelerin glikoz isteğini, sürekli bor tuzağı için endojen bir kimyasal makineye dönüştüren bir glikoz kaçırma stratejisini rapor ediyoruz. 10B etiketli bir kolesterol türevi olan Chol10B'yi içeren albümin bazlı bir nanopartikül olan AbChol10B'yi tasarladık. İçselleştirme üzerine Chol10B salınır ve hücre içi glikoz ile kendiliğinden kovalent olarak konjuge olur. Bu yerinde süreç, 10B'yi hücrelerin içine sabitleyen büyük bir kompleks yaratırken aynı zamanda tümörün metabolik homeostazisini bozmak için glikozu da devreye sokar. Malign hücrelerin glikoz alımının artmasıyla yönlendirilen bu tersine çevrilebilir kovalent bağlanma daha belirgin hale gelir ve böylece 10B'nin uzun süreli tutulmasını teşvik eder. Boronofenilalanin (10BPA) ile karşılaştırıldığında AbChol10B, 10B alımını 238,8 kat artırdı ve 10B klerensini %81,96 azalttı. GLUT1'in devre dışı bırakılması, glikoza bağımlı bir mekanizmayı destekleyerek bu tutulmayı belirgin şekilde azalttı. AbChol10B in vivo olarak tümör içi 10B birikimini 33,52 kat arttırdı ve 24,48'lik bir tümör/kan oranına (T/B) ulaştı. En önemlisi, eşik altı makroskopik tümör bor konsantrasyonunda (~7,7 ppm) bile bu bor yakalama stratejisi, minimum sistemik toksisiteyle tümör büyümesini %87,32 oranında bastırdı. Bu bulgular, glikozun kaçırılmasının aracılık ettiği hücre içi bor tuzağının, borun etkili kullanımını artırabileceğini ve BNCT ilaç tasarımını, toplu tümör bor yüklemesini maksimuma çıkarmaktan hücre içi borun yerleşimini tasarlamaya kadar yeniden çerçevelendirebileceğini göstermektedir."
+    },
+    {
+      "pmid": "42716125",
+      "title": "Pathogen capture driven spatial reprogramming microgels for oral treatment of bacterial enteritis.",
+      "abstract": "Intestinal Salmonella infections are primarily treated with antibiotics, yet non-selective bactericidal activity often disrupts the gut microbiota and limits therapeutic efficacy. Here, we introduce a precision anti-infective strategy based on spatial reprogramming, which redefines where antibacterial activity occurs rather than increasing antimicrobial potency. By functionally integrating Salmonella-specific nanobodies anchored on oral hydrogel microgels with meropenem-loaded bacterial membrane vesicles, we construct a targeted delivery system, termed HAMA-Nb@BM. Surface-anchored nanobodies selectively capture and concentrate dispersed Salmonella, spatially confining pathogens to the microgel surface. The microgels subsequently trigger the release of antibiotic-loaded vesicles, which deliver antibiotics directly into the periplasmic space of nearby pathogens via outer-membrane fusion, thereby avoiding diffusion-dependent dilution of free antibiotics and minimizing off-target microbiota perturbation. In a murine Salmonella infection model, this spatially confined therapy reduces intestinal pathogen burden, preserves microbiota homeostasis, and promotes inflammation resolution and mucus barrier restoration. This work establishes spatially reprogrammed antibacterial delivery as a strategy to reconcile effective pathogen clearance with host intestinal homeostasis.",
+      "journal": "J Control Release",
+      "date": "2026-09-09",
+      "authors": [
+        "Li J",
+        "Zhou C",
+        "Yang M",
+        "Chen X",
+        "Li C",
+        "Sun Y",
+        "Wang H",
+        "Lei C"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115342",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "immuno",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": "Bağırsak Salmonella enfeksiyonları öncelikle antibiyotiklerle tedavi edilir, ancak seçici olmayan bakterisidal aktivite sıklıkla bağırsak mikrobiyotasını bozar ve terapötik etkinliği sınırlar. Burada, antimikrobiyal gücü artırmak yerine antibakteriyel aktivitenin nerede oluştuğunu yeniden tanımlayan, mekansal yeniden programlamaya dayanan hassas bir anti-enfektif strateji sunuyoruz. Oral hidrojel mikrojellerine tutturulmuş Salmonella'ya özgü nanoyapıları meropenem yüklü bakteriyel membran kesecikleriyle işlevsel olarak entegre ederek, HAMA-Nb@BM olarak adlandırılan hedefe yönelik bir dağıtım sistemi oluşturuyoruz. Yüzeye sabitlenmiş nano gövdeler, dağınık Salmonella'yı seçici olarak yakalayıp konsantre ederek patojenleri mikrojel yüzeyinde mekansal olarak sınırlandırır. Mikrojeller daha sonra antibiyotik yüklü keseciklerin salınmasını tetikler; bu kesecikler, antibiyotikleri dış membran füzyonu yoluyla doğrudan yakındaki patojenlerin periplazmik alanına iletir, böylece serbest antibiyotiklerin difüzyona bağlı seyreltilmesini önler ve hedef dışı mikrobiyota bozulmasını en aza indirir. Bir fare Salmonella enfeksiyon modelinde, mekansal olarak sınırlandırılmış bu terapi bağırsak patojen yükünü azaltır, mikrobiyota homeostazisini korur ve inflamasyonun çözülmesini ve mukus bariyerinin restorasyonunu destekler. Bu çalışma, etkili patojen temizliğini konakçı bağırsak homeostazisi ile bağdaştıracak bir strateji olarak mekansal olarak yeniden programlanmış antibakteriyel dağıtım sağlar."
     },
     {
       "pmid": "42668077",
@@ -809,6 +1188,73 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42716238",
+      "title": "Druggable tumor-nerve-immune circuits in cancer pain: model systems, human translatability and therapeutic paradoxes.",
+      "abstract": "Cancer pain is increasingly recognized as an active output of tumor-nerve-immune biology rather than a passive consequence of tissue damage. Tumor-derived algogens, neurotrophic factors, stress signals and immune mediators can sensitize nociceptors, facilitate perineural invasion, remodel myeloid and lymphoid compartments and recruit central glial mechanisms that may maintain persistent pain. However, the evidence base is asymmetric: many causal circuits were defined in selected bone-metastasis, perineural-invasion, oral-cancer, sarcoma or chemotherapy-induced neuropathy models, whereas applicability to human cancer pain varies by tumor type, pain phenotype, immune contexture and treatment exposure. This critical narrative Review evaluates peripheral, central, immune and pharmacological evidence using explicit model-to-human boundaries. Recent patient studies in oral squamous cell carcinoma link pain with CGRP-positive nerve density, circulating or tissue CGRP, perineural invasion and reduced CD8-positive T-cell density, but these associations do not establish human causality; validated biomarkers of spinal glial mechanisms are still lacking. We examine druggable nodes including NGF-TrkA, SLIT2-ROBO1, CGRP-CALCRL/RAMP1, CSF1R-dependent myeloid or glial signaling, voltage-gated sodium channels and opioid-neuroimmune interactions. Clinical trial and cohort examples illustrate therapeutic paradoxes in which analgesia must be balanced against joint safety, tissue repair, host defense and potentially confounded associations with immunotherapy outcomes. We finally propose a phenotype-matched model-selection framework and a druggable circuit-state strategy for patient-stratified pharmacological development.",
+      "journal": "Pharmacol Res",
+      "date": "2026-09-09",
+      "authors": [
+        "Hu Y",
+        "Hou L",
+        "Zhang X",
+        "Jiang H",
+        "Liu F",
+        "Liu H",
+        "Yang C",
+        "Wang L",
+        "Li C",
+        "Bao Y"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.phrs.2026.108445",
+      "journal_tier": 1,
+      "impact": 9.1,
+      "section": "noro",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": "Kanser ağrısı, doku hasarının pasif bir sonucu olmaktan ziyade tümör-sinir-bağışıklık biyolojisinin aktif bir çıktısı olarak giderek daha fazla kabul edilmektedir. Tümör kaynaklı algojenler, nörotrofik faktörler, stres sinyalleri ve immün aracılar, nosiseptörleri duyarlı hale getirebilir, perinöral invazyonu kolaylaştırabilir, miyeloid ve lenfoid bölmeleri yeniden şekillendirebilir ve kalıcı ağrıyı sürdürebilen merkezi glial mekanizmaları harekete geçirebilir. Bununla birlikte, kanıt temeli asimetriktir: seçilmiş kemik metastazı, perinöral invazyon, ağız kanseri, sarkom veya kemoterapinin neden olduğu nöropati modellerinde birçok nedensel devre tanımlanmıştır; oysa insan kanser ağrısına uygulanabilirlik, tümör tipine, ağrı fenotipine, bağışıklık yapısına ve tedaviye maruz kalmaya göre değişir. Bu kritik anlatı İncelemesi, model-insan sınırlarını açık bir şekilde kullanarak periferik, merkezi, bağışıklık ve farmakolojik kanıtları değerlendirir. Oral skuamöz hücreli karsinomdaki son hasta çalışmaları, ağrıyı CGRP-pozitif sinir yoğunluğu, dolaşımdaki veya doku CGRP'si, perinöral invazyon ve azalmış CD8-pozitif T hücre yoğunluğu ile ilişkilendirmektedir, ancak bu ilişkiler insanda nedensellik oluşturmamaktadır; Spinal glial mekanizmaların doğrulanmış biyobelirteçleri hala eksiktir. NGF-TrkA, SLIT2-ROBO1, CGRP-CALCRL/RAMP1, CSF1R'ye bağımlı miyeloid veya glial sinyalleme, voltaj kapılı sodyum kanalları ve opioid-nöroimmün etkileşimleri dahil olmak üzere uyuşturulabilir düğümleri inceliyoruz. Klinik deneme ve kohort örnekleri, analjezinin eklem güvenliği, doku onarımı, konak savunması ve immünoterapi sonuçlarıyla potansiyel olarak karışık ilişkilere karşı dengelenmesi gerektiği terapötik paradoksları göstermektedir. Son olarak fenotip uyumlu bir model seçim çerçevesi ve hastaya göre sınıflandırılmış farmakolojik gelişim için ilaçlanabilir bir devre durumu stratejisi öneriyoruz."
+    },
+    {
+      "pmid": "42716237",
+      "title": "Neural-Metabolic Crosstalk Governing Cell Death and Therapy Resistance in Tumors.",
+      "abstract": "Metabolic reprogramming and resistance to regulated cell death (RCD) are central features of the tumor microenvironment (TME) that drive therapeutic failure. Emerging evidence indicates that neurotransmitter signaling networks-including glutamate, dopamine, 5-hydroxytryptamine (5-HT), and norepinephrine-extend beyond neural communication to function as critical regulators of tumor metabolism, immune modulation, and cell fate. These neurotransmitters influence multiple RCD modalities, such as ferroptosis, cuproptosis, and PANoptosis, through interconnected metabolic and signaling mechanisms. Glutamate is explicitly resolved by compartment and route: high extracellular glutamate inhibits System Xc⁻, restricts cystine uptake and glutathione synthesis, and promotes ferroptosis, whereas intracellular glutamate production, glutaminolysis, SLC7A11-coupled glutamate export, and receptor-mediated signaling have distinct, context-dependent consequences. Dopamine and 5-HT exert context-dependent effects through receptor subtype-specific metabolic rewiring. Sympathetic neurotransmitters, including norepinephrine, enhance glycolysis and lactate-driven immunosuppression through β₂-adrenergic signaling. In parallel, the gut-brain axis modulates tumor susceptibility to RCD by shaping the availability of microbiota-derived neurotransmitter precursors and metabolites. Mechanistically, neurotransmitter signaling converges on RCD programs by regulating redox homeostasis, lipid peroxidation, mitochondrial vulnerability, and inflammatory signaling. Integrating these observations, this review proposes a conceptual framework termed the \"Neurotransmitter-Novel Cell Death-Gut-Brain Axis,\" which links neural signaling, microbial metabolism, and tumor cell death decisions. Building on this framework, we highlight therapeutic strategies combining receptor-subtype-specific neurotransmitter modulation with selective induction of RCD pathways to overcome metabolic plasticity, immune evasion, and therapy resistance. Targeting this integrated neuro-metabolic-death network may offer a clinically actionable avenue to enhance tumor sensitivity to existing and emerging anticancer therapies.",
+      "journal": "Pharmacol Res",
+      "date": "2026-09-09",
+      "authors": [
+        "Yan Y",
+        "Sun H",
+        "Liu Z",
+        "Bhol CS",
+        "Sethi G",
+        "Xue W",
+        "Li L"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.phrs.2026.108442",
+      "journal_tier": 1,
+      "impact": 9.1,
+      "section": "noro",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": "Metabolik yeniden programlama ve düzenlenmiş hücre ölümüne (RCD) karşı direnç, tümör mikro ortamının (TME) terapötik başarısızlığa yol açan temel özellikleridir. Ortaya çıkan kanıtlar, glutamat, dopamin, 5-hidroksitriptamin (5-HT) ve norepinefrin dahil olmak üzere nörotransmitter sinyal ağlarının, tümör metabolizmasının, bağışıklık modülasyonunun ve hücre kaderinin kritik düzenleyicileri olarak işlev görmek üzere sinirsel iletişimin ötesine uzandığını göstermektedir. Bu nörotransmiterler, birbirine bağlı metabolik ve sinyal mekanizmaları yoluyla ferroptoz, kuproptoz ve PANoptoz gibi birçok RCD yöntemini etkiler. Glutamat, bölme ve yolla açıkça çözülür: yüksek hücre dışı glutamat, Sistem Xc⁻'yi inhibe eder, sistin alımını ve glutatyon sentezini kısıtlar ve ferroptozu destekler; oysa hücre içi glutamat üretimi, glutaminoliz, SLC7A11-bağlı glutamat ihracatı ve reseptör aracılı sinyallemenin farklı, bağlama bağlı sonuçları vardır. Dopamin ve 5-HT, reseptör alt tipine özgü metabolik yeniden bağlantı yoluyla bağlama bağlı etkiler gösterir. Norepinefrin de dahil olmak üzere sempatik nörotransmiterler, β₂-adrenerjik sinyalleme yoluyla glikolizi ve laktat kaynaklı immünosupresyonu artırır. Buna paralel olarak bağırsak-beyin ekseni, mikrobiyotadan türetilmiş nörotransmitter öncüllerinin ve metabolitlerinin mevcudiyetini şekillendirerek tümörün RCD'ye duyarlılığını modüle eder. Mekanik olarak nörotransmiter sinyallemesi, redoks homeostazisini, lipid peroksidasyonunu, mitokondriyal hassasiyeti ve inflamatuar sinyallemeyi düzenleyerek RCD programlarında birleşir. Bu gözlemleri birleştiren bu inceleme, nöral sinyallemeyi, mikrobiyal metabolizmayı ve tümör hücresi ölümü kararlarını birbirine bağlayan \"Nörotransmitter-Yeni Hücre Ölümü-Bağırsak-Beyin Ekseni\" adı verilen kavramsal bir çerçeve önermektedir. Bu çerçeveye dayanarak, metabolik plastisitenin, bağışıklıktan kaçınmanın ve tedavi direncinin üstesinden gelmek için reseptör alt tipine özgü nörotransmiter modülasyonunu RCD yollarının seçici indüksiyonu ile birleştiren terapötik stratejileri vurguluyoruz. Bu entegre nöro-metabolik ölüm ağını hedeflemek, mevcut ve yeni ortaya çıkan antikanser tedavilerine karşı tümör duyarlılığını artırmak için klinik olarak eyleme geçirilebilir bir yol sunabilir."
+    },
+    {
       "pmid": "42668073",
       "title": "Eriodictyol regulates LDHB to trigger mitophagy-mediated NLRP3 inflammasome inactivation as a therapeutic strategy for bone loss.",
       "abstract": "Imbalance of bone homeostasis triggers abnormal activation of osteoclasts and impaired osteogenic function, which further exacerbates bone resorption, reduces bone mass, and ultimately induces bone loss. Eriodictyol (ERI) possesses a wide range of biological activities and can effectively inhibit excessive bone destruction. Nevertheless, its role in ameliorating bone loss remains to be further elucidated. In this study, we identified ERI as a natural inhibitor of lactate dehydrogenase B (LDHB) that protects against bone loss, and revealed the molecular mechanism whereby ERI inhibits NLRP3 inflammasome activation via enhancing mitophagy.  To explore the relationship between ERI and osteoclast development and bone resorption, we performed CCK-8 assays, TRAcP staining, and scanning electron microscopy (SEM). RNA sequencing, western blotting, and qPCR were then carried out to dissect the molecular mechanisms by which ERI regulates osteoclast activity. The interaction between ERI and LDHB was evaluated using molecular docking, surface plasmon resonance (SPR), and cellular thermal shift assay (CETSA). Functional manipulation of LDHB through both silencing and overexpression confirmed its regulatory role in osteoclasts. Finally, the protective effect of ERI against systemic bone loss was assessed in vivo using a lipopolysaccharide (LPS)-induced mouse model, with micro-CT analysis and histological immunostaining.  Transcriptomic profiling indicated that ERI exerted suppressive impacts on osteoclast biological behavior, which was tightly linked to mitochondrial autophagy as well as the NLRP3 inflammatory complex. Mechanistically, ERI inactivated the NLRP3 inflammasome by enhancing mitophagy and reducing reactive oxygen species (ROS) formation. In addition, ERI directly and stably targets LDHB. Functional assays demonstrated that altered LDHB expression modulates the activation status of osteoclasts. Notably, ERI modulated osteoclast activity and mitophagy activation in a LDHB‑dependent manner. In vivo experiments further verified that ERI effectively alleviated bone loss triggered by LPS in mice.  Collectively, our findings confirm that ERI maintains bone homeostasis by regulating PINK1/Parkin-mediated mitophagy and suppressing NLRP3 inflammasome activation, which may provide a novel natural candidate for the treatment of bone loss-related diseases.",
@@ -874,6 +1320,38 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42716236",
+      "title": "Metformin alleviates type 2 diabetes-related depressive-like behaviors via AKAP150 signaling in NAc D1 Medium Spiny Neurons.",
+      "abstract": "Type 2 diabetes mellitus (T2DM) exhibits high comorbidity with depression, and progressive synaptic maladaptation of D1- and D2-expressing medium spine neurons (D1/D2-MSNs) in the nucleus accumbens (NAc) is critical involved in this pathological process. The first-line hypoglycemic drug metformin has been suggested to alleviates depressive symptoms. A-kinase anchoring protein 150 (AKAP150) modulates postsynaptic AMPA receptor (AMPAR) phosphorylation and synaptic function. However, the cell-type-specific role of AKAP150 in T2DM-related depression and its relevance to metformin's antidepressant mechanism remain unclear. Here, we established T2DM mouse models with depressive-like behaviors using D1-Cre and D2-Cre transgenic mice, combined with RNA sequencing, immunofluorescence, and electrophysiology and viral genetic manipulation to dissect NAc AKAP150 signaling. We detected specific downregulation of AKAP150 exclusively in D1-MSNs (rather than D2-MSNs) of T2DM mice and its expression level negatively correlated with the severity depressive-like phenotypes. Cell-specific overexpression of wild-type AKAP150 in D1-MSNs restored AMPAR-mediated synaptic transmission, corrected aberrant dendritic spine remodeling, and rescued T2DM-related depressive-like behaviors. In contrast, overexpression of a PKA-binding-deficient AKAP150 mutant failed to reverse these effects. Notably, metformin treatment selectively restored AKAP150 expression in D1-MSNs, rescued synaptic deficits and abnormal spine morphology, and alleviated T2DM-related depressive-like behaviors. Specifically, genetic and pharmacological disruption of AKAP150-PKA signaling fully abolished metformin's antidepressant. In summary, the AKAP150-PKA-AMPAR signaling cascade in NAc D1-MSNs serves as an essential molecular mediator of T2DM-related depressive-like behaviors in mice, and is required for the therapeutic effects of metformin. This study offers a cell-type-specific mechanism and provides a promising targeted strategy for treating diabetes-depression comorbidity.",
+      "journal": "Pharmacol Res",
+      "date": "2026-09-09",
+      "authors": [
+        "Deng Q",
+        "Gao SQ",
+        "Xue SG",
+        "Zhang SQ",
+        "Yang JW",
+        "Cui QQ",
+        "Zhang CL",
+        "Zhou HY"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.phrs.2026.108446",
+      "journal_tier": 1,
+      "impact": 9.1,
+      "section": "noro",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": "Tip 2 diyabet (T2DM), depresyonla yüksek oranda komorbidite sergiler ve nükleus accumbens'te (NAc) D1- ve D2 eksprese eden orta omurga nöronlarının (D1/D2-MSN'ler) ilerleyici sinaptik maladaptasyonu, bu patolojik süreçte kritik öneme sahiptir. Birinci basamak hipoglisemik ilaç metforminin depresif belirtileri hafiflettiği öne sürüldü. A-kinaz sabitleme proteini 150 (AKAP150), postsinaptik AMPA reseptörü (AMPAR) fosforilasyonunu ve sinaptik fonksiyonu modüle eder. Ancak AKAP150'nin T2DM ile ilişkili depresyondaki hücre tipine özgü rolü ve metforminin antidepresan mekanizmasıyla ilişkisi belirsizliğini koruyor. Burada, NAc AKAP150 sinyalini incelemek için RNA dizilimi, immünofloresan ve elektrofizyoloji ve viral genetik manipülasyon ile birleştirilmiş D1-Cre ve D2-Cre transgenik fareleri kullanarak depresif benzeri davranışlara sahip T2DM fare modelleri oluşturduk. AKAP150'nin yalnızca T2DM farelerinin D1-MSN'lerinde (D2-MSN'ler yerine) spesifik aşağı regülasyonunu tespit ettik ve ekspresyon seviyesi, şiddetteki depresif benzeri fenotiplerle negatif korelasyon gösterdi. D1-MSN'lerde vahşi tip AKAP150'nin hücreye özgü aşırı ekspresyonu, AMPAR aracılı sinaptik iletimi onardı, anormal dendritik omurga yeniden yapılanmasını düzeltti ve T2DM ile ilişkili depresif benzeri davranışları kurtardı. Buna karşılık, PKA bağlaması eksik olan AKAP150 mutantının aşırı ekspresyonu bu etkileri tersine çevirmede başarısız oldu. Özellikle metformin tedavisi, D1-MSN'lerde AKAP150 ekspresyonunu seçici olarak restore etti, sinaptik eksiklikleri ve anormal omurga morfolojisini kurtardı ve T2DM ile ilişkili depresif benzeri davranışları hafifletti. Spesifik olarak, AKAP150-PKA sinyallemesindeki genetik ve farmakolojik bozulma, metforminin antidepresanını tamamen ortadan kaldırdı. Özetle, NAc D1-MSN'lerdeki AKAP150-PKA-AMPAR sinyalleme kaskadı, farelerde T2DM ile ilişkili depresif benzeri davranışların temel bir moleküler aracısı olarak hizmet eder ve metforminin terapötik etkileri için gereklidir. Bu çalışma, hücre tipine özgü bir mekanizma sunmakta ve diyabet-depresyon komorbiditesinin tedavisi için umut verici, hedefe yönelik bir strateji sunmaktadır."
+    },
+    {
       "pmid": "42706774",
       "title": "Metabolic remodelling in anthracycline cardiotoxicity: mechanisms and therapeutic insights.",
       "abstract": "Anthracyclines remain a cornerstone of anticancer therapy, but their clinical use is limited by cancer therapy-related cardiac dysfunction, a major contributor to long-term cardiovascular morbidity in cancer survivors. Although traditionally attributed to oxidative stress, DNA damage and mitochondrial toxicity, emerging evidence identifies disruption of metabolism as a central mechanism of anthracycline-induced cardiotoxicity. Anthracycline exposure promotes a distinct metabolic phenotype characterized by impaired mitochondrial oxidative phosphorylation, dysregulated metabolism of fatty acids and glucose, along with decreased metabolic flexibility, ultimately resulting in inefficient myocardial energetics. These changes are modulated by the patient's underlying cardiometabolic status, suggesting that metabolic reserve influences susceptibility to injury. In addition to direct myocardial effects, anthracyclines induce systemic metabolic changes that affect substrate availability and inter-organ communication. This review focuses on cardiotoxicity induced by anthracyclines, particularly by doxorubicin, highlighting mitochondrial dysfunction, altered substrate utilization and metabolic inflexibility in comparison with other cardiac diseases. We also discuss the newly emerging metabolic strategies aimed at improving cardioprotection.",
@@ -934,6 +1412,35 @@
       },
       "tier": 3,
       "abstract_tr": "1930'larda İngiliz Farmakoloji Derneği kuruldu ve Sir Henry Dale, Harold Burn ve Ernest Verney'in başrol oynamasıyla hızla kuruldu. Aynı zamanda, Almanya'da Nasyonal Sosyalizmin yükselişiyle birlikte birçok farmakolog, Yahudi etnik kökenleri nedeniyle veya siyasi nedenlerden dolayı zulüm gördü ve bu da bilim adamlarının önemli bir kısmının Birleşik Krallık'a göç etmesine neden oldu. Oxford Üniversitesi Farmakoloji Bölümü'nde yakın zamanda keşfedilen fotoğrafların yanı sıra Alman farmakolog Wolfgang Heubner'in Hannover Tıp Fakültesi'nde tutulan ayrıntılı günlüğü kullanılarak yapılan bu çalışma, İngiliz farmakologlar, Alman farmakologlar ve zulüm gören farmakologlar arasındaki yakın ilişkileri ortaya koyuyor. Bu grupların üyeleri, İkinci Dünya Savaşı'nın patlak vermesinden sadece 2 ay öncesine kadar çeşitli vesilelerle Birleşik Krallık'ta gayri resmi olarak bir araya geldi. Bu ortamlarda bilimsel fikirler özgürce paylaşıldı ve işbirlikçi projeler tartışıldı. Fotoğraflar, günlük kayıtları ve toplantı kayıtları, hem bilimsel hem de sosyal etkileşimler yoluyla oluşan güçlü kişisel ve mesleki ilişkilerin önemli kanıtlarını sağlar. Bu bağlamlarda siyasi farklılıklar bilimsel alışverişi veya sosyal etkileşimi açık bir şekilde kesintiye uğratmış gibi görünmüyor. Fotoğraflar ayrıca İngiliz farmakologlar, Nasyonal Sosyalist rejimle bağlantılı Alman meslektaşları ve zulme uğrayan Alman-Yahudi bilim adamları arasında gerçek dostlukların var olduğunu gösteriyor. Bu bulgular, uzun süredir devam eden işbirliklerinin, ortak profesyonel kimliklerin ve ortak kolektif hedeflerin, derin bir siyasi bölünme döneminde ilişkilerin sürdürülmesine nasıl yardımcı olduğunu gösteriyor."
+    },
+    {
+      "pmid": "42715878",
+      "title": "From molecular to microenvironmental reprogramming: Multi-target strategies of flavonoids to overcome paclitaxel resistance in triple-negative breast cancer.",
+      "abstract": "BACKGROUND: Breast cancer is the most common malignancy in women. Triple-negative breast cancer (TNBC), due to a lack of effective targets, has a particularly poor prognosis. The efficacy of paclitaxel, a core chemotherapeutic drug, is often limited by multidrug resistance in tumor cells. Flavonoids, natural polyphenols with multi-pathway intervention properties, show significant potential for reversing this resistance, yet their clinical use is hindered by low bioavailability. Thus, understanding how Flavonoids overcome resistance and combining them with advanced delivery systems are key to developing new TNBC therapies. PURPOSE: This review systematically outlines the multi-dimensional mechanisms of paclitaxel resistance in TNBC and elucidates how Flavonoids reverse this resistance by regulating ferroptosis, key signaling pathways, epigenetic programs, and the immune microenvironment. It further discusses advanced delivery systems to facilitate clinical translation, providing a theoretical basis for developing effective, low-toxicity chemosensitization strategies against TNBC. METHODS: We systematically reviewed PubMed (PubMed), Web of Science (https://www.webofscience.com/), and ScienceDirect (http://www.sciencedirect.com/) databases, spanning relevant studies from 2005 to 2026. Article selection was performed in strict accordance with the PRISMA guidelines. Furthermore, manual screening and citation tracking were implemented based on pre-defined inclusion and exclusion criteria to ensure the accuracy and comprehensiveness of the study. RESULTS: TNBC resistance to paclitaxel is driven by ferroptosis evasion, pro-survival signaling, epigenetic reprogramming, and a \"cold\" tumor microenvironment. Flavonoids counteract this by inducing ferroptosis via the glutathione-glutathione peroxidase 4 (GSH-GPX4)/Kelch-like ECH-associated protein 1 (KEAP1)-nuclear factor erythroid 2-related factor 2 (NRF2) axis inhibiting signaling networks, remodeling epigenetics, and immunomodulating the TME, thereby synergizing with paclitaxel. Additionally, advanced delivery systems, including prodrug self-assembly, metal-organic framework (MOF)-based carriers, and biomimetic targeting, significantly improve the bioavailability, targeting, and safety of the treatment. CONCLUSION: Complex TNBC paclitaxel resistance necessitates multi-target approaches. Flavonoids systematically dismantle resistance barriers and synergize with paclitaxel, while advanced delivery systems overcome pharmacokinetic limitations. Integrating these strategies offers a promising therapeutic solution, though further in vivo and clinical validation is required to confirm efficacy and safety.",
+      "journal": "Phytomedicine",
+      "date": "2026-08-27",
+      "authors": [
+        "Zhang M",
+        "Chang Y",
+        "Shen J",
+        "Hu Y"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.phymed.2026.158759",
+      "journal_tier": 1,
+      "impact": 6.7,
+      "section": "klinik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": "AMAÇ: Meme kanseri kadınlarda en sık görülen malignitedir. Etkili hedeflerin bulunmaması nedeniyle üçlü negatif meme kanserinin (TNBC) özellikle kötü prognozu vardır. Temel kemoterapötik ilaç olan paklitakselin etkinliği genellikle tümör hücrelerindeki çoklu ilaç direnci nedeniyle sınırlıdır. Çok yollu müdahale özelliklerine sahip doğal polifenoller olan flavonoidler, bu direnci tersine çevirmek için önemli bir potansiyel gösterir, ancak bunların klinik kullanımı düşük biyoyararlanım nedeniyle engellenmektedir. Bu nedenle, Flavonoidlerin direnci nasıl yendiğini anlamak ve bunları gelişmiş dağıtım sistemleriyle birleştirmek, yeni TNBC tedavileri geliştirmenin anahtarıdır. AMAÇ: Bu derleme, TNBC'deki paklitaksel direncinin çok boyutlu mekanizmalarını sistematik olarak özetlemekte ve Flavonoidlerin ferroptozu, anahtar sinyal yollarını, epigenetik programları ve bağışıklık mikro ortamını düzenleyerek bu direnci nasıl tersine çevirdiğini açıklamaktadır. Ayrıca, TNBC'ye karşı etkili, düşük toksisiteli kemosensitizasyon stratejileri geliştirmek için teorik bir temel sağlayarak klinik çeviriyi kolaylaştırmak için gelişmiş dağıtım sistemlerini tartışmaktadır. YÖNTEMLER: 2005'ten 2026'ya kadar ilgili çalışmaları kapsayan PubMed (PubMed), Web of Science (https://www.webofscience.com/) ve ScienceDirect (http://www.sciencedirect.com/) veritabanlarını sistematik olarak inceledik. Makale seçimi, PRISMA kurallarına tam olarak uygun olarak yapıldı. Ayrıca çalışmanın doğruluğunu ve kapsamlılığını sağlamak için önceden tanımlanmış dahil etme ve hariç tutma kriterlerine dayalı olarak manuel tarama ve alıntı takibi uygulandı. SONUÇLAR: Paklitaksele karşı TNBC direnci, ferroptozdan kaçınma, hayatta kalma yanlısı sinyalleme, epigenetik yeniden programlama ve \"soğuk\" tümör mikro ortamı tarafından yönlendirilir. Flavonoidler, glutatyon-glutatyon peroksidaz 4 (GSH-GPX4) / Kelch benzeri ECH ile ilişkili protein 1 (KEAP1) -nükleer faktör eritroid 2 ile ilişkili faktör 2 (NRF2) ekseni yoluyla ferroptozu indükleyerek sinyal ağlarını inhibe ederek, epigenetiği yeniden şekillendirerek ve TME'yi immünomodülleyerek bu durumu ortadan kaldırır, böylece paklitaksel ile sinerji oluşturur. Ek olarak, ön ilacın kendi kendine birleşmesi, metal-organik çerçeve (MOF) bazlı taşıyıcılar ve biyomimetik hedefleme dahil olmak üzere gelişmiş dağıtım sistemleri, tedavinin biyoyararlanımını, hedeflemesini ve güvenliğini önemli ölçüde artırır. SONUÇ: Kompleks TNBC paklitaksel direnci çok hedefli yaklaşımları gerektirmektedir. Flavonoidler sistematik olarak direnç bariyerlerini ortadan kaldırır ve paklitaksel ile sinerji oluştururken, gelişmiş dağıtım sistemleri farmakokinetik sınırlamaların üstesinden gelir. Bu stratejilerin entegre edilmesi umut verici bir terapötik çözüm sunar, ancak etkinlik ve güvenliği doğrulamak için daha fazla in vivo ve klinik doğrulama yapılması gerekir."
     },
     {
       "pmid": "42700714",
@@ -1203,6 +1710,41 @@
       "abstract_tr": "AMAÇ: Radikal prostatektomi (RP) sonrası nüks, prostat kanserinde önemli bir klinik sorun olmaya devam etmektedir ve nüks paternlerinde ciddi heterojenlik ile karakterizedir. Bu derlemenin amacı mevcut değerlendirme stratejilerini, kurtarma tedavisindeki son gelişmeleri ve RP sonrası nüksü olan hastalar için gelecekteki yönelimleri özetlemeyi amaçlamıştır. YÖNTEMLER: Veritabanının başlangıcından 20 Ağustos 2026'ya kadar PubMed/MEDLINE, Embase, Web of Science Core Collection ve Cochrane Library'nin yapılandırılmış bir anlatı incelemesini gerçekleştirdik. Çalışmalar önceden belirlenmiş uygunluk kriterleri kullanılarak seçildi ve nüks durumu ve tedavi yöntemine göre sentezlendi; postoperatif kanıtlar tahmin edilmiş, erken evre ve klinik öncesi kanıtlardan ayırt edildi. SONUÇLAR: Yeni ortaya çıkan görüntüleme yöntemleri, RP sonrası nüksün tespitini, lokalizasyonunu ve risk sınıflandırmasını iyileştirmiştir. Erken kurtarma radyoterapisi, lokalize nüks için potansiyel olarak iyileştirici temel tedavi olmaya devam etmektedir; androjen yoksunluğu tedavisi, olumsuz risk özelliklerine göre seçici olarak değerlendirilmektedir. Oligometastatik nüksetmede, küçük randomize faz II çalışmaları ve retrospektif çalışmalar, metastaza yönelik tedavinin, seçilmiş hastalarda ilerlemeyi veya sistemik tedavinin başlatılmasını geciktirebileceğini, ancak genel sağkalım açısından bir fayda sağlanmadığını göstermektedir. Metastatik veya kastrasyona dirençli hastalıkta, androjen reseptör yolu inhibitörleri, poli(ADP-riboz) polimeraz inhibitörleri ve [177Lu]Lu-PSMA-617 gibi PSMA hedefli radyoligand tedavisi, uygun şekilde seçilmiş ileri hastalık popülasyonlarında iyileştirilmiş sonuçlara sahiptir. SONUÇ: RP sonrası nüks için kurtarma tedavisi, herkese uyan tek boyutlu bir yaklaşımdan, multimodal bilgilerle yönlendirilen, hassasiyete dayalı, bireyselleştirilmiş bir stratejiye doğru kaymıştır. Gelecekteki araştırmalar, yapay zeka destekli karar vermeyi, moleküler alt tiplemeye dayalı hedefli müdahaleyi ve entegre çok parametreli tahmin modellerinin geliştirilmesini daha fazla vurgulamalıdır."
     },
     {
+      "pmid": "42715684",
+      "title": "Redox remodeling of perivascular adipose tissue in vascular aging.",
+      "abstract": "Perivascular adipose tissue (PVAT) is now recognized as a redox-sensitive compartment that modulates vascular homeostasis. In physiological states, PVAT contributes to vascular protection by restraining oxidative stress and preserving nitric oxide bioavailability. Aging disrupts redox balance in PVAT and drives a phenotypic shift marked by mitochondrial dysfunction, increased reactive oxygen species (ROS) generation, and impaired antioxidant defenses. Together, these alterations create a pro-oxidative and pro-inflammatory environment within aged PVAT that impairs endothelial function and promotes vascular remodeling. Against this background, ferroptosis may represent an additional redox-dependent mechanism linking iron dysregulation, lipid peroxidation, and mitochondrial dysfunction in PVAT. Disruption of the GPX4-glutathione antioxidant system may further increase ferroptotic susceptibility and amplify oxidative and inflammatory signaling. This review summarizes current advances in understanding PVAT redox remodeling during aging, with emphasis on redox imbalance and ferroptosis as interconnected mechanisms contributing to PVAT dysfunction and its vascular consequences.",
+      "journal": "Biomed Pharmacother",
+      "date": "2026-09-09",
+      "authors": [
+        "Liu YX",
+        "Chen ZR",
+        "Wang XH",
+        "Xie HY",
+        "Zheng XT",
+        "Yuan XL",
+        "Zhao Y",
+        "Tang HF",
+        "Jiang ZS",
+        "Hu HJ"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.biopha.2026.119856",
+      "journal_tier": 2,
+      "impact": 6.5,
+      "section": "kardiyometabolik",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": "Perivasküler yağ dokusu (PVAT) artık vasküler homeostaziyi modüle eden redoksa duyarlı bir bölme olarak tanınmaktadır. Fizyolojik durumlarda PVAT, oksidatif stresi sınırlayarak ve nitrik oksit biyoyararlanımını koruyarak vasküler korumaya katkıda bulunur. Yaşlanma, PVAT'taki redoks dengesini bozar ve mitokondriyal fonksiyon bozukluğu, artan reaktif oksijen türleri (ROS) üretimi ve bozulmuş antioksidan savunma ile işaretlenen fenotipik bir değişime neden olur. Bu değişiklikler birlikte, yaşlı PVAT içinde endotel fonksiyonunu bozan ve vasküler yeniden yapılanmayı teşvik eden pro-oksidatif ve proinflamatuar bir ortam yaratır. Bu arka plana karşı, ferroptoz, PVAT'ta demir düzensizliğini, lipid peroksidasyonunu ve mitokondriyal fonksiyon bozukluğunu birbirine bağlayan redoksa bağımlı ek bir mekanizmayı temsil edebilir. GPX4-glutatyon antioksidan sisteminin bozulması, ferroptotik duyarlılığı daha da artırabilir ve oksidatif ve inflamatuar sinyallemeyi güçlendirebilir. Bu derleme, PVAT disfonksiyonuna ve bunun vasküler sonuçlarına katkıda bulunan birbirine bağlı mekanizmalar olarak redoks dengesizliği ve ferroptozun vurgulanmasıyla, yaşlanma sırasında PVAT redoks yeniden yapılanmasının anlaşılmasındaki güncel gelişmeleri özetlemektedir."
+    },
+    {
       "pmid": "42700619",
       "title": "Preparation of oxygen-filled adipose-derived stem cells exosome-nanobubbles gel for ultrasound-assisted full-thickness wound healing in rats.",
       "abstract": "Effective wound healing is often hindered by hypoxia, inflammation, and impaired angiogenesis. Although mesenchymal stem cell (MSC)-based therapies have shown potential, their clinical application remains limited. As a result, MSC-derived exosomes, particularly adipose-derived stem cell exosomes (ADSC-Exos), have been proposed as a cell-free alternative; however, they still face limitations, including suboptimal efficiency in targeted delivery. To address these critical obstacles in existing regenerative therapies, we isolated ADSC-Exos from adipose tissue and fabricated a novel ultrasound-responsive, carbomer-based hydrogel incorporating oxygen-enriched ADSC-Exo nanobubbles (Gel-Exo-NB+US). The preclinical wound-healing potential of the developed nanohydrogel was evaluated using a full-thickness wound model in Wistar rats. The engineered hydrogel exhibited favorable physicochemical properties, including shear-thinning and thixotropic behavior, enabling efficient topical application and enhanced tissue adhesion. In a rat full-thickness skin defect model, the combined Gel-Exo-NB and Gel-Exo-NB + US treatments achieved the highest wound-closure rate among all groups, with enhanced re-epithelialization, a reduced scar index, elevated CD31 and α-SMA expression, increased fibroblast proliferation, and increased blood vessel formation. Furthermore, unprecedented hair-follicle regeneration and abundant collagen deposition were observed in the Gel-Exo-NB + US-treated group compared with the Gel-Exo-NB-treated group, highlighting the pivotal role of ultrasound in skin defect regeneration. Notably, the resulting collagen deposition, abundant hair follicles, and thin epidermis suggest potential for scarless wound healing. These therapeutic outcomes are attributed to the synergistic effects of simultaneous ultrasound-mediated exosome therapy and oxygen delivery.",
@@ -1362,596 +1904,6 @@
       },
       "tier": 3,
       "abstract_tr": "Kolorektal kanser, siklooksijenaz-2'nin (COX-2) tümörün ilerlemesinde önemli bir rol oynadığı ve onu önemli bir terapötik hedef haline getirdiği kronik inflamasyonla güçlü bir şekilde ilişkilidir. Bu çalışmada, SW480 hücrelerinde 1,4-naftokinonların (3-18) antiproliferatif aktivitesi araştırılmış ve seçilen türevler, hesaplamalı ve in vitro yaklaşımlar kullanılarak karakterize edilmiştir. İlk antiproliferatif tarama, bileşikler 3, 8 ve 12'yi en güçlü adaylar olarak belirledi ve bunların moleküler mekanizmalarının daha fazla araştırılmasına yol açtı. Bu bileşikler ayrıca AutoDock Vina ve moleküler dinamik (MD) simülasyonları kullanılarak COX-2 ile tahmin edilen etkileşimleri açısından değerlendirildi, ardından in vitro COX-2 inhibisyonu ve hücre bazlı sitokin analizleri yapıldı. Hücresel tepkileri değerlendirmek için Hoechst 33342, JC-1 boyama, hücre döngüsü analizi ve apoptoz analizleri kullanıldı. Entegre hesaplamalı ve deneysel yaklaşımlar yoluyla, üç bileşiğin COX-2 aktif bölgesi içinde anahtar kalıntılarla rofekoksib ile karşılaştırılabilir bir şekilde olumlu şekilde bağlandığını gösterdik. COX-2'yi hedefleme yetenekleriyle tutarlı olarak, bileşikler 3, 8 ve 12, nanomolar düzeyde (IC50 değerleri 10-18nM) güçlü in vitro COX-2 inhibitörü gösterdi ve LPS'nin indüklediği inflamatuar yanıtları modüle ederek TNF-a, IL-8 ve IL-10 salınımını önemli ölçüde azalttı. Bileşikler ayrıca mitokondriyal fonksiyon bozukluğu, hücre döngüsü değişiklikleri ve apoptoz ile de ilişkilendirildi; bileşik 12, en aktif türev olarak ortaya çıktı ve en güçlü antiproliferatif ve pro-apoptotik etkileri gösterdi. Bulgularımız, bileşik 12'yi yeni anti-kolorektal kanser ajanlarının geliştirilmesi için umut verici bir lider adayı olarak ortaya koyuyor ve inflamasyonla ilişkili kolorektal karsinogenezde COX-2 inhibisyonu, inflamatuar modülasyon ve apoptoz indüksiyonu arasındaki etkileşime dair mekanik bilgiler sağlıyor."
-    },
-    {
-      "pmid": "42710319",
-      "title": "Repositioning of cobalt chloride as a cardioprotective agent against ischemia/reperfusion injury in infant rats.",
-      "abstract": "Reperfusion is essential to prevent further deterioration of ischemic tissue, yet it can paradoxically exacerbate myocardial injury. Ischemia/reperfusion (I/R) injury is particularly relevant in pediatric patients with congenital or acquired heart disease, especially those undergoing cardiac surgery. Cobalt chloride (CoCl₂), an inexpensive compound previously used in humans without documented acute toxicity, has recently been identified as an effective postconditioning agent in adult rat hearts. Given that calcium-handling mechanisms differ between infant and adult myocardium-a key determinant of I/R susceptibility-this study examined whether 0.23 mM CoCl₂ also exerts cardioprotective postconditioning effects in infant rat hearts. Isolated hearts were subjected to global I/R using Langendorff preparation, and functional and structural assessments were performed. Hearts reperfused with CoCl₂, whether throughout the 45-minute reperfusion period or only during the first 5 min, exhibited improved developed tension, along with smaller infarct areas and better-preserved histological features. Under normoxic conditions, CoCl₂ behaved as a reversible negative inotropic agent. These findings support the potential use of CoCl₂ as an economical and clinically relevant cardioprotective strategy for the pediatric population.",
-      "journal": "Biomed Pharmacother",
-      "date": "2026-09-08",
-      "authors": [
-        "Gutierrez C",
-        "Little T",
-        "Ramirez M",
-        "Gullino S",
-        "Mansisidor A",
-        "De Giusti CJ",
-        "Repetto EM",
-        "Racioppi F",
-        "Bonazzola P",
-        "Castilla R"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.biopha.2026.119918",
-      "journal_tier": 2,
-      "impact": 6.5,
-      "section": "kardiyometabolik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42705950",
-      "title": "Retraction notice to \"MicroRNA-361-3p promotes human breast cancer cell viability by inhibiting the E2F1/P73 signalling pathway\" [Biomed. Pharmacother. 125 (2020) 109994].",
-      "abstract": "",
-      "journal": "Biomed Pharmacother",
-      "date": "2026-09-07",
-      "authors": [
-        "Hua B",
-        "Li Y",
-        "Yang X",
-        "Niu X",
-        "Zhao Y",
-        "Zhu X"
-      ],
-      "pubtypes": [
-        "Published Erratum"
-      ],
-      "doi": "10.1016/j.biopha.2026.119818",
-      "journal_tier": 2,
-      "impact": 6.5,
-      "section": "onko",
-      "score": -40.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": -100,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42702743",
-      "title": "The Governance Gap: Democratizing Drug Development Through Decision Architecture.",
-      "abstract": "Drug development is most exposed to governance failure where it can least afford it, in global health. The field has more predictive power than at any point in its history and roughly the same failure rate it had a decade ago. We argue that this paradox persists because the field has invested heavily in prediction science while neglecting decision architecture. Programs do not typically fail because data were absent. They fail because signals were not integrated, concerns were not escalated, and decisions were made by whoever happened to be in the room, with whatever experience they happened to carry. This concentration of decision quality in a small number of experienced individuals is the deepest structural vulnerability in translational medicine. The global health programs, small biotechs, and academic translational groups that most need world-class governance are the ones least likely to have it. The domains in which programs fail are finite, recurring, and encodable. The reflexes that distinguish an experienced development leader from a capable but junior scientist can be externalized into structured interrogation systems. The result is not the replacement of expert judgment but its democratization: making the architecture of evidence-driven and rational decisions available to every development team. This paper sets out the case for structured decision architecture as the underbuilt layer of translational governance, and as the route to more equitable drug development in global health.",
-      "journal": "Clin Pharmacol Ther",
-      "date": "2026-09-06",
-      "authors": [
-        "Rayner CR",
-        "Martin NE",
-        "Smith D",
-        "Kruger E",
-        "Kirkpatrick CMJ",
-        "Pillai GC",
-        "Moore K",
-        "Nix D",
-        "Donini C",
-        "Cramer JP",
-        "Muniz E",
-        "Muniz N",
-        "Bos E",
-        "McNair D",
-        "Bhaskaran S",
-        "Sullivan M",
-        "Hartman D"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1002/cpt.70476",
-      "journal_tier": 1,
-      "impact": 6.3,
-      "section": "diger",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": "İlaç geliştirme, küresel sağlık alanında en az karşılanabileceği yönetişim başarısızlığına en çok maruz kalan alan. Alanın tarihinin herhangi bir noktasındakinden daha fazla öngörü gücü var ve yaklaşık olarak on yıl önceki başarısızlık oranıyla aynı. Bu paradoksun devam ettiğini, çünkü alanın karar mimarisini ihmal ederken tahmin bilimine büyük yatırım yaptığını ileri sürüyoruz. Veriler eksik olduğundan programlar genellikle başarısız olmaz. Başarısız oldular çünkü sinyaller entegre edilmedi, endişeler artmadı ve kararlar, hangi deneyime sahip olursa olsun, odada bulunan kişi tarafından verildi. Karar kalitesinin az sayıda deneyimli bireyde yoğunlaşması, translasyonel tıptaki en derin yapısal kırılganlıktır. Birinci sınıf yönetime en çok ihtiyaç duyan küresel sağlık programları, küçük biyoteknoloji şirketleri ve akademik dönüşüm grupları, buna sahip olma olasılıkları en düşük olanlardır. Programların başarısız olduğu alanlar sonlu, yinelenen ve kodlanabilirdir. Deneyimli bir geliştirme liderini yetenekli ancak genç bir bilim adamından ayıran refleksler, yapılandırılmış sorgulama sistemlerine dışsallaştırılabilir. Sonuç, uzman yargısının değiştirilmesi değil, demokratikleşmesidir: kanıta dayalı ve rasyonel kararların mimarisinin her geliştirme ekibinin kullanımına sunulması. Bu belge, yapısal karar mimarisinin, çevirisel yönetişimin alt katmanı olarak ve küresel sağlıkta daha adil ilaç geliştirmeye giden yol olarak durumunu ortaya koymaktadır."
-    },
-    {
-      "pmid": "42704204",
-      "title": "Constructing an External Control Arm Using the French REALYSA Cohort to Replicate Outcomes of a Randomized Trial Arm in Advanced Hodgkin Lymphoma.",
-      "abstract": "External control (EC) arms using routine data can be used as comparators in clinical trials under certain conditions. The objective of this study was to assess the ability of an EC arm to replicate outcomes of a randomized controlled trial (RCT) arm receiving the same treatment strategy in advanced stage classical Hodgkin lymphoma and serve as comparator in future trials. Using the prospective real-world data in lymphoma and survival in adults (REALYSA) cohort, we constructed an EC arm by applying eligibility criteria of the AHL2011 phase III RCT. Propensity score (PS) weighting was used to balance baseline characteristics between the EC arm and the RCT arm that received the same treatment. Progression-free survival (PFS) and overall response rate (ORR) at the end of first-line treatment were estimated in both arms. Hazard ratio (HR) for PFS and odds ratio (OR) for ORR were estimated using the EC arm as reference. A sensitivity analysis evaluated PS matching. Four hundred and ten RCT patients and 191 EC patients were analyzed. After PS weighting, patients' characteristics were well-balanced between arms. PFS estimates were similar in RCT and EC arms with an HR close to 1 (HR, 0.98; 95% CI, 0.59-1.62). ORR estimates were comparable in both arms. Weighting performed better than matching. Using PS weighting gave similar outcomes in the EC arm compared with the RCT arm. Our results suggest that EC studies using routine care data could be considered in the development of strategies for advanced Hodgkin lymphoma.",
-      "journal": "Clin Pharmacol Ther",
-      "date": "2026-09-07",
-      "authors": [
-        "Febvey-Combes O",
-        "Rossi C",
-        "Kassai B",
-        "Murairi Mirimo T",
-        "Chartier L",
-        "Cherblanc F",
-        "Cugnod E",
-        "Ghesquières H",
-        "Belot A"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1002/cpt.70470",
-      "journal_tier": 1,
-      "impact": 6.3,
-      "section": "diger",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": "Rutin verileri kullanan harici kontrol (EC) kolları, belirli koşullar altında klinik araştırmalarda karşılaştırıcı olarak kullanılabilir. Bu çalışmanın amacı, bir EC kolunun, ileri evre klasik Hodgkin lenfomada aynı tedavi stratejisini alan bir randomize kontrollü çalışma (RCT) kolunun sonuçlarını kopyalama yeteneğini değerlendirmek ve gelecekteki denemelerde karşılaştırıcı olarak hizmet etmekti. Yetişkinlerde lenfoma ve sağkalım (REALYSA) kohortunda prospektif gerçek dünya verilerini kullanarak, AHL2011 faz III RCT'nin uygunluk kriterlerini uygulayarak bir EC kolu oluşturduk. Eğilim skoru (PS) ağırlıklandırması, EC kolu ile aynı tedaviyi alan RCT kolu arasındaki temel özellikleri dengelemek için kullanıldı. Birinci basamak tedavinin sonunda ilerlemesiz sağkalım (PFS) ve genel yanıt oranı (ORR) her iki kolda da tahmin edildi. PFS için tehlike oranı (HR) ve ORR için olasılık oranı (OR), referans olarak EC kolu kullanılarak tahmin edildi. Bir duyarlılık analizi PS eşleşmesini değerlendirdi. Dört yüz on RCT hastası ve 191 EC hastası analiz edildi. PS ağırlıklandırmanın ardından hastaların özellikleri kollar arasında iyi dengelendi. PFS tahminleri RCT ve EC kollarında benzerdi ve HR 1'e yakındı (HR, 0,98; %95 GA, 0,59-1,62). ORR tahminleri her iki kolda da benzerdi. Ağırlıklandırma, eşleştirmeden daha iyi performans gösterdi. PS ağırlıklandırmanın kullanılması, RCT koluyla karşılaştırıldığında EC kolunda benzer sonuçlar verdi. Sonuçlarımız, ileri Hodgkin lenfoma stratejilerinin geliştirilmesinde rutin bakım verilerini kullanan EC çalışmalarının dikkate alınabileceğini göstermektedir."
-    },
-    {
-      "pmid": "42704203",
-      "title": "Toward Fit-for-Purpose Data for Drug Assessment in Non-small Cell Lung Cancer: A Core Dataset.",
-      "abstract": "Considering the high unmet medical need in people with non-small cell lung cancer (NSCLC), the drug assessment for targeted therapies often rely on small populations and single-arm trials, challenging the evaluation by regulatory authorities, health technology assessment bodies (HTAb), and clinicians. Registry-based real-world data (RWD) can enhance the evaluation and appropriate use of these novel medicines. Therefore, we developed a core dataset that provides a starting point to complement the evaluation of NSCLC drug effects based on registry-based RWD. The core dataset was developed through a literature review of existing core datasets, followed by two multi-stakeholder expert meetings for better understanding of important variables for drug evaluation purposes by different stakeholders. The experts included Dutch clinicians, hospital pharmacists, regulators, HTAb, industry representatives, academics, and a patient representative. Following the literature review, four existing core datasets were identified and used to extract important variables. After two expert meetings, this core dataset was redefined and the final core dataset includes general patient characteristics (n = 6), disease-specific factors (n = 19), treatment details, including systemic therapy, surgery, and radiotherapy (n = 22), outcomes such as death, progression, response (n = 9), and patient-reported outcome measures (n = 17). This core dataset contains relevant variables that provides guidance for the collection of RWD to develop a relevant patient registry for NSCLC and to enhance its fitness-for-purpose. These RWD are intended to address most regulatory, HTA, and healthcare professionals' questions, thereby supporting the generation of real-world evidence for the more appropriate use of NSCLC drugs.",
-      "journal": "Clin Pharmacol Ther",
-      "date": "2026-09-07",
-      "authors": [
-        "Grit GF",
-        "van Dartel M",
-        "Rodwell L",
-        "van der Woude H",
-        "Boersma C",
-        "Mol PGM",
-        "Hilarius D"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1002/cpt.70473",
-      "journal_tier": 1,
-      "impact": 6.3,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": "Küçük hücreli dışı akciğer kanseri (KHDAK) hastalarında karşılanmamış tıbbi ihtiyaçların yüksek olduğu göz önüne alındığında, hedefe yönelik tedavilere yönelik ilaç değerlendirmesi genellikle küçük popülasyonlara ve tek kollu çalışmalara dayanmakta olup, düzenleyici otoriteler, sağlık teknolojisi değerlendirme kuruluşları (HTAb) ve klinisyenler tarafından yapılan değerlendirmelere meydan okumaktadır. Kayıt tabanlı gerçek dünya verileri (RWD), bu yeni ilaçların değerlendirilmesini ve uygun kullanımını geliştirebilir. Bu nedenle, kayıt tabanlı RWD'ye dayalı olarak KHDAK ilaç etkilerinin değerlendirilmesini tamamlayacak bir başlangıç ​​noktası sağlayan bir temel veri seti geliştirdik. Temel veri seti, mevcut temel veri setlerinin literatür taraması yoluyla geliştirildi ve ardından farklı paydaşlar tarafından ilaç değerlendirme amaçlarına yönelik önemli değişkenlerin daha iyi anlaşılması için iki adet çok paydaşlı uzman toplantısı yapıldı. Uzmanlar arasında Hollandalı klinisyenler, hastane eczacıları, düzenleyiciler, HTAb, sektör temsilcileri, akademisyenler ve bir hasta temsilcisi yer aldı. Literatür taramasının ardından, mevcut dört temel veri seti tanımlandı ve önemli değişkenleri çıkarmak için kullanıldı. İki uzman toplantısından sonra, bu temel veri seti yeniden tanımlandı ve nihai temel veri seti, genel hasta özelliklerini (n = 6), hastalığa özgü faktörleri (n = 19), sistemik tedavi, cerrahi ve radyoterapiyi (n = 22) içeren tedavi ayrıntılarını, ölüm, ilerleme, yanıt (n = 9) gibi sonuçları ve hasta tarafından bildirilen sonuç ölçümlerini (n = 17) içerir. Bu temel veri seti, NSCLC için ilgili hasta kaydının geliştirilmesi ve amaca uygunluğunun arttırılması amacıyla RWD'nin toplanmasına yönelik rehberlik sağlayan ilgili değişkenleri içerir. Bu RWD'lerin çoğu düzenleyici, HTA ve sağlık profesyonellerinin sorularını yanıtlaması ve böylece NSCLC ilaçlarının daha uygun kullanımı için gerçek dünyadan kanıtların oluşturulmasını desteklemesi amaçlanmaktadır."
-    },
-    {
-      "pmid": "42702729",
-      "title": "Enhancing Evidence Generation by Linking Randomized Clinical Trials to Real-World Data: The INVESTED-Medicare Linkage Study.",
-      "abstract": "Real-world evidence (RWE) derived from real-world data (RWD) can complement randomized controlled trials (RCTs), yet the validity of RWD relative to RCT data remains insufficiently characterized. We obtained post hoc consent and linked individual participant data from the US-based INVESTED trial (2016-2019) with Medicare fee-for-service claims (2012-2020) to validate demographic factors, baseline characteristics (using 183-, 365-, and 730-day lookback periods) and outcomes, and to assess post-trial events. Among 5260 trial participants, 126 were enrolled and eligible for linkage. Among 115 participants with demographic information available from Medicare enrollment files, agreement between RCT- and RWD-based demographic factors was high: only one major age discrepancy, 100% agreement for sex, and an overall agreement of 0.89 for race. Participants with Medicare claims data (n = 65) were older and more likely to be White compared with the overall RCT population. For the 365-day lookback period, baseline comorbidities showed high sensitivity (median 0.80) and specificity (0.89), as did medication use (sensitivity 1.00, specificity 0.88). Lengthening the lookback period to 730 days increased sensitivity but decreased specificity, whereas shortening to 183 days decreased sensitivity but increased specificity. Clinical outcomes showed high specificity (0.88-0.94) but low sensitivity (0.18-0.50). Among those with Medicare coverage beyond the trial end date (n = 45), 22% experienced cardiopulmonary, 18% cardiovascular, and 7% heart failure (HF) hospitalizations, highlighting the value of RWD for extending RCT evidence. Proactive planning of future RCT-RWD linkage initiatives can improve the efficiency of linkage studies, leading to more actionable results.",
-      "journal": "Clin Pharmacol Ther",
-      "date": "2026-09-06",
-      "authors": [
-        "Cho H",
-        "Shin H",
-        "Najafzadeh M",
-        "Claggett B",
-        "Ortega-Montiel J",
-        "Liu J",
-        "Paik JM",
-        "Lalani NF",
-        "Bradley MC",
-        "Concato J",
-        "Solomon SD",
-        "Vardeny O",
-        "Patorno E"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1002/cpt.70457",
-      "journal_tier": 1,
-      "impact": 6.3,
-      "section": "klinik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": "Gerçek dünya verilerinden (RWD) elde edilen gerçek dünya kanıtları (RWE), randomize kontrollü çalışmaları (RKÇ'ler) tamamlayabilir, ancak RWD'nin RCT verilerine göre geçerliliği yeterince karakterize edilmemiştir. Demografik faktörleri, temel özellikleri (183-, 365- ve 730 günlük yeniden inceleme dönemlerini kullanarak) ve sonuçları doğrulamak ve deneme sonrası olayları değerlendirmek için ABD merkezli INVESTED çalışmasından (2016-2019) Medicare hizmet ücreti talepleriyle (2012-2020) bağlantılı bireysel katılımcı verilerini ve post-hoc onayını aldık. 5260 deneme katılımcısı arasından 126'sı kaydoldu ve bağlantı için uygun bulundu. Medicare kayıt dosyalarından demografik bilgileri bulunan 115 katılımcı arasında, RCT ve RWD'ye dayalı demografik faktörler arasındaki uyum yüksekti: yalnızca bir büyük yaş farklılığı, cinsiyet için %100 uyum ve ırk için 0,89'luk genel uyum. Medicare talep verilerine sahip katılımcılar (n = 65) daha yaşlıydı ve genel RCT popülasyonuyla karşılaştırıldığında Beyaz olma olasılıkları daha yüksekti. 365 günlük geriye dönük inceleme dönemi için, başlangıçtaki komorbiditeler, ilaç kullanımında olduğu gibi (duyarlılık 1,00, özgüllük 0,88) yüksek duyarlılık (medyan 0,80) ve özgüllük (0,89) gösterdi. Geriye dönük inceleme süresinin 730 güne uzatılması duyarlılığı artırdı ancak özgüllüğü azalttı; 183 güne kısaltılması ise duyarlılığı azalttı ancak özgüllüğü artırdı. Klinik sonuçlar yüksek özgüllük (0,88-0,94) ancak düşük duyarlılık (0,18-0,50) gösterdi. Araştırma bitiş tarihinin ötesinde Medicare kapsamına girenlerin (n = 45) %22'si kardiyopulmoner, %18'i kardiyovasküler ve %7'si kalp yetmezliği (HF) nedeniyle hastaneye yatışlar yaşadı; bu da RCT kanıtlarını genişletmek için RWD'nin değerini vurguluyor. Gelecekteki RCT-RWD bağlantı girişimlerinin proaktif olarak planlanması, bağlantı çalışmalarının verimliliğini artırarak daha eyleme geçirilebilir sonuçlara yol açabilir."
-    },
-    {
-      "pmid": "42702718",
-      "title": "Analysis of Suffix Use for Biosimilar Product Identification in Postmarketing Adverse Event Reporting.",
-      "abstract": "Accurate identification of medicines used in adverse event reports is crucial for effective postmarketing safety surveillance. The US Food and Drug Administration's (FDA) four-letter suffix naming convention was designed to facilitate accurate biological product identification, but the extent to which these suffixes have been incorporated into biosimilar reporting remains unclear. We conducted a cross-sectional analysis of US adverse event reports for all 72 FDA-approved biosimilar products in the FDA Adverse Event Monitoring System (AEMS) received through August 31, 2025, evaluating the proportion of reports containing a four-letter suffix, proprietary name, or other manufacturer identifiers. Of 24,711 reports analyzed, 12.7% (n = 3126) contained a biosimilar suffix, whereas 98.2% (n = 24,264) contained a proprietary name and 82% reported the manufacturer name. Suffixes served as the sole product identifier in only 1.7% (n = 413). These suffix-only reports were distinct: more frequently submitted directly to FDA (86.2% vs. 15.0%), by healthcare professionals (73.3% vs. 59.0%), commonly originated from Veterans Affairs Medical Centers and specialty pharmacies and involved more serious outcomes (47.7% vs. 27.9%), suggesting certain organizational preferences favoring nonproprietary name reporting. The product distribution also differed, with adalimumab-aacf most common in suffix-only reports (18.9%) vs. infliximab-dyyb overall (21.1%). Manufacturer information was present in 42.6% of suffix-only reports. These results suggest FDA's nonproprietary naming convention has achieved limited implementation for biosimilars in AEMS reporting practices, and other information present in AEMS reports may be sufficient for accurately identifying biosimilar products.",
-      "journal": "Clin Pharmacol Ther",
-      "date": "2026-09-06",
-      "authors": [
-        "Stojanovic D",
-        "Wolf L",
-        "Ricci MS",
-        "Muñoz MA"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1002/cpt.70478",
-      "journal_tier": 1,
-      "impact": 6.3,
-      "section": "diger",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": "Advers olay raporlarında kullanılan ilaçların doğru tanımlanması, etkili pazarlama sonrası güvenlik gözetimi için çok önemlidir. ABD Gıda ve İlaç İdaresi'nin (FDA) dört harfli son ek adlandırma kuralı, doğru biyolojik ürün tanımlamasını kolaylaştırmak için tasarlanmıştır, ancak bu son eklerin biyobenzer raporlamaya ne ölçüde dahil edildiği belirsizliğini koruyor. 31 Ağustos 2025'e kadar alınan FDA Advers Olay İzleme Sistemindeki (AEMS) 72 FDA onaylı biyobenzer ürünün tamamı için ABD advers olay raporlarının kesitsel bir analizini gerçekleştirdik ve dört harfli bir son ek, özel ad veya diğer üretici tanımlayıcılarını içeren raporların oranını değerlendirdik. Analiz edilen 24.711 raporun %12,7'si (n = 3126) biyobenzer bir son ek içerirken, %98,2'si (n = 24.264) özel bir ad içeriyordu ve %82'si üretici adını bildirdi. Son ekler yalnızca %1,7'de (n = 413) tek ürün tanımlayıcı olarak kullanıldı. Yalnızca son ek içeren bu raporlar farklıydı: daha sıklıkla doğrudan FDA'ya (%86,2'ye karşı %15,0), sağlık uzmanları tarafından (%73,3'e karşı %59,0) gönderiliyordu, genellikle Gaziler İşleri Tıp Merkezleri ve özel eczanelerden geliyordu ve daha ciddi sonuçlar içeriyordu (%47,7'ye karşı %27,9), bu da tescilli olmayan ad raporlamayı tercih eden bazı kurumsal tercihleri ​​akla getiriyor. Ürün dağılımı da farklılık gösterdi; adalimumab-aacf en yaygın olanı yalnızca son ek raporlarında (%18,9) ve genel olarak infliximab-dyyb (%21,1) idi. Yalnızca son ek içeren raporların %42,6'sında üretici bilgisi mevcuttu. Bu sonuçlar, FDA'nın tescilli olmayan adlandırma kuralının, AEMS raporlama uygulamalarında biyobenzerler için sınırlı bir uygulama sağladığını ve AEMS raporlarında bulunan diğer bilgilerin, biyobenzer ürünleri doğru bir şekilde tanımlamak için yeterli olabileceğini göstermektedir."
-    },
-    {
-      "pmid": "42709186",
-      "title": "Maternal age as a driver of genome instability: mechanisms linking aneuploidy, mutagenesis and mitochondrial dysfunction.",
-      "abstract": "Advanced maternal age is a well-established risk factor for adverse reproductive outcomes due to increased rates of aneuploidy. However, emerging evidence indicates that the genetic consequences of maternal aging extend well beyond chromosome mis-segregation. Aging oocytes acquire a broad spectrum of genetic abnormalities, including maternally derived nuclear de novo mutations (DNMs) and mitochondrial DNA mutations, together with epigenetic dysregulation of DNA methylation and post-translational modification levels. These changes reflect the unique biology of the female germline in which oocytes remain arrested in meiotic prophase I for decades. Age-related deterioration of key processes, such as erosion of cohesion complexes, altered meiotic recombination, and weakened spindle assembly checkpoint surveillance collectively destabilize meiotic chromosome architecture, directly driving chromosome mis-segregation. At the same time, accumulation of endogenous DNA damage and declining DNA damage and repair processes increase the chances of transmitting lesions that can be converted into sequence-level mutations during the earliest embryonic divisions, when genome maintenance relies exclusively on maternal factors. High-resolution sequencing studies further demonstrate that maternal aging is associated with increased DNMs burden in both nuclear and mitochondrial DNA. Together, these findings support a model in which maternal aging is a driver of genome-wide instability that links aneuploidy and mutagenesis through shared defects in meiotic surveillance, declining DNA repair efficiency, and mitochondrial function. This framework positions delayed childbearing as a multifaceted genetic risk factor that extend beyond aneuploidy to include mutations and other genomic alterations that can impact intergenerational genetic risk.",
-      "journal": "Arch Toxicol",
-      "date": "2026-09-08",
-      "authors": [
-        "Ramos S",
-        "Marchetti F"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1007/s00204-026-04540-7",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "diger",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42709188",
-      "title": "Genotoxicity threshold for methyl methacrylate in Chinese workers: a novel multi-endpoint genotoxicity assessment incorporating biological aging.",
-      "abstract": "Methyl methacrylate (MMA) is a widely used foundational monomer in industrial and medical manufacturing. Current occupational exposure limits (OELs) for MMA are established based on its irritant and sensitizing effects, which may not fully prevent its genotoxicity. Here, we conducted an occupational biomonitoring study, including 45 MMA-exposed workers, 26 MMA-toluene/xylene-exposed (MMA-TX) workers, and 31 concurrent controls from a machinery manufacturing plant. Genetic damage in peripheral blood was assessed using the novel PIG-A mutation assay and cytokinesis-block micronucleus test. MMA-exposed workers showed significantly higher PIG-A mutant frequencies (10.49 ± 7.84 vs. 5.00 ± 2.70 × 10-6), and frequencies of micronuclei (6.28 ± 2.97 vs. 3.40 ± 1.67‰), nucleoplasmic bridges (0.80 ± 0.67 vs. 0.32 ± 0.49‰), and nuclear buds (1.68 ± 1.02 vs. 0.48 ± 0.58‰) than the controls. MMA-TX-exposed workers had significantly higher PIG-A mutant frequencies (15.15 ± 11.37 × 10-6) than MMA-exposed workers, and exhibited a slightly higher but non-significant biological age acceleration, as estimated using the Klemera-Doubal method from clinical biomarkers. Quantitative benchmark dose analysis yielded a point of departure of 0.03 mg/m3-year for MMA-induced genetic damage, indicating a lower exposure threshold than the current OELs. In MMA-treated TK6 cells, a slight increase in C > T mutations was observed using high-accuracy error-corrected sequencing, resembling the mutational signature of formaldehyde, a metabolite of MMA. The findings demonstrate that MMA below the current OELs may induce cumulative genetic damage in MMA-exposed workers, providing a quantitative basis for revising OELs to better protect worker health.",
-      "journal": "Arch Toxicol",
-      "date": "2026-09-08",
-      "authors": [
-        "You X",
-        "Xu W",
-        "Sun Y",
-        "Cao M",
-        "Xi J",
-        "Wang T",
-        "Zhang X",
-        "Luan Y",
-        "Zhou C",
-        "Cao Y"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00204-026-04539-0",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "immuno",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42709187",
-      "title": "The missing microbial link in triclosan toxicity: comment on mechanism of liver fibrosis induced by life-long triclosan exposure in offspring rats.",
-      "abstract": "",
-      "journal": "Arch Toxicol",
-      "date": "2026-09-08",
-      "authors": [
-        "He Y",
-        "Wang R",
-        "Wang F"
-      ],
-      "pubtypes": [
-        "Letter"
-      ],
-      "doi": "10.1007/s00204-026-04492-y",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "toksikoloji",
-      "score": 70.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": -30,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42704812",
-      "title": "Skin physiologically based pharmacokinetic modeling: current research progress, software comparison, and future perspectives.",
-      "abstract": "Transdermal and topical delivery systems (TDS) have emerged as the third-largest route of administration due to their ability to bypass first-pass metabolism and maintain stable plasma concentrations. Skin physiologically based pharmacokinetic (PBPK) models mechanistically characterize the percutaneous absorption process, predict local and systemic exposure, and enhance research and development efficiency through virtual clinical trials. This paper first elaborates on the theoretical foundation of skin PBPK modeling based on Fick's second law of diffusion and compares the model assumptions and application scenarios of four well-established and validated modeling platforms: Simcyp, GastroPlus, Skin-CAD, and PK-Sim. The findings indicate that Simcyp provides a refined depiction of skin physiological structure and is widely applied in clinical evaluation and special population prediction. GastroPlus focuses more on the mechanistic description of TDS formulations. Skin-CAD, as a specialized software, is extensively utilized for in vitro-in vivo extrapolation (IVIVE) predictions and formulation optimization. PK-Sim, as a freely accessible open-source software, has been used to investigate the physiological ontogeny of skin in pediatric populations. However, existing studies share limitations such as highly inconsistent model structures with varying complexity, challenges in acquiring accurate parameters, and a scarcity of physiological information for special populations. Future research should prioritize optimizing parameter acquisition methods and broadening physiological databases for pediatric, geriatric, and skin-lesion populations. Additionally, integrating non-invasive imaging technologies to construct high-precision 'digital twin' skin models represents a critical future direction. These advancements will drive the transition of PBPK models from descriptive tools to supportive instruments for individualized dosing and regulatory decision-making.",
-      "journal": "Drug Deliv",
-      "date": "2026-09-07",
-      "authors": [
-        "Li Y",
-        "Li Y",
-        "Liu YX",
-        "Zhang HF",
-        "Zhang S",
-        "Kuang Y",
-        "Pei Q",
-        "Yang G"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1080/10717544.2026.2726638",
-      "journal_tier": 2,
-      "impact": 6.0,
-      "section": "klinik",
-      "score": 70.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": "Transdermal ve topikal dağıtım sistemleri (TDS), ilk geçiş metabolizmasını bypass edebilmeleri ve stabil plazma konsantrasyonlarını koruyabilmeleri nedeniyle üçüncü en büyük uygulama yolu olarak ortaya çıkmıştır. Cilt fizyolojik temelli farmakokinetik (PBPK) modeller, perkütanöz absorpsiyon sürecini mekanik olarak karakterize eder, lokal ve sistemik maruziyeti tahmin eder ve sanal klinik deneyler yoluyla araştırma ve geliştirme verimliliğini artırır. Bu makale ilk olarak Fick'in ikinci difüzyon yasasına dayanan deri PBPK modellemesinin teorik temelini detaylandırıyor ve iyi kurulmuş ve doğrulanmış dört modelleme platformunun model varsayımlarını ve uygulama senaryolarını karşılaştırıyor: Simcyp, GastroPlus, Skin-CAD ve PK-Sim. Bulgular, Simcyp'in cildin fizyolojik yapısının ayrıntılı bir tasvirini sağladığını ve klinik değerlendirmede ve özel popülasyon tahmininde yaygın olarak uygulandığını göstermektedir. GastroPlus daha çok TDS formülasyonlarının mekanik tanımına odaklanır. Özel bir yazılım olarak Skin-CAD, in vitro-in vivo ekstrapolasyon (IVIVE) tahminleri ve formülasyon optimizasyonu için yaygın olarak kullanılmaktadır. Ücretsiz olarak erişilebilen açık kaynaklı bir yazılım olan PK-Sim, pediatrik popülasyonlarda cildin fizyolojik birey oluşumunu araştırmak için kullanılmıştır. Bununla birlikte, mevcut çalışmalar, değişen karmaşıklığa sahip oldukça tutarsız model yapıları, doğru parametrelerin elde edilmesindeki zorluklar ve özel popülasyonlar için fizyolojik bilgilerin azlığı gibi sınırlamaları paylaşmaktadır. Gelecekteki araştırmalar, parametre toplama yöntemlerinin optimize edilmesine ve pediatrik, geriatrik ve cilt lezyonu popülasyonları için fizyolojik veri tabanlarının genişletilmesine öncelik vermelidir. Ek olarak, yüksek hassasiyetli 'dijital ikiz' cilt modelleri oluşturmak için invazif olmayan görüntüleme teknolojilerinin entegre edilmesi, geleceğe yönelik kritik bir yönelimi temsil ediyor. Bu gelişmeler, PBPK modellerinin tanımlayıcı araçlardan kişiselleştirilmiş dozlama ve düzenleyici karar almaya yönelik destekleyici araçlara geçişini sağlayacaktır."
-    },
-    {
-      "pmid": "42665171",
-      "title": "ABCB1 rs2032582 as a potential biomarker for predicting Scutellaria baicalensis Georgi-drug induced liver injury in humans.",
-      "abstract": "Scutellaria baicalensis Georgi (SBG, Huangqin), a prominent traditional Chinese medicine, has a long history of clinical use for clearing heat and detoxifying, a classic TCM therapeutic concept corresponding to its well-documented anti-inflammatory, antimicrobial and hepatoprotective activities in modern pharmacological research. Despite its widespread therapeutic benefits, growing clinical evidence has linked SBG and its preparations with herb-induced liver injury (HILI). However, the population-level incidence of SBG-related drug-induced liver injury (SBG-DILI) and the potential genetic susceptibility mechanisms remain poorly understood.  To determine the clinical incidence of SBG-DILI, characterize its dose-dependent toxicity pattern, and identify candidate pharmacogenomic biomarkers of genetic susceptibility (specifically ABCB1 polymorphisms) in the Chinese Han population.  We conducted two multicenter studies across four Grade A tertiary hospitals of traditional Chinese medicine in Shanghai (the highest-tier public medical institutions in China), integrating a large-scale retrospective cohort and a two-phase prospective genetic association analysis. In the retrospective study, 1,928,526 outpatients were screened, and the patients of SBG-DILI were enrolled and then the relationships between SBG dosage, treatment duration and hepatotoxicity risk were analyzed. The prospective arm utilized an initial single-nucleotide polymorphism (SNP) discovery screening in 12 patients with rechallenge-proven SBG-DILI, followed by independent targeted genotyping validation via the MassArray iPLEX system in a replication cohort (20 SBG-DILI cases, 25 other-DILI cases, and 60 matched population controls).  All cases of liver injury were verified using causality assessment method (RUCAM score >6 and iEC-based HILI criteria); the confirmed clinical incidence of SBG-DILI was 0.095% (72/75,564). Multivariate logistic regression confirmed a clear dose-toxicity relationship, where daily doses exceeding the pharmacopoeia recommendation (>10 g/day) significantly increased the risk of liver injury (adjusted OR = 2.210, 95% CI = 1.185-4.122, P = 0.013). Genetically, the non-synonymous mutation ABCB1 rs2032582 (C allele) was identified as a strong, independent genetic risk factor. The homozygote C/C genotype was remarkably overrepresented in SBG-DILI patients (58.3%) compared to other-DILI cases (4.5%) and population controls (16.3%). Under the log-additive model, the C allele substantially augmented susceptibility to SBG-DILI (adjusted OR = 8.30 vs. other-DILI, P = 0.0001; adjusted OR = 3.70 vs. controls, P = 0.0017).  SBG-DILI, characterized by distinct dose-dependency, is relatively infrequent, but clinically important valvular problems may arises. The ABCB1 rs2032582 variant represents a pivotal genetic susceptibility locus in the Chinese Han population. These findings provide compelling evidence for predicting toxicity of herbal medicine and suggest that genotype-assisted risk stratification could facilitate safer, more precise applications of traditional herbal remedies.",
-      "journal": "J Ethnopharmacol",
-      "date": "2026-09-05",
-      "authors": [
-        "Fu L",
-        "Ji L",
-        "Yan X",
-        "Zhu W",
-        "Cui Y",
-        "Ren X",
-        "Song J",
-        "Tang Y",
-        "Huang L",
-        "Zhu X",
-        "Yu Z",
-        "Tang Y",
-        "Wu M",
-        "Zheng Y",
-        "Chen B",
-        "Zheng C",
-        "Lv J",
-        "Shi L",
-        "Zhang X",
-        "Dvorácskó S",
-        "Sun X",
-        "Li M",
-        "Gao Y"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jep.2026.122329",
-      "journal_tier": 2,
-      "impact": 5.4,
-      "section": "immuno",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3
-    },
-    {
-      "pmid": "42702226",
-      "title": "Rehmannioside D directly targets PTP1B to ameliorate metabolic dysfunction-associated fatty liver disease.",
-      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Rehmanniae Radix Praeparata, the processed root of Rehmannia glutinosa Steud. (Orobanchaceae), a traditional Chinese medicine, has traditionally been used for metabolic disorders related deficiency patterns in traditional Chinese medicine. As a pharmacopoeial quality control marker of Rehmanniae Radix Praeparata, rehmannioside D (RD) possesses hepatoprotective and metabolic regulatory potential; however, its therapeutic role in MAFLD remains unclear. AIM OF THE STUDY: This study aimed to evaluate the therapeutic effects of RD against MAFLD and to elucidate its underlying molecular mechanisms. MATERIALS AND METHODS: db/db mice and free fatty acid (FFA)-induced HepG2 cells were used to assess the effects of RD in vivo and in vitro. Lipid accumulation, liver injury, insulin signaling, and endoplasmic reticulum (ER) stress were evaluated. Limited proteolysis-mass spectrometry (LiP-MS) was used to identify potential targets of RD. Molecular docking, cellular thermal shift assay (CETSA), and molecular dynamics (MD) simulations were performed to validate the interaction between RD and the target protein. RESULTS: Marked amelioration of lipid metabolic disorders was observed in both db/db mice and FFA-induced HepG2 cells following RD treatment. This intervention effectively attenuated ALT and AST elevations while mitigating histopathological hepatic injury. LiP-MS identified PTP1B as a potential target of RD; molecular docking, CETSA, and MD simulation further corroborated stable binding between RD and PTP1B, identifying Asp181 as an important residue contributing to the RD-PTP1B interaction. Mechanistically, RD inhibited PTP1B activity, suppressed SREBP-1c transcription and expression, and downregulated lipogenesis-related genes. RD also inhibited the PERK/eIF2α pathway, alleviated ER stress, and restored the PI3K/AKT insulin signaling. CONCLUSION: RD ameliorates MAFLD by inhibiting PTP1B, orchestrating a concerted improvement in lipid metabolism, ER stress resolution, and insulin signaling, supporting its potential as a therapeutic agent for MAFLD management.",
-      "journal": "J Ethnopharmacol",
-      "date": "2026-09-06",
-      "authors": [
-        "Xu D",
-        "Liu R",
-        "Zhang Z",
-        "Zhang X",
-        "Gao G",
-        "Xie Z"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jep.2026.122373",
-      "journal_tier": 2,
-      "impact": 5.4,
-      "section": "kardiyometabolik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42700849",
-      "title": "Wuwei Huanglian Wan inhibits Helicobacter pylori and alleviates associated gastritis: host metabolic remodeling and altered IL-6/STAT3 signaling.",
-      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Wuwei Huanglian Wan (WWHLW) is a traditional Tibetan medicine formula developed by Tibetan physician Takpe Pingcuo and officially documented in the Ministry of Health Drug Standards for Tibetan Medicines (Volume I, 1995). It has long been used for the treatment of gastrointestinal disorders, particularly conditions associated with gastrointestinal discomfort and inflammation. Given the overlap between its traditional indications and the clinical manifestations of H. pylori-associated gastritis (HAG), WWHLW represents a promising candidate for the management of H. pylori infection and related gastric inflammation. In addition, several constituent herbs of WWHLW have demonstrated anti-H. pylori and anti-inflammatory activities, providing a pharmacological basis for further investigating its therapeutic effects. AIM OF THE STUDY: This study aimed to systematically evaluate the therapeutic effects of WWHLW against H. pylori infection and HAG, and to explore the biological processes associated with these effects through integrated multi-omics and experimental validation. MATERIALS AND METHODS: The therapeutic effects of WWHLW were evaluated through in vitro antibacterial assays and an H. pylori-infected mouse model. UHPLC-HRMS/MS was employed for chemical profiling and identification of serum-absorbed constituents. Serum metabolomics, 16S rRNA gene sequencing, network pharmacology analysis, molecular docking analysis, and molecular biological analyses were integrated to investigate the metabolic, microbial, and signaling changes associated with its therapeutic activity. RESULTS: WWHLW exhibited anti-H. pylori activity, with minimum inhibitory concentrations (MICs) of 0.2-0.5 mg/mL against both standard strains and multidrug-resistant clinical isolates. At MIC concentrations, WWHLW treatment altered the expression of multiple virulence-associated genes and reduced gastric H. pylori colonization by 93.8% in infected mice. UHPLC-HRMS/MS analysis putatively annotated 121 compounds in the WWHLW extracts, of which 10 prototype constituents were detected in serum after oral administration. Integrated metabolomics and network pharmacology analyses revealed alterations in lipid and amino acid-related metabolic pathways following WWHLW treatment. Gut microbiota analysis showed that WWHLW was associated with less pronounced alterations in microbial diversity and composition than antibiotic treatment. Correlation analysis further revealed statistical associations between microbial taxa and lipid and amino acid-related features. Experimental validation showed that WWHLW reduced inflammatory cytokine expression and suppressed STAT3 phosphorylation, consistent with altered IL-6/STAT3-related molecular changes. CONCLUSIONS: WWHLW exhibits therapeutic potential against H. pylori infection and HAG through combined antibacterial, anti-inflammatory and metabolic regulatory effects. The protective activity of WWHLW was associated with reduced IL-6/STAT3 signaling, providing pharmacological evidence supporting its traditional use in gastrointestinal disorders.",
-      "journal": "J Ethnopharmacol",
-      "date": "2026-09-05",
-      "authors": [
-        "Yang W",
-        "Yu G",
-        "Zhang Y",
-        "Ren D",
-        "Li Y",
-        "Yang J",
-        "Yao M"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jep.2026.122370",
-      "journal_tier": 2,
-      "impact": 5.4,
-      "section": "kardiyometabolik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42700848",
-      "title": "Effects of Heidihuang Pill on renal fibrosis and senescence-associated changes in rats with unilateral ureteral obstruction: A fecal metabolomics and Klotho-knockdown study.",
-      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Heidihuang Pill (HDHW) is a traditional Chinese medicine formula. It is based on the principle of \"simultaneously nourishing the spleen and kidney.\" In contemporary Chinese medicine practice, HDHW is used in patients with chronic renal failure who present with a spleen-kidney deficiency pattern. Previous studies suggest that HDHW can protect the kidney and reduce renal fibrosis. However, its underlying pharmacological mechanisms remain unclear. AIM OF THE STUDY: Senescence-associated changes in renal tubular epithelial cells (RTECs) contribute to the progression of renal fibrosis. This study evaluated the effects of HDHW on UUO-induced kidney injury, renal fibrosis, and senescence-associated markers. We also characterized the serum collected from HDHW-treated rats and associated changes in fecal metabolites. In addition, we investigated the involvement of Klotho-related signaling. MATERIALS AND METHODS: Serum pharmacochemistry was used to characterize HDHW-associated serum constituents, and network pharmacology was used to generate candidate pharmacological hypotheses. HDHW was evaluated in rats with unilateral ureteral obstruction (UUO) using serum biochemical measurements, renal histopathology, immunohistochemistry, and Western blotting. Untargeted fecal metabolomics was performed using UHPLC-Q-TOF-MS, followed by descriptive KEGG pathway mapping. AAV9-shRNA-mediated Klotho knockdown was used to examine HDHW-associated responses under reduced Klotho expression. RESULTS: Serum pharmacochemistry yielded 96 putatively annotated HDHW-associated serum constituents. In UUO rats, HDHW treatment significantly reduced serum blood urea nitrogen and hyaluronic acid levels. Serum creatinine and cystatin C showed numerical decreases that were not statistically significant after multiple-comparison adjustment. HDHW attenuated tubular injury, inflammatory-cell infiltration, and interstitial collagen deposition, with reductions in fibrosis-related and senescence-associated markers in renal tubulointerstitial tissue. Fecal metabolomics revealed metabolic changes associated with HDHW treatment and Klotho knockdown. Descriptive KEGG mapping provided exploratory metabolic context. HDHW treatment was also associated with partial restoration of renal Klotho expression and reduced activation of IGF-1/AKT/mTOR signaling. Several HDHW-associated reductions in fibrosis-related and senescence-associated markers were less pronounced following Klotho knockdown. CONCLUSION: HDHW treatment was associated with attenuation of renal tubular injury and interstitial fibrosis, alterations in the fecal metabolic profile, partial restoration of renal Klotho expression, and reduced IGF-1/AKT/mTOR signaling in UUO rats. The findings support the possible involvement of Klotho-related signaling in HDHW-associated renal effects.",
-      "journal": "J Ethnopharmacol",
-      "date": "2026-09-05",
-      "authors": [
-        "He G",
-        "Song J",
-        "Xue Y",
-        "Jia Y",
-        "Yu Z",
-        "Zhang F"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jep.2026.122363",
-      "journal_tier": 2,
-      "impact": 5.4,
-      "section": "immuno",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42710609",
-      "title": "Bushen-Yizhi formula promotes neurogenesis and ameliorates cognitive impairment by activating ST8Sia Ⅱ/Ⅳ-PSA-NCAM pathway in ibotenic acid induced mice.",
-      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Bushen-Yizhi formula (BSYZ), a traditional Chinese herbal prescription, has been widely used to treat kidney deficiency syndrome and alleviate cognitive impairment associated with Alzheimer's disease (AD). Loss of polysialylation of the neural cell adhesion molecule (PSA-NCAM) is closely associated with cognitive dysfunction. However, whether BSYZ regulates PSA-NCAM polysialylation and the underlying mechanisms remain unclear. AIM OF THE STUDY: This study aimed to investigate whether BSYZ promotes hippocampal neurogenesis and ameliorates cognitive impairment through activation of the ST8Sia II/IV-PSA-NCAM pathway. METHODS: An AD-like mouse model was established by bilateral ibotenic acid (IBO) injections into the basal nuclei of C57BL/6 mice. Animals were randomly assigned to five groups: control, model, low- BSYZ (1.46 g/kg), high-dose BSYZ (5.84 g/kg), and donepezil (3 mg/kg). Cognitive function was evaluated using the open field test (OFT), novel object recognition test (NORT), and Morris water maze (MWM). Hippocampal PSA-NCAM expression was assessed by immunofluorescence staining and further investigated using proteomic analysis combined with network pharmacology. PSA-NCAM-associated polysialic acid levels were quantified by hydrochloric acid hydrolysis followed by 4,5-methylenedioxy-1,2-phenylenediamine dihydrochloride (DMB) derivatization coupled with mass spectrometry. The mRNA and protein expression levels of α-2,8-sialyltransferase II and IV (ST8Sia II/IV) were determined by quantitative reverse transcription polymerase chain reaction (qRT-PCR) and Western blotting. Hippocampal neurogenesis was evaluated by immunofluorescence double-labeling. The bioactive compounds targeting ST8Sia II/IV were identified using HPLC-Q-TOF MS/MS, followed by molecular docking and molecular dynamics simulations to predict their binding affinities. RESULTS: The IBO-induced mouse model exhibited significant cognitive deficits, confirming successful model establishment. Behavioral assessments demonstrated that both low- and high-dose BSYZ significantly improved learning and memory performance. Proteomic analysis and immunofluorescence staining revealed that BSYZ markedly increased hippocampal PSA-NCAM expression (**P < 0.01, n = 5). Quantitative analysis further showed that PSA-NCAM-associated polysialic acid levels increased by 78% (*P < 0.05, n = 5) and 102% (**P < 0.01, n = 5) following low- and high-dose BSYZ treatment. BSYZ significantly increased the number of PSA-NCAM+/DCX+ cells in the hippocampal dentate gyrus (*P < 0.05), accompanied by significant increases in Nestin+/BrdU+ (*P < 0.05), DCX+/BrdU+ (**P < 0.01), and NeuN+/BrdU+ (**P < 0.01) double-positive cells, indicating enhanced neurogenesis and neuronal maturation. Furthermore, BSYZ significantly upregulated both the mRNA and protein expression of ST8Sia II (**P < 0.01) and ST8Sia IV (**P < 0.01) in the hippocampus. HPLC-Q-TOF MS/MS, molecular docking, and molecular dynamics simulations identified isoimperatorin as a major active constituent of BSYZ with strong binding affinity toward both ST8Sia II/IV, exhibiting docking energies of -8.7 and -7.6 kcal/mol, respectively (n = 3, RSD < 2%). CONCLUSIONS: Our study demonstrates BSYZ promotes hippocampal neurogenesis to ameliorate cognitive impairment by activating ST8Sia II/IV-PSA-NCAM pathway. These findings provide mechanistic evidence supporting the therapeutic potential of BSYZ for AD treatment.",
-      "journal": "J Ethnopharmacol",
-      "date": "2026-09-08",
-      "authors": [
-        "Zheng J",
-        "Tan Q",
-        "Liu G",
-        "Xie R",
-        "Wang Q",
-        "Liang Y"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jep.2026.122356",
-      "journal_tier": 2,
-      "impact": 5.4,
-      "section": "noro",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42710608",
-      "title": "Du-Shu-Wan alleviates Tau protein phosphorylation in Alzheimer's disease by regulating MAPK/JNK signaling pathway.",
-      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Alzheimer's disease (AD) is one of the leading causes of cognitive impairment and dementia among the elderly and has become an urgent public health challenge due to population ageing. Du-Shu-Wan (DSW) is an ancient Chinese herbal medicine that aims to enhance memory and soothe the spirit, and has long been applied for forgetfulness and cognitive decline. At present, there is still no systematic research on the pharmacological basis of DSW and its specific molecular mechanisms for alleviating AD. AIM OF THE STUDY: The researchers aimed to investigate the mechanisms by which DSW attenuates AD-related pathological changes in animal models and in vitro cultured cells. MATERIALS AND METHODS: The chemical composition of DSW was characterized using UPLC-Q-TOF-MS. Subsequently, HE staining, Nissl staining, and silver staining were employed to evaluate the effects of DSW on neuronal damage in an AD rat model induced by intracerebral injection of Aβ1-42 into the lateral ventricle. Potential mechanisms of action were investigated through network pharmacology, molecular docking, and transcriptomics. Finally, the results of the in vivo experiments were validated in an HT22 cell model. RESULTS: This study reports the identification of 101 compounds from DSW for the first time. After a four-week course of DSW treatment, AD model rats exhibited significantly improved cognitive function, along with decreased neuronal injury and reduced neurofibrillary tangle pathology. A comprehensive analysis suggests that DSW enhanced cognitive function, an effect associated with inhibition of the MAPK/JNK pathway and reduction in the level of phosphorylated Tau at Ser422 sites. Additionally, in vitro experiments further showed that the protective effect of DSW-containing serum against Aβ1-42-induced neurotoxicity was associated with reduced JNK activation, and this reversal was obviously compromised by a JNK activator. CONCLUSIONS: According to this study, DSW may enhance cognitive function in AD rats, an effect that is associated with reduced JNK pathway activity and reduced tau protein hyperphosphorylation at Ser422.",
-      "journal": "J Ethnopharmacol",
-      "date": "2026-09-08",
-      "authors": [
-        "Liu S",
-        "Ren L",
-        "Liu L",
-        "Chen LL",
-        "Zhang Y",
-        "Wang P",
-        "Xie GJ"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jep.2026.122380",
-      "journal_tier": 2,
-      "impact": 5.4,
-      "section": "noro",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42701082",
-      "title": "Corrigendum to \"Er-Chen decoction alleviates spermatogenic dysfunction in obese mice by tuning the SIRT1/p53 axis\" [J. Ethnopharmacol. 356 (2026) 120758].",
-      "abstract": "",
-      "journal": "J Ethnopharmacol",
-      "date": "2026-09-05",
-      "authors": [
-        "Liu M",
-        "Chen J",
-        "Zhou Z",
-        "Wang J",
-        "Li G",
-        "Xie J",
-        "Wen L",
-        "Wang H",
-        "Gan R",
-        "Zhang P",
-        "Gong Y",
-        "Ding W"
-      ],
-      "pubtypes": [
-        "Published Erratum"
-      ],
-      "doi": "10.1016/j.jep.2026.122362",
-      "journal_tier": 2,
-      "impact": 5.4,
-      "section": "dogal",
-      "score": -40.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": -100,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
     }
   ]
 }
