@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T10:57:27+00:00",
+  "updated": "2026-09-12T10:26:37+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -108,6 +108,67 @@
       },
       "tier": 2,
       "abstract_tr": ""
+    },
+    {
+      "pmid": "42727408",
+      "title": "Application of human liver cell models in drug development and toxicity studies: The role of membrane transporters.",
+      "abstract": "The critical involvement of hepatic transporters in both physiological and pathological processes, including metabolic diseases, drug metabolism, and toxicity, represents a key issue in pharmacology. The expression and localization of transporters involved in hepatic functions are especially important in new drug development and toxicology studies. Because of major species differences in transporter expression, localization, and substrate recognition, the value of animal experiments is limited in this regard, and human liver cell preparations are already available to allow relevant in vitro studies. Currently, the gold standard for in vitro studies is the primary human liver cell preparation. However, the interindividual heterogeneity, low reproducibility, and high price of such preparations are prohibiting their widespread use. Hepatocytes derived from liver tumors are widely used in toxicology studies, but each of these cell lines has specific advantages and shortcomings. Stem cell-based liver cell preparations, especially spheroids and organoids derived from human induced pluripotent stem cells, may serve as a new toolbox for studying a variety of membrane transporters and complex metabolic interactions in human hepatocytes. These advanced preparations, although currently somewhat premature, should provide an excellent basis for comprehensive in vitro functional assays. The present paper provides a comparative review of our current understanding of the pharmacological relevance of hepatic transporters, their interactions with the key players of general drug metabolism, their complex regulation, as well as the recent methodologies to apply human-relevant in vitro systems in drug development and toxicology studies. SIGNIFICANCE STATEMENT: This review addresses the critical need for advanced human liver models in drug development, moving away from animal testing and inadequate tumor-derived cells. By evaluating emerging stem cell-derived 2D and 3D cultures, it highlights the often-overlooked role of membrane transporters-crucial for understanding how drugs enter and exit cells. This work provides a roadmap for creating physiologically accurate models to better predict drug safety, efficacy, and toxicity in humans.",
+      "journal": "Pharmacol Rev",
+      "date": "2026-08-17",
+      "authors": [
+        "Szabó E",
+        "Telbisz Á",
+        "Erdei Z",
+        "Farkas KG",
+        "Homolya L",
+        "Sarkadi B",
+        "Apáti Á"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.pharmr.2026.100157",
+      "journal_tier": 1,
+      "impact": 19.3,
+      "section": "onko",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": "Hepatik taşıyıcıların metabolik hastalıklar, ilaç metabolizması ve toksisite dahil olmak üzere hem fizyolojik hem de patolojik süreçlere kritik katılımı, farmakolojide önemli bir konuyu temsil etmektedir. Karaciğer fonksiyonlarında rol oynayan taşıyıcıların ekspresyonu ve lokalizasyonu özellikle yeni ilaç geliştirme ve toksikoloji çalışmalarında önemlidir. Taşıyıcı ekspresyonu, lokalizasyonu ve substrat tanımadaki büyük tür farklılıkları nedeniyle hayvan deneylerinin değeri bu açıdan sınırlıdır ve ilgili in vitro çalışmalara olanak sağlayacak insan karaciğer hücresi preparatları halihazırda mevcuttur. Şu anda in vitro çalışmalar için altın standart, birincil insan karaciğer hücresi preparatıdır. Ancak bu preparatların bireyler arası heterojenliği, tekrarlanabilirliğinin düşük olması ve yüksek fiyatı bunların yaygın kullanımını engellemektedir. Karaciğer tümörlerinden türetilen hepatositler toksikoloji çalışmalarında yaygın olarak kullanılmaktadır ancak bu hücre dizilerinin her birinin kendine özgü avantajları ve eksiklikleri vardır. Kök hücre bazlı karaciğer hücresi preparatları, özellikle insan kaynaklı pluripotent kök hücrelerden türetilen sferoidler ve organoidler, insan hepatositlerindeki çeşitli membran taşıyıcıları ve karmaşık metabolik etkileşimleri incelemek için yeni bir araç kutusu olarak hizmet edebilir. Bu gelişmiş preparatlar, şu anda biraz erken olmasına rağmen, kapsamlı in vitro fonksiyonel analizler için mükemmel bir temel oluşturmalıdır. Bu makale, hepatik taşıyıcıların farmakolojik önemi, bunların genel ilaç metabolizmasının kilit oyuncuları ile etkileşimleri, karmaşık düzenlemeleri ve ilaç geliştirme ve toksikoloji çalışmalarında insanla ilgili in vitro sistemlerin uygulanmasına yönelik son metodolojiler hakkındaki mevcut anlayışımızın karşılaştırmalı bir incelemesini sunmaktadır. ÖNEM BEYANI: Bu inceleme, hayvan testlerinden ve yetersiz tümör kaynaklı hücrelerden uzaklaşarak, ilaç geliştirmede gelişmiş insan karaciğer modellerine olan kritik ihtiyacı ele almaktadır. Ortaya çıkan kök hücre türevi 2D ve 3D kültürleri değerlendirerek, ilaçların hücrelere nasıl girip çıktığını anlamak için hayati önem taşıyan, membran taşıyıcılarının sıklıkla gözden kaçırılan rolünü vurguluyor. Bu çalışma, insanlarda ilaç güvenliğini, etkinliğini ve toksisitesini daha iyi tahmin etmek için fizyolojik olarak doğru modeller oluşturmaya yönelik bir yol haritası sunmaktadır."
+    },
+    {
+      "pmid": "42727407",
+      "title": "The skeletal connectome: From molecular circuitry to systemic network medicine.",
+      "abstract": "Although classically viewed as a mechanical scaffold, the skeleton is increasingly recognized as a dynamic endocrine and sensory hub that integrates systemic biophysical and biochemical cues. In this review, we rethink skeletal physiology by proposing the 'skeletal connectome,' a network medicine framework that links circuit-level remodeling programs to multiorgan homeostasis. Structurally, we first distill the cellular logic of bone remodeling, emphasizing how osteoblasts, osteoclasts, and osteocytes act as plastic network nodes whose state transitions are constrained by topology, compartmentalization, and metabolic/biophysical gating. We subsequently map macroscopic connectome architecture, detailing bidirectional axes coupling bone to the immune, metabolic, neural, and muscular systems. Within this framework, we systematically re-evaluate diverse skeletal disorders, spanning mechanometabolic degeneration, autoimmune disease, endocrine-metabolic fragility, and bone metastasis. We conceptualize these conditions as resulting from specific disruptions in systemic communication networks. From a translational perspective, this connectome paradigm guides the evaluation of precision therapeutics, such as targeted protein degradation and mRNA-based drugs, designed to rewire dysfunctional circuits. Finally, we discuss emerging concepts like digital skeletal twins and in silico clinical trials, highlighting their promising conceptual/translational status-rather than as established clinical tools-to eventually complement real-world evidence in future personalized regimen design. SIGNIFICANCE STATEMENT: This review proposes the 'skeletal connectome' framework, redefining bone as a dynamic sensory and endocrine hub that integrates mechanical, metabolic, and immune circuits to sustain systemic homeostasis. By mapping diverse pathologies as characteristic network failure modes rather than isolated defects, this study outlines a translational roadmap for rewiring dysfunctional circuitry through precision perturbations-including mRNA therapeutics and targeted protein degradation-guided by digital skeletal twins.",
+      "journal": "Pharmacol Rev",
+      "date": "2026-07-31",
+      "authors": [
+        "Liu W",
+        "Liu D",
+        "Liu Q",
+        "Sun Y"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.pharmr.2026.100154",
+      "journal_tier": 1,
+      "impact": 19.3,
+      "section": "immuno",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": "Klasik olarak mekanik bir iskele olarak görülmesine rağmen, iskelet, sistemik biyofiziksel ve biyokimyasal ipuçlarını bütünleştiren dinamik bir endokrin ve duyusal merkez olarak giderek daha fazla tanınmaktadır. Bu derlemede, devre seviyesinde yeniden modelleme programlarını çoklu organ homeostazisine bağlayan bir ağ tıbbı çerçevesi olan 'iskelet konnektomunu' önererek iskelet fizyolojisini yeniden düşünüyoruz. Yapısal olarak, öncelikle kemiğin yeniden şekillenmesinin hücresel mantığını inceleyerek osteoblastların, osteoklastların ve osteositlerin, durum geçişleri topoloji, bölümlendirme ve metabolik/biyofiziksel geçitleme ile sınırlanan plastik ağ düğümleri olarak nasıl hareket ettiklerini vurguluyoruz. Daha sonra, kemiği bağışıklık, metabolik, sinir ve kas sistemlerine bağlayan çift yönlü eksenleri detaylandırarak makroskobik konnektom mimarisini haritalandırıyoruz. Bu çerçevede, mekanometabolik dejenerasyon, otoimmün hastalık, endokrin-metabolik kırılganlık ve kemik metastazını kapsayan çeşitli iskelet bozukluklarını sistematik olarak yeniden değerlendiriyoruz. Bu koşulları, sistemik iletişim ağlarındaki belirli kesintilerin sonucu olarak kavramsallaştırıyoruz. Translasyonel bir perspektiften bakıldığında, bu konnektom paradigması, işlevsiz devreleri yeniden yapılandırmak için tasarlanmış, hedeflenen protein yıkımı ve mRNA bazlı ilaçlar gibi hassas terapötiklerin değerlendirilmesine rehberlik eder. Son olarak, gelecekteki kişiselleştirilmiş rejim tasarımında gerçek dünya kanıtlarını tamamlayacak şekilde, yerleşik klinik araçlardan ziyade, umut verici kavramsal/çevirisel durumlarını vurgulayarak, dijital iskelet ikizleri ve in silico klinik çalışmaları gibi yeni ortaya çıkan kavramları tartışıyoruz. ÖNEM BEYANI: Bu derleme, sistemik homeostazı sürdürmek için mekanik, metabolik ve bağışıklık devrelerini bütünleştiren dinamik bir duyusal ve endokrin merkez olarak kemiği yeniden tanımlayan 'iskelet konnektom' çerçevesini önermektedir. Çeşitli patolojileri izole kusurlar yerine karakteristik ağ arıza modları olarak haritalandıran bu çalışma, mRNA terapötikleri ve dijital iskelet ikizleri tarafından yönlendirilen hedeflenen protein bozunması dahil olmak üzere hassas bozulmalar yoluyla işlevsiz devrelerin yeniden kablolanması için çevirisel bir yol haritasının ana hatlarını çiziyor."
     },
     {
       "pmid": "42714746",
@@ -384,6 +445,36 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42728154",
+      "title": "Deubiquitinases in mitophagy: therapeutic control of mitochondrial quality.",
+      "abstract": "Mitochondrial quality control is essential for maintaining cellular and tissue homeostasis. Mitophagy, the selective autophagic removal of damaged mitochondria, is a central component of this process, and defects in mitophagy are increasingly linked to neurodegeneration, cardiovascular disease, cancer, and inherited mitochondrial disorders. Ubiquitin-dependent tagging of outer mitochondrial membrane proteins is a major mechanism for marking damaged mitochondria for clearance; however, recent advances reveal that mitochondrial deubiquitinases (DUBs) shape ubiquitin signaling at damaged mitochondria, thereby influencing the efficiency and selectivity of mitochondrial turnover. Moreover, DUBs are emerging as context-dependent editors of the mitochondrial ubiquitin code that link mitophagy to disease pathogenesis and therapeutic intervention. Here, we synthesize current understanding of mitochondrial DUBs in physiology and disease and discuss emerging pharmacological strategies to guide the development of mitophagy-targeted therapeutics.",
+      "journal": "Trends Pharmacol Sci",
+      "date": "2026-09-12",
+      "authors": [
+        "Xu Y",
+        "Behrouz B",
+        "Lee A",
+        "Xin G",
+        "Sun N"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.tips.2026.08.009",
+      "journal_tier": 1,
+      "impact": 11.0,
+      "section": "kardiyometabolik",
+      "score": 112.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 2.0
+      },
+      "tier": 1,
+      "abstract_tr": "Mitokondriyal kalite kontrolü, hücresel ve doku homeostazisinin sürdürülmesi için gereklidir. Hasar görmüş mitokondrinin seçici otofajik olarak uzaklaştırılması olan mitofaji, bu sürecin merkezi bir bileşenidir ve mitofajideki kusurlar, nörodejenerasyon, kardiyovasküler hastalık, kanser ve kalıtsal mitokondriyal bozukluklarla giderek daha fazla bağlantılıdır. Dış mitokondriyal membran proteinlerinin ubikuitine bağlı olarak etiketlenmesi, hasarlı mitokondrinin temizlenmesi için işaretlenmesinde önemli bir mekanizmadır; ancak son gelişmeler, mitokondriyal deubikuitinazların (DUB'ler), hasarlı mitokondride ubikuitin sinyalini şekillendirdiğini, dolayısıyla mitokondriyal devrin verimliliğini ve seçiciliğini etkilediğini ortaya koyuyor. Üstelik DUB'ler, mitofajiyi hastalık patogenezi ve terapötik müdahaleye bağlayan mitokondriyal ubikuitin kodunun bağlama bağımlı editörleri olarak ortaya çıkıyor. Burada, fizyoloji ve hastalıktaki mitokondriyal DUB'lere ilişkin mevcut anlayışı sentezliyoruz ve mitofaji hedefli terapötiklerin geliştirilmesine rehberlik etmek için ortaya çıkan farmakolojik stratejileri tartışıyoruz."
+    },
+    {
       "pmid": "42711197",
       "title": "Emerging STAT1 post-translational modifications: mechanisms and translational perspectives.",
       "abstract": "Signal transducer and activator of transcription 1 (STAT1) is a central regulator of interferon signaling, antiviral defense, inflammation, and antitumor immunity. Although STAT1 activation has been traditionally defined by phosphorylation, recent studies have revealed diverse post-translational modifications (PTMs) that fine-tune its activity, stability, localization, and transcriptional output. Newly identified modifications, including vitamin C-derived vitcylation and pyruvate-induced pyruvylation, directly link nutrient and metabolic cues to STAT1 signaling. Additional PTMs, such as acylation, glycosylation, ubiquitination, methylation, and oxidative modifications, further shape STAT1 function in a context-dependent manner. In this review, we evaluate the evidence supporting STAT1 PTMs and discuss how specific modifications regulate STAT1 activation, stability, localization, and transcriptional output in immune and inflammatory contexts, while distinguishing established regulatory mechanisms from emerging modifications that require further validation.",
@@ -442,6 +533,35 @@
       },
       "tier": 1,
       "abstract_tr": "İlaç keşfi, bir adayın istenen tepkiyi üretip üretmediğini, mekanizmasını ortaya çıkardığını veya toksisiteye neden olup olmadığını belirlemek için hücresel analizlere dayanır, ancak bileşik-doz-zaman-bağlam kombinasyonlarının yalnızca küçük bir kısmı deneysel olarak ölçülebilir. Son pertürbasyon atlasları, tek hücreli ve görüntüleme teknolojileri ve müdahaleye dayalı yapay zeka modelleri artık ölçülmeyen hücresel tepkilerin tahminini test edilebilir bir hedef haline getiriyor. Bu nedenle yapay zeka sanal hücreleri, laboratuvar analizlerinin yerini almak yerine bileşiklere, bağlamlara ve takip deneylerine öncelik vererek geleneksel keşfi tamamlayabilir. Burada, bu yeteneği destekleyen kaynakları ve modelleme ilerlemelerini gözden geçireceğiz, bunların etki mekanizması analizi, etkililik, güvenlik, direnç ve kombinasyon çalışmaları açısından değerlerini değerlendireceğiz ve farmakolojik kullanım için kanıt gerekliliklerini tanımlayacağız. Veri kapsamı, immüno-onkoloji de dahil olmak üzere onkolojiyi, güvenlik değerlendirmesinin kesişen bir kullanım durumu olarak kabul edilebilir erken kanıtlama alanları haline getirir; daha geniş dağıtım, tedirginliğe özgü, mekanik ve karar düzeyinde doğrulama gerektirir."
+    },
+    {
+      "pmid": "42728153",
+      "title": "Centanafadine (Simtriyo): a triple monoamine reuptake inhibitor for ADHD.",
+      "abstract": "",
+      "journal": "Trends Pharmacol Sci",
+      "date": "2026-09-12",
+      "authors": [
+        "Han J",
+        "Jiang C",
+        "Pruitt AA",
+        "Yu Y",
+        "Jiang J"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.tips.2026.08.011",
+      "journal_tier": 1,
+      "impact": 11.0,
+      "section": "diger",
+      "score": 102.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 2.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
     },
     {
       "pmid": "42711198",
@@ -1050,6 +1170,40 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42727817",
+      "title": "Engineered cryo-shocked tumor cells recruit T cells for lung cancer immunotherapy.",
+      "abstract": "Immune checkpoint blockade has transformed cancer therapy, yet its efficacy against solid tumors remains constrained by poor T cell infiltration and an immunosuppressive tumor microenvironment. Achieving localized and sustained chemokine signaling without systemic immune toxicity remains a central unmet challenge for cytokine-based immunotherapy. Here, we presented a cryo-engineered bio-depot platform derived from liquid‑nitrogen-treated (LNT) tumor cells for the site-restricted and controlled delivery of protein therapeutics. The cryo-shocked process preserves cellular integrity and protein bioactivity while abolishing pathogenicity of tumor cells, generating a versatile vehicle for therapeutic payloads. Applying this platform, we constructed LNT depots expressing C-X-C motif ligand 9 (CXCL9), which established a persistent chemokine gradient within the lung after intravenous injection, leading to robust T cell recruitment and augmented tumor growth inhibition. Furthermore, we demonstrated the platform adaptability by engineering LNT cells to secrete aPD-1, which significantly prolonged survival in a murine orthotopic lung cancer model. This cryo-engineered depot integrates the structural fidelity of biomaterials with the functional complexity of living systems, offering a generalizable route for personalized protein therapeutics in cancer immunotherapy.",
+      "journal": "J Control Release",
+      "date": "2026-09-11",
+      "authors": [
+        "Feng H",
+        "Liu F",
+        "Cheng Z",
+        "Zhang H",
+        "Lv W",
+        "Huang H",
+        "Yi X",
+        "He K",
+        "Gu Z",
+        "Li H"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115350",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": "Bağışıklık kontrol noktası blokajı kanser tedavisini dönüştürdü, ancak katı tümörlere karşı etkinliği, zayıf T hücresi infiltrasyonu ve bağışıklık sistemini baskılayan tümör mikro ortamı nedeniyle kısıtlı olmaya devam ediyor. Sistemik immün toksisite olmadan lokalize ve sürekli kemokin sinyalinin elde edilmesi, sitokin bazlı immünoterapi için karşılanmayan merkezi bir zorluk olmaya devam etmektedir. Burada, protein terapötiklerinin alanla sınırlı ve kontrollü dağıtımı için sıvı nitrojenle tedavi edilen (LNT) tümör hücrelerinden türetilmiş, kriyo mühendisliğiyle üretilmiş bir biyo-depo platformu sunduk. Kriyo-şoklama işlemi, tümör hücrelerinin patojenitesini ortadan kaldırırken hücresel bütünlüğü ve protein biyoaktivitesini korur ve terapötik yükler için çok yönlü bir araç oluşturur. Bu platformu uygulayarak, intravenöz enjeksiyondan sonra akciğerde kalıcı bir kemokin gradyanı oluşturan, sağlam T hücresi alımına ve artırılmış tümör büyümesi inhibisyonuna yol açan C-X-C motif ligandı 9'u (CXCL9) eksprese eden LNT depoları oluşturduk. Ayrıca, fare ortotopik akciğer kanseri modelinde sağkalımı önemli ölçüde uzatan aPD-1'i salgılayacak şekilde LNT hücrelerini tasarlayarak platformun uyarlanabilirliğini gösterdik. Kriyo mühendisliğiyle tasarlanan bu depo, biyomateryallerin yapısal doğruluğunu canlı sistemlerin işlevsel karmaşıklığıyla birleştirerek kanser immünoterapisinde kişiselleştirilmiş protein terapötikleri için genelleştirilebilir bir yol sunuyor."
+    },
+    {
       "pmid": "42668077",
       "title": "Pharmacological inhibition of the SUMOylation pathway: Mechanisms, inhibitors and therapeutic opportunities.",
       "abstract": "Small ubiquitin-like modifier (SUMO) conjugation, or SUMOylation, is a dynamic post-translational modification that regulates protein stability, localization, transcriptional activity, DNA damage response, and cellular stress adaptation. Increasing evidence indicates that dysregulated SUMOylation contributes to tumor progression, immune disorders, and neurodegenerative diseases, highlighting the SUMO pathway as a promising therapeutic target. However, despite extensive advances in SUMO biology, a comprehensive pharmacological assessment of SUMO pathway inhibitors, including their mechanisms of action, evidence quality, target engagement, and translational challenges, remains insufficient. This review presents an inhibitor-centered analysis of pharmacological strategies targeting the SUMOylation machinery. This review describes the molecular architecture of the SUMO conjugation cycle and identifies major druggable nodes, including the SUMO-activating enzyme (SAE), the SUMO-conjugating enzyme UBC9, SUMO-specific proteases (SENPs), and SUMO-dependent protein-protein interactions. It also examines the biological rationale for SUMO pathway inhibition in major disease contexts, with an emphasis on cancer, autoimmune disorders, and neurological diseases. Furthermore, SUMO pathway modulators are systematically classified according to their molecular targets and evidence maturity, including SAE inhibitors, UBC9-directed compounds, SENP inhibitors, direct SUMO binders, and natural product-derived modulators. Their mechanisms of action, biochemical potency, structural validation, cellular target engagement, in vivo efficacy, PK/PD properties, and developmental status are critically evaluated. Overall, this review provides a comprehensive pharmacological framework for understanding SUMO pathway inhibition and highlights key considerations for the development of next-generation SUMO-directed therapeutics.",
@@ -1498,6 +1652,62 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42727834",
+      "title": "Mitochondrial homeostasis in musculoskeletal diseases: from pathogenic mechanisms to precision therapies.",
+      "abstract": "Musculoskeletal disorders (MSDs), including osteoporosis (OP), osteoarthritis (OA), and rheumatoid arthritis (RA), represent a stubborn burden in modern medicine. They share a breakdown in mitochondrial homeostasis. Mitochondrial dysfunction serves as a central pathogenic mechanism unifying these conditions and driving a paradigm shift from symptomatic management to mechanism-based therapeutic strategies. In this review, we examine how mitochondrial defects affect key cell types in bone, cartilage, and muscle, including osteoblasts, osteocytes, osteoclasts, chondrocytes, and skeletal muscle cells, with a focus on osteoporosis (OP), osteoarthritis (OA), and rheumatoid arthritis (RA) as the three primary musculoskeletal conditions that share mitochondrial dysfunction as a unifying mechanism. Impaired energy production, altered dynamics, defective quality control, and redox imbalance each contribute to disease progression. These disturbances drive oxidative damage, metabolic reprogramming, impaired mitophagy, and the release of pro-inflammatory signals known as mtDAMPs. Importantly, such defects are not irreversible, we further synthesize the emerging landscape of mitochondria-targeted strategies. These include antioxidants like MitoQ and SkQ1, metabolic modulators such as metformin and NAD⁺ boosters, mitophagy inducers like urolithin A, fission inhibitors including Mdivi-1, senolytic agents, and even mitochondrial transplantation. We conclude by proposing a precision medicine framework that matches specific mitochondrial abnormalities with mechanism-based interventions. Drawing on recent preclinical and clinical evidence, this review positions mitochondrial crosstalk as a promising foundation for developing disease-modifying therapies in musculoskeletal medicine.",
+      "journal": "Pharmacol Res",
+      "date": "2026-09-11",
+      "authors": [
+        "Wen P",
+        "Bai Y",
+        "Yang Z"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.phrs.2026.108441",
+      "journal_tier": 1,
+      "impact": 9.1,
+      "section": "immuno",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": "Osteoporoz (OP), osteoartrit (OA) ve romatoid artrit (RA) dahil olmak üzere kas-iskelet sistemi bozuklukları (MSD'ler), modern tıpta inatçı bir yük oluşturmaktadır. Mitokondriyal homeostazda bir bozulmayı paylaşıyorlar. Mitokondriyal disfonksiyon, bu koşulları birleştiren ve semptomatik tedaviden mekanizmaya dayalı terapötik stratejilere doğru bir paradigma değişimini yönlendiren merkezi bir patojenik mekanizma görevi görür. Bu derlemede mitokondriyal kusurların osteoblastlar, osteositler, osteoklastlar, kondrositler ve iskelet kası hücreleri de dahil olmak üzere kemik, kıkırdak ve kastaki anahtar hücre tiplerini nasıl etkilediğini inceliyoruz; birleştirici bir mekanizma olarak mitokondriyal disfonksiyonu paylaşan üç temel kas-iskelet sistemi durumu olan osteoporoz (OP), osteoartrit (OA) ve romatoid artrit (RA)'ye odaklanıyoruz. Enerji üretiminin bozulması, değişen dinamikler, hatalı kalite kontrolü ve redoks dengesizliğinin her biri hastalığın ilerlemesine katkıda bulunur. Bu bozukluklar oksidatif hasara, metabolik yeniden programlamaya, bozulmuş mitofajiye ve mtDAMP'ler olarak bilinen proinflamatuar sinyallerin salınmasına neden olur. Daha da önemlisi, bu tür kusurlar geri döndürülemez değildir; mitokondri hedefli stratejilerin ortaya çıkan manzarasını daha da sentezliyoruz. Bunlar arasında MitoQ ve SkQ1 gibi antioksidanlar, metformin ve NAD⁺ güçlendiriciler gibi metabolik modülatörler, ürolitin A gibi mitofaji indükleyicileri, Mdivi-1 dahil fisyon inhibitörleri, senolitik ajanlar ve hatta mitokondriyal transplantasyon yer alır. Belirli mitokondriyal anormallikleri mekanizmaya dayalı müdahalelerle eşleştiren hassas bir tıp çerçevesi önererek sonuca varıyoruz. Son zamanlardaki klinik öncesi ve klinik kanıtlardan yararlanan bu derleme, mitokondriyal karışmayı kas-iskelet sistemi tıbbında hastalık değiştirici tedavilerin geliştirilmesi için umut verici bir temel olarak konumlandırıyor."
+    },
+    {
+      "pmid": "42727833",
+      "title": "GPR75: A Dual-Ligand Receptor for 20-HETE and CCL5 with Emerging Roles in Central and Peripheral Regulation of Metabolic Diseases.",
+      "abstract": "G protein-coupled receptor 75 (GPR75) has recently attracted considerable attention as a novel regulator of metabolic, immune, and vascular processes. Current evidence suggests that two structurally distinct molecules have been proposed as candidate endogenous ligands for GPR75: 20-hydroxyeicosatetraenoic acid (20-HETE), a cytochrome P450-derived lipid metabolite, and C-C motif chemokine ligand 5 (CCL5; RANTES), a chemokine involved in immune regulation. Among these ligands, 20-HETE functions as a potent agonist of GPR75, leading to activation of Gαq/11-dependent signaling pathways and β-arrestin recruitment. In contrast, although CCL5 has also been reported to interact with GPR75, its role as a direct receptor agonist remains controversial and may be highly context-dependent. Notably, GPR75 is broadly expressed in tissues involved in the regulation of energy homeostasis, including the hypothalamus, adipose tissue, liver, pancreas, and vascular system. Population genetic studies have demonstrated that loss-of-function variants in GPR75 are associated with a reduced risk of obesity, type 2 diabetes, metabolic dysfunction-associated steatotic liver disease (MASLD), and hypertension. Evidence from animal models further supports a role for GPR75 in the regulation of feeding behavior, insulin sensitivity, lipid metabolism, vascular tone, and inflammatory responses. This review provides a comprehensive overview of the structural characteristics, ligand recognition mechanisms, signaling properties, and tissue distribution of GPR75 and discusses its functions in both the central nervous system and peripheral metabolic tissues. Elucidating how GPR75 integrates, differentiates, and transduces signals derived from these distinct ligands may provide new opportunities for therapeutic intervention in obesity, diabetes, MASLD, and their associated complications.",
+      "journal": "Pharmacol Res",
+      "date": "2026-09-11",
+      "authors": [
+        "Hou YN",
+        "Liu SJ",
+        "Li LM"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.phrs.2026.108452",
+      "journal_tier": 1,
+      "impact": 9.1,
+      "section": "kardiyometabolik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": "G proteinine bağlı reseptör 75 (GPR75), son zamanlarda metabolik, bağışıklık ve vasküler süreçlerin yeni bir düzenleyicisi olarak büyük ilgi görmüştür. Mevcut kanıtlar, GPR75 için aday endojen ligandlar olarak yapısal olarak farklı iki molekülün önerildiğini göstermektedir: sitokrom P450'den türetilmiş bir lipit metaboliti olan 20-hidroksieikosatetraenoik asit (20-HETE) ve bağışıklık düzenlemesinde yer alan bir kemokin olan C-C motifli kemokin ligandı 5 (CCL5; RANTES). Bu ligandlar arasında 20-HETE, GPR75'in güçlü bir agonisti olarak işlev görür ve Gαq/11'e bağımlı sinyal yollarının aktivasyonuna ve β-tutuklayıcı alımına yol açar. Buna karşılık, CCL5'in GPR75 ile etkileşime girdiği bildirilmiş olmasına rağmen, doğrudan reseptör agonisti olarak rolü tartışmalı olmaya devam etmektedir ve büyük ölçüde bağlama bağlı olabilir. Özellikle GPR75, hipotalamus, yağ dokusu, karaciğer, pankreas ve damar sistemi dahil olmak üzere enerji homeostazisinin düzenlenmesinde rol oynayan dokularda geniş çapta eksprese edilir. Popülasyon genetiği çalışmaları, GPR75'teki fonksiyon kaybı varyantlarının obezite, tip 2 diyabet, metabolik fonksiyon bozukluğuyla ilişkili steatotik karaciğer hastalığı (MASLD) ve hipertansiyon riskinde azalma ile ilişkili olduğunu göstermiştir. Hayvan modellerinden elde edilen kanıtlar ayrıca GPR75'in beslenme davranışı, insülin duyarlılığı, lipit metabolizması, vasküler tonus ve inflamatuar yanıtların düzenlenmesindeki rolünü desteklemektedir. Bu derleme, GPR75'in yapısal özellikleri, ligand tanıma mekanizmaları, sinyal özellikleri ve doku dağılımı hakkında kapsamlı bir genel bakış sağlar ve hem merkezi sinir sistemi hem de periferik metabolik dokulardaki fonksiyonlarını tartışır. GPR75'in bu farklı ligandlardan türetilen sinyalleri nasıl entegre ettiğini, farklılaştırdığını ve ilettiğini açıklamak obezite, diyabet, MASLD ve bunlarla ilişkili komplikasyonlara terapötik müdahale için yeni fırsatlar sağlayabilir."
+    },
+    {
       "pmid": "42668073",
       "title": "Eriodictyol regulates LDHB to trigger mitophagy-mediated NLRP3 inflammasome inactivation as a therapeutic strategy for bone loss.",
       "abstract": "Imbalance of bone homeostasis triggers abnormal activation of osteoclasts and impaired osteogenic function, which further exacerbates bone resorption, reduces bone mass, and ultimately induces bone loss. Eriodictyol (ERI) possesses a wide range of biological activities and can effectively inhibit excessive bone destruction. Nevertheless, its role in ameliorating bone loss remains to be further elucidated. In this study, we identified ERI as a natural inhibitor of lactate dehydrogenase B (LDHB) that protects against bone loss, and revealed the molecular mechanism whereby ERI inhibits NLRP3 inflammasome activation via enhancing mitophagy.  To explore the relationship between ERI and osteoclast development and bone resorption, we performed CCK-8 assays, TRAcP staining, and scanning electron microscopy (SEM). RNA sequencing, western blotting, and qPCR were then carried out to dissect the molecular mechanisms by which ERI regulates osteoclast activity. The interaction between ERI and LDHB was evaluated using molecular docking, surface plasmon resonance (SPR), and cellular thermal shift assay (CETSA). Functional manipulation of LDHB through both silencing and overexpression confirmed its regulatory role in osteoclasts. Finally, the protective effect of ERI against systemic bone loss was assessed in vivo using a lipopolysaccharide (LPS)-induced mouse model, with micro-CT analysis and histological immunostaining.  Transcriptomic profiling indicated that ERI exerted suppressive impacts on osteoclast biological behavior, which was tightly linked to mitochondrial autophagy as well as the NLRP3 inflammatory complex. Mechanistically, ERI inactivated the NLRP3 inflammasome by enhancing mitophagy and reducing reactive oxygen species (ROS) formation. In addition, ERI directly and stably targets LDHB. Functional assays demonstrated that altered LDHB expression modulates the activation status of osteoclasts. Notably, ERI modulated osteoclast activity and mitophagy activation in a LDHB‑dependent manner. In vivo experiments further verified that ERI effectively alleviated bone loss triggered by LPS in mice.  Collectively, our findings confirm that ERI maintains bone homeostasis by regulating PINK1/Parkin-mediated mitophagy and suppressing NLRP3 inflammasome activation, which may provide a novel natural candidate for the treatment of bone loss-related diseases.",
@@ -1629,67 +1839,38 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42706774",
-      "title": "Metabolic remodelling in anthracycline cardiotoxicity: mechanisms and therapeutic insights.",
-      "abstract": "Anthracyclines remain a cornerstone of anticancer therapy, but their clinical use is limited by cancer therapy-related cardiac dysfunction, a major contributor to long-term cardiovascular morbidity in cancer survivors. Although traditionally attributed to oxidative stress, DNA damage and mitochondrial toxicity, emerging evidence identifies disruption of metabolism as a central mechanism of anthracycline-induced cardiotoxicity. Anthracycline exposure promotes a distinct metabolic phenotype characterized by impaired mitochondrial oxidative phosphorylation, dysregulated metabolism of fatty acids and glucose, along with decreased metabolic flexibility, ultimately resulting in inefficient myocardial energetics. These changes are modulated by the patient's underlying cardiometabolic status, suggesting that metabolic reserve influences susceptibility to injury. In addition to direct myocardial effects, anthracyclines induce systemic metabolic changes that affect substrate availability and inter-organ communication. This review focuses on cardiotoxicity induced by anthracyclines, particularly by doxorubicin, highlighting mitochondrial dysfunction, altered substrate utilization and metabolic inflexibility in comparison with other cardiac diseases. We also discuss the newly emerging metabolic strategies aimed at improving cardioprotection.",
-      "journal": "Br J Pharmacol",
-      "date": "2026-09-07",
+      "pmid": "42727832",
+      "title": "DPYD c.85T>C, DPYD c.496A>G, and DPYD c.2194G>A and severe toxicity to fluoropyrimidines in PREPARE and Alpe-DPD trials. An original study and meta-analysis.",
+      "abstract": "Current DPYD genotyping panels used to prevent fluoropyrimidine (FL)-related toxicity explain only a limited proportion of severe adverse events. The clinical relevance, beyond current testing, of additional DPYD variants, including DPYD⁎6 (c.2194G>A, rs1801160), DPYD c.496A>G (rs2297595), and DPYD⁎9A (c.85T>C, rs1801265) remains debated. This study evaluated each polymorphism individually, irrespective of the allelic configuration at the other investigated loci, and as part of three-locus haplotypes in relation to severe FL-related toxicity. For single-variant effects, data from patients enrolled in two trials (PREPARE, Italian cohort; Alpe-DPD) were combined with 31 eligible published studies in a meta-analysis comprising 33 studies and 17,485 patients, with subgroup analyses by ethnicity. Haplotype analyses were performed in the 1,296 trial participants. LC-MS was applied to evaluate plasma uracil and dihydrouracil levels. In the meta-analysis, DPYD c.2194G>A (OR=1.70; 95%CI: 1.48-1.95) and c.496A>G (OR=1.55; 95%CI: 1.19-2.02) were associated with FL toxicity. No overall association was observed for c.85T>C; however, it improved c.496A>G associated risk prediction in a haplotype analysis. Haplotype #3 (minor c.496G with major c.85T) was consistently associated with increased severe overall toxicity (PREPARE: OR=2.62, 95%CI: 1.06-6.50; Alpe-DPD: OR=2.09, 95%CI: 1.01-4.37) and gastrointestinal toxicity (PREPARE: OR=5.65, 95%CI: 2.11-15.15; Alpe-DPD: OR=2.71, 95%CI: 1.23-5.97). An exploratory Receiver Operating Characteristic (ROC) curve analysis demonstrated a significant incremental gain in risk discrimination achieved by adding DPYD c.85T>C to a model that already included c.496A>G. Haplotype #4 (minor alleles at both loci) was not associated with toxicity, suggesting a functional interaction between the variants. DPYD c.2194G>A did not add to haplotype-based stratification. In PREPARE, pre-treatment plasma uracil and dihydrouracil confirmed reduced DPD function in haplotype #3 carriers. Overall, DPYD c.2194G>A and c.496A>G increased severe FL-toxicity risk when evaluated individually, whereas the integration of c.85T>C refined risk prediction in a haplotype-based approach, supporting further refinement of pharmacogenetic risk stratification.",
+      "journal": "Pharmacol Res",
+      "date": "2026-09-11",
       "authors": [
-        "Guerra G",
-        "Niro F",
-        "Mergiotti M",
-        "Gavatorta G",
-        "Hirsch E",
-        "Ghigo A"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1111/bph.70666",
-      "journal_tier": 1,
-      "impact": 6.8,
-      "section": "kardiyometabolik",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42723361",
-      "title": "Tetramethylpyrazine ameliorates metabolic dysfunction-associated steatohepatitis by modulating gut microbiota dysbiosis and restoring intestinal barrier integrity.",
-      "abstract": "BACKGROUND AND PURPOSE: This study investigated the therapeutic effects and gut-liver axis-related mechanisms of tetramethylpyrazine (TMP) in metabolic dysfunction-associated steatohepatitis (MASH). EXPERIMENTAL APPROACH: Male C57BL/6 mice were fed a methionine- and choline-deficient (MCD) diet for 6 weeks to establish MASH. TMP or pioglitazone was administered during the final 3 weeks. Hepatic injury, intestinal barrier integrity, gut microbiota, bile acids (BAs), short-chain fatty acids (SCFAs) and faecal metabolomics were assessed using histology, biochemical assays, RT-qPCR, western blotting, 16S rDNA sequencing and metabolomics. Faecal microbiota transplantation (FMT) and lipopolysaccharide (LPS)-stimulated Caco-2 cells were used to evaluate microbiota-dependent and direct intestinal protective effects of TMP. KEY RESULTS: TMP alleviated hepatic steatosis, inflammation and fibrosis in MCD-fed mice. TMP decreased hepatic macrophage infiltration and inflammatory cytokines, including TNF-α, IL-1β and IL-6. In the intestine, TMP restored epithelial structure, increased faecal sIgA, reduced serum LPS, D-lactate, zonulin and TNF-α and up-regulated Claudin-1, ZO-1 and Occludin. TMP improved gut microbial diversity, suppressed proinflammatory bacteria and enriched beneficial taxa. FMT from TMP-treated donors partially reproduced the hepatoprotective effects in recipient mice. TMP further restored BA and SCFA homeostasis, regulated the FXR/FGF15/CYP7A1 axis and remodelled faecal metabolic profiles associated with lipid peroxidation and inflammation. In Caco-2 cells, TMP attenuated LPS-induced IL-1β and IL-6 expression and restored Occludin expression. CONCLUSION AND IMPLICATIONS: TMP exerts protective effects against MCD diet-induced MASH by improving hepatic pathology and restoring gut-liver axis homeostasis, including intestinal barrier integrity, gut microbiota composition, BA and SCFA metabolism and faecal metabolic balance.",
-      "journal": "Br J Pharmacol",
-      "date": "2026-09-10",
-      "authors": [
-        "He X",
-        "Zhang L",
-        "Zhu Y",
-        "Liu W",
-        "You J",
-        "Chen W",
-        "Fu X",
-        "Yang S",
-        "Shao Y",
-        "Hu Y",
-        "Li Y",
-        "Zheng M",
-        "Yang H",
-        "Ge G",
-        "Yao Z",
-        "He Y"
+        "De Mattia E",
+        "Polesel J",
+        "van der Lee M",
+        "Bohringer S",
+        "Gambron M",
+        "Perfler S",
+        "Roncato R",
+        "Canil G",
+        "Posocco B",
+        "Cats A",
+        "Mathijssen RHJ",
+        "Guchelaar HJ",
+        "Schellens JHM",
+        "Gelderblom H",
+        "Spina M",
+        "Puglisi F",
+        "Swen JJ",
+        "Cecchin E"
       ],
       "pubtypes": [
         "Journal Article"
       ],
-      "doi": "10.1111/bph.70640",
+      "doi": "10.1016/j.phrs.2026.108451",
       "journal_tier": 1,
-      "impact": 6.8,
-      "section": "kardiyometabolik",
+      "impact": 9.1,
+      "section": "toksikoloji",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
@@ -1697,201 +1878,7 @@
         "recency": 0.0
       },
       "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42723360",
-      "title": "GPER stimulation attenuates mitochondrial dysfunction and cardiac dysfunction in ovariectomized mice with heart failure with preserved ejection fraction (HFpEF).",
-      "abstract": "BACKGROUND: Heart failure with preserved ejection fraction (HFpEF) is prevalent among postmenopausal women and is strongly linked to estrogen deficiency. G-protein coupled estrogen receptor (GPER) mediates non-genomic estrogen signalling and exerts cardiovascular protective effects. Its role in the pathogenesis of HFpEF remains unclear. This study aimed to explore whether GPER activation could attenuate mitochondrial dysfunction and cardiac damage in ovariectomized (OVX) mice with HFpEF. METHODS: Circulating GPER levels were measured in postmenopausal women with HFpEF and healthy controls. A correlation analysis was performed to assess the associations between GPER and cardiac function. Female C57BL/6J mice underwent ovariectomy and were fed with high-fat diet and l-NAME to induce HFpEF. Mice were treated with the GPER agonist G-1 for 4 weeks. Cardiac function, histological changes, oxidative stress, mitochondrial function and mitophagy were evaluated in vivo and in vitro. RESULTS: Serum GPER levels were significantly higher in postmenopausal women with HFpEF and correlated with NT-proBNP and E/e'. In OVX mice with HFpEF, GPER expression was up-regulated, and G-1 improved diastolic function, reduced myocardial hypertrophy and oxidative stress. Importantly, G-1 restored mitochondrial ATP production, normalized mitochondrial dynamics and promoted mitophagy in vivo and in vitro. These effects were associated with activation of the AMPK/ULK1 pathway. Inhibition of AMPK diminished the protective effects of G-1 in cardiomyocytes. CONCLUSIONS: GPER agonist G-1 ameliorated mitochondrial dysfunction, promoted mitophagy and alleviated cardiac diastolic dysfunction in OVX mice with HFpEF, partially through the AMPK/ULK1 pathway, indicating GPER as a therapeutic target for postmenopausal women with HFpEF.",
-      "journal": "Br J Pharmacol",
-      "date": "2026-09-10",
-      "authors": [
-        "Qi M",
-        "Sun R",
-        "Wang Q",
-        "Zhu L",
-        "Li M",
-        "Wang W",
-        "Fan X",
-        "Yu J"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1111/bph.70661",
-      "journal_tier": 1,
-      "impact": 6.8,
-      "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42703160",
-      "title": "Behind the photographs: Close relations between German pharmacologists and the British Pharmacological Society in the 1930s observed through the diary of Wolfgang Heubner.",
-      "abstract": "In the 1930s, the British Pharmacological Society was founded and rapidly established itself, with Sir Henry Dale, Harold Burn and Ernest Verney playing leading roles. At the same time, with the rise of National Socialism in Germany, many pharmacologists were persecuted for their Jewish ethnicity or for political reasons, resulting in a substantial migration of scientists to the UK. Using recently discovered photographs found in the Department of Pharmacology at the University of Oxford, together with the detailed diary of German pharmacologist Wolfgang Heubner held at Hannover Medical School, this study reveals close relationships between British pharmacologists, German pharmacologists and persecuted pharmacologists. Members of these groups met informally in the UK on several occasions up to just 2 months before the outbreak of the Second World War. Within these settings, scientific ideas were exchanged freely and collaborative projects discussed. Photographs, diary entries and meeting records provide substantial evidence of strong personal and professional relationships formed through both scientific and social interactions. In these contexts, political differences do not appear to have overtly disrupted scientific exchange or social interaction. The photographs further suggest that genuine friendships existed between British pharmacologists, German colleagues associated with the National Socialist regime and persecuted German-Jewish scientists. Together, these findings demonstrate how long-standing collaborations, shared professional identities and common collective goals helped sustain relationships during a period of profound political division.",
-      "journal": "Br J Pharmacol",
-      "date": "2026-09-07",
-      "authors": [
-        "Burns EM",
-        "Engelmann C",
-        "Goebels NS",
-        "Schneider H",
-        "McKeown S",
-        "Platt FM",
-        "Seifert R"
-      ],
-      "pubtypes": [
-        "Editorial"
-      ],
-      "doi": "10.1111/bph.70654",
-      "journal_tier": 1,
-      "impact": 6.8,
-      "section": "diger",
-      "score": 75.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": -25,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": "1930'larda İngiliz Farmakoloji Derneği kuruldu ve Sir Henry Dale, Harold Burn ve Ernest Verney'in başrol oynamasıyla hızla kuruldu. Aynı zamanda, Almanya'da Nasyonal Sosyalizmin yükselişiyle birlikte birçok farmakolog, Yahudi etnik kökenleri nedeniyle veya siyasi nedenlerden dolayı zulüm gördü ve bu da bilim adamlarının önemli bir kısmının Birleşik Krallık'a göç etmesine neden oldu. Oxford Üniversitesi Farmakoloji Bölümü'nde yakın zamanda keşfedilen fotoğrafların yanı sıra Alman farmakolog Wolfgang Heubner'in Hannover Tıp Fakültesi'nde tutulan ayrıntılı günlüğü kullanılarak yapılan bu çalışma, İngiliz farmakologlar, Alman farmakologlar ve zulüm gören farmakologlar arasındaki yakın ilişkileri ortaya koyuyor. Bu grupların üyeleri, İkinci Dünya Savaşı'nın patlak vermesinden sadece 2 ay öncesine kadar çeşitli vesilelerle Birleşik Krallık'ta gayri resmi olarak bir araya geldi. Bu ortamlarda bilimsel fikirler özgürce paylaşıldı ve işbirlikçi projeler tartışıldı. Fotoğraflar, günlük kayıtları ve toplantı kayıtları, hem bilimsel hem de sosyal etkileşimler yoluyla oluşan güçlü kişisel ve mesleki ilişkilerin önemli kanıtlarını sağlar. Bu bağlamlarda siyasi farklılıklar bilimsel alışverişi veya sosyal etkileşimi açık bir şekilde kesintiye uğratmış gibi görünmüyor. Fotoğraflar ayrıca İngiliz farmakologlar, Nasyonal Sosyalist rejimle bağlantılı Alman meslektaşları ve zulme uğrayan Alman-Yahudi bilim adamları arasında gerçek dostlukların var olduğunu gösteriyor. Bu bulgular, uzun süredir devam eden işbirliklerinin, ortak profesyonel kimliklerin ve ortak kolektif hedeflerin, derin bir siyasi bölünme döneminde ilişkilerin sürdürülmesine nasıl yardımcı olduğunu gösteriyor."
-    },
-    {
-      "pmid": "42715878",
-      "title": "From molecular to microenvironmental reprogramming: Multi-target strategies of flavonoids to overcome paclitaxel resistance in triple-negative breast cancer.",
-      "abstract": "BACKGROUND: Breast cancer is the most common malignancy in women. Triple-negative breast cancer (TNBC), due to a lack of effective targets, has a particularly poor prognosis. The efficacy of paclitaxel, a core chemotherapeutic drug, is often limited by multidrug resistance in tumor cells. Flavonoids, natural polyphenols with multi-pathway intervention properties, show significant potential for reversing this resistance, yet their clinical use is hindered by low bioavailability. Thus, understanding how Flavonoids overcome resistance and combining them with advanced delivery systems are key to developing new TNBC therapies. PURPOSE: This review systematically outlines the multi-dimensional mechanisms of paclitaxel resistance in TNBC and elucidates how Flavonoids reverse this resistance by regulating ferroptosis, key signaling pathways, epigenetic programs, and the immune microenvironment. It further discusses advanced delivery systems to facilitate clinical translation, providing a theoretical basis for developing effective, low-toxicity chemosensitization strategies against TNBC. METHODS: We systematically reviewed PubMed (PubMed), Web of Science (https://www.webofscience.com/), and ScienceDirect (http://www.sciencedirect.com/) databases, spanning relevant studies from 2005 to 2026. Article selection was performed in strict accordance with the PRISMA guidelines. Furthermore, manual screening and citation tracking were implemented based on pre-defined inclusion and exclusion criteria to ensure the accuracy and comprehensiveness of the study. RESULTS: TNBC resistance to paclitaxel is driven by ferroptosis evasion, pro-survival signaling, epigenetic reprogramming, and a \"cold\" tumor microenvironment. Flavonoids counteract this by inducing ferroptosis via the glutathione-glutathione peroxidase 4 (GSH-GPX4)/Kelch-like ECH-associated protein 1 (KEAP1)-nuclear factor erythroid 2-related factor 2 (NRF2) axis inhibiting signaling networks, remodeling epigenetics, and immunomodulating the TME, thereby synergizing with paclitaxel. Additionally, advanced delivery systems, including prodrug self-assembly, metal-organic framework (MOF)-based carriers, and biomimetic targeting, significantly improve the bioavailability, targeting, and safety of the treatment. CONCLUSION: Complex TNBC paclitaxel resistance necessitates multi-target approaches. Flavonoids systematically dismantle resistance barriers and synergize with paclitaxel, while advanced delivery systems overcome pharmacokinetic limitations. Integrating these strategies offers a promising therapeutic solution, though further in vivo and clinical validation is required to confirm efficacy and safety.",
-      "journal": "Phytomedicine",
-      "date": "2026-08-27",
-      "authors": [
-        "Zhang M",
-        "Chang Y",
-        "Shen J",
-        "Hu Y"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phymed.2026.158759",
-      "journal_tier": 1,
-      "impact": 6.7,
-      "section": "klinik",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": "AMAÇ: Meme kanseri kadınlarda en sık görülen malignitedir. Etkili hedeflerin bulunmaması nedeniyle üçlü negatif meme kanserinin (TNBC) özellikle kötü prognozu vardır. Temel kemoterapötik ilaç olan paklitakselin etkinliği genellikle tümör hücrelerindeki çoklu ilaç direnci nedeniyle sınırlıdır. Çok yollu müdahale özelliklerine sahip doğal polifenoller olan flavonoidler, bu direnci tersine çevirmek için önemli bir potansiyel gösterir, ancak bunların klinik kullanımı düşük biyoyararlanım nedeniyle engellenmektedir. Bu nedenle, Flavonoidlerin direnci nasıl yendiğini anlamak ve bunları gelişmiş dağıtım sistemleriyle birleştirmek, yeni TNBC tedavileri geliştirmenin anahtarıdır. AMAÇ: Bu derleme, TNBC'deki paklitaksel direncinin çok boyutlu mekanizmalarını sistematik olarak özetlemekte ve Flavonoidlerin ferroptozu, anahtar sinyal yollarını, epigenetik programları ve bağışıklık mikro ortamını düzenleyerek bu direnci nasıl tersine çevirdiğini açıklamaktadır. Ayrıca, TNBC'ye karşı etkili, düşük toksisiteli kemosensitizasyon stratejileri geliştirmek için teorik bir temel sağlayarak klinik çeviriyi kolaylaştırmak için gelişmiş dağıtım sistemlerini tartışmaktadır. YÖNTEMLER: 2005'ten 2026'ya kadar ilgili çalışmaları kapsayan PubMed (PubMed), Web of Science (https://www.webofscience.com/) ve ScienceDirect (http://www.sciencedirect.com/) veritabanlarını sistematik olarak inceledik. Makale seçimi, PRISMA kurallarına tam olarak uygun olarak yapıldı. Ayrıca çalışmanın doğruluğunu ve kapsamlılığını sağlamak için önceden tanımlanmış dahil etme ve hariç tutma kriterlerine dayalı olarak manuel tarama ve alıntı takibi uygulandı. SONUÇLAR: Paklitaksele karşı TNBC direnci, ferroptozdan kaçınma, hayatta kalma yanlısı sinyalleme, epigenetik yeniden programlama ve \"soğuk\" tümör mikro ortamı tarafından yönlendirilir. Flavonoidler, glutatyon-glutatyon peroksidaz 4 (GSH-GPX4) / Kelch benzeri ECH ile ilişkili protein 1 (KEAP1) -nükleer faktör eritroid 2 ile ilişkili faktör 2 (NRF2) ekseni yoluyla ferroptozu indükleyerek sinyal ağlarını inhibe ederek, epigenetiği yeniden şekillendirerek ve TME'yi immünomodülleyerek bu durumu ortadan kaldırır, böylece paklitaksel ile sinerji oluşturur. Ek olarak, ön ilacın kendi kendine birleşmesi, metal-organik çerçeve (MOF) bazlı taşıyıcılar ve biyomimetik hedefleme dahil olmak üzere gelişmiş dağıtım sistemleri, tedavinin biyoyararlanımını, hedeflemesini ve güvenliğini önemli ölçüde artırır. SONUÇ: Kompleks TNBC paklitaksel direnci çok hedefli yaklaşımları gerektirmektedir. Flavonoidler sistematik olarak direnç bariyerlerini ortadan kaldırır ve paklitaksel ile sinerji oluştururken, gelişmiş dağıtım sistemleri farmakokinetik sınırlamaların üstesinden gelir. Bu stratejilerin entegre edilmesi umut verici bir terapötik çözüm sunar, ancak etkinlik ve güvenliği doğrulamak için daha fazla in vivo ve klinik doğrulama yapılması gerekir."
-    },
-    {
-      "pmid": "42700714",
-      "title": "Agrimol B induces autophagic death in TP53-mutant pancreatic cancer by targeting the S100A6-HDAC2-mutant p53 acetylation axis.",
-      "abstract": "BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) harbors TP53 mutations at high frequency, yet therapeutic strategies that specifically target mutant p53 remain limited. PURPOSE: This study aimed to identify S100A6, a calcium-binding protein frequently upregulated in TP53-mutant PDAC, as a critical regulator of mutant p53 stability and tumor progression, and to explore potential S100A6-targeting agents for therapeutic intervention. METHODS: We integrated computer-assisted drug screening with transcriptomics, acetylation omics, and molecular biology techniques to identify Agrimol B (AgrB), a bioactive compound derived from the traditional Chinese herb Agrimonia pilosa Ledeb., as a potential S100A6-targeting agent. RESULTS: High S100A6 expression was closely associated with poor prognosis in patients with TP53-mutant PDAC, whereas S100A6 depletion markedly suppressed PDAC cell growth and metastatic potential. Mechanistically, AgrB enhanced the interaction between S100A6 and the deacetylase HDAC2, leading to reduced acetylation of mutant p53 at lysine 382. This disruption activated autophagy-dependent cell death and thereby inhibited PDAC progression. CONCLUSION: Our findings reveal an S100A6-HDAC2-mutant p53 acetylation axis that regulates TP53-mutant pancreatic tumorigenesis, providing mechanistic evidence supporting S100A6 as a therapeutic vulnerability and highlighting AgrB as a promising natural-product-derived candidate for further development against this aggressive malignancy.",
-      "journal": "Phytomedicine",
-      "date": "2026-08-26",
-      "authors": [
-        "Xu R",
-        "Xia L",
-        "Zhou W",
-        "Chen X",
-        "Jiang Y",
-        "Yan Y",
-        "Xiong Q",
-        "Lu D",
-        "Chen H",
-        "Wu T",
-        "Jin J",
-        "Zhang W",
-        "Luan X"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.phymed.2026.158760",
-      "journal_tier": 1,
-      "impact": 6.7,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42700713",
-      "title": "Curcumin enhances mycobacterial clearance in diabetes-tuberculosis by targeting the WNT6.",
-      "abstract": "BACKGROUND: The convergence of tuberculosis (TB) and diabetes mellitus (DM) represents a critical global health challenge. Chronic hyperglycemia compromises macrophage bactericidal capacity, leading to excessive reactive oxygen species (ROS) accumulation and proinflammatory microenvironment that causing pathological damage to the lungs and paradoxically favors Mtb survival. OBJECTIVE: This study aimed to investigate the therapeutic potential of curcumin in mitigating metabolic-immune dysfunction in DM-TB comorbidity via WNT6-mediated macrophage modulation. METHODS: This study established a Type 2 Diabetes (T2D) mouse model using C57BL/6 mice, Mice were infected with H37Rv via inhalation, followed by curcumin administration. Various methodologies were employed, including RNA sequencing, flow cytometry, seahorse and Confocal Microscopy. THP-1 cells and bone marrow-derived macrophages (BMDMs) were differentiated and used for infection studies, assessing cell viability and intracellular bacterial burden. RESULTS: Curcumin effectively reversed the pathological alterations associated with hyperglycemia. Specifically, it suppressed WNT6 expression, reduced lipid droplet formation, and decreased FAO in macrophages. Additionally, curcumin mitigated oxidative stress, restored immune homeostasis, and enhanced Mtb clearance. CONCLUSION: Curcumin emerged as a viable intervention for strengthening host defense against TB in diabetic populations.",
-      "journal": "Phytomedicine",
-      "date": "2026-08-23",
-      "authors": [
-        "Lu H",
-        "Liu G",
-        "Li W",
-        "Xu Y",
-        "Li J",
-        "Lin J",
-        "Zeng L",
-        "Yang Q",
-        "Yang J",
-        "Deng G",
-        "Chen X",
-        "Wang W"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.phymed.2026.158753",
-      "journal_tier": 1,
-      "impact": 6.7,
-      "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42705181",
-      "title": "Nimbolide competitively binds to the 14-3-3 epsilon with TFEB to promote lipophagy and ameliorate atherosclerosis.",
-      "abstract": "BACKGROUND: Atherosclerosis, driven by macrophage foam cell formation and lipid accumulation, remains inadequately addressed by current pharmacotherapies, necessitating novel natural therapeutic strategies. Nimbolide (NIM), a limonoid derived from Azadirachta indica, possesses established anti-inflammatory properties, yet its efficacy against atherosclerosis and underlying mechanisms remain elusive. PURPOSE: The study was designed to assess the impact of NIM on treating atherosclerosis, focusing on cholesterol efflux and lipophagy. STUDY DESIGN: The study combined both in vivo atherosclerotic mouse modeling and in vitro macrophage foam cell studies. METHODS: Apolipoprotein E-deficient (ApoE-/-) mice fed a high-fat diet received NIM to assess therapeutic effect. Oxidized low-density lipoprotein was used to induce macrophage foam cell formation, and effects of NIM on cholesterol efflux and lipophagy were assessed by western blot, immunofluorescence and electron microscopy. Cellular thermal shift assay (CETSA), surface plasmon resonance (SPR), and co-immunoprecipitation (Co-IP) were employed to investigate molecular interactions. A TFEB-knockdown mouse model was used to evaluate the mediating role of transcription factor EB (TFEB). RESULTS: NIM administration dose-dependently attenuated aortic plaque burden, improved serum lipid profiles, and reduced vascular inflammation in ApoE-/- mice. In macrophages, NIM enhanced cholesterol efflux via upregulation of ATP-binding cassette transporter A1/G1 and activated lipophagy through TFEB nuclear translocation. Mechanistically, NIM directly bound 14-3-3 epsilon and competitively displaced TFEB, thereby promoting TFEB dephosphorylation and autophagy-lysosomal activation. TFEB knockdown abolished NIM-mediated lipophagy and atheroprotection both in vitro and in vivo. CONCLUSION: NIM exerts anti-atherosclerotic effects by disrupting the 14-3-3 epsilon/TFEB interaction to enhance macrophage cholesterol clearance and lipophagy, identifying this axis as a promising therapeutic target for atherosclerosis.",
-      "journal": "Phytomedicine",
-      "date": "2026-08-31",
-      "authors": [
-        "Qin Y",
-        "Zhou Y",
-        "Liu C",
-        "Zou J",
-        "He C"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.phymed.2026.158774",
-      "journal_tier": 1,
-      "impact": 6.7,
-      "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": "AMAÇ: Makrofaj köpük hücre oluşumu ve lipit birikiminin yol açtığı ateroskleroz, mevcut farmakoterapiler tarafından yetersiz bir şekilde ele alınmakta ve yeni doğal tedavi stratejileri gerektirmektedir. Azadirachta indica'dan türetilen bir limonoid olan Nimbolid (NIM), yerleşik anti-inflamatuar özelliklere sahiptir, ancak ateroskleroza ve altta yatan mekanizmalara karşı etkinliği hala belirsizdir. AMAÇ: Çalışma, kolesterol akışı ve lipofajiye odaklanarak NIM'in ateroskleroz tedavisindeki etkisini değerlendirmek için tasarlandı. ÇALIŞMA TASARIMI: Çalışma, hem in vivo aterosklerotik fare modellemeyi hem de in vitro makrofaj köpük hücre çalışmalarını birleştirdi. YÖNTEMLER: Yüksek yağlı diyetle beslenen Apolipoprotein E eksikliği olan (ApoE-/-) farelere, terapötik etkiyi değerlendirmek için NIM verildi. Makrofaj köpük hücresi oluşumunu indüklemek için oksitlenmiş düşük yoğunluklu lipoprotein kullanıldı ve NIM'in kolesterol akışı ve lipofaji üzerindeki etkileri western blot, immünofloresan ve elektron mikroskobu ile değerlendirildi. Moleküler etkileşimleri araştırmak için hücresel termal kayma tahlili (CETSA), yüzey plazmon rezonansı (SPR) ve ortak immünopresipitasyon (Co-IP) kullanıldı. Transkripsiyon faktörü EB'nin (TFEB) aracılık rolünü değerlendirmek için bir TFEB-yıkma fare modeli kullanıldı. SONUÇLAR: ApoE-/- farelerde NIM uygulaması doza bağlı olarak aort plak yükünü azalttı, serum lipit profillerini iyileştirdi ve vasküler inflamasyonu azalttı. Makrofajlarda NIM, ATP bağlayıcı kaset taşıyıcı A1/G1'in yukarı regülasyonu yoluyla kolesterol akışını arttırdı ve TFEB nükleer translokasyonu yoluyla lipofajiyi aktive etti. Mekanik olarak NIM, 14-3-3 epsilon'a doğrudan bağlandı ve rekabetçi bir şekilde TFEB'nin yerini aldı, böylece TFEB defosforilasyonunu ve otofaji-lizozomal aktivasyonunu teşvik etti. TFEB yıkımı, hem in vitro hem de in vivo olarak NIM aracılı lipofajiyi ve aterokortlamayı ortadan kaldırdı. SONUÇ: NIM, makrofaj kolesterol temizliğini ve lipofajiyi arttırmak için 14-3-3 epsilon/TFEB etkileşimini bozarak anti-aterosklerotik etkiler gösterir ve bu ekseni ateroskleroz için umut verici bir terapötik hedef olarak tanımlar."
+      "abstract_tr": "Floropirimidin (FL) ile ilişkili toksisiteyi önlemek için kullanılan mevcut DPYD genotipleme panelleri, ciddi yan etkilerin yalnızca sınırlı bir kısmını açıklamaktadır. DPYD⁎6 (c.2194G>A, rs1801160), DPYD c.496A>G (rs2297595) ve DPYD⁎9A (c.85T>C, rs1801265) dahil olmak üzere ek DPYD varyantlarının mevcut testlerin ötesinde klinik önemi hala tartışmalıdır. Bu çalışma, incelenen diğer lokuslardaki alelik konfigürasyondan bağımsız olarak her polimorfizmi ayrı ayrı ve şiddetli FL ile ilişkili toksisiteyle ilişkili olarak üç lokuslu haplotiplerin bir parçası olarak değerlendirdi. Tek değişkenli etkiler için, iki çalışmaya (PREPARE, İtalyan kohortu; Alpe-DPD) kayıtlı hastalardan elde edilen veriler, etnik kökene göre alt grup analizleri ile 33 çalışma ve 17.485 hastadan oluşan bir meta-analizde 31 uygun yayınlanmış çalışma ile birleştirildi. 1.296 deneme katılımcısında haplotip analizleri yapıldı. Plazma urasil ve dihidrourasil seviyelerini değerlendirmek için LC-MS uygulandı. Meta-analizde DPYD c.2194G>A (OR=1.70; 95%CI: 1.48-1.95) ve c.496A>G (OR=1.55; 95%CI: 1.19-2.02) FL toksisitesi ile ilişkilendirildi. c.85T>C için genel bir ilişki gözlemlenmedi; ancak haplotip analizinde c.496A>G ile ilişkili risk tahminini iyileştirdi. Haplotip #3 (minör c.496G ve majör c.85T) sürekli olarak artan şiddetli genel toksisite (PREPARE: OR=2,62, %95CI: 1,06-6,50; Alpe-DPD: OR=2,09, %95CI: 1,01-4,37) ve gastrointestinal toksisite (PREPARE: OR=5,65, %95CI:) ile ilişkilendirildi. 2,11-15,15; Alpe-DPD: OR=2,71, %95CI: 1,23-5,97). Keşif amaçlı bir Alıcı İşletim Karakteristiği (ROC) eğrisi analizi, hali hazırda c.496A>G'yi içeren bir modele DPYD c.85T>C'nin eklenmesiyle elde edilen risk ayrımında önemli bir artış elde edildiğini gösterdi. Haplotip #4 (her iki lokustaki küçük aleller) toksisite ile ilişkili değildi, bu da varyantlar arasında fonksiyonel bir etkileşim olduğunu düşündürüyordu. DPYD c.2194G>A haplotip bazlı sınıflandırmaya katkıda bulunmadı. PREPARE'de ön tedavi plazma urasil ve dihidrourasil, haplotip #3 taşıyıcılarında DPD fonksiyonunun azaldığını doğruladı. Genel olarak, DPYD c.2194G>A ve c.496A>G, ​​ayrı ayrı değerlendirildiğinde şiddetli FL toksisite riskini artırırken c.85T>C'nin entegrasyonu, farmakogenetik risk sınıflandırmasının daha da iyileştirilmesini destekleyerek haplotip bazlı bir yaklaşımda risk tahminini iyileştirdi."
     }
   ]
 }
