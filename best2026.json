@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T10:26:37+00:00",
+  "updated": "2026-09-13T11:28:20+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -110,6 +110,31 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42728395",
+      "title": "Selective oestrogen receptor degrader class grows with new cancer approval.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-11",
+      "authors": [
+        "Mullard A"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00151-0",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42727408",
       "title": "Application of human liver cell models in drug development and toxicity studies: The role of membrane transporters.",
       "abstract": "The critical involvement of hepatic transporters in both physiological and pathological processes, including metabolic diseases, drug metabolism, and toxicity, represents a key issue in pharmacology. The expression and localization of transporters involved in hepatic functions are especially important in new drug development and toxicology studies. Because of major species differences in transporter expression, localization, and substrate recognition, the value of animal experiments is limited in this regard, and human liver cell preparations are already available to allow relevant in vitro studies. Currently, the gold standard for in vitro studies is the primary human liver cell preparation. However, the interindividual heterogeneity, low reproducibility, and high price of such preparations are prohibiting their widespread use. Hepatocytes derived from liver tumors are widely used in toxicology studies, but each of these cell lines has specific advantages and shortcomings. Stem cell-based liver cell preparations, especially spheroids and organoids derived from human induced pluripotent stem cells, may serve as a new toolbox for studying a variety of membrane transporters and complex metabolic interactions in human hepatocytes. These advanced preparations, although currently somewhat premature, should provide an excellent basis for comprehensive in vitro functional assays. The present paper provides a comparative review of our current understanding of the pharmacological relevance of hepatic transporters, their interactions with the key players of general drug metabolism, their complex regulation, as well as the recent methodologies to apply human-relevant in vitro systems in drug development and toxicology studies. SIGNIFICANCE STATEMENT: This review addresses the critical need for advanced human liver models in drug development, moving away from animal testing and inadequate tumor-derived cells. By evaluating emerging stem cell-derived 2D and 3D cultures, it highlights the often-overlooked role of membrane transporters-crucial for understanding how drugs enter and exit cells. This work provides a roadmap for creating physiologically accurate models to better predict drug safety, efficacy, and toxicity in humans.",
@@ -171,6 +196,102 @@
       "abstract_tr": "Klasik olarak mekanik bir iskele olarak görülmesine rağmen, iskelet, sistemik biyofiziksel ve biyokimyasal ipuçlarını bütünleştiren dinamik bir endokrin ve duyusal merkez olarak giderek daha fazla tanınmaktadır. Bu derlemede, devre seviyesinde yeniden modelleme programlarını çoklu organ homeostazisine bağlayan bir ağ tıbbı çerçevesi olan 'iskelet konnektomunu' önererek iskelet fizyolojisini yeniden düşünüyoruz. Yapısal olarak, öncelikle kemiğin yeniden şekillenmesinin hücresel mantığını inceleyerek osteoblastların, osteoklastların ve osteositlerin, durum geçişleri topoloji, bölümlendirme ve metabolik/biyofiziksel geçitleme ile sınırlanan plastik ağ düğümleri olarak nasıl hareket ettiklerini vurguluyoruz. Daha sonra, kemiği bağışıklık, metabolik, sinir ve kas sistemlerine bağlayan çift yönlü eksenleri detaylandırarak makroskobik konnektom mimarisini haritalandırıyoruz. Bu çerçevede, mekanometabolik dejenerasyon, otoimmün hastalık, endokrin-metabolik kırılganlık ve kemik metastazını kapsayan çeşitli iskelet bozukluklarını sistematik olarak yeniden değerlendiriyoruz. Bu koşulları, sistemik iletişim ağlarındaki belirli kesintilerin sonucu olarak kavramsallaştırıyoruz. Translasyonel bir perspektiften bakıldığında, bu konnektom paradigması, işlevsiz devreleri yeniden yapılandırmak için tasarlanmış, hedeflenen protein yıkımı ve mRNA bazlı ilaçlar gibi hassas terapötiklerin değerlendirilmesine rehberlik eder. Son olarak, gelecekteki kişiselleştirilmiş rejim tasarımında gerçek dünya kanıtlarını tamamlayacak şekilde, yerleşik klinik araçlardan ziyade, umut verici kavramsal/çevirisel durumlarını vurgulayarak, dijital iskelet ikizleri ve in silico klinik çalışmaları gibi yeni ortaya çıkan kavramları tartışıyoruz. ÖNEM BEYANI: Bu derleme, sistemik homeostazı sürdürmek için mekanik, metabolik ve bağışıklık devrelerini bütünleştiren dinamik bir duyusal ve endokrin merkez olarak kemiği yeniden tanımlayan 'iskelet konnektom' çerçevesini önermektedir. Çeşitli patolojileri izole kusurlar yerine karakteristik ağ arıza modları olarak haritalandıran bu çalışma, mRNA terapötikleri ve dijital iskelet ikizleri tarafından yönlendirilen hedeflenen protein bozunması dahil olmak üzere hassas bozulmalar yoluyla işlevsiz devrelerin yeniden kablolanması için çevirisel bir yol haritasının ana hatlarını çiziyor."
     },
     {
+      "pmid": "42730869",
+      "title": "GLP-1 Receptor Agonists and Musculoskeletal Outcomes: A Systematic Literature Review and Meta-Analysis.",
+      "abstract": "INTRODUCTION: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for the treatment of type 2 diabetes and obesity, but their effects on musculoskeletal health remain completely misunderstood. OBJECTIVE: This systematic review/meta-analysis aims to synthesise clinical data on the effects of GLP-1 RAs on key relevant bone, muscle, and joint outcomes. METHODS: MEDLINE, Cochrane Central Register of Controlled Trials (CENTRAL) (both via Ovid® platform) and Embase were searched from inception to March 2025 to identify relevant randomised controlled trials (RCTs) or real-world evidence (RWE) studies to be included. This bibliographic search was completed manually. A random-effect model meta-analysis was performed for any outcome reported in at least 2 studies. Subgroup analyses were performed on the type of GLP-1 RAs, type of comparator used and study design. Sensitivity analyses (i.e., leave-out sensitivity analyses and analyses restricted to the most adjusted effect estimate) were performed to test the robustness of the data. The strength of evidence was assessed using GRADE. This work has been performed in adherence with PRISMA statement. (PROSPERO Record ID: CRD420251024082). RESULTS: From 1148 potentially relevant references, 60 articles (46 RCTs, 13 RWE studies and 1 pharmacovigilance study, comprising 1,250,717 individuals) met our inclusion criteria. Different GLP-1 RAs were represented across the panel of studies, i.e., semaglutide, liraglutide, exenatide, dulaglutide, tirzepatide (dual agonist gastric inhibitory polypeptide [GIP]/GLP-1) and others. No effect on bone outcomes (i.e., bone mineral density [all sites] and fractures [all sites]) were observed when the meta-analytical models included the most adjusted effect size. Regarding muscle outcomes, a significant decrease of lean body mass/fat-free mass was consistently observed with GLP-1 RAs in the global model (k = 28, standardised mean difference [SMD] 0.52, 95% confidence interval [CI] -0.8; -0.23, I2 88%, p-value for heterogeneity <0.0001), which remained robust in all sensitivity analyses. Subgroup analyses showed that the effect was mainly driven by liraglutide and semaglutide, with a decrease in lean body mass/fat-free mass observed when GLP-1 RAs were compared with placebo. No publication bias was found. Regarding joint outcome, models revealed no significant change in The Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) pain, physical function and stiffness. CONCLUSIONS: This meta-analysis is the first to investigate the effects of GLP-1 RAs on a large panel of musculoskeletal health outcomes. While no significant effects were observed on bone- or joint-related outcomes, GLP-1 RAs were associated with reductions in lean body mass/fat-free mass, although the certainty of evidence was low and these changes appeared largely related to weight loss. Whether these changes translate into clinically meaningful impairments in muscle function or physical performance remains uncertain. Further studies in this field, including those looking at muscle function, strength or performance and using multivariate models considering confounding are needed to better reinforce the models and final findings.",
+      "journal": "Drugs",
+      "date": "2026-09-12",
+      "authors": [
+        "Beaudart C",
+        "Malréchauffé Y",
+        "van Heden S",
+        "Sanchez-Rodriguez D",
+        "Scheen A",
+        "Bruyère O",
+        "Mobasheri A",
+        "Duque G",
+        "Rizzoli R",
+        "Reginster JY",
+        "Thiyagarajan JA"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "doi": "10.1007/s40265-026-02365-3",
+      "journal_tier": 1,
+      "impact": 13.4,
+      "section": "klinik",
+      "score": 140.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 40,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42730868",
+      "title": "Safety Profile of the Non-steroidal Anti-inflammatory Drug Celecoxib in the Short-Term Management of Acute Non-cancer Pain: A Systematic Review with Meta-analysis of Randomised Controlled Trials.",
+      "abstract": "OBJECTIVE: To summarise the literature regarding the safety of short-term use of the non-steroidal anti-inflammatory drug (NSAID) celecoxib. STUDY DESIGN: Systematic review with meta-analysis of randomised trials. Participants comprised individuals of all ages with acute non-cancer pain. Interventions included celecoxib at 200-400 mg/day for up to 10 days. The comparators were placebo, other NSAIDs (including cyclooxygenase-2 [COX-2] inhibitors and non-selective NSAIDS [nsNSAIDS]), or opioids. DATA SOURCES: Five databases were searched from inception to April 2025: Embase, Web of Science, MEDLINE, Cochrane Central Register of Controlled Trials, and Scopus. Additionally, a registry was searched: ClinicalTrials.gov. DATA SYNTHESIS: Meta-analyses using Mantel-Haenszel and random-effects model were used to calculate risk ratios (RRs) and 95% confidence intervals (CIs) for severe cardiovascular, respiratory, and gastrointestinal adverse events and secondary outcomes. The Cochrane Risk of Bias Tool for randomised trials (RoB-2) was used to assess bias risk. The Grading of Recommendation Assessment, Development and Evaluation (GRADE) was conducted to assess the certainty of evidence of each reported outcome. RESULTS: Title/abstract and full text screening comprised 3976 and 273 studies, respectively. Fifty studies were included with 10,693 participants. The RRs for adverse events were no different between celecoxib and placebo for severe events (3 studies) (RR 0.44 [95% CI 0.10-2.03]), cardiovascular (3 studies) (RR 0.84 [95% CI 0.24-2.92]), respiratory (4 studies) (RR 1.23 [95% CI 0.29-5.26]), and gastrointestinal events (33 studies) (RR 0.96 [95% CI 0.64-1.43]). There was no difference between celecoxib and NSAIDS for gastrointestinal adverse events, RR 0.89 (95% CI 0.68-1.17). Celecoxib had a lower risk compared to opioids for gastrointestinal events, RR 0.34 (95% CI 0.14-0.86), and showed a lower risk of nausea compared with placebo, RR 0.75 (95% CI 0.60-0.93), and nsNSAIDS, RR 0.80 (95% CI 0.64-0.99). Most studies had some risk of bias concerns, and the overall certainty of evidence for most outcomes was very low. Celecoxib appears to be safe for acute non-cancer pain when compared to placebo, NSAIDS, and opioids. It had a lower risk compared to opioids for gastrointestinal adverse events in general, nausea and vomiting, as well as a lower risk for nausea adverse events when compared to placebo and nsNSAIDS. REGISTRATION: PROSPERO-CRD42025642152.",
+      "journal": "Drugs",
+      "date": "2026-09-12",
+      "authors": [
+        "Mesa-Castrillon C",
+        "Tian Y",
+        "Hughes J",
+        "Beckenkamp P",
+        "Hall M",
+        "Papadimitriou D",
+        "Ferreira P"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "doi": "10.1007/s40265-026-02377-z",
+      "journal_tier": 1,
+      "impact": 13.4,
+      "section": "noro",
+      "score": 140.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 40,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42730872",
+      "title": "Current and Emerging Biomarkers and Surrogate Endpoints in Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD).",
+      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD), formerly known as non-alcoholic fatty liver disease (NAFLD), is a prevalent condition affecting 25-30% of the global population and is closely linked to obesity, type 2 diabetes, and other cardiometabolic risk factors. Although liver biopsy remains the gold standard for diagnosis, its invasive nature has prompted a shift toward non-invasive biomarkers for disease assessment, staging, and monitoring. Multiple non-invasive biomarkers have been studied or are currently under investigation to assess both fibrosis and steatosis among patients with MASLD. This review aims to summarize the current literature on emerging and established biomarkers for MASLD, focusing on their roles in detecting inflammation, fibrosis, metabolic dysfunction, and steatosis, including imaging-based surrogate endpoints and composite biomarker panels.",
+      "journal": "Drugs",
+      "date": "2026-09-12",
+      "authors": [
+        "Alamgir M",
+        "Sohal A",
+        "Kowdley KV"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1007/s40265-026-02369-z",
+      "journal_tier": 1,
+      "impact": 13.4,
+      "section": "kardiyometabolik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42714746",
       "title": "Atacicept: First Approval.",
       "abstract": "Atacicept (atacicept-vymj; TRUTAKNA™) is a human recombinant fusion glycoprotein targeting B lymphocyte stimulator [BLyS; also known as B cell-activating factor (BAFF)] and A proliferation-inducing ligand (APRIL) being developed by Vera Therapeutics, under a license from Merck Serono. On 7 July 2026, atacicept received accelerated approval in the USA to reduce proteinuria in adults with primary immunoglobulin A nephropathy (IgAN) at risk for disease progression. In patients with IgAN, atacicept produced sustained reductions in proteinuria across the ORIGIN clinical development program and stabilized estimated glomerular filtration rates through 96 weeks. This article summarizes the milestones in the development of atacicept leading to this first approval for IgAN.",
@@ -194,6 +315,56 @@
       },
       "tier": 2,
       "abstract_tr": "Atacicept (atacicept-vymj; TRUTAKNA™), B lenfosit stimülatörünü [BLyS; B hücresi aktive edici faktör (BAFF) olarak da bilinir] ve A proliferasyonu indükleyen ligand (APRIL), Merck Serono lisansı altında Vera Therapeutics tarafından geliştirilmektedir. 7 Temmuz 2026'da atasisept, hastalığın ilerlemesi riski taşıyan primer immünoglobulin A nefropatisi (IgAN) olan yetişkinlerde proteinüriyi azaltmak için ABD'de hızlandırılmış onay aldı. IgAN'li hastalarda atasicept, ORIGIN klinik geliştirme programı boyunca proteinüride sürekli azalmalar sağladı ve tahmini glomerüler filtrasyon oranlarını 96 hafta boyunca stabilize etti. Bu makale, IgAN için bu ilk onaya yol açan atasiceptin geliştirilmesindeki kilometre taşlarını özetlemektedir."
+    },
+    {
+      "pmid": "42730871",
+      "title": "Doravirine/Islatravir: First Approval.",
+      "abstract": "Doravirine/islatravir is an oral two-drug fixed-dose combination of doravirine [a non-nucleoside reverse transcriptase inhibitor (NNRTI)] and islatravir [a nucleoside reverse transcriptase translocation inhibitor (NRTTI)]. Developed by Merck & Co., Inc., Rahway, NJ, USA, doravirine/islatravir [IDVYNSO® イドビンソ® (Japan); IDVYNSO™ (USA); IDVYNSO® (Canada)] was first approved on 6 March 2026 in Japan and subsequently approved on 21 April 2026 in the USA and 3 June 2026 in Canada for the treatment of HIV-1 infection in adults who are virologically suppressed (HIV-1 RNA < 50 copies/mL). Clinical development is underway in several other countries worldwide. This article summarizes the milestones in the development of doravirine/islatravir leading to these first approvals.",
+      "journal": "Drugs",
+      "date": "2026-09-12",
+      "authors": [
+        "Hoy SM"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s40265-026-02367-1",
+      "journal_tier": 1,
+      "impact": 13.4,
+      "section": "antimikrobiyal",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42730870",
+      "title": "Anbenitamab: First Approval.",
+      "abstract": "Anbenitamab (Ennituo®), a bispecific IgG monoclonal antibody targeting human epidermal growth factor receptor 2 (HER2), is being developed by Alphamab Oncology for the treatment of various solid tumours (including gastric cancer and breast cancer). Anbenitamab received its first approval in China on 27 May 2026. Anbenitamab, in combination with chemotherapy, is approved for the treatment of adult patients with locally advanced or metastatic HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma who have previously received at least one trastuzumab-containing therapy. This article summarizes the milestones in the development of anbenitamab leading to this first approval for gastric or GEJ cancer.",
+      "journal": "Drugs",
+      "date": "2026-09-12",
+      "authors": [
+        "Blair HA"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s40265-026-02382-2",
+      "journal_tier": 1,
+      "impact": 13.4,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
     },
     {
       "pmid": "42702251",
@@ -435,6 +606,66 @@
       "journal_tier": 1,
       "impact": 12.0,
       "section": "noro",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42731583",
+      "title": "Neuroregulation as a modulatory force in immune checkpoint inhibitor resistance: mechanistic neuro-immune crosstalk informing biomarker-led diagnosis and targetable therapeutic sensitization.",
+      "abstract": "Immune checkpoint inhibitor (ICI) resistance remains a major challenge. This review discusses emerging evidence that neuroregulation constitutes an underrecognized regulatory layer in ICI resistance and summarizes its mechanistic, biomarker, and therapeutic implications. Mechanistically, neural components can modulate antitumor immunity through signaling, structural, spatial, and metabolic routes. Neural signaling may contribute to T-cell dysfunction by stabilizing exhausted phenotypes, increasing the expression of inhibitory receptors, and suppressing effector cytokine production. Neuroglial cells and neuropeptides further exacerbate immunosuppression through the induction of regulatory T cells and the reprogramming of myeloid cells. Beyond causing functional impairment, neuroregulation alters the spatial distribution of immune cells by inhibiting chemokine networks essential for the recruitment of dendritic cells and cytotoxic T cells, thereby promoting immune-excluded and immune-cold tumor states. Neural injury creates perineural immunosuppressive niches enriched in immunoregulatory tumor-associated macrophage states and regulatory T cells, which can extend into the broader tumor microenvironment and restrict CD8+ T-cell infiltration and function. Neural inputs also reshape the metabolism of tumor and immune cells, establishing neuro-metabolic-immune circuits that limit effector cell fitness and reinforce ICI resistance. Therapeutically, pharmacological targeting of neural pathways, along with emerging bioelectronic and ex vivo neuro-immune strategies, may enhance the efficacy of ICIs across various tumor models. Neural abundance and injury signatures also emerge as potentially clinically relevant biomarkers that complement immune-centric predictors of response. Overall, neuroregulation provides a biologically coherent and potentially targetable framework for understanding and overcoming ICI resistance.",
+      "journal": "Pharmacol Ther",
+      "date": "2026-09-12",
+      "authors": [
+        "Ma M",
+        "Hu G",
+        "Hao Y",
+        "Yu H",
+        "Mou R",
+        "Jia Y"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.pharmthera.2026.109124",
+      "journal_tier": 1,
+      "impact": 12.0,
+      "section": "onko",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42731582",
+      "title": "Galectin-3 and its inhibitors: Overview and perspectives.",
+      "abstract": "Galectin-3, a β-galactoside-binding lectin, is a driver and regulator of inflammation and fibrosis, and its levels are elevated in some heart and lung diseases. It also serves as a biomarker for the risk and severity of some forms of heart failure and, potentially, for various other pathological conditions. These observations make galectin-3 a promising potential therapeutic target. Both genetic and pharmacological inhibition of galectin-3 have been shown to ameliorate renal dysfunction and exert protective effects against liver fibrosis in animal models. Several galectin-3 inhibitors have been developed for therapeutic application in various pathological conditions. This review examines the progress of the development of 161 galectin-3 inhibitors, including monosaccharides, oligosaccharides, natural polysaccharides and their derivatives, carbohydrate polymers, antibody-drug conjugates, and non-carbohydrate compounds. Structure-activity relationships are emerging for these inhibitors, and the atypical binding pockets of galectin-3 have informed the development of a pharmacophore model that is expected to guide the design and discovery of potent, selective inhibitors for treatment of cancer, inflammation, and fibrosis.",
+      "journal": "Pharmacol Ther",
+      "date": "2026-09-12",
+      "authors": [
+        "Liu S",
+        "Wu S",
+        "He F",
+        "Ding K"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.pharmthera.2026.109125",
+      "journal_tier": 1,
+      "impact": 12.0,
+      "section": "kardiyometabolik",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -1621,264 +1852,6 @@
       },
       "tier": 1,
       "abstract_tr": "Metabolik yeniden programlama ve düzenlenmiş hücre ölümüne (RCD) karşı direnç, tümör mikro ortamının (TME) terapötik başarısızlığa yol açan temel özellikleridir. Ortaya çıkan kanıtlar, glutamat, dopamin, 5-hidroksitriptamin (5-HT) ve norepinefrin dahil olmak üzere nörotransmitter sinyal ağlarının, tümör metabolizmasının, bağışıklık modülasyonunun ve hücre kaderinin kritik düzenleyicileri olarak işlev görmek üzere sinirsel iletişimin ötesine uzandığını göstermektedir. Bu nörotransmiterler, birbirine bağlı metabolik ve sinyal mekanizmaları yoluyla ferroptoz, kuproptoz ve PANoptoz gibi birçok RCD yöntemini etkiler. Glutamat, bölme ve yolla açıkça çözülür: yüksek hücre dışı glutamat, Sistem Xc⁻'yi inhibe eder, sistin alımını ve glutatyon sentezini kısıtlar ve ferroptozu destekler; oysa hücre içi glutamat üretimi, glutaminoliz, SLC7A11-bağlı glutamat ihracatı ve reseptör aracılı sinyallemenin farklı, bağlama bağlı sonuçları vardır. Dopamin ve 5-HT, reseptör alt tipine özgü metabolik yeniden bağlantı yoluyla bağlama bağlı etkiler gösterir. Norepinefrin de dahil olmak üzere sempatik nörotransmiterler, β₂-adrenerjik sinyalleme yoluyla glikolizi ve laktat kaynaklı immünosupresyonu artırır. Buna paralel olarak bağırsak-beyin ekseni, mikrobiyotadan türetilmiş nörotransmitter öncüllerinin ve metabolitlerinin mevcudiyetini şekillendirerek tümörün RCD'ye duyarlılığını modüle eder. Mekanik olarak nörotransmiter sinyallemesi, redoks homeostazisini, lipid peroksidasyonunu, mitokondriyal hassasiyeti ve inflamatuar sinyallemeyi düzenleyerek RCD programlarında birleşir. Bu gözlemleri birleştiren bu inceleme, nöral sinyallemeyi, mikrobiyal metabolizmayı ve tümör hücresi ölümü kararlarını birbirine bağlayan \"Nörotransmitter-Yeni Hücre Ölümü-Bağırsak-Beyin Ekseni\" adı verilen kavramsal bir çerçeve önermektedir. Bu çerçeveye dayanarak, metabolik plastisitenin, bağışıklıktan kaçınmanın ve tedavi direncinin üstesinden gelmek için reseptör alt tipine özgü nörotransmiter modülasyonunu RCD yollarının seçici indüksiyonu ile birleştiren terapötik stratejileri vurguluyoruz. Bu entegre nöro-metabolik ölüm ağını hedeflemek, mevcut ve yeni ortaya çıkan antikanser tedavilerine karşı tümör duyarlılığını artırmak için klinik olarak eyleme geçirilebilir bir yol sunabilir."
-    },
-    {
-      "pmid": "42722240",
-      "title": "Metal-Based Epigenetic Therapeutics in Cancer: Mechanisms, Targets, and Opportunities for Overcoming Drug Resistance.",
-      "abstract": "Epigenetic dysregulation is a hallmark of cancer and contributes to tumor initiation, progression, metastasis, and therapeutic resistance. Consequently, epigenetic drugs (epidrugs) targeting DNA methylation, histone modifications, and chromatin-associated proteins have emerged as an important class of anticancer agents. Approved therapies such as DNA methyltransferase inhibitors (DNMTis) and histone deacetylase inhibitors (HDACis) have demonstrated clinical benefit, particularly in hematological malignancies; however, their efficacy is often limited by off-target toxicity, acquired resistance, and incomplete target selectivity. In recent years, metallorganic compounds have gained attention as a novel generation of epigenetic modulators. The incorporation of metal centers provides unique structural, redox, and coordination properties that enable interactions with multiple epigenetic targets and facilitate the design of multifunctional agents. This review summarizes the major classes of epidrugs and discusses emerging metallorganic epigenetic therapeutics based on ruthenium, platinum, tin, copper, iridium, iron, technetium, rhenium, and gold. We examine their mechanisms of action against key epigenetic regulators, including DNMTs, HDACs, histone methyltransferases, bromodomain proteins, and chromatin-associated complexes. Particular attention is given to the potential of metal-based epidrugs to overcome therapeutic resistance through multimodal mechanisms that combine epigenetic reprogramming with modulation of DNA damage responses, oxidative stress, protein homeostasis, and chromatin organization. Although most metallorganic epidrugs remain in preclinical development, accumulating evidence suggests that they may offer advantages over conventional organic epigenetic inhibitors by enabling multi-target engagement and more durable antitumor responses. Together, these findings highlight the growing potential of metal-based epigenetic therapies and support their further development as innovative strategies for precision oncology.",
-      "journal": "Pharmacol Res",
-      "date": "2026-09-10",
-      "authors": [
-        "Astapczuk J",
-        "Szewczyk-Roszczenko OK",
-        "Vassetzky Y",
-        "Czarnomysy R"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phrs.2026.108449",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "onko",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42727834",
-      "title": "Mitochondrial homeostasis in musculoskeletal diseases: from pathogenic mechanisms to precision therapies.",
-      "abstract": "Musculoskeletal disorders (MSDs), including osteoporosis (OP), osteoarthritis (OA), and rheumatoid arthritis (RA), represent a stubborn burden in modern medicine. They share a breakdown in mitochondrial homeostasis. Mitochondrial dysfunction serves as a central pathogenic mechanism unifying these conditions and driving a paradigm shift from symptomatic management to mechanism-based therapeutic strategies. In this review, we examine how mitochondrial defects affect key cell types in bone, cartilage, and muscle, including osteoblasts, osteocytes, osteoclasts, chondrocytes, and skeletal muscle cells, with a focus on osteoporosis (OP), osteoarthritis (OA), and rheumatoid arthritis (RA) as the three primary musculoskeletal conditions that share mitochondrial dysfunction as a unifying mechanism. Impaired energy production, altered dynamics, defective quality control, and redox imbalance each contribute to disease progression. These disturbances drive oxidative damage, metabolic reprogramming, impaired mitophagy, and the release of pro-inflammatory signals known as mtDAMPs. Importantly, such defects are not irreversible, we further synthesize the emerging landscape of mitochondria-targeted strategies. These include antioxidants like MitoQ and SkQ1, metabolic modulators such as metformin and NAD⁺ boosters, mitophagy inducers like urolithin A, fission inhibitors including Mdivi-1, senolytic agents, and even mitochondrial transplantation. We conclude by proposing a precision medicine framework that matches specific mitochondrial abnormalities with mechanism-based interventions. Drawing on recent preclinical and clinical evidence, this review positions mitochondrial crosstalk as a promising foundation for developing disease-modifying therapies in musculoskeletal medicine.",
-      "journal": "Pharmacol Res",
-      "date": "2026-09-11",
-      "authors": [
-        "Wen P",
-        "Bai Y",
-        "Yang Z"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phrs.2026.108441",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "immuno",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": "Osteoporoz (OP), osteoartrit (OA) ve romatoid artrit (RA) dahil olmak üzere kas-iskelet sistemi bozuklukları (MSD'ler), modern tıpta inatçı bir yük oluşturmaktadır. Mitokondriyal homeostazda bir bozulmayı paylaşıyorlar. Mitokondriyal disfonksiyon, bu koşulları birleştiren ve semptomatik tedaviden mekanizmaya dayalı terapötik stratejilere doğru bir paradigma değişimini yönlendiren merkezi bir patojenik mekanizma görevi görür. Bu derlemede mitokondriyal kusurların osteoblastlar, osteositler, osteoklastlar, kondrositler ve iskelet kası hücreleri de dahil olmak üzere kemik, kıkırdak ve kastaki anahtar hücre tiplerini nasıl etkilediğini inceliyoruz; birleştirici bir mekanizma olarak mitokondriyal disfonksiyonu paylaşan üç temel kas-iskelet sistemi durumu olan osteoporoz (OP), osteoartrit (OA) ve romatoid artrit (RA)'ye odaklanıyoruz. Enerji üretiminin bozulması, değişen dinamikler, hatalı kalite kontrolü ve redoks dengesizliğinin her biri hastalığın ilerlemesine katkıda bulunur. Bu bozukluklar oksidatif hasara, metabolik yeniden programlamaya, bozulmuş mitofajiye ve mtDAMP'ler olarak bilinen proinflamatuar sinyallerin salınmasına neden olur. Daha da önemlisi, bu tür kusurlar geri döndürülemez değildir; mitokondri hedefli stratejilerin ortaya çıkan manzarasını daha da sentezliyoruz. Bunlar arasında MitoQ ve SkQ1 gibi antioksidanlar, metformin ve NAD⁺ güçlendiriciler gibi metabolik modülatörler, ürolitin A gibi mitofaji indükleyicileri, Mdivi-1 dahil fisyon inhibitörleri, senolitik ajanlar ve hatta mitokondriyal transplantasyon yer alır. Belirli mitokondriyal anormallikleri mekanizmaya dayalı müdahalelerle eşleştiren hassas bir tıp çerçevesi önererek sonuca varıyoruz. Son zamanlardaki klinik öncesi ve klinik kanıtlardan yararlanan bu derleme, mitokondriyal karışmayı kas-iskelet sistemi tıbbında hastalık değiştirici tedavilerin geliştirilmesi için umut verici bir temel olarak konumlandırıyor."
-    },
-    {
-      "pmid": "42727833",
-      "title": "GPR75: A Dual-Ligand Receptor for 20-HETE and CCL5 with Emerging Roles in Central and Peripheral Regulation of Metabolic Diseases.",
-      "abstract": "G protein-coupled receptor 75 (GPR75) has recently attracted considerable attention as a novel regulator of metabolic, immune, and vascular processes. Current evidence suggests that two structurally distinct molecules have been proposed as candidate endogenous ligands for GPR75: 20-hydroxyeicosatetraenoic acid (20-HETE), a cytochrome P450-derived lipid metabolite, and C-C motif chemokine ligand 5 (CCL5; RANTES), a chemokine involved in immune regulation. Among these ligands, 20-HETE functions as a potent agonist of GPR75, leading to activation of Gαq/11-dependent signaling pathways and β-arrestin recruitment. In contrast, although CCL5 has also been reported to interact with GPR75, its role as a direct receptor agonist remains controversial and may be highly context-dependent. Notably, GPR75 is broadly expressed in tissues involved in the regulation of energy homeostasis, including the hypothalamus, adipose tissue, liver, pancreas, and vascular system. Population genetic studies have demonstrated that loss-of-function variants in GPR75 are associated with a reduced risk of obesity, type 2 diabetes, metabolic dysfunction-associated steatotic liver disease (MASLD), and hypertension. Evidence from animal models further supports a role for GPR75 in the regulation of feeding behavior, insulin sensitivity, lipid metabolism, vascular tone, and inflammatory responses. This review provides a comprehensive overview of the structural characteristics, ligand recognition mechanisms, signaling properties, and tissue distribution of GPR75 and discusses its functions in both the central nervous system and peripheral metabolic tissues. Elucidating how GPR75 integrates, differentiates, and transduces signals derived from these distinct ligands may provide new opportunities for therapeutic intervention in obesity, diabetes, MASLD, and their associated complications.",
-      "journal": "Pharmacol Res",
-      "date": "2026-09-11",
-      "authors": [
-        "Hou YN",
-        "Liu SJ",
-        "Li LM"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phrs.2026.108452",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "kardiyometabolik",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": "G proteinine bağlı reseptör 75 (GPR75), son zamanlarda metabolik, bağışıklık ve vasküler süreçlerin yeni bir düzenleyicisi olarak büyük ilgi görmüştür. Mevcut kanıtlar, GPR75 için aday endojen ligandlar olarak yapısal olarak farklı iki molekülün önerildiğini göstermektedir: sitokrom P450'den türetilmiş bir lipit metaboliti olan 20-hidroksieikosatetraenoik asit (20-HETE) ve bağışıklık düzenlemesinde yer alan bir kemokin olan C-C motifli kemokin ligandı 5 (CCL5; RANTES). Bu ligandlar arasında 20-HETE, GPR75'in güçlü bir agonisti olarak işlev görür ve Gαq/11'e bağımlı sinyal yollarının aktivasyonuna ve β-tutuklayıcı alımına yol açar. Buna karşılık, CCL5'in GPR75 ile etkileşime girdiği bildirilmiş olmasına rağmen, doğrudan reseptör agonisti olarak rolü tartışmalı olmaya devam etmektedir ve büyük ölçüde bağlama bağlı olabilir. Özellikle GPR75, hipotalamus, yağ dokusu, karaciğer, pankreas ve damar sistemi dahil olmak üzere enerji homeostazisinin düzenlenmesinde rol oynayan dokularda geniş çapta eksprese edilir. Popülasyon genetiği çalışmaları, GPR75'teki fonksiyon kaybı varyantlarının obezite, tip 2 diyabet, metabolik fonksiyon bozukluğuyla ilişkili steatotik karaciğer hastalığı (MASLD) ve hipertansiyon riskinde azalma ile ilişkili olduğunu göstermiştir. Hayvan modellerinden elde edilen kanıtlar ayrıca GPR75'in beslenme davranışı, insülin duyarlılığı, lipit metabolizması, vasküler tonus ve inflamatuar yanıtların düzenlenmesindeki rolünü desteklemektedir. Bu derleme, GPR75'in yapısal özellikleri, ligand tanıma mekanizmaları, sinyal özellikleri ve doku dağılımı hakkında kapsamlı bir genel bakış sağlar ve hem merkezi sinir sistemi hem de periferik metabolik dokulardaki fonksiyonlarını tartışır. GPR75'in bu farklı ligandlardan türetilen sinyalleri nasıl entegre ettiğini, farklılaştırdığını ve ilettiğini açıklamak obezite, diyabet, MASLD ve bunlarla ilişkili komplikasyonlara terapötik müdahale için yeni fırsatlar sağlayabilir."
-    },
-    {
-      "pmid": "42668073",
-      "title": "Eriodictyol regulates LDHB to trigger mitophagy-mediated NLRP3 inflammasome inactivation as a therapeutic strategy for bone loss.",
-      "abstract": "Imbalance of bone homeostasis triggers abnormal activation of osteoclasts and impaired osteogenic function, which further exacerbates bone resorption, reduces bone mass, and ultimately induces bone loss. Eriodictyol (ERI) possesses a wide range of biological activities and can effectively inhibit excessive bone destruction. Nevertheless, its role in ameliorating bone loss remains to be further elucidated. In this study, we identified ERI as a natural inhibitor of lactate dehydrogenase B (LDHB) that protects against bone loss, and revealed the molecular mechanism whereby ERI inhibits NLRP3 inflammasome activation via enhancing mitophagy.  To explore the relationship between ERI and osteoclast development and bone resorption, we performed CCK-8 assays, TRAcP staining, and scanning electron microscopy (SEM). RNA sequencing, western blotting, and qPCR were then carried out to dissect the molecular mechanisms by which ERI regulates osteoclast activity. The interaction between ERI and LDHB was evaluated using molecular docking, surface plasmon resonance (SPR), and cellular thermal shift assay (CETSA). Functional manipulation of LDHB through both silencing and overexpression confirmed its regulatory role in osteoclasts. Finally, the protective effect of ERI against systemic bone loss was assessed in vivo using a lipopolysaccharide (LPS)-induced mouse model, with micro-CT analysis and histological immunostaining.  Transcriptomic profiling indicated that ERI exerted suppressive impacts on osteoclast biological behavior, which was tightly linked to mitochondrial autophagy as well as the NLRP3 inflammatory complex. Mechanistically, ERI inactivated the NLRP3 inflammasome by enhancing mitophagy and reducing reactive oxygen species (ROS) formation. In addition, ERI directly and stably targets LDHB. Functional assays demonstrated that altered LDHB expression modulates the activation status of osteoclasts. Notably, ERI modulated osteoclast activity and mitophagy activation in a LDHB‑dependent manner. In vivo experiments further verified that ERI effectively alleviated bone loss triggered by LPS in mice.  Collectively, our findings confirm that ERI maintains bone homeostasis by regulating PINK1/Parkin-mediated mitophagy and suppressing NLRP3 inflammasome activation, which may provide a novel natural candidate for the treatment of bone loss-related diseases.",
-      "journal": "Pharmacol Res",
-      "date": "2026-08-29",
-      "authors": [
-        "Wang Y",
-        "Pu W",
-        "Su Y",
-        "Liu Z",
-        "Yang B",
-        "Lu J",
-        "Li X",
-        "Liu Q",
-        "Xu J",
-        "Song F"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.phrs.2026.108418",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "immuno",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2
-    },
-    {
-      "pmid": "42702341",
-      "title": "HIF-1 exerts a double-edged sword regulatory role in hippocampal neuronal PANoptosis of Alzheimer's disease through HK2/VDAC1/NLRP3 axis and RIPK3 signal.",
-      "abstract": "Extensive neuronal loss in brain regions critical for learning and memory is a hallmark of Alzheimer's disease (AD). PANoptosis, a newly characterized form of programmed cell death, integrates the key features of pyroptosis, apoptosis and necroptosis, and explains the molecular crosstalk among these pathways. However, whether PANoptosis is a new manner for hippocampal neuron death in AD, and the involved regulatory mechanisms remains largely unknown. Here, we demonstrate that PANoptosis is a crucial mechanism driving hippocampal neuronal loss in an AD mouse model. Moreover, we uncovered that the HIF-1 signaling pathway exerts a double-edged sword effect on hippocampal neuronal PANoptosis by activating the HK2/VDAC1/NLRP3 axis while concurrently suppressing RIPK3 signal. This observation may offer a partial explanation for the double-edged sword role of HIF-1 as both a neuroprotective and neurotoxic factor in AD. Finally, we uncovered that semaglutide, a glucagon-like peptide-1 receptor agonist (GLP-1RA), mitigates hippocampal neuronal PANoptosis by reprograming the double-eged sword effect of HIF-1 mediated by GLP-1R-AMPK signaling pathway, highlighting its potential as a therapeutic avenue for AD. These findings uncover a previously unrecognized role of PANoptosis in AD and provide new insights into the HIF-1-mediated regulatory mechanisms, offering a promising target for therapeutic intervention.",
-      "journal": "Pharmacol Res",
-      "date": "2026-09-06",
-      "authors": [
-        "Wang S",
-        "Luo L",
-        "Jiang X",
-        "Hai J",
-        "Liu W",
-        "Zhou X",
-        "Li Y",
-        "Yang L"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.phrs.2026.108440",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "noro",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42716236",
-      "title": "Metformin alleviates type 2 diabetes-related depressive-like behaviors via AKAP150 signaling in NAc D1 Medium Spiny Neurons.",
-      "abstract": "Type 2 diabetes mellitus (T2DM) exhibits high comorbidity with depression, and progressive synaptic maladaptation of D1- and D2-expressing medium spine neurons (D1/D2-MSNs) in the nucleus accumbens (NAc) is critical involved in this pathological process. The first-line hypoglycemic drug metformin has been suggested to alleviates depressive symptoms. A-kinase anchoring protein 150 (AKAP150) modulates postsynaptic AMPA receptor (AMPAR) phosphorylation and synaptic function. However, the cell-type-specific role of AKAP150 in T2DM-related depression and its relevance to metformin's antidepressant mechanism remain unclear. Here, we established T2DM mouse models with depressive-like behaviors using D1-Cre and D2-Cre transgenic mice, combined with RNA sequencing, immunofluorescence, and electrophysiology and viral genetic manipulation to dissect NAc AKAP150 signaling. We detected specific downregulation of AKAP150 exclusively in D1-MSNs (rather than D2-MSNs) of T2DM mice and its expression level negatively correlated with the severity depressive-like phenotypes. Cell-specific overexpression of wild-type AKAP150 in D1-MSNs restored AMPAR-mediated synaptic transmission, corrected aberrant dendritic spine remodeling, and rescued T2DM-related depressive-like behaviors. In contrast, overexpression of a PKA-binding-deficient AKAP150 mutant failed to reverse these effects. Notably, metformin treatment selectively restored AKAP150 expression in D1-MSNs, rescued synaptic deficits and abnormal spine morphology, and alleviated T2DM-related depressive-like behaviors. Specifically, genetic and pharmacological disruption of AKAP150-PKA signaling fully abolished metformin's antidepressant. In summary, the AKAP150-PKA-AMPAR signaling cascade in NAc D1-MSNs serves as an essential molecular mediator of T2DM-related depressive-like behaviors in mice, and is required for the therapeutic effects of metformin. This study offers a cell-type-specific mechanism and provides a promising targeted strategy for treating diabetes-depression comorbidity.",
-      "journal": "Pharmacol Res",
-      "date": "2026-09-09",
-      "authors": [
-        "Deng Q",
-        "Gao SQ",
-        "Xue SG",
-        "Zhang SQ",
-        "Yang JW",
-        "Cui QQ",
-        "Zhang CL",
-        "Zhou HY"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.phrs.2026.108446",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "noro",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": "Tip 2 diyabet (T2DM), depresyonla yüksek oranda komorbidite sergiler ve nükleus accumbens'te (NAc) D1- ve D2 eksprese eden orta omurga nöronlarının (D1/D2-MSN'ler) ilerleyici sinaptik maladaptasyonu, bu patolojik süreçte kritik öneme sahiptir. Birinci basamak hipoglisemik ilaç metforminin depresif belirtileri hafiflettiği öne sürüldü. A-kinaz sabitleme proteini 150 (AKAP150), postsinaptik AMPA reseptörü (AMPAR) fosforilasyonunu ve sinaptik fonksiyonu modüle eder. Ancak AKAP150'nin T2DM ile ilişkili depresyondaki hücre tipine özgü rolü ve metforminin antidepresan mekanizmasıyla ilişkisi belirsizliğini koruyor. Burada, NAc AKAP150 sinyalini incelemek için RNA dizilimi, immünofloresan ve elektrofizyoloji ve viral genetik manipülasyon ile birleştirilmiş D1-Cre ve D2-Cre transgenik fareleri kullanarak depresif benzeri davranışlara sahip T2DM fare modelleri oluşturduk. AKAP150'nin yalnızca T2DM farelerinin D1-MSN'lerinde (D2-MSN'ler yerine) spesifik aşağı regülasyonunu tespit ettik ve ekspresyon seviyesi, şiddetteki depresif benzeri fenotiplerle negatif korelasyon gösterdi. D1-MSN'lerde vahşi tip AKAP150'nin hücreye özgü aşırı ekspresyonu, AMPAR aracılı sinaptik iletimi onardı, anormal dendritik omurga yeniden yapılanmasını düzeltti ve T2DM ile ilişkili depresif benzeri davranışları kurtardı. Buna karşılık, PKA bağlaması eksik olan AKAP150 mutantının aşırı ekspresyonu bu etkileri tersine çevirmede başarısız oldu. Özellikle metformin tedavisi, D1-MSN'lerde AKAP150 ekspresyonunu seçici olarak restore etti, sinaptik eksiklikleri ve anormal omurga morfolojisini kurtardı ve T2DM ile ilişkili depresif benzeri davranışları hafifletti. Spesifik olarak, AKAP150-PKA sinyallemesindeki genetik ve farmakolojik bozulma, metforminin antidepresanını tamamen ortadan kaldırdı. Özetle, NAc D1-MSN'lerdeki AKAP150-PKA-AMPAR sinyalleme kaskadı, farelerde T2DM ile ilişkili depresif benzeri davranışların temel bir moleküler aracısı olarak hizmet eder ve metforminin terapötik etkileri için gereklidir. Bu çalışma, hücre tipine özgü bir mekanizma sunmakta ve diyabet-depresyon komorbiditesinin tedavisi için umut verici, hedefe yönelik bir strateji sunmaktadır."
-    },
-    {
-      "pmid": "42722241",
-      "title": "Dioscin activates myeloid AMPK to restore Lgr5⁺ stem cell homeostasis and promote mucosal repair in ulcerative colitis.",
-      "abstract": "Ulcerative colitis (UC) is a chronic relapsing inflammatory disease with limited efficacy in achieving durable mucosal healing and preventing dysplasia. Macrophage-intestinal stem cell (ISC) crosstalk plays a central role in epithelial regeneration and tumorigenic transition but remains therapeutically underexplored. Here, we show that Dioscin, a natural steroidal saponin from Dioscoreae Rhizoma, alleviates DSS-induced acute colitis and AOM/DSS-induced chronic colitis-associated dysplasia by reprogramming macrophage-dependent ISC homeostasis. Dioscin significantly reduced disease severity, suppressed inflammatory macrophage infiltration, and restored Lgr5⁺ ISC compartments, whereas macrophage depletion abolished these protective effects. In vitro, Dioscin inhibited M1 polarization of LPS/IFN-γ-stimulated macrophages, improved epithelial barrier integrity, and enhanced ISC proliferation in organoid systems via modulation of macrophage-conditioned signaling. Mechanistically, IL-1β was identified as a key macrophage-derived mediator linking inflammatory activation to ISC dysfunction. Importantly, Dioscin directly interacted with catalytic α1 subunit of AMP-activated protein kinase (AMPKα1), activated AMPK/Raptor signaling, and suppressed mTORC1-dependent inflammatory responses, while pharmacological inhibition with Compound C or myeloid-specific deletion of AMPKα1 (Prkaa1ᶠˡ/ᶠˡ, nLysM-Cre) abrogated its effects. Collectively, Dioscin ameliorates experimental colitis and dysplasia by activating myeloid AMPK signaling, inhibiting IL-1β-driven macrophage-ISC dysregulation, and restoring epithelial regeneration, highlighting macrophage metabolic reprogramming as a therapeutic strategy and identifying myeloid AMPK as a potential target for UC intervention.",
-      "journal": "Pharmacol Res",
-      "date": "2026-09-10",
-      "authors": [
-        "Huang N",
-        "Lu S",
-        "Zhong Q",
-        "Mai C",
-        "Cong B",
-        "Wang L",
-        "Huang B",
-        "Liu B",
-        "Hu Y",
-        "Zhang X"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.phrs.2026.108447",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42727832",
-      "title": "DPYD c.85T>C, DPYD c.496A>G, and DPYD c.2194G>A and severe toxicity to fluoropyrimidines in PREPARE and Alpe-DPD trials. An original study and meta-analysis.",
-      "abstract": "Current DPYD genotyping panels used to prevent fluoropyrimidine (FL)-related toxicity explain only a limited proportion of severe adverse events. The clinical relevance, beyond current testing, of additional DPYD variants, including DPYD⁎6 (c.2194G>A, rs1801160), DPYD c.496A>G (rs2297595), and DPYD⁎9A (c.85T>C, rs1801265) remains debated. This study evaluated each polymorphism individually, irrespective of the allelic configuration at the other investigated loci, and as part of three-locus haplotypes in relation to severe FL-related toxicity. For single-variant effects, data from patients enrolled in two trials (PREPARE, Italian cohort; Alpe-DPD) were combined with 31 eligible published studies in a meta-analysis comprising 33 studies and 17,485 patients, with subgroup analyses by ethnicity. Haplotype analyses were performed in the 1,296 trial participants. LC-MS was applied to evaluate plasma uracil and dihydrouracil levels. In the meta-analysis, DPYD c.2194G>A (OR=1.70; 95%CI: 1.48-1.95) and c.496A>G (OR=1.55; 95%CI: 1.19-2.02) were associated with FL toxicity. No overall association was observed for c.85T>C; however, it improved c.496A>G associated risk prediction in a haplotype analysis. Haplotype #3 (minor c.496G with major c.85T) was consistently associated with increased severe overall toxicity (PREPARE: OR=2.62, 95%CI: 1.06-6.50; Alpe-DPD: OR=2.09, 95%CI: 1.01-4.37) and gastrointestinal toxicity (PREPARE: OR=5.65, 95%CI: 2.11-15.15; Alpe-DPD: OR=2.71, 95%CI: 1.23-5.97). An exploratory Receiver Operating Characteristic (ROC) curve analysis demonstrated a significant incremental gain in risk discrimination achieved by adding DPYD c.85T>C to a model that already included c.496A>G. Haplotype #4 (minor alleles at both loci) was not associated with toxicity, suggesting a functional interaction between the variants. DPYD c.2194G>A did not add to haplotype-based stratification. In PREPARE, pre-treatment plasma uracil and dihydrouracil confirmed reduced DPD function in haplotype #3 carriers. Overall, DPYD c.2194G>A and c.496A>G increased severe FL-toxicity risk when evaluated individually, whereas the integration of c.85T>C refined risk prediction in a haplotype-based approach, supporting further refinement of pharmacogenetic risk stratification.",
-      "journal": "Pharmacol Res",
-      "date": "2026-09-11",
-      "authors": [
-        "De Mattia E",
-        "Polesel J",
-        "van der Lee M",
-        "Bohringer S",
-        "Gambron M",
-        "Perfler S",
-        "Roncato R",
-        "Canil G",
-        "Posocco B",
-        "Cats A",
-        "Mathijssen RHJ",
-        "Guchelaar HJ",
-        "Schellens JHM",
-        "Gelderblom H",
-        "Spina M",
-        "Puglisi F",
-        "Swen JJ",
-        "Cecchin E"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.phrs.2026.108451",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "toksikoloji",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": "Floropirimidin (FL) ile ilişkili toksisiteyi önlemek için kullanılan mevcut DPYD genotipleme panelleri, ciddi yan etkilerin yalnızca sınırlı bir kısmını açıklamaktadır. DPYD⁎6 (c.2194G>A, rs1801160), DPYD c.496A>G (rs2297595) ve DPYD⁎9A (c.85T>C, rs1801265) dahil olmak üzere ek DPYD varyantlarının mevcut testlerin ötesinde klinik önemi hala tartışmalıdır. Bu çalışma, incelenen diğer lokuslardaki alelik konfigürasyondan bağımsız olarak her polimorfizmi ayrı ayrı ve şiddetli FL ile ilişkili toksisiteyle ilişkili olarak üç lokuslu haplotiplerin bir parçası olarak değerlendirdi. Tek değişkenli etkiler için, iki çalışmaya (PREPARE, İtalyan kohortu; Alpe-DPD) kayıtlı hastalardan elde edilen veriler, etnik kökene göre alt grup analizleri ile 33 çalışma ve 17.485 hastadan oluşan bir meta-analizde 31 uygun yayınlanmış çalışma ile birleştirildi. 1.296 deneme katılımcısında haplotip analizleri yapıldı. Plazma urasil ve dihidrourasil seviyelerini değerlendirmek için LC-MS uygulandı. Meta-analizde DPYD c.2194G>A (OR=1.70; 95%CI: 1.48-1.95) ve c.496A>G (OR=1.55; 95%CI: 1.19-2.02) FL toksisitesi ile ilişkilendirildi. c.85T>C için genel bir ilişki gözlemlenmedi; ancak haplotip analizinde c.496A>G ile ilişkili risk tahminini iyileştirdi. Haplotip #3 (minör c.496G ve majör c.85T) sürekli olarak artan şiddetli genel toksisite (PREPARE: OR=2,62, %95CI: 1,06-6,50; Alpe-DPD: OR=2,09, %95CI: 1,01-4,37) ve gastrointestinal toksisite (PREPARE: OR=5,65, %95CI:) ile ilişkilendirildi. 2,11-15,15; Alpe-DPD: OR=2,71, %95CI: 1,23-5,97). Keşif amaçlı bir Alıcı İşletim Karakteristiği (ROC) eğrisi analizi, hali hazırda c.496A>G'yi içeren bir modele DPYD c.85T>C'nin eklenmesiyle elde edilen risk ayrımında önemli bir artış elde edildiğini gösterdi. Haplotip #4 (her iki lokustaki küçük aleller) toksisite ile ilişkili değildi, bu da varyantlar arasında fonksiyonel bir etkileşim olduğunu düşündürüyordu. DPYD c.2194G>A haplotip bazlı sınıflandırmaya katkıda bulunmadı. PREPARE'de ön tedavi plazma urasil ve dihidrourasil, haplotip #3 taşıyıcılarında DPD fonksiyonunun azaldığını doğruladı. Genel olarak, DPYD c.2194G>A ve c.496A>G, ​​ayrı ayrı değerlendirildiğinde şiddetli FL toksisite riskini artırırken c.85T>C'nin entegrasyonu, farmakogenetik risk sınıflandırmasının daha da iyileştirilmesini destekleyerek haplotip bazlı bir yaklaşımda risk tahminini iyileştirdi."
     }
   ]
 }
