@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-13T11:28:20+00:00",
+  "updated": "2026-09-14T12:21:34+00:00",
   "window_days": 1,
   "datetype": "edat",
-  "count": 91,
+  "count": 108,
   "tier1_count": 8,
   "source": "PubMed (NCBI E-utilities)",
   "articles": [
@@ -69,6 +69,35 @@
       "score_parts": {
         "journal": 100,
         "pubtype": 40,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42731995",
+      "title": "In vitro approaches for modelling gut-liver crosstalk in drug-induced liver injury.",
+      "abstract": "Drug-induced liver injury (DILI) remains a major challenge in drug development and clinical practice due to its limited predictability in current preclinical models. Increasing evidence indicates that the gut-liver axis, through bidirectional interactions between the gut and the liver, plays an important role in modulating drug metabolism and hepatotoxicity. Nevertheless, the exact role of our gut, its microbiota and microbiota-derived metabolites in the manifestation of DILI remains poorly understood, highlighting the need for more human-relevant in vitro models taking along gut-liver interactions. To address this need, this review paper aimed to map the current landscape of in vitro gut-liver models and evaluate their potential applicability for future DILI research. A literature screening using the PubMed database identified 95 articles published on this subject between 2000 and 2026. The in vitro models were categorized into 5 groups, including monocultures, Transwell® systems, hydrogel-based systems, organ-on-a-chip platforms and microfluidic bioreactors. Each category features distinct advantages and disadvantages with respect to physiological relevance, complexity, integration of gut microbiota interactions and industrial applicability. Despite these differences, several key gaps remain across all in vitro gut-liver models, including the limited incorporation of a gut microbiota component, insufficient modelling of interindividual variability and the lack of physiologically relevant flow conditions. Future optimization efforts of these models, combined with integration with in silico tools, may improve the prediction of human DILI, ultimately resulting in reduced late-stage drug attrition, less reliance on animal studies and the development of safer pharmaceutical drugs.",
+      "journal": "Arch Toxicol",
+      "date": "2026-09-12",
+      "authors": [
+        "Janssen Y",
+        "Jiang J",
+        "Vandeputte D",
+        "Vinken M"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1007/s00204-026-04537-2",
+      "journal_tier": 1,
+      "impact": 6.1,
+      "section": "toksikoloji",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
         "recency": 0.0
       },
       "tier": 1,
@@ -223,32 +252,66 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42731995",
-      "title": "In vitro approaches for modelling gut-liver crosstalk in drug-induced liver injury.",
-      "abstract": "Drug-induced liver injury (DILI) remains a major challenge in drug development and clinical practice due to its limited predictability in current preclinical models. Increasing evidence indicates that the gut-liver axis, through bidirectional interactions between the gut and the liver, plays an important role in modulating drug metabolism and hepatotoxicity. Nevertheless, the exact role of our gut, its microbiota and microbiota-derived metabolites in the manifestation of DILI remains poorly understood, highlighting the need for more human-relevant in vitro models taking along gut-liver interactions. To address this need, this review paper aimed to map the current landscape of in vitro gut-liver models and evaluate their potential applicability for future DILI research. A literature screening using the PubMed database identified 95 articles published on this subject between 2000 and 2026. The in vitro models were categorized into 5 groups, including monocultures, Transwell® systems, hydrogel-based systems, organ-on-a-chip platforms and microfluidic bioreactors. Each category features distinct advantages and disadvantages with respect to physiological relevance, complexity, integration of gut microbiota interactions and industrial applicability. Despite these differences, several key gaps remain across all in vitro gut-liver models, including the limited incorporation of a gut microbiota component, insufficient modelling of interindividual variability and the lack of physiologically relevant flow conditions. Future optimization efforts of these models, combined with integration with in silico tools, may improve the prediction of human DILI, ultimately resulting in reduced late-stage drug attrition, less reliance on animal studies and the development of safer pharmaceutical drugs.",
-      "journal": "Arch Toxicol",
-      "date": "2026-09-12",
+      "pmid": "42733211",
+      "title": "Exposure-Response Analyses of Datopotamab Deruxtecan (Dato-DXd), a TROP2-Directed Antibody-Drug Conjugate, in Advanced Non-small Cell Lung Cancer.",
+      "abstract": "Datopotamab deruxtecan (Dato-DXd) is a trophoblast cell-surface antigen-2 (TROP2)-directed antibody-drug conjugate (ADC) that has demonstrated clinical activity in patients with NSCLC who have received prior therapies. Exposure-response (ER) analyses were conducted using Phase 1-3 clinical data from patients with NSCLC (efficacy and safety) or breast cancer (BC) (only safety). Parametric time-to-event models were developed for overall survival (OS), progression-free survival (PFS), and adverse events of special interest (AESI). Logistic regression models were used for overall response rate (ORR), Grade ≥ 3 treatment-emergent adverse events (TEAEs), serious TEAEs, and TEAEs associated dose reduction. Covariate effects were assessed using stepwise selection. A significant linear ER relationship was found between Dato-DXd AUC in the first cycle (AUC1) and OS. Drug effect on PFS and ORR was respectively described by a maximum effect (Emax) relationship with Dato-DXd AUC during a dosing interval (AUCτ) and Dato-DXd average concentration (Cav), indicating near-maximal efficacy at 6 mg/kg. Baseline liver metastasis, squamous histology, and lower albumin (28.0 g/L, 5th percentile) were identified as significant risk factors of shortened OS and PFS, predicted to increase mortality risk by 52%, 48%, and 84%, respectively. The exposure-safety analysis identified Dato-DXd or DXd exposures as statistically significant predictors for safety endpoints except adjudicated drug-related interstitial lung disease (ILD)/pneumonitis for which no ER relationship was observed. These ER analyses support that the 6 mg/kg Q3W Dato-DXd regimen optimized the benefit-risk profile for patients with advanced nonsquamous NSCLC and identified clinically relevant factors that influence both survival and safety outcomes.",
+      "journal": "Clin Pharmacol Ther",
+      "date": "2026-09-13",
       "authors": [
-        "Janssen Y",
-        "Jiang J",
-        "Vandeputte D",
-        "Vinken M"
+        "Hong Y",
+        "Mc Laughlin AM",
+        "Pan Y",
+        "Hietala SF",
+        "Peigné S",
+        "Chargualaf M",
+        "Tang Z",
+        "Zhou D",
+        "Tajima N",
+        "Abutarif M",
+        "Garimella T"
       ],
       "pubtypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
-      "doi": "10.1007/s00204-026-04537-2",
+      "doi": "10.1002/cpt.70477",
       "journal_tier": 1,
-      "impact": 6.1,
-      "section": "toksikoloji",
-      "score": 110.0,
+      "impact": 6.3,
+      "section": "onko",
+      "score": 100.0,
       "score_parts": {
         "journal": 100,
-        "pubtype": 10,
+        "pubtype": 0,
         "recency": 0.0
       },
-      "tier": 1,
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42732760",
+      "title": "Wogonin targets GATA1 to induce ferroptosis and potentiate cisplatin-mediated anti-tumor effects in esophageal squamous cell carcinoma.",
+      "abstract": "BACKGROUND: Esophageal squamous cell carcinoma (ESCC) is a highly aggressive malignancy with a dismal prognosis, mainly due to cisplatin resistance and severe adverse effects of conventional therapies. Wogonin, a natural flavonoid, exhibits anticancer activity in several cancers, but its efficacy and potential molecular mechanisms in ESCC remain unclear. PURPOSE: Our study aimed to investigate the anticancer effect of wogonin in ESCC and elucidate its molecular mechanism, with a particular focus on ferroptosis regulation and synergy with cisplatin. METHODS: A series of experiments were conducted, including cell functional assays, key gene knockdown, RNA-seq, bioinformatics analyses, western blotting, qPCR, molecular docking, surface plasmon resonance (SPR), and in vivo xenograft models and ex vivo tumor explant assays. RESULTS: Wogonin could dose-dependently inhibit ESCC cell proliferation and cisplatin (DDP) resistance by inducing ferroptosis. Mechanistically, wogonin directly interacts with GATA-binding protein 1 (GATA1) to stabilize the protein and enhance its nuclear translocation. Nuclear-accumulated GATA1 upregulates the transcription of lysophosphatidylcholine acyltransferase 3 (LPCAT3) to exacerbate lipid peroxidation and elevates transferrin receptor 1 (TFRC) abundance to trigger intracellular iron overload. Wogonin synergizes with cisplatin to enhance anticancer efficacy via distinct ferroptotic pathways. In vivo, wogonin suppressed tumor growth without affecting mouse body weight and increased the expression of ferroptosis markers in tumor tissues. CONCLUSIONS: This study is the first to demonstrate that wogonin induces ferroptosis in ESCC by regulating GATA1. This highlights the potential of wogonin as a treatment candidate for ESCC, particularly in overcoming cisplatin resistance, and provides a novel synergistic strategy with cisplatin.",
+      "journal": "Phytomedicine",
+      "date": "2026-08-29",
+      "authors": [
+        "Wei C",
+        "Shi M",
+        "Wei L",
+        "Wei C"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.phymed.2026.158773",
+      "journal_tier": 1,
+      "impact": 6.7,
+      "section": "kardiyometabolik",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
       "abstract_tr": ""
     },
     {
@@ -699,6 +762,33 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42733333",
+      "title": "Histamine and the mechanisms of nausea and vomiting: Translating the uncertain pharmacology of cyclizine.",
+      "abstract": "Cyclizine is a long-established, short-acting drug, registered for preventing motion sickness, post-operative nausea and vomiting (PONV) and 'vomiting of known cause'. The latter is not defined but may include pregnancy and patients receiving palliative care, historically accepted without large, controlled trials. Cyclizine is often described as an 'antihistamine' and sometimes 'anticholinergic', without citing primary literature. Mechanisms of antiemetic activity are poorly understood. We reviewed the published pharmacology of cyclizine with the aim of understanding its mechanism of antiemetic activity. Preclinical/clinical studies were examined and findings interpreted with reference to known mechanisms of nausea and vomiting. Cyclizine antagonizes human H1 receptors and may cause mild drowsiness. Selectivity of action is unclear; therapeutic doses only weakly antagonize muscarinic ACh receptor(s). Motion sickness is ameliorated by H1 antagonism within the vestibular system and associated brainstem nuclei. Mechanisms by which histamine may contribute to PONV are unclear. Perhaps histamine from mast cells and basophils stimulate/sensitize abdominal vagal afferent nerves, synergising with other substances to cause vomiting. Any inhibition of vomiting by cyclizine during pregnancy is not understood; GDF15 is implicated, but relationships with histamine are unclear. Causes of nausea/vomiting during palliative care can be complex, and cyclizine is used without understanding mechanisms. For all indications, it is unclear if nausea is reduced to the same degree as vomiting. There is no consistent evidence to support using cyclizine for vomiting during gastroparesis or chemoradiotherapy. The pharmacology of cyclizine and mechanisms of its antiemetic activity are poorly understood. Testable hypotheses are suggested.",
+      "journal": "Br J Clin Pharmacol",
+      "date": "2026-09-14",
+      "authors": [
+        "Sanger GJ",
+        "Andrews PLR"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1002/bcp.70807",
+      "journal_tier": 2,
+      "impact": 3.5,
+      "section": "diger",
+      "score": 72.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 10,
+        "recency": 2.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42731714",
       "title": "Bio-intelligent delivery systems for regenerative medicine: from living biomaterials to clinical translation.",
       "abstract": "Bio-intelligent delivery systems are redefining the boundaries of regenerative medicine, moving the field beyond passive scaffolds toward platforms that actively sense, respond to, and participate in tissue repair. This review examines how living cells, cell-derived extracellular vesicles, stimuli-responsive matrices, and closed-loop wearable devices can be integrated into a coherent therapeutic design framework and what stands between these systems and routine clinical use. We begin by analyzing the paracrine biology of mesenchymal stem cells, focusing on how immunomodulatory mediators and extracellular vesicles orchestrate repair, and why donor variability and context-dependent licensing continue to constrain clinical predictability. Building on this, we compare four classes of living delivery platforms - cell-laden hydrogels, secretome- and vesicle-loaded matrices, microcapsule systems, and microneedle constructs, evaluating their capacity to sustain cell viability, regulate release kinetics, and improve local retention over bolus injection. Precision targeting strategies employing surface functionalization and peptide-mediated homing are assessed across cardiac, hepatic, and pulmonary contexts. Smart biomaterials responsive to pH, temperature, and reactive oxygen species are then evaluated for their ability to synchronize therapeutic delivery with the dynamic phases of tissue repair. Wearable biosensing platforms and three-dimensional bioprinted constructs are discussed as next-generation tools for closed-loop, patient-adaptive therapy. Throughout, we identify scale-up inconsistency, immunogenicity, regulatory fragmentation, and the absence of validated potency assays as recurring translational barriers. We conclude that convergence of GMP-compatible biomanufacturing, harmonized regulation, and artificial intelligence-assisted design is necessary to advance these platforms from preclinical promise to reproducible, patient-specific clinical practice.",
@@ -932,6 +1022,407 @@
       "score_parts": {
         "journal": 60,
         "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42733019",
+      "title": "Biochanin A ameliorates vancomycin-induced acute kidney injury via modulation of the JAK2/STAT-3/GPX4 axis.",
+      "abstract": "Vancomycin (VAN) is a commonly used antibiotic for the treatment of severe Gram-positive bacterial infections. However, its major dose-limiting adverse effect remains nephrotoxicity. Biochanin A (BCA) is a natural isoflavone that has been reported to have antioxidant and anti-inflammatory actions. In this work, we evaluated the nephroprotective efficacy of BCA against VAN-induced acute kidney injury (VAN-AKI). Thirty-six male Swiss mice were allocated into six experimental groups (n = 6/group): control, vehicle, BCA (40 mg/kg), VAN (400 mg/kg), VAN + BCA (20 mg/kg), and VAN + BCA (40 mg/kg). Biochanin A (20 or 40 mg/kg, i.p.) was given 30 min before VAN (400 mg/kg, i.p.). Except for the control group, all treatments were given once a day for 7 consecutive days. Biomarkers of renal function, indices of oxidative stress, inflammatory cytokines, histological changes, and immunohistochemistry expression of JAK2, STAT3, GPX4, and caspase-3 were investigated. Administration of VAN induced substantial increases in blood urea nitrogen (45.48 ± 8.13), serum creatinine (1.39 ± 0.19), cystatin C (2.68 ± 0.39), and KIM-1 (2.60 ± 0.52). These values were significantly attenuated by co-treatment with BCA (20 and 40 mg/kg). VAN also produced oxidative stress, inflammatory responses, histopathological damage, elevated expression of JAK2, STAT3, and caspase-3, and decreased expression of GPX4. BCA significantly decreased kidney damage, restored redox homeostasis, reduced inflammatory cytokines levels, and apoptosis, suppressed JAK2/STAT3 activation and upregulated GPX4 expression. BCA reduced VAN-induced kidney injury, oxidative stress, inflammation, and apoptosis-associated signaling in mice, indicating that the nephroprotective action of BCA may be mediated by JAK2/STAT-3/GPX4 signaling pathways. However, more molecular and functional confirmation is needed.",
+      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
+      "date": "2026-09-14",
+      "authors": [
+        "Alharbi RS",
+        "Shaik RA",
+        "Alzahrani AH",
+        "Almukadi H"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s00210-026-05891-9",
+      "journal_tier": 2,
+      "impact": 3.2,
+      "section": "onko",
+      "score": 62.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 2.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42733018",
+      "title": "Influence of fluoxetine on the gastric healing process: experimental evidence of sexual dimorphism.",
+      "abstract": "Previous studies have demonstrated that fluoxetine, a selective serotonin reuptake inhibitor, exerts gastroprotective effects in models of acute gastric ulceration. However, its ability to promote the healing of established gastric ulcers remains unclear. This study investigated the effects of fluoxetine on gastric ulcer healing and potential sex-related differences in this response in rats. Gastric ulcers were induced in male and female rats by acetic acid instillation. Two days after ulcer induction, animals received vehicle (water, 1 mL/kg), omeprazole (20 mg/kg), or fluoxetine (0.17 or 1.7 mg/kg) orally once daily for seven days. Biochemical, histological, and histochemical analyses were performed. In addition, the antisecretory activity of fluoxetine was measured in another cohort of rats of both sexes using the pylorus-ligation method. Treatment with fluoxetine (0.17 and 1.7 mg/kg) significantly reduced ulcer area in male rats but not in females compared with the vehicle-treated group. In females, acetic acid instillation decreased glutathione (GSH) levels and increased malondialdehyde (MDA) levels and myeloperoxidase (MPO) activity, regardless of treatment. In contrast, ulcerated male rats treated with vehicle showed increased MPO and N-acetyl-β-D-glucosaminidase (NAG) activities, whereas fluoxetine reduced both parameters. Fluoxetine also reduced mast cell density and increased mucin content in the gastric mucosa of male rats. Furthermore, the tested doses did not affect gastric acidity, volume, or peptic activity in pylorus-ligated rats. These findings demonstrate that fluoxetine promotes gastric ulcer healing in male rats, possibly by enhancing mucosal barrier defenses and attenuating inflammation, while no healing effect was observed in females, suggesting a sex-dependent response.",
+      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
+      "date": "2026-09-14",
+      "authors": [
+        "de Queiroz E Silva TF",
+        "Longo B",
+        "da Silva LM",
+        "Venzon L",
+        "Dos Santos Nilz AC",
+        "França TCS",
+        "Nunes RKS",
+        "Cury BJ",
+        "Cazarin CA",
+        "da Silva LM"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s00210-026-05894-6",
+      "journal_tier": 2,
+      "impact": 3.2,
+      "section": "noro",
+      "score": 62.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 2.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42733017",
+      "title": "Real-world pharmacovigilance signals of antibody-drug conjugates: reporting patterns by payload, linker, target, and sex in FAERS.",
+      "abstract": "Antibody-drug conjugates (ADCs) have transformed cancer therapy by delivering potent cytotoxic agents directly to tumor cells, yet their complex structure creates unique safety challenges. This retrospective pharmacovigilance study utilized the FDA Adverse Event Reporting System (FAERS) database from 2004Q1 to 2025Q4 to characterize adverse-event reporting patterns of 15 approved ADCs across 100,536 ADC-PT-report records derived from 34,041 unique FAERS reports. Using disproportionality algorithms, we identified heterogeneous adverse-event reporting patterns across ADCs grouped by payload, linker, and antibody target. Signals for peripheral neuropathy were frequently observed among microtubule inhibitor-based ADCs, whereas ILD signals were prominent among deruxtecan-containing ADCs. Cardiac-event signals were also observed among HER2-targeted ADCs, consistent with established HER2-related safety concerns. Notably, these associations should be interpreted as disproportionality signals generating mechanistic hypotheses rather than causal inferences. Sex-stratified analyses identified differences in reporting odds between female and male reports for several hematological and neuropathic events. These descriptive patterns may reflect differences in indication, ADC use, patient characteristics, and reporting practices rather than biological susceptibility. Time-to-onset was generally early among eligible reports, whereas T-DXd-associated ILD showed wide temporal dispersion (median, 62 days; Q1, 14.25 days; Q3, 166 days), with 22.8% of eligible reports occurring more than 180 days after treatment initiation. These findings identify reporting patterns that are consistent with established ADC pharmacology and generate hypotheses regarding possible structural correlates of adverse-event reporting. However, these associations do not establish independent effects of individual structural components or causal mechanisms. These findings provide a compelling rationale for future prospective studies and real-world cohort validation to explore tailored safety management in ADC therapies.",
+      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
+      "date": "2026-09-14",
+      "authors": [
+        "Chen Z",
+        "Song J",
+        "Chen M",
+        "Zhu C",
+        "Li L",
+        "Lv Z"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s00210-026-05898-2",
+      "journal_tier": 2,
+      "impact": 3.2,
+      "section": "klinik",
+      "score": 62.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 2.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42733015",
+      "title": "Kaempferol conjugated selenium nanoparticles mitigate kidney injury from rhabdomyolysis through antioxidant and anti-inflammatory actions via Nrf2/NF-κb pathway.",
+      "abstract": "Acute kidney injury (AKI) is an acute clinical syndrome accompanied by a high morbidity and mortality, requiring effective therapeutic techniques. A recent study investigated the effects of kaempferol-coated selenium nanoparticles (KMP-SeNPs) in the prevention of glycerol-induced acute kidney injury (AKI) in rats via Nrf2/NF-κB signaling pathways. Initially, KMP-SeNPs were prepared and characterized, with spherical nanoparticles (94.8 nm; - 67.5 mV). A total of thirty-five rats were randomly assigned into a control group, AKI group, AKI&KMP (AKI treated with kaempferol) group, AKI&Na₂SeO₃ treatment group and an AKI&KMP-SeNPs treatment groups. AKI was induced by glycerol injection on day 20, and all treatments (21 days in total). Parameters assessed included renal function, oxidative stress, inflammatory and apoptotic markers (such as interleukin-6 (IL-6), tumor necrosis factor alpha (TNF-α), nuclear factor kappa B (NF-κB)), and immunohistochemistry for Nrf2 and FOXP3. Glycerol led to significant AKI characterized by increased renal injury, oxidative stress, inflammation and apoptosis, with reduced antioxidants and Bcl-2. KMP-SeNPs (normalized all renal markers, balanced redox status, inhibited NF-κB-driven inflammation (58-65% reduction in TNF-α expression; 65% IL-6 and IL1β) apoptosis markers (~ 60% reduction in Bax and caspase-3 expression; 94% Bcl-2 restoration), preserved tissue structure compared to KMP and Na₂SeO₃. Immunohistochemistry revealed restoration of Nrf2 and FOXP3, signifying potentiated antioxidant and immune regulation. KMP-SeNPs was confirmed to change molecular profiles toward protection based on principal component analysis. KMP-SeNPs may be a novel nanomedicine for the treatment of rhabdomyolysis-induced AKI.",
+      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
+      "date": "2026-09-14",
+      "authors": [
+        "El-Fattah WA",
+        "Guesmi A",
+        "Hamadi NB",
+        "Khames A",
+        "Alam-ElDein KM",
+        "Hafez HS",
+        "Elshaarawy RFM",
+        "Gadelmawla MHA"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s00210-026-05890-w",
+      "journal_tier": 2,
+      "impact": 3.2,
+      "section": "onko",
+      "score": 62.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 2.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42733100",
+      "title": "Topiramate effects on ethanol and sucrose binge-like intake, anxiety- and compulsive-like behavior in non-dependent male and female C57BL/6J mice.",
+      "abstract": "RATIONALE: Repetitive binge episodes are early-stage patterns in the addiction cycle associated with elevated anxiety and compulsive traits. Despite their high comorbidity and the growing off-label use of topiramate for binge-related disorders, its effects in non-dependent individuals remain poorly characterized and studies systematically comparing both sexes under identical experimental conditions remain scarce. OBJECTIVES: To evaluate the effects of topiramate on ethanol (EtOH) and sucrose binge-like intake, anxiety- and compulsive-like responses in non-dependent male and female C57BL/6J mice. METHODS: EtOH (20% v/v) and sucrose (10% w/v) binge-like intake were assessed in a standard Drinking in the Dark (DID) procedure following intraperitoneal topiramate (0, 30, or 60 mg/kg). Blood EtOH concentrations (BECs) were determined after EtOH DID. Anxiety-like and compulsive-like behaviors were assessed using the Elevated Plus Maze (EPM) and Marble Burying (MB) test. RESULTS: Topiramate significantly reduced EtOH binge-like intake at 60 mg/kg and BECs at 30 and 60 mg/kg, while males consumed more EtOH and showed higher BECs than females. Topiramate did not significantly alter sucrose binge-like intake, with females consuming less sucrose than males. Topiramate significantly reduced anxiety-like behavior in the EPM regardless of sex. In the MB test, the topiramate effect differed significantly across sexes, although these results most likely reflect a floor effect in vehicle-treated females. CONCLUSIONS: These findings provide preliminary evidence that topiramate reduces EtOH binge-like intake, anxiety- and compulsive-like behavior in non-dependent mice with a non-significant attenuation of sucrose binge-like intake. Further research is warranted to establish the translational relevance and to evaluate the preventive potential of topiramate in binge-related disorders.",
+      "journal": "Psychopharmacology (Berl)",
+      "date": "2026-09-14",
+      "authors": [
+        "Rodríguez-Ortega E",
+        "Cubero I"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s00213-026-07166-w",
+      "journal_tier": 2,
+      "impact": 3.5,
+      "section": "noro",
+      "score": 62.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 2.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42733016",
+      "title": "Cocaine, cannabis, champagne-pharmacological and toxicological references in the lyrics of the German rapper Haftbefehl: a content analysis.",
+      "abstract": "In popular music, references to (illicit) drugs are widespread and may influence attitudes and behaviors in relation to substance use and abuse, especially among younger generations. While substance-related content in international pop and rap music has been studied extensively, the German rap scene has received comparatively little attention thus far. This study aimed to systematically analyze the lyrics of one of the most well-known German rappers, Haftbefehl (literal translation: \"arrest warrant\"), regarding pharmacological and toxicological references to psychotropic substances. To this end, a content analysis was performed on the lyrics of the artist's seven studio albums released between 2010 and 2022, comprising a total of 121 songs. The lyrics were obtained from the online platform genius.com. Both explicit and contextual references to psychotropic substances were recorded and assigned to pharmacological substance classes. Also, slang terminology and contextual references to drug consumption or trafficking were documented. Descriptive statistical methods were applied to summarize the distribution of references to psychotropic substances. In addition, inferential statistical techniques were used exploratively for cross-album comparisons. A clinical trial number is not applicable. Substance-related references were highly prevalent in Haftbefehl's lyrics. Cocaine was the most frequently mentioned substance (being referenced in 82.6% of songs), followed by cannabis (52.9%) and alcohol (38.0%). References to μ-opioid receptor agonists (9.1%) and amphetamine-type substances (7.4%) were less prominent, while there were no references to benzodiazepines. Also, it was noted that Haftbefehl's lyrics contained a large variety of slang terms, particularly for cocaine. In conclusion, psychotropic substances constitute a prominent stylistic element in Haftbefehl's oeuvre. These findings point to the importance of rap lyrics as a cultural medium that may reflect and shape the approach to drug-related content within music-related youth culture.",
+      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
+      "date": "2026-09-14",
+      "authors": [
+        "Spark C",
+        "Krichevsky B",
+        "Schröder S",
+        "Groh A",
+        "Schulze Westhoff M",
+        "Klietz M",
+        "Greten S",
+        "Stoetzer C",
+        "Jäger DB",
+        "Heck J"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s00210-026-05904-7",
+      "journal_tier": 2,
+      "impact": 3.2,
+      "section": "noro",
+      "score": 62.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 2.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42733014",
+      "title": "Formulation and Box-Behnken optimization of roflumilast loaded ultradeformable nanotransethosomal gel: physicochemical characterization, stability, dermal permeation, and antipsoriatic efficacy in an imiquimod-induced psoriasis model.",
+      "abstract": "This study aimed to formulate and optimise a roflumilast loaded ultradeformable transethosomal gel for enhanced topical delivery in psoriasis management, addressing limitations of conventional topical preparations through an advanced vesicular drug delivery approach. Ultradeformable transethosomes were prepared by the ethanol injection technique and optimised using a Box-Behnken experimental design. Independent variables selected were Phospholipon 90G (400-500 mg), Poloxamer 188 (1-3% w/v), and ethanol (20-40% v/v). Dependent responses were vesicle size (Y1), entrapment efficiency (Y2), and zeta potential (Y3), targeting size minimisation, maximum drug entrapment, and optimal negative surface charge respectively. The optimised formulation was incorporated into a Sepineo P600 gel matrix and evaluated for physicochemical properties, in vitro drug release, ex vivo skin permeation, accelerated stability, dermal safety, and in vivo antipsoriatic efficacy using an imiquimod-induced psoriasis model in Wistar rats. Optimised formulation F11, comprising Phospholipon 90G (450 mg), Poloxamer 188 (2% w/v), and ethanol (30% v/v), exhibited vesicle size of 101.4 ± 2.9 nm, entrapment efficiency of 74.38 ± 1.2%, and zeta potential of - 30.21 ± 1.3 mV. Transmission electron microscopy confirmed spherical unilamellar vesicles. Transethosomal gel TG1 demonstrated cumulative drug release of 94.78% and skin permeation of 89.67% over 12 h, surpassing conventional gel. In vivo studies revealed significant PASI score reduction (3.50 ± 0.52 on day 7), enhanced inflammatory biomarker suppression, and improved epidermal repair versus pimecrolimus cream (4.50 ± 0.66, p < 0.01). The optimised roflumilast-loaded ultradeformable transethosomal gel demonstrated improved skin penetration, sustained drug release, and superior preclinical antipsoriatic activity. Further clinical studies are warranted to establish long-term safety and therapeutic efficacy.",
+      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
+      "date": "2026-09-14",
+      "authors": [
+        "Andhale V",
+        "Mankar S",
+        "Andhale A",
+        "Ghogare R",
+        "Siddheshwar S"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s00210-026-05896-4",
+      "journal_tier": 2,
+      "impact": 3.2,
+      "section": "immuno",
+      "score": 62.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 2.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42733212",
+      "title": "Effect of dapagliflozin on electrocardiographic arrhythmic markers in patients with type 2 diabetes mellitus.",
+      "abstract": "AIMS: Arrhythmic risk is elevated in type 2 diabetes mellitus (T2DM) partly because of abnormal ventricular repolarization. Sodium-glucose cotransporter-2 (SGLT-2) inhibitors may favourably modify electrophysiological properties beyond their glycaemic effects. We aimed to evaluate the association between dapagliflozin initiation and changes in ECG-derived arrhythmic markers in SGLT-2 inhibitor-naive patients with T2DM. METHODS: In this prospective, non-randomized, controlled observational study, 700 T2DM patients (350 dapagliflozin, 350 control) were enrolled between June 2023 and February 2026 at a single tertiary-care center. Dapagliflozin was initiated as part of routine clinical care; controls continued existing antidiabetic therapy. Twelve-lead ECGs and echocardiograms were obtained at baseline and after 3 months. Primary outcomes were changes in QT interval, QTc, QT dispersion, Tp-e interval, Tp-e/QT ratio and Tp-e/QTc ratio. All 700 enrolled patients completed 3-month follow-up. RESULTS: At 3 months, the dapagliflozin group showed significant reductions in QT (-8.8 ms), QTc (-10.1 ms), QTd (-5.1 ms), Tp-e (-6.2 ms), Tp-e/QT (-0.012) and Tp-e/QTc (-0.010) (all p < .001), whereas no clinically meaningful changes occurred in controls. Between-group delta comparisons confirmed significantly greater reductions with dapagliflozin (all p < .001; Cohen's d: 0.48-1.08). Reduction in Tp-e correlated weakly with HbA1c improvement (r = -0.145, p = .037, r2 ≈ 2%); the Tp-e/QT vs. HbA1c correlation did not reach statistical significance (r = -0.147, p = .086). Left ventricular ejection fraction (LVEF) improved modestly (+0.8%, p = .003), and left atrial diameter decreased (-0.6 mm, p < .001). CONCLUSION: Three months of dapagliflozin therapy was associated with improvements in multiple ECG-based arrhythmic markers in patients T2DM.",
+      "journal": "Br J Clin Pharmacol",
+      "date": "2026-09-13",
+      "authors": [
+        "Traş G",
+        "Polat F",
+        "Saday Bozkurt M",
+        "Altıntaş İ"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1002/bcp.70823",
+      "journal_tier": 2,
+      "impact": 3.5,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42732925",
+      "title": "Pharmacokinetic and safety interactions between aildenafil and clarithromycin, cimetidine, or rifampin in healthy subjects.",
+      "abstract": "AIMS: Aildenafil citrate, an orally bioavailable phosphodiesterase type 5 (PDE5) inhibitor, is primarily metabolized by cytochrome P450 3A4 (CYP3A4). This study aimed to assess potential pharmacokinetic interactions between aildenafil citrate tablets and cytochrome P450 (CYP)3A modulators. METHODS: This study involved three open-label, fixed-sequence trials in healthy subjects. Participants received a single oral dose of aildenafil 60 mg alone and with repeated doses of clarithromycin (500 mg, CYP3A4 inhibitor, N = 18), rifampin (600 mg, inducer, N = 18), or cimetidine (400 mg, N = 18). Pharmacokinetic (PK) parameters-including maximum serum concentration (Cₘₐₓ), area under the concentration-time curve (AUC), time to reach Cₘₐₓ, and half-life (t1/2)-were calculated using noncompartmental analysis from serial serum aildenafil concentrations. Adverse events were monitored throughout. RESULTS: Clarithromycin significantly increased aildenafil exposure, with geometric mean ratios (90% CI) of 1.67 (1.51-1.85) for Cmax and 2.58 (2.42-2.76) for AUC0-∞. Conversely, rifampin markedly reduced aildenafil serum concentrations, with geometric mean ratios (90% CI) of 0.02 (0.02-0.03) for Cmax and 0.01 (0.01-0.02) for AUC0-∞. Coadministration with cimetidine resulted in log-transformed Cmax and AUC0-∞ ratios near 1.0 (0.99 and 1.17, respectively), with geometric mean ratios (90% CI) of 0.99 (0.84-1.16) and 1.17 (1.10-1.25), indicating no significant effect on aildenafil exposure. CONCLUSIONS: Coadministration of aildenafil with the strong CYP3A4 inhibitor clarithromycin increased aildenafil AUC0-∞ by 2.58-fold and Cmax by 1.67-fold; therefore, dose adjustment should be guided by clinical response and tolerability. In contrast, coadministration with the strong CYP3A4 inducer rifampin is not recommended.",
+      "journal": "Br J Clin Pharmacol",
+      "date": "2026-09-13",
+      "authors": [
+        "Xie R",
+        "Zhao N",
+        "Jia B",
+        "Cheng L",
+        "Xu J",
+        "Wang X",
+        "Zhao X",
+        "Cui Y"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1002/bcp.70781",
+      "journal_tier": 2,
+      "impact": 3.5,
+      "section": "klinik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42732823",
+      "title": "Enhancing itraconazole Strat-M membrane absorption via biodegradable mixed micelles with platelet-like nanodomains.",
+      "abstract": "Various biodegradable or biocompatible polymers have gained significant attention in biomedical and cosmeceutical applications. In this study, we investigated a PEG-PCL-PEG triblock copolymer as a substitute for PEG-PPG-PEG to enhance the solubility and Strat-M membrane permeation of itraconazole (ITZ). The copolymers were characterized by molecular weight, critical micelle concentration (CMC) and micellar size. The resulting micellar formulations were evaluated for particle size, internal structure (vis small-angle X-ray scattering, SAXS), encapsulation efficiency (EE), release behavior, and in vitro Strat-M membrane permeation/deposition. Increasing the hydrophobic/hydrophilic block ratio of copolymers lowered the CMC from 0.044 to 0.016 wt% and increased the size of the plain micellar aggregates from 45.4 to 72.8 nm. In the presence of Tween-80, ITZ loading significantly increased both the particle size and EE of the micellar systems. Additionally, as the hydrophobic/hydrophilic ratio increased, an increase in the particle size and EE of the PEG-PCL-PEG micelles was noted. All ITZ-loaded micellar aggregates with Tween-80 exhibited short-term physical stability during storage at 25 and 37 °C over 24h, with only a modest increase in particle size (up to 1.23-fold) and an essentially unchanged polydispersity index. SAXS analysis suggested that Tween-80 addition drove an internal morphological transition toward more organized, platelet-like domains, with a characteristic d-spacing of 5.3-5.6 nm. All formulations exhibited a release pattern consistent with an initial rapid phase followed by a slower, sustained phase, with the overall release rate decreasing as the hydrophobic/hydrophilic ratio increased. In vitro Strat-M membrane permeation/deposition studies demonstrated that PEG-PCL-PEG micellar aggregates enhanced ITZ transport relative to PEG-PPG-PEG. These results indicate that PEG-PCL-PEG/Tween-80 mixed micelles represent a promising platform for improving topical delivery of hydrophobic drugs.",
+      "journal": "Eur J Pharm Biopharm",
+      "date": "2026-09-13",
+      "authors": [
+        "Han Y",
+        "Kim DD",
+        "Choi J"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ejpb.2026.115234",
+      "journal_tier": 2,
+      "impact": 4.5,
+      "section": "formulasyon",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42732816",
+      "title": "Akkermansia muciniphila alleviates osteoporosis by suppressing bone marrow adiposity through the gut microbiota-UDCA-TGR5 axis.",
+      "abstract": "Osteoporosis (OP) is characterized not only by progressive bone loss but also frequently by pathological bone marrow adiposity (BMA) expansion. Akkermansia muciniphila (AKK), implicated in lipid metabolic homeostasis, was previously found to be markedly depleted during estrogen deficiency-associated bone loss. However, whether AKK suppresses pathological BMA expansion and the corresponding receptor-mediated mechanisms remain poorly understood. Here, we demonstrated that AKK significantly attenuated bone loss and potently suppressed pathological BMA expansion in ovariectomized rats. Integrated untargeted metabolomics and targeted bile acid profiling revealed that AKK supplementation notably restored ursodeoxycholic acid (UDCA) levels in both serum and feces. Metagenomic analyses showed that AKK reshaped bile salt hydrolase (BSH)-related microbial functions, thereby promoting the intestinal deconjugation of tauroursodeoxycholic acid to generate UDCA. The enhanced UDCA-producing capacity of gut microbiota from the AKK-treated group was abolished by inhibition of microbial BSHs. Consistently, oral UDCA supplementation replenished circulating UDCA levels and reproduced the bone- and marrow-protective effects of AKK. In the host, elevated circulating UDCA activated TGR5-dependent TGF-β/SMAD2 signaling in bone marrow mesenchymal stem cells (BMSCs), thereby suppressing adipogenic differentiation and promoting osteogenesis. These effects were reversed by a TGR5 inhibitor and Tgfbr1 knockdown. Collectively, our study reveals a novel mechanism underlying the anti-osteoporotic effects of AKK, whereby AKK suppresses pathological BMA expansion through the gut microbiota-UDCA-TGR5 signaling axis. These findings provide a potential therapeutic strategy for osteoporosis and bone marrow lipid metabolic dysfunction.",
+      "journal": "Life Sci",
+      "date": "2026-09-13",
+      "authors": [
+        "Hao F",
+        "Zhu W",
+        "Tang A",
+        "Chen Q",
+        "Guo M",
+        "Xin Y",
+        "Zhu X",
+        "Zhao Y",
+        "Hu X",
+        "Lu M",
+        "Zhou N",
+        "Qin K",
+        "Zhu H",
+        "Li W"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.lfs.2026.124676",
+      "journal_tier": 2,
+      "impact": 5.2,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42732815",
+      "title": "Intramolecular determinants of Retinoid X receptor involved in heterodimeric interactions with its partner PXR: Implications in receptor dynamics and mitotic chromatin interactions.",
+      "abstract": "AIMS: Retinoid X Receptor (RXR) is a central nuclear receptor (NR) that functions as an obligate heterodimeric partner for multiple NRs, including Pregnane X Receptor (PXR), to regulate diverse target gene expression. While subcellular localization of NRs is critical for cellular function, select NRs have been reported to associate with mitotic chromatin, a phenomenon linked to transcriptional memory. Although RXR heterodimers are structurally characterized, the intramolecular determinants within RXR that couple heterodimerization to nuclear import and receptor-chromatin interactions remain unclear. MATERIAL & METHODS: We employed fluorescent protein-tagged receptor constructs, live-cell imaging, site-directed mutagenesis, co-immunoprecipitation assays, promoter-reporter assay and mitotic chromatin fractionation to examine RXR-PXR heterodimerization, subcellular localisation and receptor association with mitotic chromatin. KEY FINDINGS: We identified a stretch of critical 40 amino acid residues (389-428), previously reported as 'Interaction Box' in the LBD region of RXR, that is essential for RXR-PXR heterodimerization-dependent nuclear import and partner-mediated association of RXR with mitotic chromatin. A single amino acid mutation in RXR (L420D) disrupted heterodimerization-mediated nuclear co-import, whereas a combination of triple mutations (Y397D, L420D and R421E) abolished the PXR-dependent mitotic chromatin interaction exhibited by RXR. SIGNIFICANCE: Our study reveals critical molecular determinants within the RXR I-box that are crucial for inter- and intra- molecular interactions of RXR-PXR heterodimers. The insights obtained from this study advance our understanding of how structural determinants within RXR govern partner-mediated receptor-receptor and receptor-chromatin interactions. The identified heterodimerization interface may represent a potential target for therapeutic intervation in diverse disease conditions.",
+      "journal": "Life Sci",
+      "date": "2026-09-13",
+      "authors": [
+        "Dash AK",
+        "Rizvi S",
+        "Kumar S",
+        "Kumar S",
+        "Ramachandran V",
+        "Gourinath S",
+        "Tyagi RK"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.lfs.2026.124677",
+      "journal_tier": 2,
+      "impact": 5.2,
+      "section": "immuno",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42732783",
+      "title": "Mangiferin monosodium salt attenuates metabolic and alcohol-associated liver disease via a novel insight into cuproptosis and improving gut microbiota.",
+      "abstract": "Alcoholic liver disease (ALD) is a major global health burden. Cuproptosis, a form of regulated cell death, plays a critical role in multiple liver diseases, yet its role and mechanisms in ALD remain largely unknown. This study explored the preventive and therapeutic roles of mangiferin monosodium salt (MG-Na) against ALD and the associated gut-liver axis mechanisms. ALD was induced in rats via chronic alcohol administration, with or without MG-Na treatment. Liver function and intestinal barrier integrity were assessed. Next, gut microbial composition and ALD-associated metabolic alterations were assessed by 16S rRNA gene sequencing and fecal metabolomics. Proteins and factors involved in alcohol metabolism, the TCA cycle, cuproptosis, and inflammation were subsequently analyzed using Western blotting, qRT-PCR, ICP-MS, immunohistochemistry, and ELISA. The results showed that MG-Na improved liver function and intestinal barrier integrity, and ameliorated alcohol metabolic dysfunction, TCA cycle impairment, cuproptosis, and alcoholic hepatitis. Also, MG-Na markedly affected gut microbiota diversity and community richness. Meanwhile, MG-Na reduced the production of fecal metabolites in ALD rats, such as (R)-lipoic acid and pyruvic acid. Notably, MG-Na downregulated proteins involved in alcohol metabolism (ADH1, CYP2E1), cuproptosis (FDX1, DLAT), cGAS-STING and TLR4/NF-κB/NLRP3 pathways, while increasing TCA cycle-related enzyme activity and metabolite levels in the liver, though some changes were not statistically significant. And, MG-Na administration can also significantly decrease the levels of pro-inflammatory cytokines (IFN-β, TNF-α, IL-1β and IL-6) and increase the anti-inflammatory cytokine (IL-10) level. Together, these results suggested that MG-Na can attenuate metabolic and alcoholic hepatitis by modulating gut microbiota, inhibiting cuproptosis, and suppressing inflammatory responses.",
+      "journal": "Toxicol Appl Pharmacol",
+      "date": "2026-09-13",
+      "authors": [
+        "Zhang Q",
+        "Pang C",
+        "Chen L",
+        "Yan R",
+        "Yu X",
+        "Chen B",
+        "Li B",
+        "Zhou C"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.taap.2026.118035",
+      "journal_tier": 2,
+      "impact": 3.8,
+      "section": "immuno",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
         "recency": 0.0
       },
       "tier": 3,
@@ -1284,8 +1775,8 @@
     },
     {
       "pmid": "42731652",
-      "title": "Exogenous Melatonin Alleviates Liver Injury via Regulating Hepatocellular PI3K/AKT Pathway and Inhibiting NLRP3 Activation.",
-      "abstract": "Melatonin(MT), a neurohormone secreted by the mammalian pineal gland, has been demonstrated to exert hepatoprotective effects. In this study, we employed exogenous MT intervention in both in vivo and in vitro models of chronic liver injury induced by D-galactose(D-gal) in mice to investigate the specific mechanisms underlying its hepatoprotective action, aiming to provide a reference for the prevention of liver injury by MT. Preliminary network toxicology and network pharmacology analyses revealed that D-gal possesses potential hepatotoxicity, whereas MT exerts hepatoprotective effects through modulating oxidative damage and inflammation. Further analysis indicated that the targets of MT and D-gal are highly enriched in the PI3K/AKT signaling pathway. We therefore examined the PI3K/AKT pathway and downstream proteins associated with NLRP3 inflammasome activation. Our results demonstrated that exogenous MT improves hepatic physiological function and alleviates liver injury by activating the PI3K/AKT signaling pathway, which in turn inhibits NLRP3 inflammasome activation.",
+      "title": "Exogenous melatonin alleviates liver injury via regulating hepatocellular PI3K/AKT pathway and inhibiting NLRP3 activation.",
+      "abstract": "Melatonin (MT), a neurohormone secreted by the mammalian pineal gland, has been demonstrated to exert hepatoprotective effects. In this study, we employed exogenous MT intervention in both in vivo and in vitro models of chronic liver injury induced by D-galactose (D-gal) in mice to investigate the specific mechanisms underlying its hepatoprotective action, aiming to provide a reference for the prevention of liver injury by MT. Preliminary network toxicology and network pharmacology analyses revealed that D-gal possesses potential hepatotoxicity, whereas MT exerts hepatoprotective effects through modulating oxidative damage and inflammation. Further analysis indicated that the targets of MT and D-gal are highly enriched in the PI3K/AKT signaling pathway. We therefore examined the PI3K/AKT pathway and downstream proteins associated with NLRP3 inflammasome activation. Our results demonstrated that exogenous MT improves hepatic physiological function and alleviates liver injury by activating the PI3K/AKT signaling pathway, which in turn inhibits NLRP3 inflammasome activation.",
       "journal": "Eur J Pharmacol",
       "date": "2026-09-12",
       "authors": [
@@ -2364,6 +2855,45 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42732067",
+      "title": "Liposomal amphotericin B as an antifungal prophylaxis in bilateral lung transplantation: a safety analysis.",
+      "abstract": "BACKGROUND: Lung transplantation (LT) is the definitive treatment for end-stage chronic respiratory failure. Despite improvements in surgical and perioperative care, fungal infections remain a major complication in LT recipients, and antifungal prophylaxis with liposomal amphotericin B (L-AmB) is commonly used. However, evidence on the safety of L-AmB administration in LT recipients remains limited. This retrospective observational study aimed to assess the profile of renal, hepatic and hematologic safety, and the incidence of hypersensitivity adverse events following prophylactic L-AmB use in LT recipients. METHODS: A retrospective, single-center observational study of adult patients (≥ 18 years) who underwent their first bilateral LT at the University Hospital of Padua (Italy), between January 2020 and March 2025. All patients received intravenous L-AmB (3 mg/kg/day for 5 days) as postoperative antifungal prophylaxis. Adverse effects were assessed based on acute kidney injury (AKI), liver toxicity, hematotoxicity, and infusion reactions. Laboratory values were collected at baseline, on days 1, 2, 3, 7, and 14 post-L-AmB initiation. RESULTS: 189 LT recipients were screened and 140 enrolled. Concerning safety profile, AKI occurred in 55 (39%) patients, with serum creatinine peaking at 48 h (p = 0.025), as compared to baseline. Mild transaminase elevations occurred in 86% of patients within the first 48 h, and bilirubin increased in 10%, with no episodes of acute liver failure. Anemia (85%) and transient thrombocytopenia (9%) were observed. Hypokalemia was found in 28%. Renal replacement therapy was needed in 2%. No infusion-related or allergic reactions to L-AmB were observed. According to the institutional fungal surveillance protocol, no proven, probable, or possible invasive fungal infections were documented during the observation period. However, the present study was not designed to assess the prophylactic efficacy of L-AmB. CONCLUSIONS: In this cohort of bilateral LT recipients receiving standardized L-AmB prophylaxis, no discontinuation, dose adjustment, infusion reaction, or proven fungal infection was documented. Renal, hepatic, hematologic, and electrolyte abnormalities were frequent; but cannot be specifically attributed to L-AmB in the absence of a comparator group, given the multifactorial pathophysiology of the early post-transplant period. These findings underscore the importance of vigilant monitoring of organ function during L-AmB administration in this vulnerable population.",
+      "journal": "BMC Pharmacol Toxicol",
+      "date": "2026-08-03",
+      "authors": [
+        "Boscolo A",
+        "Sella N",
+        "Congedi S",
+        "Paiusco I",
+        "Pistollato E",
+        "Zanaga A",
+        "Chiapperini F",
+        "Zarantonello F",
+        "Mormando G",
+        "Pagliarini G",
+        "De Cassai A",
+        "Pettenuzzo T",
+        "Dell'Amore A",
+        "Navalesi P"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "doi": "10.1186/s40360-026-01189-x",
+      "journal_tier": 3,
+      "impact": 2.7,
+      "section": "immuno",
+      "score": 35.0,
+      "score_parts": {
+        "journal": 35,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42731687",
       "title": "Repeated topical exposure to benzo[a]pyrene and systemic immune effects in rats: analysis of splenic responses and macrophage function.",
       "abstract": "Environmental exposure to benzo[a]pyrene (BaP), a widespread polycyclic aromatic hydrocarbon (PAH) air pollutant, is associated with systemic immunotoxicity. However, the contribution of dermal exposure to systemic immune effects remains insufficiently characterized, despite the skin being a major route of exposure. This study evaluated systemic immune alterations following 10-day epicutaneous BaP exposure in rats at doses reflecting environmental and occupational exposure levels, focusing on hematological parameters, splenic immune responses, and peripheral macrophage function. BaP exposure reduced circulating leukocyte counts and induced mild hepatocellular injury. In the spleen, structural alterations, including congestion, enhanced erythropoiesis, and reduced periarteriolar lymphoid sheath cellularity, were accompanied by decreased frequencies of CD4⁺ and CD8⁺ T cells. Despite this, splenocytes exhibited increased mRNA expression and stimulated production of IFN-γ, IL-17, and IL-10. These changes were associated with increased mRNA for AhR and Cyp1B1, along with activation of antioxidant pathways, characterized by elevated glutathione levels and upregulation of Nrf2 and HO-1, in the absence of increased reactive oxygen species. This was accompanied by reduced basal proinflammatory activity and apoptosis. In contrast, peritoneal macrophages displayed a proinflammatory and functionally activated phenotype, characterized by increased oxidative activity, elevated TNF and IL-6 production, and enhanced bactericidal capacity. These findings are consistent with compartment-specific systemic immunomodulation following dermal BaP exposure and highlight the skin as a relevant route contributing to the systemic immune effects of environmental PAHs.",
@@ -2399,7 +2929,7 @@
     {
       "pmid": "42731611",
       "title": "Safety evaluation of yeast β-glucan at elevated dose levels: toxicological and gut microbiota analyses.",
-      "abstract": "This study evaluated the safety and gut microbiota effects of high-dose yeast β-glucan (YBG). In the acute toxicity assay, the LD50 exceeded 6.0 g/kg BW with no mortality. The 90-day subchronic study revealed no toxicologically relevant effects on clinical signs, body weight, hematology, serum chemistry, or histopathology at doses up to 3.0 g/kg BW; transient parameter alterations were within reference ranges and showed no delayed toxicity post-recovery. Developmental toxicity assessment (up to 2.84 g/kg BW) showed no adverse effects on maternal health, reproduction, or fetal development. Genotoxicity assays were negative. 16S rRNA sequencing indicated YBG did not disrupt microbial diversity; α-diversity remained stable, while β-diversity showed subtle shifts. Taxonomic analysis revealed increased relative abundance of beneficial genera (Lactobacillus, Akkermansia) without enrichment of pathogens. Collectively, these results demonstrate a wide safety margin for YBG under the tested conditions.",
+      "abstract": "This study evaluated the safety and gut microbiota effects of high-dose yeast β-glucan (YBG). In the acute toxicity assay, the LD50 exceeded 6.0 g/kg BW with no mortality. The 90-day subchronic study revealed no toxicologically relevant effects on clinical signs, body weight, hematology, serum chemistry, or histopathology at doses up to 3.0 g/kg BW; transient parameter alterations were within reference ranges and showed no delayed toxicity post-recovery. Developmental toxicity assessment (up to 2.84 g/kg BW) showed no adverse effects on maternal health, reproduction, or fetal development. Genotoxicity assays were negative. 16S rRNA sequencing indicated YBG did not disrupt microbial diversity; α-diversity remained stable, while β-diversity showed subtle shifts. Taxonomic analysis revealed increased relative abundance of beneficial genera (Lactobacillus, Akkermansia) without enrichment of pathogens. Collectively, these results demonstrate a wide safety margin for YBG under the tested conditions.",
       "journal": "Regul Toxicol Pharmacol",
       "date": "2026-09-12",
       "authors": [
@@ -2711,45 +3241,6 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42732067",
-      "title": "Liposomal amphotericin B as an antifungal prophylaxis in bilateral lung transplantation: a safety analysis.",
-      "abstract": "BACKGROUND: Lung transplantation (LT) is the definitive treatment for end-stage chronic respiratory failure. Despite improvements in surgical and perioperative care, fungal infections remain a major complication in LT recipients, and antifungal prophylaxis with liposomal amphotericin B (L-AmB) is commonly used. However, evidence on the safety of L-AmB administration in LT recipients remains limited. This retrospective observational study aimed to assess the profile of renal, hepatic and hematologic safety, and the incidence of hypersensitivity adverse events following prophylactic L-AmB use in LT recipients. METHODS: A retrospective, single-center observational study of adult patients (≥ 18 years) who underwent their first bilateral LT at the University Hospital of Padua (Italy), between January 2020 and March 2025. All patients received intravenous L-AmB (3 mg/kg/day for 5 days) as postoperative antifungal prophylaxis. Adverse effects were assessed based on acute kidney injury (AKI), liver toxicity, hematotoxicity, and infusion reactions. Laboratory values were collected at baseline, on days 1, 2, 3, 7, and 14 post-L-AmB initiation. RESULTS: 189 LT recipients were screened and 140 enrolled. Concerning safety profile, AKI occurred in 55 (39%) patients, with serum creatinine peaking at 48 h (p = 0.025), as compared to baseline. Mild transaminase elevations occurred in 86% of patients within the first 48 h, and bilirubin increased in 10%, with no episodes of acute liver failure. Anemia (85%) and transient thrombocytopenia (9%) were observed. Hypokalemia was found in 28%. Renal replacement therapy was needed in 2%. No infusion-related or allergic reactions to L-AmB were observed. According to the institutional fungal surveillance protocol, no proven, probable, or possible invasive fungal infections were documented during the observation period. However, the present study was not designed to assess the prophylactic efficacy of L-AmB. CONCLUSIONS: In this cohort of bilateral LT recipients receiving standardized L-AmB prophylaxis, no discontinuation, dose adjustment, infusion reaction, or proven fungal infection was documented. Renal, hepatic, hematologic, and electrolyte abnormalities were frequent; but cannot be specifically attributed to L-AmB in the absence of a comparator group, given the multifactorial pathophysiology of the early post-transplant period. These findings underscore the importance of vigilant monitoring of organ function during L-AmB administration in this vulnerable population.",
-      "journal": "BMC Pharmacol Toxicol",
-      "date": "2026-08-03",
-      "authors": [
-        "Boscolo A",
-        "Sella N",
-        "Congedi S",
-        "Paiusco I",
-        "Pistollato E",
-        "Zanaga A",
-        "Chiapperini F",
-        "Zarantonello F",
-        "Mormando G",
-        "Pagliarini G",
-        "De Cassai A",
-        "Pettenuzzo T",
-        "Dell'Amore A",
-        "Navalesi P"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Observational Study"
-      ],
-      "doi": "10.1186/s40360-026-01189-x",
-      "journal_tier": 3,
-      "impact": 2.7,
-      "section": "immuno",
-      "score": 35.0,
-      "score_parts": {
-        "journal": 35,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
       "pmid": "42731954",
       "title": "Corrigendum to \"Mesaconine alleviates hyperalgesia in CFA-induced mice by modulating YAP1 to suppress cell ferroptosis within the spinal cord\" [Phytomedicine 153 (2026) 157970].",
       "abstract": "",
@@ -2775,6 +3266,33 @@
         "journal": 100,
         "pubtype": -100,
         "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42733020",
+      "title": "Correction to: Astragaloside IV mitigates mitochondrial damage and neurological symptoms in rats with cervical spondylotic myelopathy by inhibiting IL‑17/TRAF6/NF‑κB pathway.",
+      "abstract": "",
+      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
+      "date": "2026-09-14",
+      "authors": [
+        "Han X",
+        "Li X",
+        "Bu X"
+      ],
+      "pubtypes": [
+        "Published Erratum"
+      ],
+      "doi": "10.1007/s00210-026-05905-6",
+      "journal_tier": 2,
+      "impact": 3.2,
+      "section": "diger",
+      "score": -38.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": -100,
+        "recency": 2.0
       },
       "tier": 3,
       "abstract_tr": ""
