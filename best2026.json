@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T12:21:34+00:00",
+  "updated": "2026-09-15T11:27:54+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -764,6 +764,36 @@
       },
       "tier": 1,
       "abstract_tr": "İlaç keşfi, bir adayın istenen tepkiyi üretip üretmediğini, mekanizmasını ortaya çıkardığını veya toksisiteye neden olup olmadığını belirlemek için hücresel analizlere dayanır, ancak bileşik-doz-zaman-bağlam kombinasyonlarının yalnızca küçük bir kısmı deneysel olarak ölçülebilir. Son pertürbasyon atlasları, tek hücreli ve görüntüleme teknolojileri ve müdahaleye dayalı yapay zeka modelleri artık ölçülmeyen hücresel tepkilerin tahminini test edilebilir bir hedef haline getiriyor. Bu nedenle yapay zeka sanal hücreleri, laboratuvar analizlerinin yerini almak yerine bileşiklere, bağlamlara ve takip deneylerine öncelik vererek geleneksel keşfi tamamlayabilir. Burada, bu yeteneği destekleyen kaynakları ve modelleme ilerlemelerini gözden geçireceğiz, bunların etki mekanizması analizi, etkililik, güvenlik, direnç ve kombinasyon çalışmaları açısından değerlerini değerlendireceğiz ve farmakolojik kullanım için kanıt gerekliliklerini tanımlayacağız. Veri kapsamı, immüno-onkoloji de dahil olmak üzere onkolojiyi, güvenlik değerlendirmesinin kesişen bir kullanım durumu olarak kabul edilebilir erken kanıtlama alanları haline getirir; daha geniş dağıtım, tedirginliğe özgü, mekanik ve karar düzeyinde doğrulama gerektirir."
+    },
+    {
+      "pmid": "42736097",
+      "title": "Midnolin-directed protein degradation beyond ubiquitin.",
+      "abstract": "Targeted protein degradation has emerged as a powerful way to eliminate disease-driving proteins rather than merely inhibit them. However, most current approaches depend on ubiquitin ligases, whereas midnolin bypasses E3 recruitment and substrate ubiquitination while converging on the same 26S proteasome used for canonical ubiquitin-dependent degradation. Recent structural, biochemical, and disease studies have defined how midnolin recognizes β-strand-forming degrons, positions substrates at the 26S proteasome, and contributes to interferon regulatory factor 4 regulation, while engineered midnolin-targeting chimeras and midnolin-based targeting chimeras have redirected this pathway toward β-catenin and c-Myc. By linking endogenous pathway biology with engineered degrader pharmacology, this review compares midnolin-directed degradation with proteolysis-targeting chimeras and molecular glue degraders and identifies the design, delivery, and safety principles that will determine whether it becomes a useful ubiquitin-independent complement to existing degraders.",
+      "journal": "Trends Pharmacol Sci",
+      "date": "2026-09-14",
+      "authors": [
+        "Tang Y",
+        "Zhou Y",
+        "Zhang X",
+        "Peng Z",
+        "Liu Y"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.tips.2026.08.005",
+      "journal_tier": 1,
+      "impact": 11.0,
+      "section": "diger",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
     },
     {
       "pmid": "42728153",
@@ -1820,38 +1850,6 @@
       },
       "tier": 1,
       "abstract_tr": "Kanser ağrısı, doku hasarının pasif bir sonucu olmaktan ziyade tümör-sinir-bağışıklık biyolojisinin aktif bir çıktısı olarak giderek daha fazla kabul edilmektedir. Tümör kaynaklı algojenler, nörotrofik faktörler, stres sinyalleri ve immün aracılar, nosiseptörleri duyarlı hale getirebilir, perinöral invazyonu kolaylaştırabilir, miyeloid ve lenfoid bölmeleri yeniden şekillendirebilir ve kalıcı ağrıyı sürdürebilen merkezi glial mekanizmaları harekete geçirebilir. Bununla birlikte, kanıt temeli asimetriktir: seçilmiş kemik metastazı, perinöral invazyon, ağız kanseri, sarkom veya kemoterapinin neden olduğu nöropati modellerinde birçok nedensel devre tanımlanmıştır; oysa insan kanser ağrısına uygulanabilirlik, tümör tipine, ağrı fenotipine, bağışıklık yapısına ve tedaviye maruz kalmaya göre değişir. Bu kritik anlatı İncelemesi, model-insan sınırlarını açık bir şekilde kullanarak periferik, merkezi, bağışıklık ve farmakolojik kanıtları değerlendirir. Oral skuamöz hücreli karsinomdaki son hasta çalışmaları, ağrıyı CGRP-pozitif sinir yoğunluğu, dolaşımdaki veya doku CGRP'si, perinöral invazyon ve azalmış CD8-pozitif T hücre yoğunluğu ile ilişkilendirmektedir, ancak bu ilişkiler insanda nedensellik oluşturmamaktadır; Spinal glial mekanizmaların doğrulanmış biyobelirteçleri hala eksiktir. NGF-TrkA, SLIT2-ROBO1, CGRP-CALCRL/RAMP1, CSF1R'ye bağımlı miyeloid veya glial sinyalleme, voltaj kapılı sodyum kanalları ve opioid-nöroimmün etkileşimleri dahil olmak üzere uyuşturulabilir düğümleri inceliyoruz. Klinik deneme ve kohort örnekleri, analjezinin eklem güvenliği, doku onarımı, konak savunması ve immünoterapi sonuçlarıyla potansiyel olarak karışık ilişkilere karşı dengelenmesi gerektiği terapötik paradoksları göstermektedir. Son olarak fenotip uyumlu bir model seçim çerçevesi ve hastaya göre sınıflandırılmış farmakolojik gelişim için ilaçlanabilir bir devre durumu stratejisi öneriyoruz."
-    },
-    {
-      "pmid": "42716237",
-      "title": "Neural-Metabolic Crosstalk Governing Cell Death and Therapy Resistance in Tumors.",
-      "abstract": "Metabolic reprogramming and resistance to regulated cell death (RCD) are central features of the tumor microenvironment (TME) that drive therapeutic failure. Emerging evidence indicates that neurotransmitter signaling networks-including glutamate, dopamine, 5-hydroxytryptamine (5-HT), and norepinephrine-extend beyond neural communication to function as critical regulators of tumor metabolism, immune modulation, and cell fate. These neurotransmitters influence multiple RCD modalities, such as ferroptosis, cuproptosis, and PANoptosis, through interconnected metabolic and signaling mechanisms. Glutamate is explicitly resolved by compartment and route: high extracellular glutamate inhibits System Xc⁻, restricts cystine uptake and glutathione synthesis, and promotes ferroptosis, whereas intracellular glutamate production, glutaminolysis, SLC7A11-coupled glutamate export, and receptor-mediated signaling have distinct, context-dependent consequences. Dopamine and 5-HT exert context-dependent effects through receptor subtype-specific metabolic rewiring. Sympathetic neurotransmitters, including norepinephrine, enhance glycolysis and lactate-driven immunosuppression through β₂-adrenergic signaling. In parallel, the gut-brain axis modulates tumor susceptibility to RCD by shaping the availability of microbiota-derived neurotransmitter precursors and metabolites. Mechanistically, neurotransmitter signaling converges on RCD programs by regulating redox homeostasis, lipid peroxidation, mitochondrial vulnerability, and inflammatory signaling. Integrating these observations, this review proposes a conceptual framework termed the \"Neurotransmitter-Novel Cell Death-Gut-Brain Axis,\" which links neural signaling, microbial metabolism, and tumor cell death decisions. Building on this framework, we highlight therapeutic strategies combining receptor-subtype-specific neurotransmitter modulation with selective induction of RCD pathways to overcome metabolic plasticity, immune evasion, and therapy resistance. Targeting this integrated neuro-metabolic-death network may offer a clinically actionable avenue to enhance tumor sensitivity to existing and emerging anticancer therapies.",
-      "journal": "Pharmacol Res",
-      "date": "2026-09-09",
-      "authors": [
-        "Yan Y",
-        "Sun H",
-        "Liu Z",
-        "Bhol CS",
-        "Sethi G",
-        "Xue W",
-        "Li L"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phrs.2026.108442",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "noro",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": "Metabolik yeniden programlama ve düzenlenmiş hücre ölümüne (RCD) karşı direnç, tümör mikro ortamının (TME) terapötik başarısızlığa yol açan temel özellikleridir. Ortaya çıkan kanıtlar, glutamat, dopamin, 5-hidroksitriptamin (5-HT) ve norepinefrin dahil olmak üzere nörotransmitter sinyal ağlarının, tümör metabolizmasının, bağışıklık modülasyonunun ve hücre kaderinin kritik düzenleyicileri olarak işlev görmek üzere sinirsel iletişimin ötesine uzandığını göstermektedir. Bu nörotransmiterler, birbirine bağlı metabolik ve sinyal mekanizmaları yoluyla ferroptoz, kuproptoz ve PANoptoz gibi birçok RCD yöntemini etkiler. Glutamat, bölme ve yolla açıkça çözülür: yüksek hücre dışı glutamat, Sistem Xc⁻'yi inhibe eder, sistin alımını ve glutatyon sentezini kısıtlar ve ferroptozu destekler; oysa hücre içi glutamat üretimi, glutaminoliz, SLC7A11-bağlı glutamat ihracatı ve reseptör aracılı sinyallemenin farklı, bağlama bağlı sonuçları vardır. Dopamin ve 5-HT, reseptör alt tipine özgü metabolik yeniden bağlantı yoluyla bağlama bağlı etkiler gösterir. Norepinefrin de dahil olmak üzere sempatik nörotransmiterler, β₂-adrenerjik sinyalleme yoluyla glikolizi ve laktat kaynaklı immünosupresyonu artırır. Buna paralel olarak bağırsak-beyin ekseni, mikrobiyotadan türetilmiş nörotransmitter öncüllerinin ve metabolitlerinin mevcudiyetini şekillendirerek tümörün RCD'ye duyarlılığını modüle eder. Mekanik olarak nörotransmiter sinyallemesi, redoks homeostazisini, lipid peroksidasyonunu, mitokondriyal hassasiyeti ve inflamatuar sinyallemeyi düzenleyerek RCD programlarında birleşir. Bu gözlemleri birleştiren bu inceleme, nöral sinyallemeyi, mikrobiyal metabolizmayı ve tümör hücresi ölümü kararlarını birbirine bağlayan \"Nörotransmitter-Yeni Hücre Ölümü-Bağırsak-Beyin Ekseni\" adı verilen kavramsal bir çerçeve önermektedir. Bu çerçeveye dayanarak, metabolik plastisitenin, bağışıklıktan kaçınmanın ve tedavi direncinin üstesinden gelmek için reseptör alt tipine özgü nörotransmiter modülasyonunu RCD yollarının seçici indüksiyonu ile birleştiren terapötik stratejileri vurguluyoruz. Bu entegre nöro-metabolik ölüm ağını hedeflemek, mevcut ve yeni ortaya çıkan antikanser tedavilerine karşı tümör duyarlılığını artırmak için klinik olarak eyleme geçirilebilir bir yol sunabilir."
     }
   ]
 }
