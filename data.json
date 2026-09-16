@@ -1,11 +1,150 @@
 {
-  "updated": "2026-09-15T11:27:54+00:00",
+  "updated": "2026-09-16T11:13:58+00:00",
   "window_days": 1,
   "datetype": "edat",
-  "count": 50,
-  "tier1_count": 3,
+  "count": 85,
+  "tier1_count": 7,
   "source": "PubMed (NCBI E-utilities)",
   "articles": [
+    {
+      "pmid": "42744194",
+      "title": "Targeting bone marrow mesenchymal stem cells with traditional Chinese medicine active ingredients: Restoring hematopoietic microenvironment homeostasis to prevent and treat myelosuppression.",
+      "abstract": "Myelosuppression is a common and dose-limiting severe complication in tumor radiotherapy and chemotherapy. The disruption of hematopoietic microenvironment homeostasis mediated by bone marrow mesenchymal stem cells (BMSCs) may be one of the important pathological factors for its persistent non-healing. Traditional Chinese medicine (TCM) can regulate BMSCs function through multi-target and multi-pathway mechanisms, reshape the hematopoietic microenvironment, and support hematopoietic regeneration. This article systematically explains the network mechanisms by which BMSCs regulate hematopoiesis and the pathological mechanisms by which factors like radiotherapy and chemotherapy damage BMSCs. It explores how active ingredients in Chinese medicine can restore BMSCs function and remodel the hematopoietic microenvironment by regulating differentiation and enhancing paracrine effects, suggesting that shifting treatment strategies from \"protecting the seeds\" to \"remodeling the soil\" might be a promising direction. At the same time, it summarizes the potential application value of nano-targeted delivery to improve bone marrow homing efficiency of active ingredients and other new technology research progress. Although most studies are still at the preclinical stage, these findings suggest the potential value of TCM in treating myelosuppression and provide ideas and directions for using single-cell multi-omics to identify abnormal BMSCs subpopulations and their molecular targets, developing intelligent drug delivery systems, and conducting clinical translational research.",
+      "journal": "Pharmacol Res",
+      "date": "2026-09-15",
+      "authors": [
+        "Yan J",
+        "Qi Y",
+        "Guo J",
+        "Jiang X",
+        "Li J",
+        "Wan J",
+        "Xv Q",
+        "Zhang L",
+        "Li Y",
+        "Zhang L",
+        "Zhang Z"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.phrs.2026.108460",
+      "journal_tier": 1,
+      "impact": 9.1,
+      "section": "onko",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744193",
+      "title": "Potential Contribution of the Microbiota-Gut-Brain Axis to Doxorubicin-Associated Cognitive Impairment: Mechanisms, Evidence, and Therapeutic Opportunities.",
+      "abstract": "Chemotherapy-induced cognitive impairment (CICI), often termed chemobrain, is a clinically important complication of cancer treatment that can affect memory, attention, executive function, and processing speed during and after therapy. Doxorubicin is of particular mechanistic interest because brain parenchymal exposure is limited, yet preclinical studies consistently identify neuroinflammatory, oxidative, vascular, and synaptic abnormalities after treatment. This critical narrative review evaluates whether intestinal injury and disruption of the microbiota-gut-brain axis may contribute to these central effects. Preclinical evidence indicates that doxorubicin can alter microbial community structure, injure the intestinal barrier, modify SCFA-associated taxa or predicted functions, alter selected metabolite profiles, and promote systemic inflammatory and metabolic signaling. These peripheral changes could interact with brain endothelial cells, glia, mitochondria, hippocampal neurogenesis, and synaptic-plasticity pathways. However, the proposed doxorubicin-gut-brain pathway remains a predominantly preclinical and incompletely tested framework. No longitudinal human study has yet established, within the same patients, the temporal sequence linking doxorubicin exposure, microbiome or metabolome changes, systemic inflammation, and objective cognitive outcomes. Existing animal studies also vary in dose, regimen, tumor context, sampling time, microbiome methodology, and control of behavioral or microbiological confounders, while causal rescue experiments remain limited. Key priorities are therefore longitudinal human cohorts with pretreatment baselines and repeated multi-omics and cognitive assessments; animal studies that test temporal precedence and causal rescue or pathway blockade in the same model; mediation analyses that determine whether microbial or metabolic changes lie between treatment and cognitive dysfunction; and mechanism-informed clinical trials that demonstrate target engagement, cognitive benefit, oncology safety, and preservation of antitumor efficacy. Microbiome-directed interventions are promising but remain investigational for doxorubicin-associated CICI.",
+      "journal": "Pharmacol Res",
+      "date": "2026-09-15",
+      "authors": [
+        "Madkoor M",
+        "Ahmed R",
+        "Hany R",
+        "Abdelnaby M",
+        "Hagar Z",
+        "Ahmed A",
+        "Akl H",
+        "Elshorbagy D",
+        "Emad A",
+        "Elsayed J",
+        "Abdelfatah H",
+        "Akawi N",
+        "George MY"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.phrs.2026.108455",
+      "journal_tier": 1,
+      "impact": 9.1,
+      "section": "kardiyometabolik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42742703",
+      "title": "Derivation of guidance values under the EU Drinking Water Directive : the case study of trifluoroacetic acid.",
+      "abstract": "Trifluoroacetic acid (TFA) is a metabolite of e.g., pesticides, refrigerants and propellants, and it is considered a 'non-relevant metabolite' of pesticides under the EU Drinking Water Directive (DWD) as current exposures have not been found to provide a consumer health risk. Since an EU-harmonised concept for the derivation of drinking water guidance values is unavailable, various guidance values have been proposed or implemented on the Member State level for TFA in drinking water. This causes uncertainty with respect to the adequacy of such values. To address this uncertainty, the scientific rationale underlying the different guidance values is reviewed here. It is further shown that TFA should not be included in the DWD definitions for per- and polyfluoroalkyl substances; this is relevant for one of the suggested guidance values. Finally, a science-based approach for deriving guidance values for substances in drinking water is proposed. Application of this approach to TFA as an example yields a health-based guidance value of 294 µg/L TFA in drinking water. To foster harmonisation and acceptance across agencies, this guidance value should be complemented with appropriate risk management measures (such as introduction of an upper limit for hygienic reasons); however, such further considerations are outside the scope of the present article. All stakeholders are encouraged to align on an EU-harmonised approach to derive scientifically justified and robust guidance values for substances in drinking water to adequately protect consumers.",
+      "journal": "Arch Toxicol",
+      "date": "2026-09-15",
+      "authors": [
+        "Sur R",
+        "Bartlett R",
+        "Becker B",
+        "Hueser A",
+        "Kluxen FM",
+        "Laabs V",
+        "Mehta J",
+        "Melching-Kollmuss S",
+        "Sauer UG",
+        "Scorgie E",
+        "Wallace DF"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1007/s00204-026-04530-9",
+      "journal_tier": 1,
+      "impact": 6.1,
+      "section": "diger",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42742702",
+      "title": "Genotoxicity of anthraquinone dyes and dye intermediates: a comprehensive review.",
+      "abstract": "Anthraquinone dyes and dye intermediates are widely used across industrial, pharmaceutical, and biological applications. Despite evidence that both synthetic and naturally occurring anthraquinones may exhibit genotoxic effects, a complete assessment of their genotoxic potential is currently lacking. This review provides a comprehensive evaluation of genotoxicity data for anthraquinone dyes and dye intermediates derived from bacterial assays, mammalian in vitro systems, and in vivo models. Data from studies assessing gene mutation, chromosomal damage, DNA damage, and DNA repair were integrated. Genotoxic activity was common but substance-specific and frequently confined to particular endpoints or strains rather than consistent across the test battery. Of the 63 anthraquinones evaluated, ten including 1-amino-2-methyl-anthraquinone, 2-aminoanthraquinone, aloe emodin, chrysazin, emodin, Disperse Blue 3, Disperse Blue 7, Disperse Red 11, rubiadin and Acid Blue 62 showed consistent evidence of genotoxic activity, whereas carminic acid can be considered non-genotoxic on the available evidence. For many compounds the evidence remained insufficient to draw definitive conclusions, highlighting the need for further studies conducted in accordance with Organisation for Economic Co-operation and Development guidelines.",
+      "journal": "Arch Toxicol",
+      "date": "2026-09-15",
+      "authors": [
+        "Itkonen A",
+        "Kovakoski H",
+        "Herrala M",
+        "Rysä J"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1007/s00204-026-04514-9",
+      "journal_tier": 1,
+      "impact": 6.1,
+      "section": "antimikrobiyal",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
     {
       "pmid": "42736097",
       "title": "Midnolin-directed protein degradation beyond ubiquitin.",
@@ -103,6 +242,400 @@
         "recency": 0.0
       },
       "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42745024",
+      "title": "Antibiotic-Refractory Chronic Pouchitis After Ileal Pouch-Anal Anastomosis: Current and Emerging Therapeutic Strategies.",
+      "abstract": "Chronic inflammatory pouch disorders may affect up to 20% of patients within 5 years after ileal pouch-anal anastomosis and remains a major therapeutic challenge. Within this spectrum, chronic antibiotic-refractory pouchitis is associated with impaired quality of life, long-term pouch-related complications, and potential risk for pouch failure and excision. Current recommendations support the use of probiotics for primary and secondary prevention in selected patients. Increasingly, targeted advanced therapies, including biologics and small molecules approved for the treatment of ulcerative colitis and Crohn's disease, are being used to reduce antibiotic dependence and maintain disease control in patients with pouch inflammation. Vedolizumab is the only advanced therapy approved in Europe for chronic pouchitis, whereas evidence for tumor necrosis factor (TNF) antagonists, ustekinumab, and newer agents, such as interleukin (IL)-23p19 antagonists and Janus kinase (JAK) inhibitors is largely based on observational data from clinical practice and real-world experience. Fecal microbiota transplantation is biologically attractive but remains investigational, with early studies showing inconsistent efficacy. Dietary patterns may modify pouch inflammation; however, most evidence is observational. Overall, current management strategies for chronic pouchitis are limited by incomplete understanding of disease pathogenesis, and by persistent methodological gaps, including poorly standardized treatment outcomes and the lack of validated treat-to-target strategies for this population. Well designed prospective and controlled studies are needed to define appropriate antibiotic-sparing strategies, optimal treatment positioning, and long-term durability of response.",
+      "journal": "Drugs",
+      "date": "2026-09-16",
+      "authors": [
+        "Faggiani I",
+        "Tuttle C",
+        "Danese S",
+        "Peyrin-Biroulet L",
+        "Jairath V",
+        "Sedano R",
+        "Dotan I",
+        "Panaccione R",
+        "Ma C"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s40265-026-02383-1",
+      "journal_tier": 1,
+      "impact": 13.4,
+      "section": "onko",
+      "score": 102.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 2.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744880",
+      "title": "Phase I metabolism of the methadone analog methiodone (IC-26) in pooled human liver microsomes and its detection in seven authentic human cases.",
+      "abstract": "The recent detection of methiodone (IC-26; 4-(Ethanesulfonyl)-N, N-dimethyl-4,4-diphenylbutan-2-amine) in Europe, a new synthetic opioid associated with a growing number of fatal intoxications, highlights the need for reliable toxicological markers to support its detection in routine screening. As a structural analog of methadone, methiodone exemplifies the structural diversity of new emerging synthetic opioids. In this study, the metabolism of methiodone was investigated using an integrated approach combining in silico prediction (GLORYx, EAWAG-PPS, BioTransformer 3.0), in vitro incubation with pooled human liver microsomes (pHLM), and liquid chromatography-quadrupole time-of-flight tandem mass spectrometry (LC-QTOF/MS) analysis of authentic biological samples from one non-fatal intoxication and six post-mortem cases. Two major phase I metabolites were identified, N-desmethyl methiodone (M1) and N, N-didesmethyl methiodone (M2), and both were consistently detected across all fatal cases by LC-QTOF/MS. Seven additional minor metabolites, likely formed via hydroxylation or combined N-demethylation and hydroxylation, were tentatively identified exclusively in authentic biological samples by LC-MS/MS. In the non-fatal case, M1 was the sole detectable analyte in serum, suggesting its particular value as a long-term exposure marker. The detection of trace M1 in microsome-free control incubations indicates a minor non-enzymatic degradation pathway, with implications for the cautious interpretation of low-level M1 findings, e.g. in hair analysis. Blood methiodone concentrations in fatal cases ranged from 25 to 930 ng/mL, and in urine from 220 to 37,700 ng/mL. The integration of methiodone, M1, and M2 into routine opioid screening methods is strongly recommended to ensure reliable detection across all stages of drug elimination.",
+      "journal": "Arch Toxicol",
+      "date": "2026-09-16",
+      "authors": [
+        "Kutzler J",
+        "Postupka A",
+        "Auwärter V"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s00204-026-04546-1",
+      "journal_tier": 1,
+      "impact": 6.1,
+      "section": "noro",
+      "score": 102.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 2.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744203",
+      "title": "Enzymatically triggered in situ gelation of a multifunctional peptide for localized controlled release and conformal fracture repair.",
+      "abstract": "Irregular fracture edges and gaps present significant challenges to bone healing. As versatile scaffolds for bone regeneration, hydrogels can effectively guide and facilitate tissue repair. Compared to preformed hydrogels, in situ gelation via a responsive sol-gel transition at the defect site offers superior flexibility, adaptability, and conformity, minimizing void cavities and establishing a more favorable environment for healing complex fractures. Peptides, as biogenic building blocks, can self-assemble into hierarchically structured hydrogels under specific stimuli. Given that alkaline phosphatase (ALP) is a key enzyme in bone mineralization and is highly expressed at the fracture site, we developed a phosphorylated peptide (NfFpYO) that undergoes ALP-triggered dephosphorylation, enabling direct in situ gelation on irregular fracture surfaces. Our results show that the resulting nanofibrous three-dimensional scaffold, functionalized with Gly-Pro-Hyp (GPO) motifs, promotes the migration, proliferation, and osteogenic differentiation of human bone marrow mesenchymal stem cells (hBMSCs) in vitro. Moreover, the resulting nanofibrous hydrogel, which presents peptide-bound naproxen and fluorinated motifs, was associated with a less inflammatory and more repair-supportive macrophage-associated marker profile, enhanced osteogenic marker expression, and improved radiographic and histological fracture repair in a murine model. This study adapts a promising ALP-instructed peptide self-assembly strategy to the fracture-repair microenvironment through a multifunctional precursor design, providing a local shape-conformal and bioactive hydrogel platform with potential for complex fracture repair.",
+      "journal": "J Control Release",
+      "date": "2026-09-15",
+      "authors": [
+        "Tang X",
+        "Wen C",
+        "Shang Y",
+        "Yang H",
+        "Hu H",
+        "Xu N",
+        "Li Y",
+        "Luo Y",
+        "Chen R",
+        "Zhao B",
+        "Duan Y",
+        "Wang Z",
+        "Liu J",
+        "Kuang M"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115354",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "immuno",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744202",
+      "title": "B-cell maturation antigen -targeted Tirapazamine-loaded liposomes overcome hypoxia-induced drug resistance and metastasis in multiple myeloma.",
+      "abstract": "Multiple myeloma (MM) is a highly fatal disease, particularly in the relapsed-refractory stage, due to drug resistance associated with tumor hypoxia. TPZ, a hypoxia-activated pro-drug, effectively kills hypoxic tumor cells; however, its severe side effects have limited its therapeutic use. This study investigates BCMA-targeted liposomes loaded with TPZ to enhance their therapeutic efficacy while reducing toxicity. TPZ inhibits cell proliferation, induces apoptosis, and reverses the metastasis driven by hypoxia in MM cells. Encapsulation into liposomes maintained its cytotoxic effects in hypoxic MM cells. BCMA-targeting increased specific delivery in MM cells and enhanced biodistribution to MM cells within the bone marrow. In a relapsed/refractory MM mouse model, BCMA-targeted TPZ-loaded liposomes significantly reduced tumor progression while minimizing body weight loss in mice and reducing cytotoxicity in PBMCs, achieving a Efficacy-to-Body-Weight Toxicity Ratio of 8.3 compared to 1 for free TPZ. This study provides preclinical proof-of-concept for using BCMA-targeted TPZ-loaded liposomes as a promising and safer therapeutic option for relapsed/refractory MM.",
+      "journal": "J Control Release",
+      "date": "2026-09-15",
+      "authors": [
+        "Maksimos M",
+        "Muz B",
+        "Azab F",
+        "Afrough A",
+        "Kaur G",
+        "Khan A",
+        "Anderson LD",
+        "Azab AK"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115351",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744201",
+      "title": "A nano-adjuvant platform potentiates immunity for potent mucosal and systemic defense against influenza.",
+      "abstract": "Vaccines against respiratory viruses such as influenza require adjuvant platforms capable of simultaneously inducing robust mucosal and systemic immunity. Here, we report a PEGylated aluminum‑manganese oxide hybrid nano-adjuvant (Al-Mn-PEG) as an efficient mucosal vaccine delivery system. Al-Mn-PEG exhibits high stability and biocompatibility, enhancing antigen uptake, activation, and lysosomal escape in antigen-presenting cells, thus promoting cross-presentation. In vivo, intranasal immunization with Al-Mn-PEG loaded with hemagglutinin from influenza A or B viruses induces strong mucosal sIgA and systemic IgG responses, drives a mixed Th1/Th2 immune profile with systemic Th1 skewing, and activates CD8+ T cells, resulting in comprehensive immune protection. Mechanistically, Al-Mn-PEG engages both the STING/TBK1/IRF3 and NLRP3 pathways, which potentiate the immune system and drive coordinated innate and adaptive immune responses. This work establishes Al-Mn-PEG as a versatile adjuvant platform, offering a strategy for next-generation respiratory vaccines.",
+      "journal": "J Control Release",
+      "date": "2026-09-15",
+      "authors": [
+        "Cheng H",
+        "Wang Y",
+        "Wang S",
+        "Meng Z",
+        "Zhai X",
+        "Lv R",
+        "Cheng A",
+        "Guan K",
+        "Zhang G"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115353",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "immuno",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744200",
+      "title": "Nab-paclitaxel fused with the de novo designed receptor binder exhibits enhanced tumor targeting and therapeutic efficacy.",
+      "abstract": "Chemotherapy has been widely used in cancer treatment, but most of the chemotherapeutic drugs rely mainly on passive accumulation due to lack of target specificity, which may lead to systemic toxicity and limited clinical utility. Recent advances in artificial intelligence-based protein design provide new opportunities for developing precision therapeutics. Here we modify the albumin-bound paclitaxel (Nab-PTX), one of the most widely used drugs in chemotherapies, by applying the fusion proteins of albumin with the de novo designed protein binders targeting human EGFR or HER2. The resulting particles, EGFRmb-Nab-PTX and HER2mb-Nab-PTX, retain the similar physicochemical properties of Nab-PTX while acquiring the receptor-specific binding capacities. The in vitro assays show that both binder-modified Nab-PTX particles have increased uptake and inhibitory effects significantly in the cancer cell lines with high receptor expression levels. Furthermore, the data from a xenograft model, including tumor growth, excised tumor analysis, organ histology, and fluorescence imaging, show that the binder-modified Nab-PTX enhances tumor accumulation, improves tumor suppression, and may reduce off-target exposure compared with the conventional Nab-PTX, suggesting that they may have promising clinical potential in cancer treatment. Overall, this strategy provides an adaptable modular platform for generating albumin-based chemotherapeutic drugs with target specificities, which can be readily customized with diverse target binders to enable precise cancer therapies.",
+      "journal": "J Control Release",
+      "date": "2026-09-15",
+      "authors": [
+        "Qian Y",
+        "Yan W",
+        "Xu F",
+        "Liu Y",
+        "Chen F",
+        "Lu Y",
+        "Zhang Z",
+        "Gu A",
+        "Yu R",
+        "Fang Z",
+        "Yu Y",
+        "Li M",
+        "Cao L",
+        "Liu Y",
+        "He Y"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115355",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744199",
+      "title": "Metal-organic framework-based Z-scheme heterostructure enables oxygen-independent sonodynamic immunotherapy through tumor-associated macrophage reprogramming.",
+      "abstract": "Sonodynamic therapy (SDT) provides spatially controlled tumor treatment, but its efficacy in hypoxic tumors is limited by oxygen-dependent reactive oxygen species (ROS) generation and tumor-associated macrophage (TAM)-mediated immunosuppression. Here, we developed a hyaluronic acid (HA)-modified, metal-organic framework (MOF)-based CuO₂@FeTCPP Z-scheme nanosonosensitizer to combine hypoxia-tolerant hydroxyl radical (•OH) generation with macrophage reprogramming. Band-edge analysis, interfacial X-ray photoelectron spectroscopy, and spin-trapping and scavenging experiments provided complementary support for a Z-scheme charge-transfer pathway that preserves reducing electrons on FeTCPP and highly oxidative holes on CuO₂. Under ultrasound irradiation, CuO₂@FeTCPP@HA maintained strong •OH generation under hypoxia, whereas oxygen-dependent 1O₂ production was substantially attenuated. HA modification enhanced CD44-associated cellular uptake, as demonstrated by comparison with the HA-free material and by CD44-blocking experiments. In M2-like macrophages, CuO₂@FeTCPP@HA treatment without ultrasound was accompanied by increased H3 acetylation and decreased H3K9 trimethylation, whereas ultrasound activation markedly increased •OH production and amplified the M2-to-M1 phenotypic and cytokine responses. These observations support distinct but convergent contributions from Cu-associated metabolic-epigenetic regulation and ultrasound-triggered oxidative stress. In a bilateral subcutaneous A20 lymphoma model, local treatment of the primary tumor suppressed both irradiated primary and non-irradiated contralateral tumors, reduced the bone marrow lymphoma burden, and promoted dendritic cell maturation, CD8+ T-cell infiltration, and effector memory T-cell formation. Together, these results demonstrate a materials-based strategy that integrates oxygen-independent sonocatalysis with macrophage-centered immune remodeling for systemic antitumor therapy.",
+      "journal": "J Control Release",
+      "date": "2026-09-15",
+      "authors": [
+        "Liu J",
+        "Shao B",
+        "Miao Q",
+        "Wang J",
+        "Wang Z",
+        "Han M",
+        "Hou Y",
+        "Yan F"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115352",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744192",
+      "title": "Inhibiting calreticulin palmitoylation enhances the efficacy of elesclomol-CuCl2 on oxaliplatin-triggered immunogenic cell death in pancreatic cancer.",
+      "abstract": "Immunogenic cell death (ICD) is a robust strategy to reprogram immunologically \"cold\" pancreatic ductal adenocarcinoma (PDAC) into \"hot\" tumors and augment immunotherapeutic efficacy, yet clinically viable ICD-inducing regimens and their regulatory mechanisms remain elusive. Here, we sought to develop an optimized combinatorial therapy for ICD induction in PDAC and decipher its core molecular pathway. Spatial transcriptomics of human PDAC tissues revealed that elevated ICD activity in cancer lesions correlates strongly with favorable patient prognosis. In vitro and in vivo functional assays demonstrated that co-treatment with elesclomol‑CuCl₂ (ES‑CU, a potent cuproptosis inducer) and oxaliplatin (L‑OHP) synergistically suppresses PDAC cell proliferation, migration and invasion, while triggering robust reactive oxygen species (ROS)-dependent ICD. Mechanistically, this regimen inhibits calreticulin (CALR) palmitoylation at Cys137, abrogating CALR degradation via the autophagy‑lysosome pathway and facilitating its ER-to-membrane translocation to initiate ICD signaling. This potent ICD response promotes dendritic cell maturation and enhances CD8⁺T cell-mediated cytotoxicity through the TLR4/NF‑κB axis, which single-cell RNA sequencing of clinical PDAC samples supported in neoadjuvant therapy responders. Collectively, our findings identify CALR palmitoylation inhibition as a key driver of L‑OHP/ES‑CU-induced ICD, reshaping the tumor immune microenvironment to provide a promising chemo-immunotherapeutic strategy for PDAC.",
+      "journal": "Pharmacol Res",
+      "date": "2026-09-15",
+      "authors": [
+        "Zou Z",
+        "Li X",
+        "Ma Y",
+        "Huang Y",
+        "Jiang Q",
+        "Xu Y",
+        "Zhao S",
+        "Ye W",
+        "Ke Q",
+        "Chao J",
+        "Wang L",
+        "Huang J",
+        "Sun D",
+        "Zhang Y"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.phrs.2026.108459",
+      "journal_tier": 1,
+      "impact": 9.1,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42742705",
+      "title": "Characterization and quantitation of urinary metabolites of 2-monochloropropane-1,3-diol (2-MCPD) in Wistar rats.",
+      "abstract": "Fatty acid esters of 2-monochlorpropane-1,2-diol (2-MCPD) are process contaminants formed during the heat treatment of foodstuffs containing fat and salt. The limited information on 2-MCPD metabolism hinders investigating the mechanisms of toxic effects observed in skeletal and heart muscle as well as kidneys of rats treated with 2-MCPD dissolved in water by gavage over 28 days. The aim of the present work was to expand the scheme of 2-MCPD metabolism in rats. After oral administration of [13C3]2-MCPD (30 mg/kg bodyweight; bw) or 2-MCPD (3 or 30 mg/kg bw) by gavage, urine samples were collected between 0 and 8 h, 8-24 h and 24-48 h. Novel metabolites were identified by 13C nuclear magnetic resonance (NMR) spectroscopy and high-resolution mass spectrometry (HRMS), and the most abundant metabolites were quantified by isotope-dilution GC-MS and UPLC-MS/MS. The main compounds were 2-MCPD itself and the oxidation product 2-chlorohydracrylic acid (2-ClHA). Eight metabolites were detected for the first time. Products of conjugation reactions were 2-MCPD sulfate and 2-MCPD glucuronide. Six metabolites formed after degradation of glutathione conjugates were thiodiglycolic acid (TDGA), thionyldiglycolic acid (TNDGA), 3-(S-carboxymethyl)mercaptolactic acid (CMMLA), S-(carboxymethyl)-CysGly (CMCG), N-acetyl-S-(1-carboxy-2-hydroxyethyl)-Cys (CHEMA), and 2-[(2-carboxy-2-oxoethyl)sulfanyl]hydracrylic acid (2-COSHA). The mean excretion ratios of four main compounds quantified in male (m) and female (f) urine collected over 48 h following the low dose administration of 3 mg/kg bw were: 2-MCPD itself (m: 12.5%, f: 11.6%), 2-ClHA (m: 30.4%, f: 26.0%), TDGA (m: 8.5%, f: 8.1%) and 2-MCPD sulfate (m: 0.19%, f: 0.23%). In summary, the metabolites covered at least 51.6% (m) or 45.9% (f) of the dose, which allowed proposing a comprehensive scheme of metabolic pathways. Given that 2-MCPD and each of its metabolites may exert a toxic effect, two pairs of metabolites stand out due to their reactivity with glutathione: 2-chloroacetaldehyde/2-chloroacetic acid as well as 2-chlorolactaldehyde/2-ClHA.",
+      "journal": "Arch Toxicol",
+      "date": "2026-09-15",
+      "authors": [
+        "Henning T",
+        "Goerdeler C",
+        "El-Khatib AH",
+        "Meyer K",
+        "Bruer G",
+        "Monien BH"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s00204-026-04542-5",
+      "journal_tier": 1,
+      "impact": 6.1,
+      "section": "toksikoloji",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42742701",
+      "title": "Combined immune modulation reveals carbamazepine-associated CD8+ T cell-dependent skin inflammation in HLA-A*31:01 knock-in mice.",
+      "abstract": "Human leukocyte antigen (HLA) alleles are among the strongest genetic risk factors for idiosyncratic drug toxicity. HLA-A*31:01 is a risk factor for carbamazepine (CBZ)-induced delayed drug hypersensitivity, yet allele carriage alone is insufficient for disease development. CD8+ T cells are implicated in these reactions; however, their activation mechanism remains unclear. Using HLA-A*31:01 knock-in (A31-KI) mice, we investigated whether CBZ exposure elicited CD8+ T-cell responses in vivo. The mice received CBZ for 7 days by oral administration (300 mg/kg/day) and auricular application (25 mg/kg/day). CBZ alone did not induce clear CD8+ T-cell activation. Under CD4+ T-cell depletion, CBZ markedly increased programmed cell death protein 1 (PD-1) expression in CD44highCD62Llow CD8+ T cells, suggesting PD-1-mediated restraint of CBZ-responsive activation. Subsequent PD-1 blockade enhanced CD8+ T-cell activation in auricular lymph nodes and induced skin inflammation with elevated serum thymus and activation-regulated chemokine; both were attenuated by CD8+ T-cell depletion. To clarify how CBZ activated CD8+ T cells, we performed ex vivo analyses using splenocytes. CBZ (50 µM) induced proliferation of CD44highCD8+ T cells, whereas this response was absent in purified CD8+ T-cell cultures and reduced by HLA class I and costimulatory blockade, supporting an antigen-presenting cell-dependent mechanism. Collectively, CBZ can activate CD8+ T cells; however, this response is restrained and remains latent. When immune control is disrupted, particularly in an HLA-A*31:01-bearing host, the response can progress to a CD8+ T cell-dependent inflammatory phenotype. Thus, A31-KI mice provide an in vivo platform for understanding CBZ-associated idiosyncratic toxicity and pathogenesis.",
+      "journal": "Arch Toxicol",
+      "date": "2026-09-15",
+      "authors": [
+        "Aoki S",
+        "Ichikawa M",
+        "Masuda Y",
+        "Komiya K",
+        "Nakada S",
+        "Yokoyama T",
+        "Harada N",
+        "Susukida T",
+        "Kazaoka A",
+        "Ito K"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s00204-026-04536-3",
+      "journal_tier": 1,
+      "impact": 6.1,
+      "section": "immuno",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42741450",
+      "title": "Safety and efficacy of honeysuckle therapy for epidermal growth factor receptor inhibitor-related rash: a systematic review and meta-analysis.",
+      "abstract": "BACKGROUND: Epidermal growth factor receptor inhibitors (EGFRIs) -related rash is prevalent, and honeysuckle therapy (HT) has been extensively utilized for skin rash. However, high-quality clinical evidence supporting the use of HT for EGFRIs-related rash remains scarce. This study aims to systematically assess the prophylactic and therapeutic effectiveness and safety of HT in managing EGFRIs-related rash. METHODS: A systematic literature search was performed in six electronic databases from their inception to 25 March 2025 to identify eligible randomized controlled trials (RCTs). Methodological risk of bias was evaluated using the Cochrane RoB 1.0 tool, and the certainty of evidence was graded using the GRADE approach. Meta-analyses were implemented using RevMan 5.4 software. RESULTS: Seven RCTs with a total of 534 participants were enrolled. Prophylactically, HT significantly reduced ≥ Grade 2 rash incidence (RR = 0.43, 95% CI: 0.29-0.65, P < 0.001; 2 RCTs) and delayed time to rash onset (MD = 8.87 days, 95% CI: 5.30-12.44 days, P < 0.001; 1 RCT). No significant differences were detected in overall rash incidence (RR = 0.84, 95% CI: 0.69-1.01, P = 0.07; 2 RCTs) or rash duration (MD = -4.43 days, 95% CI: -9.69 to 0.83 days, P = 0.10; 1 RCT). For therapeutic use, HT significantly improved the clinical effective rate of rash management (RR = 1.35, 95% CI: 1.13-1.62, P = 0.001; 5 RCTs). Subgroup analyses confirmed consistent efficacy across single-botanical drug/compound formulations and topical/combined oral-topical administration routes. HT also improved quality of life. No severe HT-related adverse events were documented among studies that reported safety outcomes. Evidence certainty was low to very low. CONCLUSION: Due to the low certainty and very low certainty of evidence, HT may alleviate severe EGFRIs-related rash and improve therapeutic response. High-quality, large-scale, multicenter RCTs with standardized honeysuckle botanical drug formulations, dosages, and outcome measures are urgently needed to validate these preliminary findings and improve clinical generalizability. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/, Identifier CRD420251035535.",
+      "journal": "Front Pharmacol",
+      "date": "2026-08-31",
+      "authors": [
+        "Liu LF",
+        "Liu S",
+        "Jiao J",
+        "Zhang FY"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "doi": "10.3389/fphar.2026.1875649",
+      "journal_tier": 2,
+      "impact": 4.4,
+      "section": "formulasyon",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 40,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42741446",
+      "title": "Effectiveness of SGLT2 inhibitors in slowing chronic kidney disease progression and reducing mortality: a meta-analysis.",
+      "abstract": "BACKGROUND: Chronic kidney disease (CKD) represents a significant health problem worldwide with high morbidity, mortality, and development of end-stage kidney disease (ESKD). Sodium-glucose co-transporter 2 (SGLT2) inhibitors represent an innovative class of medications with possible cardiorenal advantages. We conducted a Meta-analysis to assess their efficacy in CKD management. METHODS: Our Meta-analysis was performed using the Preferred Reporting Items for Meta-analyses (PRISMA) guidelines and is registered in PROSPERO (CRD420261362785). Databases used for conducting this systematic review include Cochrane Central Register of Controlled Trials (CENTRAL), PubMed, PubMed Central, and Google Scholar. The databases were searched from their inception till 16 April 2026. Clinical trials in adults diagnosed with CKD were included in this study if they compared the use of SGLT2 inhibitors versus placebo. A random-effects model was used for meta-analysis. RESULTS: Thirteen randomized controlled trials (RCTs) (n = 49,931) were analyzed. A statistically significant increase in total and chronic estimated glomerular filtration rate (eGFR) slope was seen (mean difference: MD = 0.97 mL/min/1.73 m2/year, 95% CI: 0.34 to 1.59 and MD = 1.92, 95% CI: 1.91-1.93). There was a statistically significant reduction in albuminuria (ratio of means showing 37% reduction, 95% CI: 1.12-1.68). The risk of ESKD was significantly reduced by 30% (RR = 0.70, 95% CI: 0.65-0.75), while the doubling of serum creatinine risk was diminished by 33% (RR = 0.67, 95% CI: 0.56-0.79). SGLT2 inhibitors also lowered the risk of all-cause mortality (RR = 0.80, 95% CI: 0.68-0.93), cardiovascular mortality (RR = 0.79, 95% CI: 0.65-0.95), and heart failure-related hospitalization (RR = 0.74, 95% CI: 0.67-0.82). The number of serious adverse events decreased (RR = 0.92, 95% CI: 0.88-0.95), while overall adverse events remained unchanged (RR = 0.99, 95% CI: 0.96-1.02). However, there was evidence of higher risk of developing diabetic ketoacidosis (RR = 2.06, 95% CI: 1.19-3.58) and volume depletion (RR = 1.28, 95% CI: 1.13-1.45). CONCLUSION: SGLT2 inhibitors were effective in delaying the progression of CKD and lowering mortality. However, despite having a relatively safe profile, this drug class comes with certain hazards that need to be monitored clinically. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/, identifier CRD420261362785.",
+      "journal": "Front Pharmacol",
+      "date": "2026-08-31",
+      "authors": [
+        "Sharma A",
+        "Sharma B",
+        "Vamaraju DS",
+        "Ajay AK"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "doi": "10.3389/fphar.2026.1923548",
+      "journal_tier": 2,
+      "impact": 4.4,
+      "section": "klinik",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 40,
+        "recency": 0.0
+      },
+      "tier": 2,
       "abstract_tr": ""
     },
     {
@@ -313,38 +846,248 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42733211",
-      "title": "Exposure-Response Analyses of Datopotamab Deruxtecan (Dato-DXd), a TROP2-Directed Antibody-Drug Conjugate, in Advanced Non-small Cell Lung Cancer.",
-      "abstract": "Datopotamab deruxtecan (Dato-DXd) is a trophoblast cell-surface antigen-2 (TROP2)-directed antibody-drug conjugate (ADC) that has demonstrated clinical activity in patients with NSCLC who have received prior therapies. Exposure-response (ER) analyses were conducted using Phase 1-3 clinical data from patients with NSCLC (efficacy and safety) or breast cancer (BC) (only safety). Parametric time-to-event models were developed for overall survival (OS), progression-free survival (PFS), and adverse events of special interest (AESI). Logistic regression models were used for overall response rate (ORR), Grade ≥ 3 treatment-emergent adverse events (TEAEs), serious TEAEs, and TEAEs associated dose reduction. Covariate effects were assessed using stepwise selection. A significant linear ER relationship was found between Dato-DXd AUC in the first cycle (AUC1) and OS. Drug effect on PFS and ORR was respectively described by a maximum effect (Emax) relationship with Dato-DXd AUC during a dosing interval (AUCτ) and Dato-DXd average concentration (Cav), indicating near-maximal efficacy at 6 mg/kg. Baseline liver metastasis, squamous histology, and lower albumin (28.0 g/L, 5th percentile) were identified as significant risk factors of shortened OS and PFS, predicted to increase mortality risk by 52%, 48%, and 84%, respectively. The exposure-safety analysis identified Dato-DXd or DXd exposures as statistically significant predictors for safety endpoints except adjudicated drug-related interstitial lung disease (ILD)/pneumonitis for which no ER relationship was observed. These ER analyses support that the 6 mg/kg Q3W Dato-DXd regimen optimized the benefit-risk profile for patients with advanced nonsquamous NSCLC and identified clinically relevant factors that influence both survival and safety outcomes.",
-      "journal": "Clin Pharmacol Ther",
-      "date": "2026-09-13",
+      "pmid": "42741472",
+      "title": "Pharmacokinetics and safety comparison of cycloserine capsules and their generic counterpart: a randomized, open-label, two-period, two-sequence, single-dose crossover bioequivalence study in healthy Chinese subjects.",
+      "abstract": "INTRODUCTION: Cycloserine is a broad-spectrum antibiotic and clinically important second-line anti-tuberculosis agent. This study assessed the bioequivalence of a test cycloserine formulation versus its reference formulation under fasted and fed conditions. METHODS: Using a randomized, open-label, two-period, two-sequence crossover design, 64 healthy Chinese participants were enrolled (63 completed). Subjects received a single 250-mg oral dose of both formulations. Bioequivalence was evaluated using plasma concentration-time profiles and key pharmacokinetic (PK) parameters. Statistical analysis employed the Average Bioequivalence (ABE) method. Geometric mean ratios (GMRs) and 90% confidence intervals (90% CIs) for Cmax, AUC0-t and AUC0-∞ fell entirely within the predefined range (80.00-125.00%) under both conditions. RESULTS: Both formulations exhibited comparable safety profiles. DISCUSSION: Bioequivalence was established between the test and reference cycloserine capsules under fasted and fed states. CLINICAL TRIAL REGISTRATION: Chinese Clinical Trial Registry (www.chinadrugtrials.org.cn) as (CTR20233940).",
+      "journal": "Front Pharmacol",
+      "date": "2026-08-31",
       "authors": [
-        "Hong Y",
-        "Mc Laughlin AM",
-        "Pan Y",
-        "Hietala SF",
-        "Peigné S",
-        "Chargualaf M",
-        "Tang Z",
-        "Zhou D",
-        "Tajima N",
-        "Abutarif M",
-        "Garimella T"
+        "Peng X",
+        "Zhang L",
+        "Jia C",
+        "Ding C",
+        "Song H",
+        "Dong Z",
+        "Wu H",
+        "Bai W"
       ],
       "pubtypes": [
+        "Clinical Trial",
         "Journal Article"
       ],
-      "doi": "10.1002/cpt.70477",
-      "journal_tier": 1,
-      "impact": 6.3,
-      "section": "onko",
-      "score": 100.0,
+      "doi": "10.3389/fphar.2026.1801953",
+      "journal_tier": 2,
+      "impact": 4.4,
+      "section": "klinik",
+      "score": 75.0,
       "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
+        "journal": 60,
+        "pubtype": 15,
         "recency": 0.0
       },
-      "tier": 2,
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744278",
+      "title": "The role of spatial transcriptomics in exploring the tumor microenvironment in neuroblastoma.",
+      "abstract": "Neuroblastoma is the most common extracranial solid tumor in children and exhibits significant variability in clinical outcomes. Our current understanding of the biology of neuroblastoma has been limited by an incomplete understanding of the complex interaction between tumor cells and the host cells within the tumor microenvironment (TME). The TME is composed of a rich ecosystem of immune and stromal cells, which may play a role in tumor establishment, growth, treatment resistance, and recurrence. Single-cell analysis platforms have been employed to characterize the tumor and non-tumor cells of the TME; however, many of these techniques require dissociation of the tissue into single-cell suspensions that sacrifice the critical spatial organization of the tumor. Spatial transcriptomics (ST) can be used to measure gene expression across a tissue sample with preserved native architecture. While older platforms were limited by their resolution, novel ST technologies now enable single-cell analysis and have the potential to revolutionize our understanding of the biology of the neuroblastoma TME. In this review, we will discuss the historical foundations of spatial biology, the application of single-cell technologies to neuroblastoma, and finally the groundbreaking implications of ST for the future study of neuroblastoma.",
+      "journal": "Biochem Pharmacol",
+      "date": "2026-09-15",
+      "authors": [
+        "Zobel MJ",
+        "Riccardi C",
+        "McKenney S",
+        "Asgharzadeh S"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.bcp.2026.118474",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "onko",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744277",
+      "title": "Lipid regulation of mitochondrial function in metabolic Diseases: Lipotoxic mediators and therapeutic targeting.",
+      "abstract": "Lipid dysregulation is a key driver of chronic metabolic and degenerative diseases. However, lipid abnormalities and mitochondrial dysfunction are often examined separately, with limited attention given to their mechanistic links. As the central hub of energy metabolism, mitochondria continuously adapt their structure, substrate utilization, and quality control in response to the surrounding lipid environment and lipid-derived regulatory signals. This review examines mitochondrial function from the perspective of lipid regulation, focusing on how membrane lipid remodeling, lipid droplet-mitochondria coupling, substrate flux, bioactive lipid signaling, and mitochondrial turnover collectively determine mitochondrial function during lipid stress. In obesity, metabolic dysfunction-associated steatotic liver disease, type 2 diabetes, cardiovascular disease, and neurodegenerative disorders, disruption of lipid-dependent mitochondrial regulation manifests in tissue-specific patterns but consistently involves excessive lipid supply, aberrant membrane remodeling, and impaired mitochondrial quality control. These alterations do not arise from a single pathway but reflect the combined disruption of multiple lipid-related processes. This lipid-centered perspective identifies lipid imbalance as a central determinant of mitochondrial fate in disease and supports the critical evaluation of both the therapeutic potential and pharmacological limitations of targeting the lipid-mitochondria axis, with particular attention to target engagement, structural tractability, and translational feasibility.",
+      "journal": "Biochem Pharmacol",
+      "date": "2026-09-15",
+      "authors": [
+        "Cui H",
+        "Li H",
+        "Wang W",
+        "Li J",
+        "Cai M",
+        "Wang Y",
+        "Zhang Y",
+        "Li S"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.bcp.2026.118475",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "kardiyometabolik",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744112",
+      "title": "Targeting the choroidal neovascularization microenvironment: new perspectives in nanotherapeutic strategies.",
+      "abstract": "Choroidal neovascularization (CNV) is a key pathological mechanism underlying irreversible vision loss in diseases such as age-related macular degeneration (AMD). Although anti-vascular endothelial growth factor (VEGF) therapies effectively inhibit angiogenesis, they are limited by the need for frequent injections, the tendency to induce resistance, and their inability to reverse the complex pathological microenvironment driving CNV. Research indicates that the initiation and progression of CNV are cooperatively driven by the local microenvironment, particularly through the interplay of oxidative stress, hypoxia, and inflammatory networks. In recent years, the emergence of nanotechnology has provided unprecedented tools for precise modulation of this microenvironment. This review systematically delineates the mechanisms of CNV formation, with a focused analysis on the core interplay between oxidative stress, hypoxia, and inflammation. We provide an in-depth exploration of advanced nano-therapeutic strategies designed to multi-target angiogenic pathways, dynamically manipulate reactive oxygen species, disrupt hypoxia-driven feedback loops, reprogram the immunoinflammatory network, and restore defective cellular autophagy. This review aims to provide a theoretical foundation and forward-looking perspective for developing next-generation microenvironment-targeted therapies capable of intervening in CNV.",
+      "journal": "Eur J Pharm Biopharm",
+      "date": "2026-09-15",
+      "authors": [
+        "Lu X",
+        "Li B",
+        "Sun B",
+        "Fan S",
+        "Chen N",
+        "Chu Y"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.ejpb.2026.115238",
+      "journal_tier": 2,
+      "impact": 4.5,
+      "section": "kardiyometabolik",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42743776",
+      "title": "Pathogen-informed therapeutic design: Translating host-control functions into pharmacological strategies.",
+      "abstract": "Pathogens deploy specialized mechanisms for tissue entry, barrier crossing, intracellular rerouting, immune remodeling, and persistence within hostile host environments. Although these mechanisms are most often studied in the context of pathogenesis, they also reveal how biological activities can be positioned, routed, sustained, and constrained under the spatial, temporal, immune, metabolic, and tissue-specific pressures encountered in vivo. This Review develops a pathogen-informed design framework for identifying host-facing pathogen functions that can be mechanistically separated from replication, immune evasion, inflammatory amplification, cytotoxic remodeling, or tissue damage and redirected toward therapeutic execution. We examine how computational analysis can expand and prioritize the searchable space of pathogen-derived functions and how experimental profiling can determine whether predicted host engagement, functional output, and controllable activity are supported under relevant biological conditions. We then assess preclinical and clinically implemented examples to determine how far these principles have progressed toward therapeutic use and where translational constraints remain. Current evidence supports individual analytical, engineering, pharmacological, and clinical advances, but these remain distributed across different pathogen systems and therapeutic modalities rather than forming a continuous discovery-to-clinic trajectory. Pathogen-informed therapeutic design therefore provides a function-centered basis for identifying pathogen-derived activities that can be transferred from infection biology into therapeutically controllable settings.",
+      "journal": "Biomed Pharmacother",
+      "date": "2026-09-15",
+      "authors": [
+        "Kim SJ",
+        "Lim S",
+        "Yang CS"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.biopha.2026.119932",
+      "journal_tier": 2,
+      "impact": 6.5,
+      "section": "onko",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42743775",
+      "title": "Immunopeptidomics-guided cancer vaccine design: Advances, challenges, and emerging opportunities.",
+      "abstract": "Selecting clinically relevant tumor antigens remains a major challenge in the development of therapeutic cancer vaccines. Although computational approaches have considerably improved neoantigen prediction, many candidate epitopes identified in silico are not ultimately presented on the tumor cell surface. The emergence of immunopeptidomics has provided direct access to naturally processed HLA-associated peptides and has offered new opportunities for antigen discovery. Increasing evidence has shown that information derived from the immunopeptidome becomes considerably more informative when interpreted alongside genomic, transcriptomic, and proteomic data. This integrative view has broadened the spectrum of targetable antigens and has also revealed important limitations related to peptide abundance, HLA diversity, tumor heterogeneity, and the imperfect relationship between antigen presentation and immunogenicity. These issues have renewed interest in multi-antigen vaccine strategies designed to better reflect the complexity of tumor antigen landscapes. Advances in bioinformatics and artificial intelligence are facilitating the interpretation of increasingly complex datasets and are beginning to support more systematic approaches to antigen prioritization. In this review, we discuss how immunopeptidomics is contributing to next-generation cancer vaccine development, summarize the major translational challenges, and highlight emerging concepts that may improve the clinical applicability of immunopeptidomics-guided immunotherapy.",
+      "journal": "Biomed Pharmacother",
+      "date": "2026-09-15",
+      "authors": [
+        "Behzadifar MM",
+        "Shadkam M",
+        "Kazemi S",
+        "Mirsamiei E",
+        "Hoseinzadeh A",
+        "Nickho H",
+        "Baharlou R"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.biopha.2026.119926",
+      "journal_tier": 2,
+      "impact": 6.5,
+      "section": "onko",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42742718",
+      "title": "Resetting the hippocampal buffer: a neurocognitive account of psychedelic therapy for anxiety-related psychopathology.",
+      "abstract": "Psychedelics (hallucinogenic 5-HT2A agonists such as psilocybin) are being investigated for their potential to treat a range of conditions, including anxiety-related psychopathology. Despite promising results, the mechanisms by which psychedelic therapy may alleviate anxiety are not well understood. Here, we review neural and cognitive mechanisms underlying anxiety-related psychopathology and how psychedelics may impact these mechanisms. This review culminates in a tentative neurocognitive account of how psychedelics may promote long-term anxiolysis. We propose a model of anxiety related psychopathology wherein anxiety-related contextual information from the hippocampus may influence amygdala and salience network activity, biasing information processing toward anxiety-related content that thereby is encoded by the hippocampus and perpetuates this cycle. We posit that psychedelic may acutely free cortical networks from hippocampal-dependent contextual constraints in part through 5-HT2A expression on excitatory and inhibitory neurons in the cortex and hippocampus, respectively, while the intrinsic plasticity of the hippocampus and/or psychedelic-mediated plasticity allows for a \"resetting of the hippocampal buffer.\" Following acute effects, increased cortical plasticity may enable the hippocampus to adaptively integrate novel information into a contextual frame less biased or constrained by prior aversive conditioning, promoting an overall reduction in anxious thoughts and appraisals. We end by discussing potential challenges of psychedelic therapy for anxiety, and suggest directions for future research to determine the optimal treatment paths informed by cognitive neuroscience.",
+      "journal": "Psychopharmacology (Berl)",
+      "date": "2026-09-15",
+      "authors": [
+        "McGovern H",
+        "Wellman N",
+        "Hutchinson B",
+        "Oestreich L",
+        "Cooper S",
+        "Fonzo GA",
+        "Doss MK"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1007/s00213-026-07163-z",
+      "journal_tier": 2,
+      "impact": 3.5,
+      "section": "noro",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42742704",
+      "title": "From in vitro hazard to inhalation risk: exposure context matters for flavoured-air inhaler toxicity.",
+      "abstract": "",
+      "journal": "Arch Toxicol",
+      "date": "2026-09-15",
+      "authors": [
+        "Zhao Z",
+        "Zhang X",
+        "Shen T"
+      ],
+      "pubtypes": [
+        "Letter"
+      ],
+      "doi": "10.1007/s00204-026-04547-0",
+      "journal_tier": 1,
+      "impact": 6.1,
+      "section": "toksikoloji",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": -30,
+        "recency": 0.0
+      },
+      "tier": 3,
       "abstract_tr": ""
     },
     {
@@ -367,11 +1110,11 @@
       "journal_tier": 2,
       "impact": 5.0,
       "section": "kardiyometabolik",
-      "score": 72.0,
+      "score": 70.0,
       "score_parts": {
         "journal": 60,
         "pubtype": 10,
-        "recency": 2.0
+        "recency": 0.0
       },
       "tier": 3,
       "abstract_tr": ""
@@ -394,11 +1137,11 @@
       "journal_tier": 2,
       "impact": 3.2,
       "section": "klinik",
-      "score": 72.0,
+      "score": 70.0,
       "score_parts": {
         "journal": 60,
         "pubtype": 10,
-        "recency": 2.0
+        "recency": 0.0
       },
       "tier": 3,
       "abstract_tr": ""
@@ -528,51 +1271,22 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42733333",
-      "title": "Histamine and the mechanisms of nausea and vomiting: Translating the uncertain pharmacology of cyclizine.",
-      "abstract": "Cyclizine is a long-established, short-acting drug, registered for preventing motion sickness, post-operative nausea and vomiting (PONV) and 'vomiting of known cause'. The latter is not defined but may include pregnancy and patients receiving palliative care, historically accepted without large, controlled trials. Cyclizine is often described as an 'antihistamine' and sometimes 'anticholinergic', without citing primary literature. Mechanisms of antiemetic activity are poorly understood. We reviewed the published pharmacology of cyclizine with the aim of understanding its mechanism of antiemetic activity. Preclinical/clinical studies were examined and findings interpreted with reference to known mechanisms of nausea and vomiting. Cyclizine antagonizes human H1 receptors and may cause mild drowsiness. Selectivity of action is unclear; therapeutic doses only weakly antagonize muscarinic ACh receptor(s). Motion sickness is ameliorated by H1 antagonism within the vestibular system and associated brainstem nuclei. Mechanisms by which histamine may contribute to PONV are unclear. Perhaps histamine from mast cells and basophils stimulate/sensitize abdominal vagal afferent nerves, synergising with other substances to cause vomiting. Any inhibition of vomiting by cyclizine during pregnancy is not understood; GDF15 is implicated, but relationships with histamine are unclear. Causes of nausea/vomiting during palliative care can be complex, and cyclizine is used without understanding mechanisms. For all indications, it is unclear if nausea is reduced to the same degree as vomiting. There is no consistent evidence to support using cyclizine for vomiting during gastroparesis or chemoradiotherapy. The pharmacology of cyclizine and mechanisms of its antiemetic activity are poorly understood. Testable hypotheses are suggested.",
-      "journal": "Br J Clin Pharmacol",
-      "date": "2026-09-14",
-      "authors": [
-        "Sanger GJ",
-        "Andrews PLR"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1002/bcp.70807",
-      "journal_tier": 2,
-      "impact": 3.5,
-      "section": "diger",
-      "score": 70.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42736382",
-      "title": "Pioglitazone protects against thioacetamide-induced liver fibrosis via AMPK-mediated inhibition of the TGF-β/Smad fibrotic cascade.",
-      "abstract": "Hepatic fibrosis is a progressive liver disorder driven largely by inflammation and oxidative stress. AMP-activated protein kinase (AMPK) plays a pivotal role in regulating hepatic fibrogenesis and represents a promising therapeutic target. Therefore, this study aimed to investigate the hepatoprotective effects of pioglitazone (PIO) and to evaluate whether AMPK activation contributes to its protective actions against thioacetamide (TAA)-induced hepatic injury and fibrosis. Liver injury was induced by intraperitoneal administration of TAA (150 mg/kg, twice weekly) for 9 weeks. During the last 3 weeks, mice received PIO (3 mg/kg/day, orally). Hepatic injury and fibrosis were assessed using biochemical, histopathological, and molecular analyses. PIO treatment significantly attenuated TAA-induced hepatic injury and fibrosis, as demonstrated by improved liver histology, reduced plasma alanine aminotransferase (ALT), aspartate aminotransferase (AST), and alkaline phosphatase (ALP) levels and gamma-glutamyl transferase (GGT) activity, restoration of plasma albumin, and decreased α-smooth muscle actin (α-SMA) expression. These beneficial effects were associated with increased hepatic p-AMPK expression and reduced oxidative stress, evidenced by decreased malondialdehyde (MDA) and nicotinamide adenine dinucleotide phosphate oxidase (NADPH oxidase) levels and restoration of reduced glutathione (GSH) content, as well as suppression of the transforming growth factor-β (TGF-β)/suppressor of mothers against decapentaplegic (Smad) signaling pathway. PIO mitigates TAA-induced hepatic fibrosis, potentially through AMPK activation and subsequent suppression of the TGF-β/Smad signaling pathway, highlighting its potential as a promising antifibrotic agent.",
+      "pmid": "42744921",
+      "title": "Healing potential of curcumin gel in experimental wounds infected with resistant Pseudomonas aeruginosa: a comparative study with silver sulfadiazine.",
+      "abstract": "Multidrug‑resistant Pseudomonas aeruginosa poses a major challenge in wound care, with standard therapy such as silver sulfadiazine (SSD) increasingly limited by cytotoxic side effects. Curcumin, a polyphenolic compound from Curcuma longa, offers a biocompatible alternative with established antibacterial, anti‑inflammatory, and wound healing properties. This study compared the therapeutic efficacy of a topical curcumin gel with 1% SSD cream in MDR P. aeruginosa-infected excision wounds in rabbits. Twenty‑five male New Zealand white rabbits were divided into five groups: negative control, positive control, curcumin gel, SSD, and carbopol vehicle. Outcomes were assessed over 21 days by in vitro antibacterial activity, wound contraction, serum IL‑6 levels, and histopathological/histomorphometry analysis. Curcumin exhibited dose‑dependent antibacterial activity, with an inhibition zone of 14.09 mm at 2.0 MIC, comparable to SSD (15.44 mm). In vivo, curcumin gel achieved the highest early wound contraction at day 7 (62.06% vs. 46.14% for SSD), with final closure comparable between treatments (96.44% vs. 99.24%). Curcumin suppressed the pathological IL‑6 surge more effectively than SSD at day 14, confirming its dual antibacterial and NF‑κB‑mediated anti‑inflammatory effects. Histopathology revealed early vascular granulation (day 7), collagen remodeling (day 14), and complete organized re‑epithelialization with folliculogenesis and minimal inflammation by day 21. Epithelial thickness in the curcumin group (40.20 µm) was statistically similar to SSD (39.74 µm) and superior to controls. Overall, curcumin gel demonstrated potent antibacterial activity, superior early wound healing kinetics, effective immunomodulation, and complete tissue restoration, highlighting its preclinical potential as a biocompatible and efficacious alternative to SSD for MDR-infected wounds, warranting further clinical validation.",
       "journal": "Naunyn Schmiedebergs Arch Pharmacol",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "authors": [
-        "Hawary OA",
-        "Wadie W",
-        "El-Said YAM",
-        "Hassan OF"
+        "Jumaah SY",
+        "Abedsalih AN"
       ],
       "pubtypes": [
         "Journal Article"
       ],
-      "doi": "10.1007/s00210-026-05903-8",
+      "doi": "10.1007/s00210-026-05902-9",
       "journal_tier": 2,
       "impact": 3.2,
-      "section": "immuno",
+      "section": "kardiyometabolik",
       "score": 62.0,
       "score_parts": {
         "journal": 60,
@@ -583,21 +1297,89 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42736381",
-      "title": "Montelukast attenuates intestinal mucositis induced by 5-fluorouracil via upregulation of HO-1 and PPAR-γ and suppression of TLR4/NF-κB/HMGB1 and caspase-3 pathways.",
-      "abstract": "5-Fluorouracil (5-FU) is a commonly employed chemotherapeutic drug, but its clinical utility is limited by intestinal toxicity. Montelukast (MTK), a CysLTR1 antagonist, is known for its antioxidative and anti-inflammatory actions. However, its protective potential against 5-FU-induced intestinal injury remains inadequately defined. This investigation assessed whether MTK could mitigate 5-FU-induced intestinal mucositis and explored the signals involved. Rats were divided into four groups: control, MTK (10 mg/kg/day, orally), 5-FU (100 mg/kg/day, intraperitoneally), and MTK + 5-FU. Administration of 5-FU produced pronounced intestinal mucosal injury, including villus shortening, crypt destruction, goblet cell loss, and heightened inflammatory infiltration. These pathological changes were associated with suppression of the PPAR-γ and HO-1 antioxidant enzyme, activation of TLR4/NF-κB/HMGB1 signaling, and cleaved caspase-3 activity. MTK treatment significantly ameliorated histopathological alterations, restored mucosal architecture, enhanced HO-1 and PPAR-γ expression, suppressed TLR4/NF-κB/HMGB1 activation, and attenuated apoptosis. In conclusion, MTK protects against 5-FU-induced mucositis, serving as a promising adjunctive treatment for chemotherapy-induced toxicity.",
+      "pmid": "42744920",
+      "title": "Synthesis, characterization and application of poly(ε-caprolactone-co-2-ethyl-2-oxazoline) as a carrier for procaine: microsphere formulation, drug release, and antimicrobial activity.",
+      "abstract": "The aim of this study was to prepare procaine-loaded microspheres using a biodegradable poly(ε-caprolactone-co-2-ethyl-2-oxazoline) copolymer. The copolymer was synthesized from poly(ε-caprolactone) and 2-ethyl-2-oxazoline (CP) under thermal conditions and characterized by 1H NMR, FTIR, and DSC-ATG, while the microspheres (MS) were formulated via an oil-in-water solvent evaporation method and characterized using FTIR, XRD, SEM, particle-size analysis, drug loading, encapsulation efficiency, and in vitro release. The antimicrobial activity was tested on pure procaine (PR), CP, and MS to compare their resistance. The prepared microspheres achieved an encapsulation efficiency of 80.27%, with a Sauter diameter (d32) of 250 µm and rough globular-ovoid morphology. FTIR and XRD confirmed preservation of the copolymer structure, weak physical interactions between procaine and the polymer matrix, and reduced drug crystallinity suggestive of molecular dispersion. In vitro release studies revealed a biphasic profile with 94% cumulative release, best described by the Higuchi model, with Korsmeyer-Peppas analysis indicating anomalous non-Fickian transport, and antimicrobial assays demonstrated strain-dependent inhibitory activity.",
       "journal": "Naunyn Schmiedebergs Arch Pharmacol",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "authors": [
-        "Y M Ali R",
-        "Taha AF",
-        "H AM",
-        "Hassanein EHM"
+        "Abdelmalek I",
+        "Bennabi L",
+        "Bouteldja R",
+        "Doucene R",
+        "Bennabi F",
+        "Dehbi A",
+        "Messori M",
+        "Alsalme A"
       ],
       "pubtypes": [
         "Journal Article"
       ],
-      "doi": "10.1007/s00210-026-05884-8",
+      "doi": "10.1007/s00210-026-05906-5",
+      "journal_tier": 2,
+      "impact": 3.2,
+      "section": "antimikrobiyal",
+      "score": 62.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 2.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744919",
+      "title": "Adipocyte-derived exosomal miR-27a-3p promotes macrophage M1 polarization via HACE1/RAC1/STAT3 axis to exacerbate the progression of childhood asthma.",
+      "abstract": "Adipocyte-derived exosomal miRNAs are emerging as potential therapeutic agents for various diseases. However, the molecular connections between these miRNAs and macrophage polarization in asthma remain unclear. Exosomes were isolated from the plasma of children with obesity, asthma, or obesity-associated asthma. A co-culture system of macrophages and adipocytes was used to assess exosome-mediated macrophage polarization. The interactions among miR-27a-3p, HACE1, and the RAC1/STAT3 pathway were analyzed using bioinformatic predictions, RT-qPCR, dual-luciferase reporter assays, co-immunoprecipitation, and Western blot. The functional role of exosomal miR-27a-3p was further examined in a murine model of obesity-related asthma. Elevated expression of miR-27a-3p in exosomes and alveolar macrophages was observed in patients with obesity and asthma. In vitro co-culture of adipocytes and macrophages enhanced the expression of M1 macrophage markers, including iNOS, IL-6, and TNF-α, an effect that was reversed by the exosome generation inhibitor GW4869. Moreover, exosomal miR-27a-3p derived from adipocytes was capable of being internalized by macrophages, promoting M1 polarization. Mechanistically, miR-27a-3p directly targets HACE1 mRNA, inhibiting HACE1 expression. This inhibition reduces HACE1-mediated ubiquitin-dependent degradation of RAC1, thereby stabilizing the RAC1 protein and enhancing the phosphorylated activation of STAT3, ultimately driving M1 polarization of macrophages. In vivo, inhibition of adipocyte-derived exosomal miR-27a-3p ameliorated airway resistance and inflammation and suppressed macrophage M1 polarization in asthmatic mice. These findings indicate that adipocyte-derived exosomal miR-27a-3p exacerbates asthma progression by downregulating HACE1 expression and activating the RAC1/STAT3 signaling pathway, which induces macrophage M1 polarization. This study provides novel insights and identifies a promising molecular candidate for asthma therapy.",
+      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
+      "date": "2026-09-16",
+      "authors": [
+        "Liu C",
+        "Sun Y",
+        "Gao Y",
+        "Wang J",
+        "Chen X",
+        "Ma J",
+        "Yang B"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s00210-026-05874-w",
+      "journal_tier": 2,
+      "impact": 3.2,
+      "section": "kardiyometabolik",
+      "score": 62.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 2.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744918",
+      "title": "Psoralidin inhibits stemness-associated characteristics in cervical cancer cells via modulation of Oct4/Sox2 expression.",
+      "abstract": "Resistance to chemo/radio therapy, along with recurrence of aggressive tumors, is a major factor contributing to cervical cancer (CaCx) mortality. This is largely driven by a small subset of slow-growing cancer stem cells (CSC). The present study aimed to explore the potential of psoralidin to target CaCx-CSC. Molecular docking (MD) and MD simulation was conducted to analyze the interaction of psoralidin with core stemness markers Oct4, Sox2, and Nanog and stability of interaction, respectively. A low-adhesive culture system was established to enrich CSC, which were then treated with the IC50 concentration of psoralidin to study anti-CSC effect. Psoralidin demonstrated strong binding to stemness markers, cell permeability, and no predicted hepatotoxicity in silico. Binding stability was highest with Oct4, followed by Nanog and Sox2. IC50 values of 3-4 µM were observed across CaCx cell lines C33a, SiHa, and HeLa regardless of HPV status. Cervical-CSC enriched under low-adhesion conditions displayed elevated stemness marker expression, confirmed by qRT-PCR and immunoblotting. Psoralidin-treated cervicospheres showed reduced spheroid size, number, and structural integrity. Treatment also downregulated stemness markers as well as NF-κB p65, c-Rel, and pSTAT3(Y727). Overall, our preclinical findings demonstrate the potential of psoralidin to target CCSC and provide a strong rationale for its further translational evaluation as an adjuvant to existing therapeutic regimens in cervical cancer.",
+      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
+      "date": "2026-09-16",
+      "authors": [
+        "Tripathi T",
+        "Kumar S",
+        "Joshi U",
+        "Chaudhary A",
+        "Janjua D",
+        "Tanwar N",
+        "Mittal A",
+        "Senrung A",
+        "Bharti AC"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s00210-026-05823-7",
       "journal_tier": 2,
       "impact": 3.2,
       "section": "onko",
@@ -606,6 +1388,635 @@
         "journal": 60,
         "pubtype": 0,
         "recency": 2.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42745891",
+      "title": "Validation and reliability of the Thai version of the glasgow antipsychotic side-effect scale (GASS) in patients with schizophrenia.",
+      "abstract": "OBJECTIVE: To examine the validity and reliability of the Thai version of Glasgow Antipsychotic Side-effect Scale (GASS) in patients with schizophrenia. METHOD: A cross-sectional analytical study was conducted among patients aged 20 years and older who had been receiving continuous antipsychotic treatment for at least 3 months and attended Suan Prung Psychiatric Hospital and Maharaj Nakorn Chiang Mai Hospital, Chiang Mai, Thailand. The GASS was translated into Thai using a forward-backward translation process. Psychometric properties were evaluated, including construct validity assessed by confirmatory factor analysis (CFA, n = 72), concurrent validity examined through correlations between GASS scores and the Thai Perceived Stress Scale-10 (T-PSS-10), EQ-5D-5L, and the Pharmacist Medication Adherence Scale (PMAS), as well as reliability assessed by internal consistency and test-retest reliability (n = 53, with a 7-day interval). RESULTS: The CFA model demonstrated marginal fit to the empirical data (CFI = 0.919, TLI = 0.909, RMSEA = 0.059, SRMR = 0.141). GASS scores were positively correlated with T-PSS-10 (Spearman's rho = 0.41) and negatively correlated with EQ-5D-5L utility scores, EQ-5D-5L visual analogue scale scores, and PMAS (Spearman's rho = -0.64, -0.39, and -0.24, respectively), with statistical significance (p < 0.05). The Thai version of the GASS demonstrated good internal consistency (Cronbach's alpha = 0.83) and good test-retest reliability (ICC = 0.797, p < 0.05). CONCLUSION: The Thai version of the GASS shows preliminary evidence of acceptable validity and reliability and can be appropriately used to assess antipsychotic side effects in patients with schizophrenia in both clinical practice and research settings.",
+      "journal": "Front Pharmacol",
+      "date": "2026-09-01",
+      "authors": [
+        "Wunha N",
+        "Maksuk S",
+        "Pilakanta S",
+        "Jekpoo S",
+        "Apiwatnakorn P",
+        "Taylor M",
+        "Boonlue T",
+        "Wongpakaran T",
+        "Jenraumjit R"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.3389/fphar.2026.1899860",
+      "journal_tier": 2,
+      "impact": 4.4,
+      "section": "klinik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42745873",
+      "title": "Preclinical pharmacokinetic modeling and clinical translation of SIG001, a novel anti-cancer therapeutic antibody targeting on cancer-derived sialylated IgG.",
+      "abstract": "INTRODUCTION: Sialylated immunoglobulin G (SIA-IgG) has emerged as a novel therapeutic target selectively overexpressed in epithelial-derived malignancies. The humanized monoclonal antibody SIG001 binds specifically to tumor-associated SIA-IgG and is regarded as a promising first-in-class candidate for the broad-spectrum treatment of epithelial cancers. METHODS: The pharmacokinetic (PK) behavior of SIG001 was evaluated in both cynomolgus monkeys and mice following intravenous administration. Utilizing modeling approaches, we projected the first-in-human (FIH) starting dose and the human pharmacologically active dose (PAD) from preclinical datasets. RESULTS: In cynomolgus monkeys, single-dose PK was assessed at 5, 15, and 30 mg/kg, while in mice, doses of 5, 10, and 20 mg/kg were investigated. Data from both species were well characterized by a two-compartment model with linear elimination kinetics; human PK parameters were extrapolated from the monkey studies. In vitro studies demonstrated that SIG001, at concentrations up to 50 μg/mL, did not elicit significant cytokine release from human peripheral blood mononuclear cells (PBMCs), establishing this concentration as a safety threshold for FIH dose estimation. Based on simulations incorporating moderate PK variability, a maximum recommended starting dose of 0.15 mg/kg, administered biweekly, was identified. Efficacy studies in murine xenograft models revealed a plateaued, dose-dependent antitumor response across the range of 2.5-10 mg/kg, indicative of maximal receptor occupancy and a saturated therapeutic effect. The translational scaling of murine PK profiles yielded human equivalent doses (HEDs), with predicted PAD values ranging from 1.8 to 7.0 mg/kg. CONCLUSION: The preclinical investigations delineate the PK profile and antitumor activity of SIG001. The quantitative translation of animal data into human PK and exposure-response expectations provides a rational foundation for clinical development and supports informed decision-making in the design of early-phase trials.",
+      "journal": "Front Pharmacol",
+      "date": "2026-09-01",
+      "authors": [
+        "Yao Q",
+        "Liu C",
+        "Zhang S",
+        "Liu Y",
+        "Zhou Y",
+        "Qiu X"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.3389/fphar.2026.1904283",
+      "journal_tier": 2,
+      "impact": 4.4,
+      "section": "klinik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42745804",
+      "title": "Physiologically-based pharmacokinetic model to predict loading dose polymyxin B exposure in critically ill patients with sepsis.",
+      "abstract": "OBJECTIVES: To build a physiologically based pharmacokinetic (PBPK) model to predict polymyxin B (PMB) exposure in critically ill patients with sepsis. PATIENTS AND METHODS: A new PBPK model was built using published data on PMB pharmacokinetics (PK) in healthy volunteers and patients with end-stage renal disease (ESRD). The model was then tested to predict individual PK curves on clinical samples from critically ill patients with sepsis (N = 15) accounting for common pathophysiological alterations observed in this cohort (changes of unbound drug fraction, protein levels, fluids shifts, renal function). The developed model was then used to predict PMB plasma and lung concentrations for probability of target attainment (PTA) analysis. RESULTS: The PBPK model demonstrated good prediction of mean population PK parameters, including area under the concentration time curve (AUC0-last), maximal concentration (Cmax) and clearance (CL), with predicted-to-observed ratios ranging from 0.98-1.2. Mean absolute prediction error (MAPE) and root mean squared error (RMSE) for individual predictions reached 26.7% and 7.7%, although the correlation was moderate (r = 0.47). Based on the predicted plasma exposures only the loading dose of 2.5 mg/kg and above achieved the PTA >90% with MIC of 1 mg/L. CONCLUSION: The first PBPK model of PMB in critically ill patients allows good prediction of population-level PK parameters and supports a loading dose of at least 2.5 mg/kg. It also provides a mechanistic framework for future research as PMB distribution, metabolism and excretion mechanisms become better characterised.",
+      "journal": "Front Pharmacol",
+      "date": "2026-09-01",
+      "authors": [
+        "Cao Y",
+        "Galvidis I",
+        "Alimov A",
+        "Standing JF",
+        "Burkin M",
+        "Surovoy Y"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.3389/fphar.2026.1827712",
+      "journal_tier": 2,
+      "impact": 4.4,
+      "section": "klinik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42745789",
+      "title": "The biological screening of aromatic medicinal plant extracts for their potential in vitro bioactivity against factors associated with breast mastitis.",
+      "abstract": "Breast mastitis is an inflammatory condition caused by pathogenic infection, which is usually treatable with antibiotics, yet there is a lack of research focusing on plant-based alternatives. Aromatic plants are rich in secondary metabolites which potentially exhibit antibacterial and anti-inflammatory bioactivity. This study aimed to investigate ethanolic extracts of six aromatic plant species, namely,; Allium schoenoprasum L., Allium × proliferum (Moench) Schrad. Ex Willd., Coleus amboinicus Lour., Eriocephalus africanus L., Pelargonium graveolens L'Her., and Salvia aurea L., for their antibacterial activity against the breast mastitis-associated pathogen, Staphylococcus aureus (ATCC 25923), as well as their cytotoxicity and wound healing potential against human keratinocytes (HaCaT). Extracts with relatively high antibacterial activity, and low cytotoxicity, underwent gas chromatography-mass spectrometry (GC-MS) to identify potential bioactive compounds. Coleus amboinicus, E. africanus, P. graveolens displayed antibacterial activity against S. aureus ATCC 25923 (with minimum inhibitory concentrations (MIC) of 250 μg/mL for all extracts, and only E. africanus was found to have a minimum bactericidal concentration (MBC) at the tested concentrations (MBC of 1,000 μg/mL). Salvia aurea was found to have the strongest antibacterial activity (MIC value of 15.625 μg/mL) and had an MBC of 250 μg/mL. Most extracts displayed minimal toxicity against HaCaT cells (IC50 > 1,000 μg/mL), excluding S. aurea (IC50 of 75.80 ± 4.58 μg/mL). Allium × proliferum, C. amboinicus, and P. graveolens displayed statistically significant wound healing activity, while E. africanus exhibited wound healing inhibition. Compounds such as camphor (identified in an abundance of 20.45% in S. aurea), and carvacrol (identified in an abundance of 5.08% in C. amboinicus and 6.63% in P. graveolens) were identified which may contribute to the observed bioactivity. It has been observed that the chosen aromatic plants may provide secondary metabolites that could potentially contribute to advances in breast mastitis treatment. Future prospects of this research include exploring aspects such as inflammatory signaling pathways or to isolate compounds such as camphor and carvacrol to determine whether these compounds are responsible for the observed bioactivity.",
+      "journal": "Front Pharmacol",
+      "date": "2026-09-01",
+      "authors": [
+        "Wildy EJ",
+        "Loggenberg SR",
+        "Lall N"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.3389/fphar.2026.1893713",
+      "journal_tier": 2,
+      "impact": 4.4,
+      "section": "onko",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744994",
+      "title": "Towards Model-Informed Precision Dosing of High-Dose Rifampicin: A Parsimonious Population Pharmacokinetic Model Capturing Saturation and Autoinduction in Tanzanian and South African Patients with Tuberculosis.",
+      "abstract": "BACKGROUND: Rifampicin, a cornerstone of tuberculosis treatment, exhibits complex pharmacokinetics with variable absorption, saturable elimination and time-dependent autoinduction, together with marked inter- and intra-individual variability in drug exposure. These properties challenge standard weight-based dosing and underscore the need for individualized strategies, particularly in high-burden settings like Tanzania. While therapeutic drug monitoring (TDM) supported by model-informed precision dosing (MIPD) is being implemented, few of the existing population pharmacokinetic (popPK) models includes Tanzanians and are parsimonious. OBJECTIVE: This study aimed to develop a parsimonious popPK model of rifampicin that successfully captures both its autoinductive and saturable elimination components, achieving predictive performance comparable to more complex reference models described in the literature. METHODS: Rifampicin concentrations data from 42 Tanzanian and 92 South African patients, covering doses up to 50 mg/kg over 2 weeks were used to develop the model, which was further benchmarked against literature reference models. RESULTS: The chosen model employed a one-compartment structure with Michaelis-Menten elimination and a time-dependant Emax-based autoinduction function. The final model demonstrated individual Bayesian predictive performance comparable to two complex reference popPK models, and confirmed substantial inter-individual variability in exposure, with exposures differing by up to fivefold within the same weight-based dosing cohort. CONCLUSION: These findings support the implementation of MIPD and TDM to improve efficacy and safety in TB treatment rather than relying on a uniform dosing approach based on bodyweight. This model provides a robust foundation for individualized dosing and the deployment of clinical decision support tools in high TB burden settings.",
+      "journal": "Clin Pharmacokinet",
+      "date": "2026-09-15",
+      "authors": [
+        "Petermann YJ",
+        "Said B",
+        "Sariko ML",
+        "Thoma Y",
+        "Mpagama SG",
+        "Csajka C",
+        "Guidi M"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s40262-026-01674-w",
+      "journal_tier": 2,
+      "impact": 4.6,
+      "section": "klinik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744276",
+      "title": "circ_0043837 attenuates macrophage mitochondrial damage through XPO1-associated HuR transport in atherosclerosis.",
+      "abstract": "Macrophage mitochondrial damage is implicated in the pathogenesis of atherosclerosis. Circular RNAs (circRNAs) regulate mitochondrial energy metabolism and contribute to the development of various diseases, but the mechanism in atherosclerosis regulation remains to be elucidated. This study aimed to investigate the underlying mechanisms by which circRNAs modulate mitochondrial function in the progression of atherosclerosis. We established a macrophage-derived foam cell model to define the role of circ_0043837 in mitochondrial dysfunction during atherosclerosis. Foam cells showed loss of mitochondrial membrane potential, mtDNA fragmentation, reduced mitochondrial transcription factor A (TFAM) expression and impaired nuclear export of the RNA-binding protein HuR. Upregulation of circRNA (circ_0043837) exerted a protective effect on mitochondrial membrane potential and restored regular HuR nuclear export. RNA pull-down, mass spectrometry and immunofluorescence identified the nuclear export receptor XPO1 as a circ_0043837-interacting protein, through which circ_0043837 regulated HuR trafficking. In vivo, exosome-mediated delivery of circ_0043837 delayed carotid atherosclerotic plaque progression in mice. Together, our study demonstrated that circ_0043837 plays a protective role against atherosclerosis by interacting with XPO1, regulating HuR nuclear export and attenuating macrophage mitochondrial damage.",
+      "journal": "Biochem Pharmacol",
+      "date": "2026-09-15",
+      "authors": [
+        "Xiao Q",
+        "Hou R",
+        "Zhang M",
+        "Wang X",
+        "Wei J",
+        "Tang Y",
+        "Ma S",
+        "Pan X",
+        "Zhu X"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.bcp.2026.118476",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744259",
+      "title": "Prenatal Δ9-tetrahydrocannabinol exposure rewires glucocorticoid-hippocampal crosstalk and impairs memory under stress in adolescent rat offspring.",
+      "abstract": "BACKGROUND: Stress is a major determinant of psychopathology in which coping and cognitive impairment arise from abnormal glucocorticoid activity and brain derived neurotrophic factor (BDNF)-dependent neuroplasticity in the hippocampus. The endocannabinoid system modulates stress and hippocampal functioning since early development, thus its early-life disruptions may program vulnerability to stress-related cognitive deficits. METHODS: We investigated whether prenatal exposure to tetrahydrocannabinol (pTHC; 2 mg/kg, gestational days 5-20) alters spatial learning and memory in adolescent offspring using the Morris water maze (MWM) Serum corticosterone and hippocampal mineralocorticoid/glucocorticoid receptor levels were measured at baseline and after MWM. Hippocampal plasticity was assessed through BDNF and its receptor expression and CA1 dendritic architecture. To probe the contribution of glucocorticoid signaling, corticosterone synthesis was inhibited with metyrapone (50 mg/kg, 7 days). RESULTS: pTHC offspring showed stress-related search strategy -thigmotaxis-, delayed learning, and impaired memory, accompanied by elevated glucocorticoid output and responsivity, reduced mineralocorticoid/glucocorticoid receptor ratio, decreased BDNF, and altered CA1 dendritic complexity. Metyrapone reduced thigmotaxis and rescued memory performance, normalizing glucocorticoid output, mineralocorticoid/glucocorticoid receptor balance, BDNF, and dendritic morphology. CONCLUSION: These findings demonstrate that prenatal THC exposure programs a stress-related vulnerability of hippocampal memory processes, which can be mitigated by reducing excessive glucocorticoid availability.",
+      "journal": "Eur J Pharmacol",
+      "date": "2026-09-15",
+      "authors": [
+        "Brancato A",
+        "Cicero M",
+        "Castelli V",
+        "Lavanco G",
+        "Tringali G",
+        "Meli M",
+        "Palivec P",
+        "Kuchar M",
+        "Cannizzaro C"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ejphar.2026.179327",
+      "journal_tier": 2,
+      "impact": 5.0,
+      "section": "kesif",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744258",
+      "title": "Cepharanthine improves rheumatoid arthritis by regulating functions of fibroblast-like synoviocytes and macrophage polarization.",
+      "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmune disease featured by persistent synovial inflammation, progressive bone erosion, and cartilage destruction. Although conventional treatments relieve clinical symptoms, their long-term application is frequently limited by severe side effects. Cepharanthine, a natural alkaloid, possesses potent anti-inflammatory properties, yet its therapeutic effects and precise mechanisms against RA remain largely unclear. This study aimed to evaluate the therapeutic potential of cepharanthine in RA and explore the underlying molecular basis. The effects of cepharanthine were evaluated in interleukin-1 (IL-1) receptor antagonist-deficient (IL1-RA-/-) mice in vivo, and in fibroblast-like synoviocytes (FLS) and RAW264.7 macrophages in vitro. In vivo, cepharanthine significantly decreased the arthritis index and paw swelling, preserved bone microstructure, attenuated synovial hyperplasia and inflammatory infiltration, and mitigated cartilage degeneration in IL1RA-/- mice. In vitro, cepharanthine showed no obvious cytotoxicity at concentrations from 1 nM to 100 μM. Cepharanthine inhibited inflammation, proliferation, and migration of FLS. Meanwhile, cepharanthine promoted the phenotypic shift of macrophages from pro-inflammatory M1 toward anti-inflammatory M2. Transcriptomic profiling and bioinformatics analysis revealed the advanced glycation end products (AGE)-receptor for advanced glycation end products (RAGE) signaling pathway as a key target of cepharanthine. Collectively, cepharanthine mitigates joint inflammation and structural damage in RA by inhibiting the AGE/RAGE/rat sarcoma viral oncogene homolog (Ras)/nuclear factor κ-light-chain-enhancer of activated B cells (NF-κB) signaling cascade. Overall, cepharanthine serves as a promising natural candidate for the treatment of RA. This study also provides a novel rationale for developing plant-derived agents against autoimmune arthritis.",
+      "journal": "Eur J Pharmacol",
+      "date": "2026-09-15",
+      "authors": [
+        "Hou B",
+        "Yang M",
+        "Liu H",
+        "Xu A",
+        "Wen Y",
+        "Zhu X",
+        "Cai W",
+        "Sun H",
+        "Hua M",
+        "Gu Y"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ejphar.2026.179331",
+      "journal_tier": 2,
+      "impact": 5.0,
+      "section": "onko",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744257",
+      "title": "Acteoside ameliorates doxorubicin-induced cardiotoxicity by suppressing ferroptosis through activation of the KEAP1/NRF2 pathway.",
+      "abstract": "Doxorubicin (DOX)-induced cardiotoxicity (DIC) is a major limitation to the clinical use of DOX, highlighting the need for effective cardioprotective strategies. Although acteoside (ACT), a natural compound with antioxidant properties, has shown potential cardioprotective effects, its role in DIC, particularly in the regulation of ferroptosis, remains unclear. This study therefore investigated the protective effects of ACT against DIC and the underlying molecular mechanisms. Using C57BL/6 mice in vivo and H9c2 cells in vitro, we evaluated cardiac function, myocardial injury and histopathological alterations, ferroptosis-related changes, and key regulatory proteins. ACT significantly attenuated DOX-induced cardiac dysfunction, myocardial injury, and fibrosis. These protective effects were accompanied by suppression of ferroptosis, as evidenced by reduced iron accumulation and lipid peroxidation and restored expression of glutathione peroxidase 4 (GPX4) and the cystine/glutamate transporter (xCT). ACT also preserved mitochondrial membrane potential and reduced mitochondrial reactive oxygen species (ROS) levels, thereby alleviating mitochondrial dysfunction. Mechanistically, ACT may interact with Kelch-like ECH-associated protein 1 (KEAP1) and promoted KEAP1 degradation, thereby facilitating the nuclear translocation of nuclear factor erythroid 2-related factor 2 (NRF2) and increasing the expression of downstream antioxidant proteins, including heme oxygenase-1 (HO-1). Moreover, the NRF2 inhibitor ML385 significantly attenuated the protective effects of ACT, supporting the involvement of NRF2 signaling in ACT-mediated cardioprotection. Collectively, these findings suggest that ACT protects against DIC, at least in part, by promoting KEAP1 degradation, activating NRF2 signaling, and suppressing ferroptosis.",
+      "journal": "Eur J Pharmacol",
+      "date": "2026-09-15",
+      "authors": [
+        "Wang M",
+        "Wang C",
+        "Liu Z",
+        "Du X",
+        "Tian L",
+        "Li Q",
+        "Zhang F",
+        "Chen Y",
+        "Lu C"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ejphar.2026.179349",
+      "journal_tier": 2,
+      "impact": 5.0,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744087",
+      "title": "The effects of HIV-1 regulatory Tat expression on nicotine dependence in mice.",
+      "abstract": "HIV-1 affects nearly 40 million people worldwide, with people living with HIV disproportionately impacted by tobacco and nicotine use. Despite the high smoking prevalence in this population, the mechanisms underlying nicotine dependence in this context remain poorly understood. Using an HIV-1 Tat transgenic mouse model, we investigated the effects of Tat expression on nicotine intake, preference, and withdrawal-related behaviors. Male and female Tat(+)/Tat(-) mice received chronic nicotine or saline via osmotic minipumps for 14 days and spontaneous withdrawal was evaluated. Withdrawal signs of anxiety-like behavior, somatic signs, thermal hyperalgesia, and anhedonia-like behavior were assessed after short- or long-term Tat expression. Nicotine intake and preference were evaluated using a two-bottle choice (2BC) paradigm. Acute nicotinic behavioral responses were also assessed. Brain and plasma nicotine/cotinine levels were quantified using HPLC-MS/MS to determine pharmacokinetic variables. Short-term Tat expression increased somatic signs of nicotine withdrawal without affecting affective behaviors. However, long-term Tat expression exacerbated somatic and affective symptoms, with somatic signs persisting seven days post-withdrawal. Doxycycline alone did not influence withdrawal. Tat expression did not alter plasma or brain nicotine/cotinine levels, nor did it change acute pharmacological responses to nicotine. In the 2BC paradigm, long-term Tat expression reduced nicotine intake and preference at higher concentrations. In summary, our findings demonstrate that chronic HIV-1 Tat expression exacerbates nicotine withdrawal, producing heightened somatic and affective symptoms, while concurrently reducing nicotine intake and preference.",
+      "journal": "Neuropharmacology",
+      "date": "2026-09-15",
+      "authors": [
+        "Palamar A",
+        "Rahman Y",
+        "Buzzi B",
+        "Nass SR",
+        "Poklis JL",
+        "Whiteaker P",
+        "Hauser KF",
+        "Imad Damaj M"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.neuropharm.2026.111188",
+      "journal_tier": 2,
+      "impact": 4.6,
+      "section": "klinik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744033",
+      "title": "Personalized medicine at the push of a button: printer design and implementation of SSE pharma printing in a hospital pharmacy.",
+      "abstract": "The need for individualized dosages has led to the exploration of three-dimensional (3D) printing technology for producing personalized medicines. This technology allows for dosage, size, shape, and taste adjustments based on individual patient characteristics, yet its translation from research into routine pharmacy compounding remains limited. Practical guidance on implementation, validation, and integration into existing quality systems is lacking. This work provides a complete, implementation pathway for semi-solid extrusion (SSE) pharma printing in a (hospital) pharmacy or compounding facility. Our multidisciplinary consortium defined and applied the V-model as a quality framework encompassing User Requirements Specification (URS), functional and design specifications, and acceptance and qualification steps (FAT/SAT and IQ/OQ/PQ). Pharmacy staff were trained in the use of a custom-made 3D printer and related software, and evaluated the workflow, while test batches of placebo tablets were produced to assess reproducibility and inter-operator variability. After a two-day training session, operators consistently printed placebo tablets that met European Pharmacopoeia and national weight uniformity standards, supporting the feasibility of the 3D printing process for pharmaceutical preparations and provide preliminary evidence of its robustness with respect to operator-dependent variability. User feedback informed refinements to procedures and software, improving usability and traceability in line with ALCOA++++ principles. Critical Quality Attributes (CQAs) are described to validate the process and product. This work provides a practical and reproducible framework for integrating 3D printing into the extemporaneous preparation process within a (hospital) pharmacy environment, while outlining the key steps required to enable safely dispensing of 3D printed tablets.",
+      "journal": "Int J Pharm",
+      "date": "2026-09-15",
+      "authors": [
+        "Eveline van Kampen EEM",
+        "Amanda Holst AJ",
+        "Sejad Ayyoubi S",
+        "Renz van Ee RJ",
+        "Marc Hoppenbrouwers MB",
+        "Anne Schäfer van Raalte AC",
+        "Smits TAT",
+        "Anton Aulbers AP",
+        "Kjeldvan Bommel KJC",
+        "Javier Maduro JE",
+        "Khair Aljaja K",
+        "Henk Spijker H",
+        "Hugo van der Kuy PHM",
+        "Liesbeth Ruijgrok EJ"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127384",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "diger",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42742937",
+      "title": "Nano spray-dried powders for efficient pulmonary delivery of proteins: an emphasis on comparisons of derived metrics determined by chapters <601> and <1604>.",
+      "abstract": "Pulmonary protein delivery has proven to be an effective approach for the treatment of local and systemic diseases, and particles that can be efficiently inhaled into peripheral regions should possess aerodynamic sizes of <2 µm, for which nano-spray-drying (NSD) is a powerful tool for fabrication. However, NSD powders have a high specific surface area and surface energy, which causes severe agglomeration and poor aerosolization performance. To solve these problems, cyclodextrin/leucine delivery systems were constructed, which can evidently protect alkaline phosphatases (AKP) with >94% of their biological activities retained in NSD powders and endow nanoparticle-based AKP-cyclodextrin-leucine (ACL) powders with improved aerosolization behavior. This can be evidenced by the fine particle (<4.46 µm) fraction (FPF<4.46) and FPF<1.66 (in unit percentage), of only 49.9% and 18.7% for the leucine-free ACL0, while significantly increased to 82.1% and 33.1% for ACL15, and further increased to >88% and >41% for ACL30/ACL45. The USP Chapters of traditional <601> and newly published <1604> were employed to determine derived metrics for aerodynamic particle size distribution (APSD). It was demonstrated that the authenticity of fitted values calculated in Chapter <601> was severely influenced by APSD profiles, and the fitted values can have immense differences from the actual values determined in Chapter <1604> . The differences can be minimized when the APSD is unimodal and normal across sized impactor stages. Hence, the authenticity of the fitted values can be improved. These new data deepen the understanding of APSD analyses and generate insights into the improvement of value authenticity for derived metrics, henceforward facilitating continuous improvements in quality control of inhaled products.",
+      "journal": "Drug Deliv",
+      "date": "2026-09-15",
+      "authors": [
+        "Li HY",
+        "Guo J"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "doi": "10.1080/10717544.2026.2732440",
+      "journal_tier": 2,
+      "impact": 6.0,
+      "section": "formulasyon",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42742675",
+      "title": "Cardioprotective role of vincamine in cyclophosphamide-induced cardiotoxicity through modulation of AMPK/SIRT1, PI3K/Akt, and MAPK pathways.",
+      "abstract": "Cyclophosphamide (CP) remains widely used in oncology and immunotherapy; however, its therapeutic value is limited by the onset of myocardial injury. The present study investigated whether vincamine (VIN) protects against CP-associated myocardial injury and whether this effect is accompanied by changes in the AMPK/SIRT1 and PI3K/Akt axes, MAPK, TLR4/NF-κB p65 signaling, as well as NLRP3-related signaling. Adult male Wistar rats were assigned to four experimental groups (n = 6): control animals received distilled water (10 mL/kg), whereas CP-administered rats received one intraperitoneal CP injection (200 mg/kg) on day 7; two VIN-pretreated groups were given VIN pretreatment administered orally at doses of 20 or 40 mg/kg/day across the 10-day protocol, with CP administered on day 7. Cardiac injury indices, redox status, inflammatory and apoptotic mediators, as well as gene and protein expression, were examined using biochemical measurements, histological examination, immunohistochemical staining, qRT-PCR, and Western blotting. CP exposure significantly elevated serum cTn-T, CK-MB, and LDH levels, increased cardiac MDA, MPO, iNOS and inflammatory cytokine levels, namely TNF-α, IL-6, and IL-1β, together with reduced GSH content and Nrf2/HO-1 expression. CP administration reduced AMPK/SIRT1 and PI3K/Akt transcript expression and increased TLR4 and NLRP3 expression, β-actin-normalized phosphorylated MAPK abundance, and NF-κB p65 immunoreactivity. VIN attenuated these alterations in a dose-responsive manner, and its cardioprotective effects were accompanied by improved redox balance, increased AMPK/SIRT1 and PI3K/Akt expression, reduced phosphorylated MAPK abundance, and lower inflammatory and apoptosis-related indices. Overall, these data strengthen the scientific basis for evaluating VIN as a potential cardioprotective intervention against CP-induced myocardial damage.",
+      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
+      "date": "2026-09-15",
+      "authors": [
+        "Seddek MT",
+        "Awad AS",
+        "Elsherbiny ME",
+        "Al Kamaly O",
+        "Alnakhli AM",
+        "El-Dessouki AM"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s00210-026-05875-9",
+      "journal_tier": 2,
+      "impact": 3.2,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42741482",
+      "title": "A new era in the treatment of metabolic dysfunction-associated steatotic liver disease (MASLD): clinical breakthroughs and challenges.",
+      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD), affecting nearly one-third of adults worldwide, encompasses a spectrum from steatosis to steatohepatitis (MASH), advanced fibrosis, cirrhosis, and hepatocellular carcinoma, with fibrosis stage as the primary determinant of liver-related outcomes and cardiovascular disease as the leading cause of mortality. Despite robust evidence that lifestyle interventions achieving ≥10% weight loss induce fibrosis regression in many patients, sustained success in routine practice remains elusive-realised in fewer than 15% of individuals-exposing a critical efficacy-effectiveness gap that demands pharmacologic therapy for those with clinically significant fibrosis. The period 2024-2026 has marked a transformative shift, with resmetirom (thyroid hormone receptor-β agonist) gaining accelerated approval in 2024 as the first agent to meet histologic endpoints in MASH, followed by semaglutide (GLP-1 receptor agonist) in 2025, both demonstrating substantial MASH resolution and fibrosis improvement in phase 3 trials; a diverse pipeline, including tirzepatide, efruxifermin, lanifibranor, denifanstat, and dual-incretin agonists, has yielded promising histologic and metabolic outcomes, with several advancing to phase 3 and updated guidelines endorsing pharmacotherapy for F2-F3 MASH, prioritising comorbidity-guided selection and synergy with lifestyle modification. Yet, these histologic gains must now be translated into reduced morbidity and mortality through an ambitious agenda of long-term outcome trials, precision biomarkers, and equitable, multidisciplinary care models.",
+      "journal": "Front Pharmacol",
+      "date": "2026-08-31",
+      "authors": [
+        "You Z",
+        "Yang L",
+        "Long Y",
+        "You D",
+        "Zhao Q"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.3389/fphar.2026.1815576",
+      "journal_tier": 2,
+      "impact": 4.4,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42741420",
+      "title": "Magnocurarine inhibits migration and invasion by suppressing mesenchymal marker expression and MAPK signaling in castration-resistant prostate cancer cells.",
+      "abstract": "Background: Magnocurarine is an alkaloid isolated from several traditional Asian medicinal plants, including Magnolia and Harrisonia species. Previous studies have reported its anti-nociceptive, anti-inflammatory, and antimicrobial activities with relatively low cytotoxicity. However, the anticancer activity of magnocurarine, particularly its effects on prostate cancer cell migration and invasion, has not been well characterized. Objective: This study aims to investigate the effects of magnocurarine on the migration and invasion of castration-resistant prostate cancer (CRPC) cells. Methods: DU145 and PC3 cells were treated with non-toxic concentrations of magnocurarine (0-40 µM), and migration and invasion capabilities were evaluated using scratch wound healing and transwell invasion assays, gelatin zymography, and western blot analysis. Results: Magnocurarine significantly reduced the migration and invasion of CRPC cells in a dose-dependent manner (p < 0.05). The inhibitory effects were associated with decreased activities of MMP-2 and MMP-9, together with reduced expression of invasion-related proteins including uPA, uPAR, and MT1-MMP. In addition, magnocurarine suppressed the expression of mesenchymal markers, including N-cadherin, vimentin, and fibronectin. Further investigation showed that magnocurarine decreased the phosphorylation of ERK, JNK, and p38 without altering total protein expression, suggesting suppression of MAPK signaling activation. Conclusion: These findings indicate that magnocurarine attenuates migratory and invasive phenotypes in CRPC cells and is associated with reduced activation of MAPK signaling. This study provides initial evidence supporting the anti-migratory and anti-invasive effects of magnocurarine in prostate cancer cells and suggests its potential for further investigation as a phytochemical-derived drug candidate in advanced prostate cancer.",
+      "journal": "Front Pharmacol",
+      "date": "2026-08-31",
+      "authors": [
+        "Semmarath W",
+        "Arjsri P",
+        "Srisawad K",
+        "Thippraphan P",
+        "Intanil I",
+        "Umsumarng S",
+        "Dejkriengkraikul P"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.3389/fphar.2026.1903084",
+      "journal_tier": 2,
+      "impact": 4.4,
+      "section": "onko",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42741326",
+      "title": "Rivaroxaban suppresses factor Xa-Driven PAR-2-ERK inflammatory, catabolic, osteoclastogenic, and mitochondrial dysfunction signaling in osteoarthritis-relevant chondrocytes: a drug-repurposing strategy for joint inflammation.",
+      "abstract": "BACKGROUND: Osteoarthritis (OA) is increasingly recognised as an inflammation-driven whole-joint disease in which cartilage catabolism, osteochondral remodelling, and mitochondrial dysfunction drive structural progression. Factor Xa (FXa), beyond haemostasis, is a signalling protease that activates protease-activated receptor-2 (PAR-2) and downstream MAPK-dependent inflammation; whether it directly drives this programme in OA-relevant chondrocytes, and whether rivaroxaban can intercept it, is undefined. OBJECTIVE: To determine whether rivaroxaban attenuates FXa-induced PAR-2/ERK inflammatory signalling and downstream cytokine, catabolic, osteoclastogenic, and mitochondrial stress responses in bone marrow-derived mesenchymal stem cell (BMSC)-derived chondrocytes. METHODS: Human BMSC-derived chondrocytes, phenotypically validated by collagen type II immunostaining and Alcian blue and toluidine blue staining, were exposed to non-cytotoxic FXa and rivaroxaban concentrations (MTT), with rivaroxaban-mediated FXa inhibition confirmed by an S-2765 chromogenic amidolytic assay. FXa-stimulated chondrocytes ± rivaroxaban were then profiled for PAR-2, ERK1/2, p-ERK1/2, DUSP6, TNF-α, IL-1β, MCP-1, SOX4, ADAMTS5, RANK/RANKL, and mitochondrial function by immunoblotting, RT-qPCR, ELISA, flow cytometry, and Rhodamine 123/Janus Green B staining; PAR-2 dependency was interrogated by siRNA-mediated F2RL1 knockdown. RESULTS: FXa elicited a coordinated phenotype-PAR-2 upregulation, ERK1/2 activation, increased TNF-α, IL-1β, and MCP-1, induction of SOX4 and ADAMTS5, enhanced RANK/RANKL, and mitochondrial dysfunction. Without compromising viability, rivaroxaban suppressed FXa amidolytic activity and reduced PAR-2 (transcript, total and cell-surface protein), ERK1/2 phosphorylation, p-ERK/ERK output, and DUSP6, denoting attenuated sustained ERK flux; this translated into lower cytokine secretion, diminished catabolic and osteoclastogenic effector expression, and preserved mitochondrial membrane potential and redox-associated staining. PAR-2 knockdown reduced, but did not abolish, the FXa response, indicating PAR-2-dominant but not exclusively PAR-2-dependent signalling. CONCLUSION: Rivaroxaban suppresses a coherent FXa-responsive inflammatory network in OA-relevant chondrocytes via the PAR-2-ERK axis and its downstream cytokine, catabolic, osteoclastogenic, and mitochondrial sequelae. These findings extend direct FXa inhibition beyond anticoagulation and support rivaroxaban as a mechanistically plausible repurposing candidate for OA-associated inflammatory pathology, pending validation in primary OA chondrocytes, osteochondral explants, and in vivo models.",
+      "journal": "Front Pharmacol",
+      "date": "2026-08-31",
+      "authors": [
+        "Patnaik R",
+        "Jannati S",
+        "Kellett CF",
+        "Hing CB",
+        "Banerjee Y"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.3389/fphar.2026.1872924",
+      "journal_tier": 2,
+      "impact": 4.4,
+      "section": "onko",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42741308",
+      "title": "Dysregulation of the GPX4/ACSL4 axis mediates ferroptosis in neurons of T2DD rats.",
+      "abstract": "INTRODUCTION: Diabetes mellitus complicated with depression (T2DD) is different from a single disease. It leads to more severe damage to nerve cells and cognitive dysfunction, and has a poor prognosis. Existing evidence indicates that ferroptosis-a form of programmed cell death driven by iron accumulation and lipid peroxidation-is involved in both diabetes and depression. Glutathione peroxidase 4 (GPX4) and long-chain acyl-CoA synthetase family member 4 (ACSL4) are key regulators of ferroptosis, but their roles in T2DD-associated neural damage remain unclear. METHODS: In this study, we established a T2DD rat model using a high-fat diet combined with streptozotocin injection and chronic unpredictable mild stress and performed behavioral tests to assess depressive-like behaviors. Meanwhile, HT22 hippocampal neuronal cells were exposed to high glucose and corticosterone to simulate an in vitro model of T2DD. We investigated the role of the GPX4/ACSL4 axis in ferroptosis in the primary somatosensory cortex. RESULTS: In vivo, T2DD rats exhibited reduced spontaneous activity, aggravated neuronal damage, Fe2+ accumulation in the cortical region, elevated oxidative stress, upregulation of CSL4/NCOA4 expression, and downregulation of GPX4/SLC7A11 expression, indicating that T2DD exacerbates neural damage. In vitro, high glucose (50 mM) and corticosterone (200 μM) synergistically reduced HT22 cell viability, increased reactive oxygen species (ROS) levels, and induced JC-1 and Ca2+ alterations suggesting mitochondrial depolarization and aggravated mitochondrial damage, further complementing the above conclusions. Notably, treatment with the ACSL4 inhibitor AS252424 reversed the abnormalities in reactive oxygen species, Fe2+, and malondialdehyde levels induced by RSL3 (a GPX4 inhibitor), while restoring glutathione (GSH) levels and Adenosine Triphosphate suggesting that dysregulation of the GPX4/ACSL4 axis may be the central mechanism underlying ferroptosis and neuronal damage in T2DD. CONCLUSION: This study reveals the role of ferroptosis in the T2DD model and provides new insights into therapeutic interventions targeting lipid metabolism pathways.",
+      "journal": "Front Pharmacol",
+      "date": "2026-08-31",
+      "authors": [
+        "Wang Y",
+        "Wang S",
+        "Zhao S",
+        "Lei Y",
+        "Fan Y",
+        "Zheng X",
+        "Yang L",
+        "Ma Y"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.3389/fphar.2026.1891812",
+      "journal_tier": 2,
+      "impact": 4.4,
+      "section": "noro",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42741116",
+      "title": "HK2 drives synaptic dysfunction in fragile X syndrome via epigenetic regulation of H3K18 lactylation.",
+      "abstract": "INTRODUCTION: Fragile X syndrome (FXS) is a neurodevelopmental disorder caused by loss of fragile X messenger ribonucleoprotein (FMRP) expression and characterized by synaptic dysfunction and cognitive impairment. However, the metabolic and epigenetic mechanisms underlying these abnormalities remain poorly understood. To address this gap, this study investigated the role of hexokinase 2 (HK2) in FXS pathogenesis and explored downstream metabolic and epigenetic mechanisms associated with synaptic dysfunction and cognitive impairment. METHODS: Using an Fmr1 -/Y mouse model, we evaluated HK2 expression and its cell-type specificity in hippocampal neurons. RNA immunoprecipitation (RIP) analysis was performed to examine the association between FMRP and Hk2 mRNA. Genetic knockdown of HK2 was used to assess its effects on neurite outgrowth, synapse density, synaptic transmission, and hippocampal long-term potentiation (LTP). Finally, pharmacological experiments using the HDAC3 inhibitor RGFP966 were performed to examine whether modulation of H3K18la levels contributes to HK2-associated phenotypes. RESULTS: HK2 expression was markedly elevated in hippocampal neurons of Fmr1 -/Y mice. RIP analysis revealed an association between FMRP and Hk2 mRNA, suggesting that HK2 may represent an FMRP-associated transcript. Genetic suppression of HK2 promoted neurite outgrowth, increased synapse density, and improved synaptic transmission and hippocampal long-term potentiation (LTP) in Fmr1 -/Y mice. Mechanistically, HK2 knockdown selectively reduced H3K18la levels without affecting H3K18 acetylation, supporting a role for HK2 in regulating histone lactylation. Consistent with these findings, pharmacological inhibition of HDAC3 with RGFP966 increased H3K18la levels and attenuated the beneficial effects of HK2 suppression on neuronal morphology, synaptic plasticity, and cognitive function. Behavioral analyses demonstrated that modulation of the HK2-H3K18la axis improved spatial learning and memory in Fmr1 -/Y mice. CONCLUSION: Taken together, these findings support a role for the HK2-H3K18la axis in synaptic dysfunction in FXS. Targeting this metabolic-epigenetic axis may provide a potential avenue for future therapeutic exploration in FXS and related neurodevelopment disorders.",
+      "journal": "Front Pharmacol",
+      "date": "2026-08-31",
+      "authors": [
+        "Luan Y",
+        "Zhang H",
+        "Ma N",
+        "Zhang Y",
+        "Xu Z",
+        "Zhang W",
+        "Zhang X",
+        "Liu Y"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.3389/fphar.2026.1903604",
+      "journal_tier": 2,
+      "impact": 4.4,
+      "section": "immuno",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42741086",
+      "title": "Generation of a glycogen storage disease mouse model with fatty liver and its treatment by PPAR-α agonist bezafibrate.",
+      "abstract": "BACKGROUND: Fatty liver is considered the pathological basis for the development of glycogen storage disease type Ia (GSDIa); however, due to the lack of suitable animal models, the mechanism underlying fatty liver development in GSDIa is largely unknown. METHODS: This study employed surrogate breastfeeding to enable the survival of glucose-6-phosphatase catalytic (G6PC) knockout (KO) mice into adulthood, and then analyzed fatty liver phenotypes in 3-month-old KO (KO-3), 6-month-old KO (KO-6), and 9-month-old KO (KO-9) mice. RESULTS: KO-6 and KO-9 mice exhibited typical fatty liver phenotypes, and upregulation of glucose-6-phosphate (G6P). Moreover, both Western blot and qRT-PCR analysis showed significant upregulation of ChREBP, SREBP1 and fatty acid synthesis enzymes. RNA-seq heat maps revealed that KO-6 and KO-9 mice exhibited similar expression patterns, distinct from those observed in the wild-type (WT) and KO-3 groups. GO and KEGG analysis further revealed changes in lipid metabolism pathways in KO-6 and KO-9 mice, as well as PI3K-Akt, AMPK, and MAPK signaling. Western blot analysis showed that the Akt and mTOR pathways were activated, while the AMPK pathway was downregulated, indicating impaired autophagy. Finally, bezafibrate, a proliferator-activated receptor α (PPAR-α) agonist, enhanced autophagic activity and attenuated inflammatory responses, fat deposition, and glycogen storage in G6PC KO mice. CONCLUSION: This study successfully generated a fatty liver model using G6PC KO adult mice and demonstrated that pharmacological activation of PPAR-α may have therapeutic potential in adult G6PC KO mice.",
+      "journal": "Front Pharmacol",
+      "date": "2026-08-31",
+      "authors": [
+        "Xie Y",
+        "Fu G",
+        "Fan C",
+        "Huang H",
+        "Yan J",
+        "Jin L"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.3389/fphar.2026.1898810",
+      "journal_tier": 2,
+      "impact": 4.4,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42741031",
+      "title": "Protective effect of hesperetin against myelosuppression and splenic inflammation via modulating TLR4/MYD88/NF-κB signaling: molecular docking and experimental validation.",
+      "abstract": "INTRODUCTION: Myelotoxicity is a common adverse effect of vincristine and other chemotherapeutic drugs. Hesperetin is a bioactive flavanone with anti-inflammatory activity. This study was planned to examine the hesperetin protecting effect against vincristine induced myelosuppression and splenic inflammation in mice and test whether this effect is mediated through the suppression of Toll-like receptor 4 (TLR4)/myeloid differentiation primary response-88 (MYD88)/nuclear factor-kappa B (NF-κB) signaling pathways. METHODS: Bioinformatics tools were used to establish the rationale of the study and molecular docking defined the potential binding of hesperetin to TLR4. Mice were allocated into different experimental groups: Group 1: was the saline mice, Group 2; mice were injected with vincristine (0.1 mg/kg, i. p) for 5 days per week, Group 3; mice received vincristine (as in Group 2) plus hesperetin (100 mg/kg, p. o.) and Group 4; mice received hesperetin (100 mg/kg, p. o.) only; the experiment continued for 2 weeks. RESULTS: The mouse experiment showed that vincristine produced significant decreases in hematological parameters (mainly leukocytes dropped to 4.6 ± 0.32 and platelets dropped to 799.6 ± 25.46 versus 9.48 ± 0.19 and 1654 ± 273.26 × 10 ˄9/L in the saline group, p less than 0.05) and bone marrow hypocellularity (dropped to ∼30-40% compared to 95%-100% in the saline group). The spleens showed white pulp lymphoid depletion, red pulp mild hypocellularity, greater immunostaining for MYD88, and greater content for TLR4, NF-κB, MYD88, TNF-α and IL-1β proteins. Results of molecular docking showed that hesperetin is an interesting complementarity with the TLR4/MD2 interface which was a good rationale for the experimental validation. The mouse experiment showed that hesperetin prevented the decrease hematological parameters, enhanced the bone marrow cellularity to 80%-90%, and the splenic architecture. Hesperetin further inhibited the increases in the target proteins (TLR4, NF-κB, MYD88, TNF-α and IL-1β) significantly. DISCUSSION: The present data documents the novel role of hesperetin in mitigating myelotoxicity of vincristine through modulation of TLR4/MYD88/NF-κB signaling and a direct binding to TLR4 was proposed by molecular docking. This highlights possible usefulness of this combination after adequate clinical studies.",
+      "journal": "Front Pharmacol",
+      "date": "2026-08-31",
+      "authors": [
+        "Badawi GA",
+        "Abdelmaogood AKK",
+        "Ahmed N",
+        "Rohayem S",
+        "Fawzy S",
+        "Zaitone SA",
+        "Aldahish AA",
+        "Abdelkhalig SM",
+        "Helal MA",
+        "Mohamed NM",
+        "Al-Najjar AH"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.3389/fphar.2026.1826774",
+      "journal_tier": 2,
+      "impact": 4.4,
+      "section": "onko",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
       },
       "tier": 3,
       "abstract_tr": ""
@@ -662,6 +2073,62 @@
       "journal_tier": 2,
       "impact": 3.5,
       "section": "klinik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42736382",
+      "title": "Pioglitazone protects against thioacetamide-induced liver fibrosis via AMPK-mediated inhibition of the TGF-β/Smad fibrotic cascade.",
+      "abstract": "Hepatic fibrosis is a progressive liver disorder driven largely by inflammation and oxidative stress. AMP-activated protein kinase (AMPK) plays a pivotal role in regulating hepatic fibrogenesis and represents a promising therapeutic target. Therefore, this study aimed to investigate the hepatoprotective effects of pioglitazone (PIO) and to evaluate whether AMPK activation contributes to its protective actions against thioacetamide (TAA)-induced hepatic injury and fibrosis. Liver injury was induced by intraperitoneal administration of TAA (150 mg/kg, twice weekly) for 9 weeks. During the last 3 weeks, mice received PIO (3 mg/kg/day, orally). Hepatic injury and fibrosis were assessed using biochemical, histopathological, and molecular analyses. PIO treatment significantly attenuated TAA-induced hepatic injury and fibrosis, as demonstrated by improved liver histology, reduced plasma alanine aminotransferase (ALT), aspartate aminotransferase (AST), and alkaline phosphatase (ALP) levels and gamma-glutamyl transferase (GGT) activity, restoration of plasma albumin, and decreased α-smooth muscle actin (α-SMA) expression. These beneficial effects were associated with increased hepatic p-AMPK expression and reduced oxidative stress, evidenced by decreased malondialdehyde (MDA) and nicotinamide adenine dinucleotide phosphate oxidase (NADPH oxidase) levels and restoration of reduced glutathione (GSH) content, as well as suppression of the transforming growth factor-β (TGF-β)/suppressor of mothers against decapentaplegic (Smad) signaling pathway. PIO mitigates TAA-induced hepatic fibrosis, potentially through AMPK activation and subsequent suppression of the TGF-β/Smad signaling pathway, highlighting its potential as a promising antifibrotic agent.",
+      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
+      "date": "2026-09-15",
+      "authors": [
+        "Hawary OA",
+        "Wadie W",
+        "El-Said YAM",
+        "Hassan OF"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s00210-026-05903-8",
+      "journal_tier": 2,
+      "impact": 3.2,
+      "section": "immuno",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42736381",
+      "title": "Montelukast attenuates intestinal mucositis induced by 5-fluorouracil via upregulation of HO-1 and PPAR-γ and suppression of TLR4/NF-κB/HMGB1 and caspase-3 pathways.",
+      "abstract": "5-Fluorouracil (5-FU) is a commonly employed chemotherapeutic drug, but its clinical utility is limited by intestinal toxicity. Montelukast (MTK), a CysLTR1 antagonist, is known for its antioxidative and anti-inflammatory actions. However, its protective potential against 5-FU-induced intestinal injury remains inadequately defined. This investigation assessed whether MTK could mitigate 5-FU-induced intestinal mucositis and explored the signals involved. Rats were divided into four groups: control, MTK (10 mg/kg/day, orally), 5-FU (100 mg/kg/day, intraperitoneally), and MTK + 5-FU. Administration of 5-FU produced pronounced intestinal mucosal injury, including villus shortening, crypt destruction, goblet cell loss, and heightened inflammatory infiltration. These pathological changes were associated with suppression of the PPAR-γ and HO-1 antioxidant enzyme, activation of TLR4/NF-κB/HMGB1 signaling, and cleaved caspase-3 activity. MTK treatment significantly ameliorated histopathological alterations, restored mucosal architecture, enhanced HO-1 and PPAR-γ expression, suppressed TLR4/NF-κB/HMGB1 activation, and attenuated apoptosis. In conclusion, MTK protects against 5-FU-induced mucositis, serving as a promising adjunctive treatment for chemotherapy-induced toxicity.",
+      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
+      "date": "2026-09-15",
+      "authors": [
+        "Y M Ali R",
+        "Taha AF",
+        "H AM",
+        "Hassanein EHM"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s00210-026-05884-8",
+      "journal_tier": 2,
+      "impact": 3.2,
+      "section": "onko",
       "score": 60.0,
       "score_parts": {
         "journal": 60,
@@ -948,331 +2415,6 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42734825",
-      "title": "Optimization and characterization of lipid-based nanocarriers for intranasal delivery in amyotrophic lateral sclerosis.",
-      "abstract": "Amyotrophic lateral sclerosis is a progressive neurodegenerative disorder for which effective brain delivery of therapeutics remains challenging. Riluzole, a Biopharmaceutics Classification System class II drug used in the management of amyotrophic lateral sclerosis, exhibits low aqueous solubility and undergoes first-pass metabolism, which may limit its bioavailability. The present study aimed to develop and optimize riluzole-loaded nanostructured lipid carriers for intranasal delivery. Riluzole-loaded nanostructured lipid carriers were prepared by the melt-emulsification method and optimized using a four-factor, three-level Box-Behnken design. The effects of lipid composition ratio, surfactant concentration, sonication time, and stirring time on particle size, polydispersity index, and encapsulation efficiency were evaluated. The optimized formulation showed a particle size of 98.43 nm, a polydispersity index of 0.3, a zeta potential of -6.22 mV, an encapsulation efficiency of 89.4%, and a drug loading of 8.94%. Transmission electron microscopy demonstrated spherical nanoparticles, while differential scanning calorimetry and X-ray diffraction findings suggested reduced crystallinity and amorphization of riluzole within the lipid matrix. Fourier transform infrared spectroscopy indicated no significant drug-excipient incompatibility. The optimized formulation exhibited sustained drug release, with approximately 84% drug release over 24 h, and remained stable for 60 days at room temperature. These findings suggest that riluzole-loaded nanostructured lipid carriers are a promising lipid-based nanocarrier system for intranasal delivery and further biological evaluation for nose-to-brain drug delivery in amyotrophic lateral sclerosis.",
-      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
-      "date": "2026-09-14",
-      "authors": [
-        "P Padhiyar D",
-        "Butani S",
-        "Patel RJ"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00210-026-05866-w",
-      "journal_tier": 2,
-      "impact": 3.2,
-      "section": "kardiyometabolik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42734664",
-      "title": "Nucleus accumbens CD81 regulates methamphetamine-induced locomotor activity, conditioned reward, and reinstatement in male and female rats.",
-      "abstract": "BACKGROUND: Methamphetamine (METH) use disorder is characterized by high rates of relapse and persistent neurobehavioral alterations. CD81, a member of the tetraspanin family, has been implicated in synaptic plasticity and addiction-related behaviors, but its role in METH-induced behavioral adaptations remains unknown. AIMS: To determine whether METH-induced conditioned reward is associated with alterations in endogenous nucleus accumbens (NAcc) CD81 expression and to examine the effects of viral-mediated CD81 overexpression on METH-induced behavioral responses. METHODS: Male and female rats underwent METH-induced conditioned place preference (CPP), after which endogenous CD81 mRNA expression was quantified in the NAcc. Based on these findings, separate cohorts received bilateral intra-accumbal injections of either control or CD81-expressing lentiviral vectors. The effects of CD81 overexpression on acute METH-induced locomotor activity, CPP acquisition, and METH-primed reinstatement following extinction were subsequently evaluated. RESULTS: METH-conditioned animals exhibited significantly reduced accumbal CD81 mRNA expression, and endogenous CD81 levels were negatively correlated with CPP acquisition. Viral-mediated CD81 overexpression significantly attenuated METH-induced locomotor activation, reduced CPP acquisition, and suppressed METH-primed reinstatement following extinction. Accumbal CD81 mRNA expression was negatively correlated with locomotor activity, CPP magnitude, and reinstatement responses. Although females exhibited greater METH-induced locomotor activity than males, no significant sex differences were observed in CPP acquisition, reinstatement, or the behavioral effects of CD81 overexpression. CONCLUSIONS: Reduced endogenous CD81 expression in the NAcc is associated with METH reward learning, whereas restoration of CD81 expression attenuates METH-induced locomotor, rewarding, and relapse-like behaviors. These findings identify CD81 as a previously unrecognized regulator of METH-induced neurobehavioral adaptations and support a role for accumbal CD81 in addiction-related neuroplasticity.",
-      "journal": "Psychopharmacology (Berl)",
-      "date": "2026-09-14",
-      "authors": [
-        "Bahi A",
-        "Dreyer JL"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00213-026-07167-9",
-      "journal_tier": 2,
-      "impact": 3.5,
-      "section": "diger",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42734663",
-      "title": "Anandamide blocks spatial memory reconsolidation in male rats through a CB1 receptor dependent mechanism.",
-      "abstract": "BACKGROUND: Memory reconsolidation is a process through which previously consolidated memories become temporarily labile after retrieval and require molecular mechanisms, including protein synthesis and degradation, to be stabilized again. The endocannabinoid system, particularly cannabinoid receptors CB1 and CB2, has been implicated in several forms of learning and memory. However, the specific role of CB1 receptors in the regulation of protein turnover during spatial memory reconsolidation remains incompletely understood. Therefore, this study investigated whether cannabinoid receptor activation in the hippocampal CA1 region influences the reconsolidation of spatial memory. METHODS: Spatial memory was evaluated using the Morris water maze task. After training, animals underwent an early non-reinforced test session 24 hours later to reactivate the previously acquired spatial memory. Immediately after this retrieval session, anandamide (AEA) or oleamide, a CB1 receptor agonist, was bilaterally infused into the CA1 region of the hippocampus. To investigate the involvement of CB1 receptors, some animals received a CB1 receptor antagonist together with the agonists. Additional experiments evaluated whether the amnesic effects of oleamide were dependent on protein degradation mechanisms and whether activation of CB1 receptors could modulate the effects produced by inhibition of protein synthesis. RESULTS: Bilateral administration of AEA and oleamide into the hippocampal CA1 region immediately after memory retrieval impaired the reconsolidation of spatial memory, producing anterograde amnesia. Oleamide primarily affected the early long-term phase of spatial memory, whereas AEA impaired later phases of memory. The disruptive effect on memory reconsolidation was prevented by co-administration of a CB1 receptor antagonist, indicating that the observed effects were mediated by CB1 receptor activation. Furthermore, the amnesic effect induced by oleamide was dependent on protein degradation mechanisms. Conversely, the impairment caused by inhibition of protein synthesis could be reversed through inverse activation of CB1 receptors. These findings indicate an interaction between CB1 receptor signaling and the molecular mechanisms responsible for protein turnover during memory reconsolidation. CONCLUSION: The findings demonstrate that CB1 cannabinoid receptors in the hippocampal CA1 region play a direct role in the reconsolidation of spatial memory. Activation of these receptors can interfere with memory stabilization after retrieval by modulating protein degradation and protein synthesis mechanisms. Therefore, the endocannabinoid system, particularly CB1 receptor signaling, appears to be an important regulator of the molecular processes underlying the persistence and modification of long-term spatial memories.",
-      "journal": "Psychopharmacology (Berl)",
-      "date": "2026-09-14",
-      "authors": [
-        "Queiroz R",
-        "Marchiori C",
-        "Rosas HK",
-        "Medeiros ISS",
-        "Ferreira HQ",
-        "Bonini JS",
-        "da Silva WC"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00213-026-07161-1",
-      "journal_tier": 2,
-      "impact": 3.5,
-      "section": "kesif",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42733212",
-      "title": "Effect of dapagliflozin on electrocardiographic arrhythmic markers in patients with type 2 diabetes mellitus.",
-      "abstract": "AIMS: Arrhythmic risk is elevated in type 2 diabetes mellitus (T2DM) partly because of abnormal ventricular repolarization. Sodium-glucose cotransporter-2 (SGLT-2) inhibitors may favourably modify electrophysiological properties beyond their glycaemic effects. We aimed to evaluate the association between dapagliflozin initiation and changes in ECG-derived arrhythmic markers in SGLT-2 inhibitor-naive patients with T2DM. METHODS: In this prospective, non-randomized, controlled observational study, 700 T2DM patients (350 dapagliflozin, 350 control) were enrolled between June 2023 and February 2026 at a single tertiary-care center. Dapagliflozin was initiated as part of routine clinical care; controls continued existing antidiabetic therapy. Twelve-lead ECGs and echocardiograms were obtained at baseline and after 3 months. Primary outcomes were changes in QT interval, QTc, QT dispersion, Tp-e interval, Tp-e/QT ratio and Tp-e/QTc ratio. All 700 enrolled patients completed 3-month follow-up. RESULTS: At 3 months, the dapagliflozin group showed significant reductions in QT (-8.8 ms), QTc (-10.1 ms), QTd (-5.1 ms), Tp-e (-6.2 ms), Tp-e/QT (-0.012) and Tp-e/QTc (-0.010) (all p < .001), whereas no clinically meaningful changes occurred in controls. Between-group delta comparisons confirmed significantly greater reductions with dapagliflozin (all p < .001; Cohen's d: 0.48-1.08). Reduction in Tp-e correlated weakly with HbA1c improvement (r = -0.145, p = .037, r2 ≈ 2%); the Tp-e/QT vs. HbA1c correlation did not reach statistical significance (r = -0.147, p = .086). Left ventricular ejection fraction (LVEF) improved modestly (+0.8%, p = .003), and left atrial diameter decreased (-0.6 mm, p < .001). CONCLUSION: Three months of dapagliflozin therapy was associated with improvements in multiple ECG-based arrhythmic markers in patients T2DM.",
-      "journal": "Br J Clin Pharmacol",
-      "date": "2026-09-13",
-      "authors": [
-        "Traş G",
-        "Polat F",
-        "Saday Bozkurt M",
-        "Altıntaş İ"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1002/bcp.70823",
-      "journal_tier": 2,
-      "impact": 3.5,
-      "section": "kardiyometabolik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42733100",
-      "title": "Topiramate effects on ethanol and sucrose binge-like intake, anxiety- and compulsive-like behavior in non-dependent male and female C57BL/6J mice.",
-      "abstract": "RATIONALE: Repetitive binge episodes are early-stage patterns in the addiction cycle associated with elevated anxiety and compulsive traits. Despite their high comorbidity and the growing off-label use of topiramate for binge-related disorders, its effects in non-dependent individuals remain poorly characterized and studies systematically comparing both sexes under identical experimental conditions remain scarce. OBJECTIVES: To evaluate the effects of topiramate on ethanol (EtOH) and sucrose binge-like intake, anxiety- and compulsive-like responses in non-dependent male and female C57BL/6J mice. METHODS: EtOH (20% v/v) and sucrose (10% w/v) binge-like intake were assessed in a standard Drinking in the Dark (DID) procedure following intraperitoneal topiramate (0, 30, or 60 mg/kg). Blood EtOH concentrations (BECs) were determined after EtOH DID. Anxiety-like and compulsive-like behaviors were assessed using the Elevated Plus Maze (EPM) and Marble Burying (MB) test. RESULTS: Topiramate significantly reduced EtOH binge-like intake at 60 mg/kg and BECs at 30 and 60 mg/kg, while males consumed more EtOH and showed higher BECs than females. Topiramate did not significantly alter sucrose binge-like intake, with females consuming less sucrose than males. Topiramate significantly reduced anxiety-like behavior in the EPM regardless of sex. In the MB test, the topiramate effect differed significantly across sexes, although these results most likely reflect a floor effect in vehicle-treated females. CONCLUSIONS: These findings provide preliminary evidence that topiramate reduces EtOH binge-like intake, anxiety- and compulsive-like behavior in non-dependent mice with a non-significant attenuation of sucrose binge-like intake. Further research is warranted to establish the translational relevance and to evaluate the preventive potential of topiramate in binge-related disorders.",
-      "journal": "Psychopharmacology (Berl)",
-      "date": "2026-09-14",
-      "authors": [
-        "Rodríguez-Ortega E",
-        "Cubero I"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00213-026-07166-w",
-      "journal_tier": 2,
-      "impact": 3.5,
-      "section": "noro",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42733019",
-      "title": "Biochanin A ameliorates vancomycin-induced acute kidney injury via modulation of the JAK2/STAT-3/GPX4 axis.",
-      "abstract": "Vancomycin (VAN) is a commonly used antibiotic for the treatment of severe Gram-positive bacterial infections. However, its major dose-limiting adverse effect remains nephrotoxicity. Biochanin A (BCA) is a natural isoflavone that has been reported to have antioxidant and anti-inflammatory actions. In this work, we evaluated the nephroprotective efficacy of BCA against VAN-induced acute kidney injury (VAN-AKI). Thirty-six male Swiss mice were allocated into six experimental groups (n = 6/group): control, vehicle, BCA (40 mg/kg), VAN (400 mg/kg), VAN + BCA (20 mg/kg), and VAN + BCA (40 mg/kg). Biochanin A (20 or 40 mg/kg, i.p.) was given 30 min before VAN (400 mg/kg, i.p.). Except for the control group, all treatments were given once a day for 7 consecutive days. Biomarkers of renal function, indices of oxidative stress, inflammatory cytokines, histological changes, and immunohistochemistry expression of JAK2, STAT3, GPX4, and caspase-3 were investigated. Administration of VAN induced substantial increases in blood urea nitrogen (45.48 ± 8.13), serum creatinine (1.39 ± 0.19), cystatin C (2.68 ± 0.39), and KIM-1 (2.60 ± 0.52). These values were significantly attenuated by co-treatment with BCA (20 and 40 mg/kg). VAN also produced oxidative stress, inflammatory responses, histopathological damage, elevated expression of JAK2, STAT3, and caspase-3, and decreased expression of GPX4. BCA significantly decreased kidney damage, restored redox homeostasis, reduced inflammatory cytokines levels, and apoptosis, suppressed JAK2/STAT3 activation and upregulated GPX4 expression. BCA reduced VAN-induced kidney injury, oxidative stress, inflammation, and apoptosis-associated signaling in mice, indicating that the nephroprotective action of BCA may be mediated by JAK2/STAT-3/GPX4 signaling pathways. However, more molecular and functional confirmation is needed.",
-      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
-      "date": "2026-09-14",
-      "authors": [
-        "Alharbi RS",
-        "Shaik RA",
-        "Alzahrani AH",
-        "Almukadi H"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00210-026-05891-9",
-      "journal_tier": 2,
-      "impact": 3.2,
-      "section": "onko",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42733018",
-      "title": "Influence of fluoxetine on the gastric healing process: experimental evidence of sexual dimorphism.",
-      "abstract": "Previous studies have demonstrated that fluoxetine, a selective serotonin reuptake inhibitor, exerts gastroprotective effects in models of acute gastric ulceration. However, its ability to promote the healing of established gastric ulcers remains unclear. This study investigated the effects of fluoxetine on gastric ulcer healing and potential sex-related differences in this response in rats. Gastric ulcers were induced in male and female rats by acetic acid instillation. Two days after ulcer induction, animals received vehicle (water, 1 mL/kg), omeprazole (20 mg/kg), or fluoxetine (0.17 or 1.7 mg/kg) orally once daily for seven days. Biochemical, histological, and histochemical analyses were performed. In addition, the antisecretory activity of fluoxetine was measured in another cohort of rats of both sexes using the pylorus-ligation method. Treatment with fluoxetine (0.17 and 1.7 mg/kg) significantly reduced ulcer area in male rats but not in females compared with the vehicle-treated group. In females, acetic acid instillation decreased glutathione (GSH) levels and increased malondialdehyde (MDA) levels and myeloperoxidase (MPO) activity, regardless of treatment. In contrast, ulcerated male rats treated with vehicle showed increased MPO and N-acetyl-β-D-glucosaminidase (NAG) activities, whereas fluoxetine reduced both parameters. Fluoxetine also reduced mast cell density and increased mucin content in the gastric mucosa of male rats. Furthermore, the tested doses did not affect gastric acidity, volume, or peptic activity in pylorus-ligated rats. These findings demonstrate that fluoxetine promotes gastric ulcer healing in male rats, possibly by enhancing mucosal barrier defenses and attenuating inflammation, while no healing effect was observed in females, suggesting a sex-dependent response.",
-      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
-      "date": "2026-09-14",
-      "authors": [
-        "de Queiroz E Silva TF",
-        "Longo B",
-        "da Silva LM",
-        "Venzon L",
-        "Dos Santos Nilz AC",
-        "França TCS",
-        "Nunes RKS",
-        "Cury BJ",
-        "Cazarin CA",
-        "da Silva LM"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00210-026-05894-6",
-      "journal_tier": 2,
-      "impact": 3.2,
-      "section": "noro",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42733017",
-      "title": "Real-world pharmacovigilance signals of antibody-drug conjugates: reporting patterns by payload, linker, target, and sex in FAERS.",
-      "abstract": "Antibody-drug conjugates (ADCs) have transformed cancer therapy by delivering potent cytotoxic agents directly to tumor cells, yet their complex structure creates unique safety challenges. This retrospective pharmacovigilance study utilized the FDA Adverse Event Reporting System (FAERS) database from 2004Q1 to 2025Q4 to characterize adverse-event reporting patterns of 15 approved ADCs across 100,536 ADC-PT-report records derived from 34,041 unique FAERS reports. Using disproportionality algorithms, we identified heterogeneous adverse-event reporting patterns across ADCs grouped by payload, linker, and antibody target. Signals for peripheral neuropathy were frequently observed among microtubule inhibitor-based ADCs, whereas ILD signals were prominent among deruxtecan-containing ADCs. Cardiac-event signals were also observed among HER2-targeted ADCs, consistent with established HER2-related safety concerns. Notably, these associations should be interpreted as disproportionality signals generating mechanistic hypotheses rather than causal inferences. Sex-stratified analyses identified differences in reporting odds between female and male reports for several hematological and neuropathic events. These descriptive patterns may reflect differences in indication, ADC use, patient characteristics, and reporting practices rather than biological susceptibility. Time-to-onset was generally early among eligible reports, whereas T-DXd-associated ILD showed wide temporal dispersion (median, 62 days; Q1, 14.25 days; Q3, 166 days), with 22.8% of eligible reports occurring more than 180 days after treatment initiation. These findings identify reporting patterns that are consistent with established ADC pharmacology and generate hypotheses regarding possible structural correlates of adverse-event reporting. However, these associations do not establish independent effects of individual structural components or causal mechanisms. These findings provide a compelling rationale for future prospective studies and real-world cohort validation to explore tailored safety management in ADC therapies.",
-      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
-      "date": "2026-09-14",
-      "authors": [
-        "Chen Z",
-        "Song J",
-        "Chen M",
-        "Zhu C",
-        "Li L",
-        "Lv Z"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00210-026-05898-2",
-      "journal_tier": 2,
-      "impact": 3.2,
-      "section": "klinik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42733016",
-      "title": "Cocaine, cannabis, champagne-pharmacological and toxicological references in the lyrics of the German rapper Haftbefehl: a content analysis.",
-      "abstract": "In popular music, references to (illicit) drugs are widespread and may influence attitudes and behaviors in relation to substance use and abuse, especially among younger generations. While substance-related content in international pop and rap music has been studied extensively, the German rap scene has received comparatively little attention thus far. This study aimed to systematically analyze the lyrics of one of the most well-known German rappers, Haftbefehl (literal translation: \"arrest warrant\"), regarding pharmacological and toxicological references to psychotropic substances. To this end, a content analysis was performed on the lyrics of the artist's seven studio albums released between 2010 and 2022, comprising a total of 121 songs. The lyrics were obtained from the online platform genius.com. Both explicit and contextual references to psychotropic substances were recorded and assigned to pharmacological substance classes. Also, slang terminology and contextual references to drug consumption or trafficking were documented. Descriptive statistical methods were applied to summarize the distribution of references to psychotropic substances. In addition, inferential statistical techniques were used exploratively for cross-album comparisons. A clinical trial number is not applicable. Substance-related references were highly prevalent in Haftbefehl's lyrics. Cocaine was the most frequently mentioned substance (being referenced in 82.6% of songs), followed by cannabis (52.9%) and alcohol (38.0%). References to μ-opioid receptor agonists (9.1%) and amphetamine-type substances (7.4%) were less prominent, while there were no references to benzodiazepines. Also, it was noted that Haftbefehl's lyrics contained a large variety of slang terms, particularly for cocaine. In conclusion, psychotropic substances constitute a prominent stylistic element in Haftbefehl's oeuvre. These findings point to the importance of rap lyrics as a cultural medium that may reflect and shape the approach to drug-related content within music-related youth culture.",
-      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
-      "date": "2026-09-14",
-      "authors": [
-        "Spark C",
-        "Krichevsky B",
-        "Schröder S",
-        "Groh A",
-        "Schulze Westhoff M",
-        "Klietz M",
-        "Greten S",
-        "Stoetzer C",
-        "Jäger DB",
-        "Heck J"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00210-026-05904-7",
-      "journal_tier": 2,
-      "impact": 3.2,
-      "section": "noro",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42733015",
-      "title": "Kaempferol conjugated selenium nanoparticles mitigate kidney injury from rhabdomyolysis through antioxidant and anti-inflammatory actions via Nrf2/NF-κb pathway.",
-      "abstract": "Acute kidney injury (AKI) is an acute clinical syndrome accompanied by a high morbidity and mortality, requiring effective therapeutic techniques. A recent study investigated the effects of kaempferol-coated selenium nanoparticles (KMP-SeNPs) in the prevention of glycerol-induced acute kidney injury (AKI) in rats via Nrf2/NF-κB signaling pathways. Initially, KMP-SeNPs were prepared and characterized, with spherical nanoparticles (94.8 nm; - 67.5 mV). A total of thirty-five rats were randomly assigned into a control group, AKI group, AKI&KMP (AKI treated with kaempferol) group, AKI&Na₂SeO₃ treatment group and an AKI&KMP-SeNPs treatment groups. AKI was induced by glycerol injection on day 20, and all treatments (21 days in total). Parameters assessed included renal function, oxidative stress, inflammatory and apoptotic markers (such as interleukin-6 (IL-6), tumor necrosis factor alpha (TNF-α), nuclear factor kappa B (NF-κB)), and immunohistochemistry for Nrf2 and FOXP3. Glycerol led to significant AKI characterized by increased renal injury, oxidative stress, inflammation and apoptosis, with reduced antioxidants and Bcl-2. KMP-SeNPs (normalized all renal markers, balanced redox status, inhibited NF-κB-driven inflammation (58-65% reduction in TNF-α expression; 65% IL-6 and IL1β) apoptosis markers (~ 60% reduction in Bax and caspase-3 expression; 94% Bcl-2 restoration), preserved tissue structure compared to KMP and Na₂SeO₃. Immunohistochemistry revealed restoration of Nrf2 and FOXP3, signifying potentiated antioxidant and immune regulation. KMP-SeNPs was confirmed to change molecular profiles toward protection based on principal component analysis. KMP-SeNPs may be a novel nanomedicine for the treatment of rhabdomyolysis-induced AKI.",
-      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
-      "date": "2026-09-14",
-      "authors": [
-        "El-Fattah WA",
-        "Guesmi A",
-        "Hamadi NB",
-        "Khames A",
-        "Alam-ElDein KM",
-        "Hafez HS",
-        "Elshaarawy RFM",
-        "Gadelmawla MHA"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00210-026-05890-w",
-      "journal_tier": 2,
-      "impact": 3.2,
-      "section": "onko",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42733014",
-      "title": "Formulation and Box-Behnken optimization of roflumilast loaded ultradeformable nanotransethosomal gel: physicochemical characterization, stability, dermal permeation, and antipsoriatic efficacy in an imiquimod-induced psoriasis model.",
-      "abstract": "This study aimed to formulate and optimise a roflumilast loaded ultradeformable transethosomal gel for enhanced topical delivery in psoriasis management, addressing limitations of conventional topical preparations through an advanced vesicular drug delivery approach. Ultradeformable transethosomes were prepared by the ethanol injection technique and optimised using a Box-Behnken experimental design. Independent variables selected were Phospholipon 90G (400-500 mg), Poloxamer 188 (1-3% w/v), and ethanol (20-40% v/v). Dependent responses were vesicle size (Y1), entrapment efficiency (Y2), and zeta potential (Y3), targeting size minimisation, maximum drug entrapment, and optimal negative surface charge respectively. The optimised formulation was incorporated into a Sepineo P600 gel matrix and evaluated for physicochemical properties, in vitro drug release, ex vivo skin permeation, accelerated stability, dermal safety, and in vivo antipsoriatic efficacy using an imiquimod-induced psoriasis model in Wistar rats. Optimised formulation F11, comprising Phospholipon 90G (450 mg), Poloxamer 188 (2% w/v), and ethanol (30% v/v), exhibited vesicle size of 101.4 ± 2.9 nm, entrapment efficiency of 74.38 ± 1.2%, and zeta potential of - 30.21 ± 1.3 mV. Transmission electron microscopy confirmed spherical unilamellar vesicles. Transethosomal gel TG1 demonstrated cumulative drug release of 94.78% and skin permeation of 89.67% over 12 h, surpassing conventional gel. In vivo studies revealed significant PASI score reduction (3.50 ± 0.52 on day 7), enhanced inflammatory biomarker suppression, and improved epidermal repair versus pimecrolimus cream (4.50 ± 0.66, p < 0.01). The optimised roflumilast-loaded ultradeformable transethosomal gel demonstrated improved skin penetration, sustained drug release, and superior preclinical antipsoriatic activity. Further clinical studies are warranted to establish long-term safety and therapeutic efficacy.",
-      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
-      "date": "2026-09-14",
-      "authors": [
-        "Andhale V",
-        "Mankar S",
-        "Andhale A",
-        "Ghogare R",
-        "Siddheshwar S"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00210-026-05896-4",
-      "journal_tier": 2,
-      "impact": 3.2,
-      "section": "immuno",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
       "pmid": "42736533",
       "title": "Apixaban Use Before Kidney Transplantation: Is Reversal Necessary?",
       "abstract": "UNLABELLED: The use of apixaban prior to kidney transplantation is on the rise. However, optimal perioperative management remains uncertain, particularly regarding the need for preoperative reversal with four-factor prothrombin complex concentrate (4F-PCC). Prior reports suggest clinically relevant bleeding without reversal, but potential thrombotic consequences of prophylactic 4F-PCC warrant caution. We hypothesized that withholding preoperative 4F-PCC in patients taking apixaban before kidney transplantation would not increase early postoperative surgical-bed bleeding. METHODS: This retrospective, two-center study included adult kidney transplant recipients (KTRs) from January 2019 to September 2025 who had taken apixaban within 48 h before surgery. Patients were stratified by receipt versus nonreceipt of preoperative 4F-PCC. The primary endpoint was surgical-bed bleeding within 3 days of transplant. A one-sided noninferiority test (margin of 15%) was used for the primary endpoint. RESULTS: Fifty KTRs were included, and 14 (28%) received preoperative 4f-PCC and 36 (72%) did not. The median time since the last known apixaban dose was 21 h (interquartile range [IQR], 16-24 h) before transplant. Surgical-bed bleeding occurred in 7.1% in the preoperative 4F-PCC cohort and in 5.6% of the no preoperative 4F-PCC cohort (differences, 1.6%; upper one-sided confidence interval [CI], 21.5%; p = 0.11), suggesting similar event rates but not confirming noninferiority. No significant differences were observed between groups in transfusion requirements, delayed graft function, kidney function, venous thromboembolism (1 in the reversal group; 0 in the non-reversal group), or reoperation. Two deaths occurred in the reversal group. CONCLUSIONS: Withholding preoperative 4F-PCC in apixaban-treated KTR appears safe, with surgical-bed bleeding rates comparable to those in patients who received preoperative 4F-PCC. Findings support individualized rather than routine preoperative reversal strategies to balance bleeding and thrombotic risks.",
@@ -1333,70 +2475,65 @@
       "journal_tier": 3,
       "impact": 3.0,
       "section": "onko",
-      "score": 47.0,
+      "score": 45.0,
       "score_parts": {
         "journal": 35,
         "pubtype": 10,
-        "recency": 2.0
+        "recency": 0.0
       },
       "tier": 3,
       "abstract_tr": ""
     },
     {
-      "pmid": "42736524",
-      "title": "Rutin loaded nanosponges for treatment of peptic ulcer: in silico, pharmacodynamic and pharmacokinetic studies.",
-      "abstract": "Peptic ulcer disease (PUD) is a multifactorial condition influenced by oxidative stress, Helicobacter pylori infection and excessive gastric acid secretion. Rutin (RTN), a plant-derived flavonoid with antioxidant, anti-inflammatory and proton pump inhibition properties, offers therapeutic promise but suffers from poor aqueous solubility and low bioavailability. To overcome these limitations, RTN-loaded β-cyclodextrin-based nanosponges (RTN-NS₄) were developed and extensively characterized. Phase solubility studies revealed AL type of curve. DSC and PXRD indicated enhanced amorphization while FTIR confirmed successful drug encapsulation. SEM imaging revealed flaky, nanoscale morphology. RTN-NS₄ exhibited a 25.4-fold increase in saturation solubility compared to RTN. Antioxidant potential, assessed by DPPH assay, showed significantly higher antioxidant activity for RTN-NS₄ of 87.91% at 500 μg/ml, indicating enhanced ROS-scavenging ability. Molecular docking studies further confirmed RTN's strong binding affinity towards H+/K+-ATPase (glide energy of -62.822 kcal/mol) showing enhanced binding affinity and complex stability. In comparison, vonoprazon showed glide energy of -58.450 kcal/mol. These studies also confirmed that RTN has greater binding with NS (glide energy:-37.924 kcal/mol) than β-CD (glide energy:-33.034 kcal/mol). RTN-NS₄ achieved 42 ± 7.23% ulcer inhibition in ethanol-induced gastric ulcers in Wistar rats, surpassing RTN (22.17 ± 6.53%) but 18% lower than omeprazole (60.16 ± 8.23%). Histological studies confirmed moderate mucosal protection and reduced inflammation in RTN-NS₄-treated rats. These results underscore RTN-NS₄ as promising nanophyto-therapeutic system offering synergistic antioxidant, anti-inflammatory and PPI activity effects for effective ulcer management without the concomitant side effects of PPIs.",
-      "journal": "AAPS PharmSciTech",
+      "pmid": "42744225",
+      "title": "Association between cognitive coping therapy coupled with paroxetine and clinical outcomes in patients with generalized anxiety disorder: A retrospective study.",
+      "abstract": "OBJECTIVE: To compare the clinical outcomes of patients with generalized anxiety disorder (GAD) receiving cognitive coping therapy (CCT) combined with paroxetine with those receiving paroxetine alone, with a particular focus on anxiety status and headache severity. METHODS: Clinical data of 100 patients with GAD were retrospectively analyzed. Patients were categorized based on treatment regimens as follows: 43 in the control group (paroxetine alone) and 57 in the study group (CCT and paroxetine). Clinical efficacy, anxiety status, headache severity, sleep quality, coping mechanism, plasma neurotransmitter levels, and quality of life were compared between the groups. RESULTS: The study group (96.49%) exhibited higher overall effectiveness than the control group (79.07%) (p < 0.05). After four weeks of treatment, the Hamilton Anxiety Scale, Zung Self-Rating Anxiety Scale, Visual Analog Score, Headache Impact Test-6, Pittsburgh Sleep Quality Index scores, avoidance and submission scores, plasma dopamine, and plasma norepinephrine concentrations were significantly reduced in both groups and were much lower in the study group, while plasma 5-hydroxytryptamine in the study group was higher than that before treatment and higher than that in the control group after post-treatment (p < 0.05). The Confrontation and Generic Quality of Life Inventory-74 scores demonstrated notable increases in both groups after treatment and were significantly higher in the study group (p < 0.05). CONCLUSION: In this retrospective study, compared with paroxetine alone, cognitive CCT combined with paroxetine was associated with greater improvements in anxiety symptoms, headache severity, sleep quality, coping styles, plasma neurotransmitter levels, and quality of life among patients with GAD.",
+      "journal": "Pharmacol Biochem Behav",
       "date": "2026-09-15",
       "authors": [
-        "Rao MR",
-        "Bagwan BA"
+        "Liao G",
+        "Li J",
+        "Liu S"
       ],
       "pubtypes": [
         "Journal Article"
       ],
-      "doi": "10.1208/s12249-026-03506-3",
+      "doi": "10.1016/j.pbb.2026.174269",
       "journal_tier": 3,
-      "impact": 3.0,
+      "impact": 3.3,
+      "section": "noro",
+      "score": 35.0,
+      "score_parts": {
+        "journal": 35,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42742947",
+      "title": "The Influence of Human Plasma on Drug-Metabolizing Enzymes: An Exploratory Study.",
+      "abstract": "1. Endogenous factors can introduce significant interindividual variability in in vitro assessments of drug metabolism and drug-drug interactions.2. The current study evaluated the effects of plasma samples from 12 healthy, non-medicated subjects on the activities of cytochrome P450 (CYP) enzymes.3. The inhibitory effects of pooled plasma across a broader concentration range (3-100%) were assessed on CYP3A activity.4. To further investigate kinetic differences, CYP3A-mediated reactions conducted in plasma were compared with those performed in human serum albumin (HSA) solution.5. Plasma increased the in vitro activities of CYP1A2, CYP2C8, and CYP2C19, while decreasing the activities of CYP3A, and CES1. Interindividual variability was observed for all tested drug metabolic enzymes (DMEs), except CYP3A.6. The inhibitory effect of plasma on CYP3A activity was concentration-dependent, with lower reaction activity observed at higher plasma concentrations.7. Notably, inhibition of CYP3A activity by undiluted plasma and 52 mg/mL HSA buffer was nearly complete. Although both HSA and pooled plasma inhibited in vitro CYP3A4 activity, their effects on kinetic parameters differed.8. These findings identify plasma as a potentially important endogenous modulator of apparent in vitro DME activities and underscore the need for further mechanistic investigation.",
+      "journal": "Xenobiotica",
+      "date": "2026-09-15",
+      "authors": [
+        "Zhang Q",
+        "Greenblatt DJ",
+        "Markowitz JS"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1080/00498254.2026.2734768",
+      "journal_tier": 3,
+      "impact": 1.5,
       "section": "klinik",
-      "score": 37.0,
+      "score": 35.0,
       "score_parts": {
         "journal": 35,
         "pubtype": 0,
-        "recency": 2.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42736494",
-      "title": "Nanovesicular Spanlastics Thermosensitive Gel for the Ocular Delivery of Voriconazole: Development, Ex Vivo Transcorneal Permeability, and In Vivo Evaluation in a Rabbit Model of Fungal Keratitis.",
-      "abstract": "Fungal keratitis remains a leading cause of corneal blindness and eye loss worldwide. Conventional antifungal preparations such as those of voriconazole (VCZ) are often limited by rapid precorneal drug loss and poor corneal penetration, leading to suboptimal therapeutic outcomes. This study aimed to address these limitations and improve VCZ antifungal efficacy by incorporating it into nanovesicular spanlastics embedded within a thermosensitive Pluronic F127 gel. VCZ-loaded spanlastics were optimized using a multilevel categoric design and evaluated for VCZ entrapment efficiency (EE%), vesicle size (VS), polydispersity index (PDI), and zeta potential (ZP). The optimized formulation was embedded in Pluronic F127 gel, which was evaluated for gelation temperature, rheological properties, drug release, in vitro antifungal efficacy, ex vivo transcorneal permeability, and in vivo efficacy in a rabbit fungal keratitis (FK) model. The optimized formulation exhibited EE% of 95.91 ± 0.03%, VS of 91.32 ± 0.60 nm, PDI of 0.33 ± 0.03, and ZP of -34.90 ± 1.76 mV. VCZ spanlastics gel exhibited suitable gelation temperature, pH value, and spreadability. It also sustained VCZ release, improved its antifungal efficacy against A. flavus, and showed approximately five-fold higher transcorneal permeability compared with VCZ suspension. In vivo, the VCZ spanlastics gel demonstrated marked resolution of conjunctival redness absence of periocular discharge, and lower levels of the inflammatory marker CD8 compared with the VCZ suspension. These findings confirm the ability of VCZ spanlastics gel to overcome its limitations and highlight its promising potential as an effective topical ocular delivery system for the management of fungal keratitis.",
-      "journal": "AAPS PharmSciTech",
-      "date": "2026-09-15",
-      "authors": [
-        "Soliman GM",
-        "Salama A",
-        "Qushawy M",
-        "Arafa MF",
-        "Elsherbiny N",
-        "Hetta HF",
-        "Badran MM",
-        "Elsaed WM",
-        "Ramadan YN"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1208/s12249-026-03511-6",
-      "journal_tier": 3,
-      "impact": 3.0,
-      "section": "immuno",
-      "score": 37.0,
-      "score_parts": {
-        "journal": 35,
-        "pubtype": 0,
-        "recency": 2.0
+        "recency": 0.0
       },
       "tier": 3,
       "abstract_tr": ""
@@ -1494,6 +2631,65 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42736524",
+      "title": "Rutin loaded nanosponges for treatment of peptic ulcer: in silico, pharmacodynamic and pharmacokinetic studies.",
+      "abstract": "Peptic ulcer disease (PUD) is a multifactorial condition influenced by oxidative stress, Helicobacter pylori infection and excessive gastric acid secretion. Rutin (RTN), a plant-derived flavonoid with antioxidant, anti-inflammatory and proton pump inhibition properties, offers therapeutic promise but suffers from poor aqueous solubility and low bioavailability. To overcome these limitations, RTN-loaded β-cyclodextrin-based nanosponges (RTN-NS₄) were developed and extensively characterized. Phase solubility studies revealed AL type of curve. DSC and PXRD indicated enhanced amorphization while FTIR confirmed successful drug encapsulation. SEM imaging revealed flaky, nanoscale morphology. RTN-NS₄ exhibited a 25.4-fold increase in saturation solubility compared to RTN. Antioxidant potential, assessed by DPPH assay, showed significantly higher antioxidant activity for RTN-NS₄ of 87.91% at 500 μg/ml, indicating enhanced ROS-scavenging ability. Molecular docking studies further confirmed RTN's strong binding affinity towards H+/K+-ATPase (glide energy of -62.822 kcal/mol) showing enhanced binding affinity and complex stability. In comparison, vonoprazon showed glide energy of -58.450 kcal/mol. These studies also confirmed that RTN has greater binding with NS (glide energy:-37.924 kcal/mol) than β-CD (glide energy:-33.034 kcal/mol). RTN-NS₄ achieved 42 ± 7.23% ulcer inhibition in ethanol-induced gastric ulcers in Wistar rats, surpassing RTN (22.17 ± 6.53%) but 18% lower than omeprazole (60.16 ± 8.23%). Histological studies confirmed moderate mucosal protection and reduced inflammation in RTN-NS₄-treated rats. These results underscore RTN-NS₄ as promising nanophyto-therapeutic system offering synergistic antioxidant, anti-inflammatory and PPI activity effects for effective ulcer management without the concomitant side effects of PPIs.",
+      "journal": "AAPS PharmSciTech",
+      "date": "2026-09-15",
+      "authors": [
+        "Rao MR",
+        "Bagwan BA"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1208/s12249-026-03506-3",
+      "journal_tier": 3,
+      "impact": 3.0,
+      "section": "klinik",
+      "score": 35.0,
+      "score_parts": {
+        "journal": 35,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42736494",
+      "title": "Nanovesicular Spanlastics Thermosensitive Gel for the Ocular Delivery of Voriconazole: Development, Ex Vivo Transcorneal Permeability, and In Vivo Evaluation in a Rabbit Model of Fungal Keratitis.",
+      "abstract": "Fungal keratitis remains a leading cause of corneal blindness and eye loss worldwide. Conventional antifungal preparations such as those of voriconazole (VCZ) are often limited by rapid precorneal drug loss and poor corneal penetration, leading to suboptimal therapeutic outcomes. This study aimed to address these limitations and improve VCZ antifungal efficacy by incorporating it into nanovesicular spanlastics embedded within a thermosensitive Pluronic F127 gel. VCZ-loaded spanlastics were optimized using a multilevel categoric design and evaluated for VCZ entrapment efficiency (EE%), vesicle size (VS), polydispersity index (PDI), and zeta potential (ZP). The optimized formulation was embedded in Pluronic F127 gel, which was evaluated for gelation temperature, rheological properties, drug release, in vitro antifungal efficacy, ex vivo transcorneal permeability, and in vivo efficacy in a rabbit fungal keratitis (FK) model. The optimized formulation exhibited EE% of 95.91 ± 0.03%, VS of 91.32 ± 0.60 nm, PDI of 0.33 ± 0.03, and ZP of -34.90 ± 1.76 mV. VCZ spanlastics gel exhibited suitable gelation temperature, pH value, and spreadability. It also sustained VCZ release, improved its antifungal efficacy against A. flavus, and showed approximately five-fold higher transcorneal permeability compared with VCZ suspension. In vivo, the VCZ spanlastics gel demonstrated marked resolution of conjunctival redness absence of periocular discharge, and lower levels of the inflammatory marker CD8 compared with the VCZ suspension. These findings confirm the ability of VCZ spanlastics gel to overcome its limitations and highlight its promising potential as an effective topical ocular delivery system for the management of fungal keratitis.",
+      "journal": "AAPS PharmSciTech",
+      "date": "2026-09-15",
+      "authors": [
+        "Soliman GM",
+        "Salama A",
+        "Qushawy M",
+        "Arafa MF",
+        "Elsherbiny N",
+        "Hetta HF",
+        "Badran MM",
+        "Elsaed WM",
+        "Ramadan YN"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1208/s12249-026-03511-6",
+      "journal_tier": 3,
+      "impact": 3.0,
+      "section": "immuno",
+      "score": 35.0,
+      "score_parts": {
+        "journal": 35,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42735841",
       "title": "Sex-Stratified Analysis of MCP-1, CXCL10, MMP-3, and MMP-9 in Relation to Chronic Health Outcomes in Sulfur Mustard Survivors.",
       "abstract": "BACKGROUND: People exposed to sulfur mustard (SM), experience acute and chronic disorders primarily in the skin, eyes, and respiratory system. Here we examined sex differences in MCP-1, CXCL10, MMP-3, and MMP-9 in SM survivors and unexposed controls with and without definite lung, eye, and skin disorders. METHODS: This research is a part of phase II of the SICS (Sardasht-Iran Cohort Study) and relates to the health screening performed 26 years post-exposure in SM survivors. In total, 489 subjects (361 men and 128 women) with a history of SM exposure, along with 137 age- and sex-matched unexposed controls (93 men and 44 women), constitute the study population. All participants underwent clinical evaluation by expert specialists. Serum concentrations of MCP-1, CXCL10, MMP-3, and MMP-9 were measured using the ELISA technique. RESULTS: SM-exposed individuals showed significantly lower serum CXCL10 levels compared with unexposed controls, while MCP-1 and MMP-9 did not differ significantly at the total population level. MMP-3 also showed no significant unadjusted difference; however, multivariable regression, adjusting for the significant age difference between groups, revealed a significant exposure-associated reduction in MMP-3 (p < 0.001), indicating that age had masked this association in the unadjusted comparison. Sex-stratified analysis revealed that CXCL10 was consistently and significantly lower in both exposed men and women after FDR correction. MMP-3 was significantly higher in men than women, regardless of exposure status, with no significant exposure-related difference surviving FDR correction in either sex. MMP-9 exhibited a sex-dependent exposure effect: levels were significantly elevated in exposed men, whereas the decreasing trend observed in exposed women did not survive FDR adjustment. Among clinicopathological associations, lower MMP-3 was significantly associated with dermatological disorders in SM-exposed subjects. A borderline elevation of MMP-9 was observed in SM-exposed subjects with ocular disorders; however, this association did not survive FDR adjustment and requires cautious interpretation. No significant associations were identified between any biomarker and pulmonary disorders in either group. CONCLUSION: Our findings imply significant disparities in immune responses between men and women, highlighting the complex interplay of sex and chemical exposure on health outcomes.",
@@ -1526,36 +2722,6 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42734736",
-      "title": "Tetrahydrocurcumin suppresses FcεRI- and MRGPRX2-mediated mast cell activation and attenuates peanut-induced anaphylaxis in an in vitro and in vivo study.",
-      "abstract": "BACKGROUND: Tetrahydrocurcumin (THC), a major reductive metabolite of curcumin, possesses improved chemical stability and anti-inflammatory properties. However, its direct effects on mast cell-mediated allergic responses remain poorly defined. We investigated whether THC suppresses FcεRI-dependent and selected IgE-independent mast cell activation and protects against peanut-induced anaphylaxis in vivo. METHODS: Primary murine bone marrow-derived mast cells and human LAD2 mast cells were stimulated through IgE/FcεRI crosslinking or MRGPRX2-related activation. Mast cell degranulation, cytokine production (CCL2, TNF, IL-6, and IL-13), and cytotoxicity were evaluated. The in vivo efficacy of orally administered THC was assessed in a mouse model of peanut-induced anaphylaxis. RESULTS: THC dose-dependently inhibited IgE/FcεRI-mediated mast cell degranulation and suppressed inflammatory cytokine production without detectable cytotoxicity. Under the tested conditions, THC exhibited greater inhibitory activity than pemirolast potassium. THC also suppressed ionomycin- and MRGPRX2-mediated mast cell activation and remained effective when administered before or at the initiation of activation. In peanut-sensitized mice, repeated oral THC administration significantly reduced anaphylactic hypothermia and intestinal inflammatory responses. CONCLUSION: THC suppresses FcεRI-dependent and MRGPRX2-dependent pathways and attenuates peanut-induced anaphylactic responses in vivo. These findings support the potential of THC as a mast cell-modulating compound for allergic and anaphylactic disorders.",
-      "journal": "Pharmacol Rep",
-      "date": "2026-09-14",
-      "authors": [
-        "Suk G",
-        "Mun J",
-        "Park JY",
-        "Park M",
-        "Hwang ET",
-        "Choi HW"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s43440-026-00899-7",
-      "journal_tier": 3,
-      "impact": 3.0,
-      "section": "onko",
-      "score": 35.0,
-      "score_parts": {
-        "journal": 35,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
       "pmid": "42735829",
       "title": "Retraction notice to \"Paroxetine attenuates doxorubicin-induced cardiotoxicity: Integrated network pharmacology, molecular modeling, and in vivo evidence consistent with modulation of GRK2/iNOS-related pathways\" [Toxicol. Appl. Pharmacol. 513 (2026) 117864].",
       "abstract": "",
@@ -1575,33 +2741,6 @@
       "journal_tier": 2,
       "impact": 3.8,
       "section": "toksikoloji",
-      "score": -40.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": -100,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42733020",
-      "title": "Correction to: Astragaloside IV mitigates mitochondrial damage and neurological symptoms in rats with cervical spondylotic myelopathy by inhibiting IL‑17/TRAF6/NF‑κB pathway.",
-      "abstract": "",
-      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
-      "date": "2026-09-14",
-      "authors": [
-        "Han X",
-        "Li X",
-        "Bu X"
-      ],
-      "pubtypes": [
-        "Published Erratum"
-      ],
-      "doi": "10.1007/s00210-026-05905-6",
-      "journal_tier": 2,
-      "impact": 3.2,
-      "section": "diger",
       "score": -40.0,
       "score_parts": {
         "journal": 60,

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T11:27:54+00:00",
+  "updated": "2026-09-16T11:13:58+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -289,6 +289,39 @@
         "recency": 0.0
       },
       "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42745024",
+      "title": "Antibiotic-Refractory Chronic Pouchitis After Ileal Pouch-Anal Anastomosis: Current and Emerging Therapeutic Strategies.",
+      "abstract": "Chronic inflammatory pouch disorders may affect up to 20% of patients within 5 years after ileal pouch-anal anastomosis and remains a major therapeutic challenge. Within this spectrum, chronic antibiotic-refractory pouchitis is associated with impaired quality of life, long-term pouch-related complications, and potential risk for pouch failure and excision. Current recommendations support the use of probiotics for primary and secondary prevention in selected patients. Increasingly, targeted advanced therapies, including biologics and small molecules approved for the treatment of ulcerative colitis and Crohn's disease, are being used to reduce antibiotic dependence and maintain disease control in patients with pouch inflammation. Vedolizumab is the only advanced therapy approved in Europe for chronic pouchitis, whereas evidence for tumor necrosis factor (TNF) antagonists, ustekinumab, and newer agents, such as interleukin (IL)-23p19 antagonists and Janus kinase (JAK) inhibitors is largely based on observational data from clinical practice and real-world experience. Fecal microbiota transplantation is biologically attractive but remains investigational, with early studies showing inconsistent efficacy. Dietary patterns may modify pouch inflammation; however, most evidence is observational. Overall, current management strategies for chronic pouchitis are limited by incomplete understanding of disease pathogenesis, and by persistent methodological gaps, including poorly standardized treatment outcomes and the lack of validated treat-to-target strategies for this population. Well designed prospective and controlled studies are needed to define appropriate antibiotic-sparing strategies, optimal treatment positioning, and long-term durability of response.",
+      "journal": "Drugs",
+      "date": "2026-09-16",
+      "authors": [
+        "Faggiani I",
+        "Tuttle C",
+        "Danese S",
+        "Peyrin-Biroulet L",
+        "Jairath V",
+        "Sedano R",
+        "Dotan I",
+        "Panaccione R",
+        "Ma C"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s40265-026-02383-1",
+      "journal_tier": 1,
+      "impact": 13.4,
+      "section": "onko",
+      "score": 102.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 2.0
+      },
+      "tier": 2,
       "abstract_tr": ""
     },
     {
@@ -1465,6 +1498,180 @@
       "abstract_tr": "Bağışıklık kontrol noktası blokajı kanser tedavisini dönüştürdü, ancak katı tümörlere karşı etkinliği, zayıf T hücresi infiltrasyonu ve bağışıklık sistemini baskılayan tümör mikro ortamı nedeniyle kısıtlı olmaya devam ediyor. Sistemik immün toksisite olmadan lokalize ve sürekli kemokin sinyalinin elde edilmesi, sitokin bazlı immünoterapi için karşılanmayan merkezi bir zorluk olmaya devam etmektedir. Burada, protein terapötiklerinin alanla sınırlı ve kontrollü dağıtımı için sıvı nitrojenle tedavi edilen (LNT) tümör hücrelerinden türetilmiş, kriyo mühendisliğiyle üretilmiş bir biyo-depo platformu sunduk. Kriyo-şoklama işlemi, tümör hücrelerinin patojenitesini ortadan kaldırırken hücresel bütünlüğü ve protein biyoaktivitesini korur ve terapötik yükler için çok yönlü bir araç oluşturur. Bu platformu uygulayarak, intravenöz enjeksiyondan sonra akciğerde kalıcı bir kemokin gradyanı oluşturan, sağlam T hücresi alımına ve artırılmış tümör büyümesi inhibisyonuna yol açan C-X-C motif ligandı 9'u (CXCL9) eksprese eden LNT depoları oluşturduk. Ayrıca, fare ortotopik akciğer kanseri modelinde sağkalımı önemli ölçüde uzatan aPD-1'i salgılayacak şekilde LNT hücrelerini tasarlayarak platformun uyarlanabilirliğini gösterdik. Kriyo mühendisliğiyle tasarlanan bu depo, biyomateryallerin yapısal doğruluğunu canlı sistemlerin işlevsel karmaşıklığıyla birleştirerek kanser immünoterapisinde kişiselleştirilmiş protein terapötikleri için genelleştirilebilir bir yol sunuyor."
     },
     {
+      "pmid": "42744203",
+      "title": "Enzymatically triggered in situ gelation of a multifunctional peptide for localized controlled release and conformal fracture repair.",
+      "abstract": "Irregular fracture edges and gaps present significant challenges to bone healing. As versatile scaffolds for bone regeneration, hydrogels can effectively guide and facilitate tissue repair. Compared to preformed hydrogels, in situ gelation via a responsive sol-gel transition at the defect site offers superior flexibility, adaptability, and conformity, minimizing void cavities and establishing a more favorable environment for healing complex fractures. Peptides, as biogenic building blocks, can self-assemble into hierarchically structured hydrogels under specific stimuli. Given that alkaline phosphatase (ALP) is a key enzyme in bone mineralization and is highly expressed at the fracture site, we developed a phosphorylated peptide (NfFpYO) that undergoes ALP-triggered dephosphorylation, enabling direct in situ gelation on irregular fracture surfaces. Our results show that the resulting nanofibrous three-dimensional scaffold, functionalized with Gly-Pro-Hyp (GPO) motifs, promotes the migration, proliferation, and osteogenic differentiation of human bone marrow mesenchymal stem cells (hBMSCs) in vitro. Moreover, the resulting nanofibrous hydrogel, which presents peptide-bound naproxen and fluorinated motifs, was associated with a less inflammatory and more repair-supportive macrophage-associated marker profile, enhanced osteogenic marker expression, and improved radiographic and histological fracture repair in a murine model. This study adapts a promising ALP-instructed peptide self-assembly strategy to the fracture-repair microenvironment through a multifunctional precursor design, providing a local shape-conformal and bioactive hydrogel platform with potential for complex fracture repair.",
+      "journal": "J Control Release",
+      "date": "2026-09-15",
+      "authors": [
+        "Tang X",
+        "Wen C",
+        "Shang Y",
+        "Yang H",
+        "Hu H",
+        "Xu N",
+        "Li Y",
+        "Luo Y",
+        "Chen R",
+        "Zhao B",
+        "Duan Y",
+        "Wang Z",
+        "Liu J",
+        "Kuang M"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115354",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "immuno",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744202",
+      "title": "B-cell maturation antigen -targeted Tirapazamine-loaded liposomes overcome hypoxia-induced drug resistance and metastasis in multiple myeloma.",
+      "abstract": "Multiple myeloma (MM) is a highly fatal disease, particularly in the relapsed-refractory stage, due to drug resistance associated with tumor hypoxia. TPZ, a hypoxia-activated pro-drug, effectively kills hypoxic tumor cells; however, its severe side effects have limited its therapeutic use. This study investigates BCMA-targeted liposomes loaded with TPZ to enhance their therapeutic efficacy while reducing toxicity. TPZ inhibits cell proliferation, induces apoptosis, and reverses the metastasis driven by hypoxia in MM cells. Encapsulation into liposomes maintained its cytotoxic effects in hypoxic MM cells. BCMA-targeting increased specific delivery in MM cells and enhanced biodistribution to MM cells within the bone marrow. In a relapsed/refractory MM mouse model, BCMA-targeted TPZ-loaded liposomes significantly reduced tumor progression while minimizing body weight loss in mice and reducing cytotoxicity in PBMCs, achieving a Efficacy-to-Body-Weight Toxicity Ratio of 8.3 compared to 1 for free TPZ. This study provides preclinical proof-of-concept for using BCMA-targeted TPZ-loaded liposomes as a promising and safer therapeutic option for relapsed/refractory MM.",
+      "journal": "J Control Release",
+      "date": "2026-09-15",
+      "authors": [
+        "Maksimos M",
+        "Muz B",
+        "Azab F",
+        "Afrough A",
+        "Kaur G",
+        "Khan A",
+        "Anderson LD",
+        "Azab AK"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115351",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744201",
+      "title": "A nano-adjuvant platform potentiates immunity for potent mucosal and systemic defense against influenza.",
+      "abstract": "Vaccines against respiratory viruses such as influenza require adjuvant platforms capable of simultaneously inducing robust mucosal and systemic immunity. Here, we report a PEGylated aluminum‑manganese oxide hybrid nano-adjuvant (Al-Mn-PEG) as an efficient mucosal vaccine delivery system. Al-Mn-PEG exhibits high stability and biocompatibility, enhancing antigen uptake, activation, and lysosomal escape in antigen-presenting cells, thus promoting cross-presentation. In vivo, intranasal immunization with Al-Mn-PEG loaded with hemagglutinin from influenza A or B viruses induces strong mucosal sIgA and systemic IgG responses, drives a mixed Th1/Th2 immune profile with systemic Th1 skewing, and activates CD8+ T cells, resulting in comprehensive immune protection. Mechanistically, Al-Mn-PEG engages both the STING/TBK1/IRF3 and NLRP3 pathways, which potentiate the immune system and drive coordinated innate and adaptive immune responses. This work establishes Al-Mn-PEG as a versatile adjuvant platform, offering a strategy for next-generation respiratory vaccines.",
+      "journal": "J Control Release",
+      "date": "2026-09-15",
+      "authors": [
+        "Cheng H",
+        "Wang Y",
+        "Wang S",
+        "Meng Z",
+        "Zhai X",
+        "Lv R",
+        "Cheng A",
+        "Guan K",
+        "Zhang G"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115353",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "immuno",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744200",
+      "title": "Nab-paclitaxel fused with the de novo designed receptor binder exhibits enhanced tumor targeting and therapeutic efficacy.",
+      "abstract": "Chemotherapy has been widely used in cancer treatment, but most of the chemotherapeutic drugs rely mainly on passive accumulation due to lack of target specificity, which may lead to systemic toxicity and limited clinical utility. Recent advances in artificial intelligence-based protein design provide new opportunities for developing precision therapeutics. Here we modify the albumin-bound paclitaxel (Nab-PTX), one of the most widely used drugs in chemotherapies, by applying the fusion proteins of albumin with the de novo designed protein binders targeting human EGFR or HER2. The resulting particles, EGFRmb-Nab-PTX and HER2mb-Nab-PTX, retain the similar physicochemical properties of Nab-PTX while acquiring the receptor-specific binding capacities. The in vitro assays show that both binder-modified Nab-PTX particles have increased uptake and inhibitory effects significantly in the cancer cell lines with high receptor expression levels. Furthermore, the data from a xenograft model, including tumor growth, excised tumor analysis, organ histology, and fluorescence imaging, show that the binder-modified Nab-PTX enhances tumor accumulation, improves tumor suppression, and may reduce off-target exposure compared with the conventional Nab-PTX, suggesting that they may have promising clinical potential in cancer treatment. Overall, this strategy provides an adaptable modular platform for generating albumin-based chemotherapeutic drugs with target specificities, which can be readily customized with diverse target binders to enable precise cancer therapies.",
+      "journal": "J Control Release",
+      "date": "2026-09-15",
+      "authors": [
+        "Qian Y",
+        "Yan W",
+        "Xu F",
+        "Liu Y",
+        "Chen F",
+        "Lu Y",
+        "Zhang Z",
+        "Gu A",
+        "Yu R",
+        "Fang Z",
+        "Yu Y",
+        "Li M",
+        "Cao L",
+        "Liu Y",
+        "He Y"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115355",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42744199",
+      "title": "Metal-organic framework-based Z-scheme heterostructure enables oxygen-independent sonodynamic immunotherapy through tumor-associated macrophage reprogramming.",
+      "abstract": "Sonodynamic therapy (SDT) provides spatially controlled tumor treatment, but its efficacy in hypoxic tumors is limited by oxygen-dependent reactive oxygen species (ROS) generation and tumor-associated macrophage (TAM)-mediated immunosuppression. Here, we developed a hyaluronic acid (HA)-modified, metal-organic framework (MOF)-based CuO₂@FeTCPP Z-scheme nanosonosensitizer to combine hypoxia-tolerant hydroxyl radical (•OH) generation with macrophage reprogramming. Band-edge analysis, interfacial X-ray photoelectron spectroscopy, and spin-trapping and scavenging experiments provided complementary support for a Z-scheme charge-transfer pathway that preserves reducing electrons on FeTCPP and highly oxidative holes on CuO₂. Under ultrasound irradiation, CuO₂@FeTCPP@HA maintained strong •OH generation under hypoxia, whereas oxygen-dependent 1O₂ production was substantially attenuated. HA modification enhanced CD44-associated cellular uptake, as demonstrated by comparison with the HA-free material and by CD44-blocking experiments. In M2-like macrophages, CuO₂@FeTCPP@HA treatment without ultrasound was accompanied by increased H3 acetylation and decreased H3K9 trimethylation, whereas ultrasound activation markedly increased •OH production and amplified the M2-to-M1 phenotypic and cytokine responses. These observations support distinct but convergent contributions from Cu-associated metabolic-epigenetic regulation and ultrasound-triggered oxidative stress. In a bilateral subcutaneous A20 lymphoma model, local treatment of the primary tumor suppressed both irradiated primary and non-irradiated contralateral tumors, reduced the bone marrow lymphoma burden, and promoted dendritic cell maturation, CD8+ T-cell infiltration, and effector memory T-cell formation. Together, these results demonstrate a materials-based strategy that integrates oxygen-independent sonocatalysis with macrophage-centered immune remodeling for systemic antitumor therapy.",
+      "journal": "J Control Release",
+      "date": "2026-09-15",
+      "authors": [
+        "Liu J",
+        "Shao B",
+        "Miao Q",
+        "Wang J",
+        "Wang Z",
+        "Han M",
+        "Hou Y",
+        "Yan F"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115352",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42668077",
       "title": "Pharmacological inhibition of the SUMOylation pathway: Mechanisms, inhibitors and therapeutic opportunities.",
       "abstract": "Small ubiquitin-like modifier (SUMO) conjugation, or SUMOylation, is a dynamic post-translational modification that regulates protein stability, localization, transcriptional activity, DNA damage response, and cellular stress adaptation. Increasing evidence indicates that dysregulated SUMOylation contributes to tumor progression, immune disorders, and neurodegenerative diseases, highlighting the SUMO pathway as a promising therapeutic target. However, despite extensive advances in SUMO biology, a comprehensive pharmacological assessment of SUMO pathway inhibitors, including their mechanisms of action, evidence quality, target engagement, and translational challenges, remains insufficient. This review presents an inhibitor-centered analysis of pharmacological strategies targeting the SUMOylation machinery. This review describes the molecular architecture of the SUMO conjugation cycle and identifies major druggable nodes, including the SUMO-activating enzyme (SAE), the SUMO-conjugating enzyme UBC9, SUMO-specific proteases (SENPs), and SUMO-dependent protein-protein interactions. It also examines the biological rationale for SUMO pathway inhibition in major disease contexts, with an emphasis on cancer, autoimmune disorders, and neurological diseases. Furthermore, SUMO pathway modulators are systematically classified according to their molecular targets and evidence maturity, including SAE inhibitors, UBC9-directed compounds, SENP inhibitors, direct SUMO binders, and natural product-derived modulators. Their mechanisms of action, biochemical potency, structural validation, cellular target engagement, in vivo efficacy, PK/PD properties, and developmental status are critically evaluated. Overall, this review provides a comprehensive pharmacological framework for understanding SUMO pathway inhibition and highlights key considerations for the development of next-generation SUMO-directed therapeutics.",
@@ -1653,203 +1860,6 @@
       },
       "tier": 1,
       "abstract_tr": ""
-    },
-    {
-      "pmid": "42702340",
-      "title": "The nociceptor-CGRP-lactate axis in cancer immune escape: linking neural signaling, immunometabolism, and immunotherapy resistance.",
-      "abstract": "Cancer neuroscience has expanded the conceptual landscape of tumor biology by revealing that nerves are not passive bystanders within malignant tissues, but active regulators of tumor progression, immune surveillance, and therapeutic response. Among neural components of the tumor microenvironment, nociceptive sensory neurons have emerged as critical interfaces between tissue injury, inflammation, cancer-associated pain, and immune regulation. This review proposes that nociceptive neuron-driven immune escape represents a tissue-level pathological process positioned at the intersection of cancer neuroscience, tumor immunology, and immunometabolism. We discuss how tumor-associated inflammatory mediators, extracellular acidosis, mechanical stress, metabolic perturbations, and axon-guidance programs activate nociceptors and induce the release of calcitonin gene-related peptide (CGRP) and related neuropeptides. Through receptor activity-modifying protein 1-containing receptor complexes, CGRP can suppress CD8⁺ T-cell receptor signaling, promote exhaustion-associated transcriptional and metabolic programs, impair dendritic cell function, and reinforce suppressive myeloid and regulatory immune compartments. We further examine how tumor cells may co-opt the ATF4-SLIT2-CGRP axis to establish cross-organ neuroimmune circuits extending to tumor-draining lymph nodes, thereby weakening antigen presentation, T-cell priming, and responsiveness to immune checkpoint blockade. Finally, we consider lactate accumulation and extracellular acidification as parallel immunometabolic pressures that may consolidate nociceptor-associated immune dysfunction by constraining T-cell bioenergetic fitness, promoting suppressive immune states, and potentially modulating sensory-neuron activity. Rather than defining a fixed linear pathway, we conceptualize the nociceptor-CGRP-lactate axis as an integrative neuroimmune-metabolic framework in which partially independent neural and metabolic processes converge on shared mechanisms of immune escape. This framework provides a translational rationale for evaluating combined neural, metabolic, and immune checkpoint-directed interventions in cancers characterized by neural involvement, metabolic suppression, and immunotherapy resistance.",
-      "journal": "Pharmacol Res",
-      "date": "2026-09-06",
-      "authors": [
-        "Zhao PY",
-        "Wu K",
-        "Jin ZX",
-        "Li XZ",
-        "Jin WL",
-        "Rozpędek-Kamińska W"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phrs.2026.108435",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "noro",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42705427",
-      "title": "Reconfiguring the macrophage-centric intercellular network in pulmonary fibrosis: Emerging perspectives and therapeutic opportunities.",
-      "abstract": "Pulmonary fibrosis (PF) encompasses a spectrum of progressive and irreversible interstitial lung diseases characterized by a notably poor prognosis. The principal pathological features of PF include recurrent injury to the alveolar epithelium, aberrant accumulation of extracellular matrix (ECM) components, and disruption of the structural integrity of lung tissue. Clinically, effective therapeutic options for PF remain severely limited. Existing studies have demonstrated that the imbalance in macrophage polarization and the heterogeneous functional remodeling of these cells constitute central mechanisms driving the fibrotic cascade. Macrophages exhibit dynamic plasticity, transitioning between the M1 pro-inflammatory phenotype and the M2 pro-fibrotic phenotype. Additionally, they can differentiate into novel subpopulations, including triggering receptor expressed on myeloid cells 2-positive (TREM2⁺) lipid-associated macrophages and SPP1hipro-fibrotic macrophages, which significantly contribute to the remodeling of the pro-fibrotic pathological microenvironment within the lungs. At the same time, as a critical node in intercellular communication, establishing a bidirectional regulatory network with alveolar epithelial cells, fibroblasts, endothelial cells, and various immune cells. Through signaling mediators such as cytokines, exosomes, and apoptotic bodies, macrophages contribute to the regulation of epithelial-mesenchymal transition (EMT), fibroblast activation, endothelial-to-mesenchymal transition (EndMT), and the disruption of immune homeostasis. Collectively, these interactions play a pivotal role in the initiation and progression of diseases. Currently, only nintedanib, pirfenidone, and the novel phosphodiesterase 4B (PDE4B) inhibitor nerandomilast have received regulatory approval for clinical use. While these agents can slow the progression of lung function decline, they are unable to reverse established fibrotic lesions. Furthermore, numerous candidate drugs targeting single molecular pathways have failed to advance beyond phase II/III clinical trials due to inadequate efficacy or safety concerns. The emerging generation of investigational therapies primarily targets macrophage function remodeling, epithelial repair, and fibroblast inhibition; however, most remain in early clinical trial phases without significant breakthroughs to date. Consequently, there is an urgent clinical demand for more effective and safer therapeutic alternatives. In this context, natural plant-derived active ingredients, due to their ability to target multiple molecular pathways, offer a promising strategy for intervening in this complex network. Existing preclinical studies suggest that certain active compounds (such as quercetin, brusatol, licochalcone B, and salvianolic acid B) can regulate macrophage-associated processes, such as polarization, autophagy, or inflammatory responses, depending on the specific compound and experimental context. These compounds also improve the microenvironment of experimental fibrosis by attenuating pro-fibrotic signaling between macrophages and epithelial cells, fibroblasts, endothelial cells, and immune cells. However, it is important to note that most of this evidence is derived from in vitro and animal studies, and the precise molecular targets, multi-component synergistic mechanisms, and clinical translational potential of these compounds still require systematic validation. Therefore, this article provides a systematic review of the biological characteristics and subgroup heterogeneity of lung macrophages. It elucidates the underlying mechanisms by which the macrophage-centered multicellular interaction network contributes to the progression of PF. Additionally, the article summarizes currently approved Western medications, clinical failures, and the challenges associated with the development of novel targeted agents. Emphasis is placed on reviewing the pharmacological mechanisms and recent advances in natural active compounds targeting this core cellular network to intervene in PF. The objective is to offer a theoretical foundation for a more comprehensive understanding of PF pathogenesis and to facilitate the optimization and innovation of anti-fibrotic therapeutic strategies.",
-      "journal": "Pharmacol Res",
-      "date": "2026-09-07",
-      "authors": [
-        "Yang Y",
-        "Liu S",
-        "Wang S",
-        "Zhang A",
-        "Wang W",
-        "Zhu Z",
-        "Zhang X",
-        "Liu X"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phrs.2026.108437",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "klinik",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": "Pulmoner fibrozis (PF), belirgin derecede kötü prognozla karakterize, ilerleyici ve geri dönüşü olmayan interstisyel akciğer hastalıklarının bir spektrumunu kapsar. PF'nin temel patolojik özellikleri arasında alveoler epitelde tekrarlayan hasar, hücre dışı matriks (ECM) bileşenlerinin anormal birikimi ve akciğer dokusunun yapısal bütünlüğünün bozulması yer alır. Klinik olarak PF için etkili tedavi seçenekleri ciddi şekilde sınırlı kalmaktadır. Mevcut çalışmalar, makrofaj polarizasyonundaki dengesizliğin ve bu hücrelerin heterojen fonksiyonel yeniden yapılanmasının, fibrotik kaskadını yönlendiren merkezi mekanizmaları oluşturduğunu göstermiştir. Makrofajlar, M1 proinflamatuar fenotip ile M2 pro-fibrotik fenotip arasında geçiş yaparak dinamik esneklik sergiler. Ek olarak, akciğerlerdeki pro-fibrotik patolojik mikro ortamın yeniden şekillenmesine önemli ölçüde katkıda bulunan miyeloid hücreler 2-pozitif (TREM2⁺) lipid ile ilişkili makrofajlar ve SPP1 hipro-fibrotik makrofajlar üzerinde eksprese edilen tetikleyici reseptör dahil olmak üzere yeni alt popülasyonlara farklılaşabilirler. Aynı zamanda hücreler arası iletişimde kritik bir düğüm olarak alveoler epitel hücreleri, fibroblastlar, endotel hücreleri ve çeşitli bağışıklık hücreleriyle çift yönlü bir düzenleyici ağ kurar. Sitokinler, eksozomlar ve apoptotik cisimler gibi sinyal aracıları aracılığıyla makrofajlar, epitelyal-mezenkimal geçişin (EMT), fibroblast aktivasyonunun, endotelyal-mezenkimal geçişin (EndMT) düzenlenmesine ve bağışıklık homeostazisinin bozulmasına katkıda bulunur. Toplu olarak, bu etkileşimler hastalıkların başlatılmasında ve ilerlemesinde çok önemli bir rol oynar. Şu anda yalnızca nintedanib, pirfenidon ve yeni fosfodiesteraz 4B (PDE4B) inhibitörü nerandomilast klinik kullanım için düzenleyici onay almıştır. Bu ajanlar akciğer fonksiyonundaki azalmanın ilerlemesini yavaşlatabilirken, yerleşik fibrotik lezyonları tersine çeviremezler. Ayrıca, tek moleküler yolları hedef alan çok sayıda aday ilaç, yetersiz etkinlik veya güvenlik endişeleri nedeniyle faz II/III klinik deneylerinin ötesine geçememiştir. Yeni nesil araştırma tedavileri öncelikle makrofaj fonksiyonunun yeniden şekillenmesini, epitelyal onarımı ve fibroblast inhibisyonunu hedefler; ancak çoğu, bugüne kadar önemli ilerlemeler kaydedilmeden erken klinik deneme aşamalarında kalıyor. Sonuç olarak, daha etkili ve daha güvenli terapötik alternatiflere yönelik acil bir klinik talep vardır. Bu bağlamda, doğal bitkilerden elde edilen aktif maddeler, birden fazla moleküler yolu hedefleme yeteneklerinden dolayı, bu karmaşık ağa müdahale etmek için umut verici bir strateji sunmaktadır. Mevcut klinik öncesi çalışmalar, belirli aktif bileşiklerin (quercetin, brusatol, licochalcone B ve salvianolik asit B gibi), spesifik bileşiğe ve deneysel bağlama bağlı olarak polarizasyon, otofaji veya inflamatuar yanıtlar gibi makrofajla ilişkili süreçleri düzenleyebileceğini göstermektedir. Bu bileşikler aynı zamanda makrofajlar ile epitel hücreleri, fibroblastlar, endotel hücreleri ve bağışıklık hücreleri arasındaki pro-fibrotik sinyalleri zayıflatarak deneysel fibrozun mikro ortamını da iyileştirir. Bununla birlikte, bu kanıtların çoğunun in vitro ve hayvan çalışmalarından elde edildiğini ve bu bileşiklerin kesin moleküler hedeflerinin, çok bileşenli sinerjistik mekanizmalarının ve klinik translasyon potansiyelinin hala sistematik doğrulama gerektirdiğini belirtmek önemlidir. Bu nedenle, bu makale akciğer makrofajlarının biyolojik özelliklerinin ve alt grup heterojenliğinin sistematik bir incelemesini sunmaktadır. Makrofaj merkezli çok hücreli etkileşim ağının PF'nin ilerlemesine katkıda bulunduğu altta yatan mekanizmaları aydınlatır. Ek olarak makale, halihazırda onaylanmış Batı ilaçlarını, klinik başarısızlıkları ve yeni hedefe yönelik ajanların geliştirilmesiyle ilgili zorlukları özetlemektedir. PF'ye müdahale etmek için bu çekirdek hücresel ağı hedefleyen farmakolojik mekanizmaların ve doğal aktif bileşiklerdeki son gelişmelerin gözden geçirilmesine vurgu yapılmaktadır. Amaç, PF patogenezinin daha kapsamlı anlaşılması için teorik bir temel sunmak ve anti-fibrotik tedavi stratejilerinin optimizasyonunu ve yenilenmesini kolaylaştırmaktır."
-    },
-    {
-      "pmid": "42705426",
-      "title": "TNT-Mediated Mitochondrial Transfer in Cancer Immunotherapeutic Resistance.",
-      "abstract": "Despite the transformative advances that have been made in cancer immunotherapy, primary and acquired resistance remain prevalent, limiting durable clinical benefits. Mechanistic studies on immunotherapeutic resistance have largely focused on genetic, transcriptional, signaling, and metabolic programs within tumor and immune cells, with organelle physical routes and metabolic exchange across the tumor-host interface remaining relatively underexplored. Tunneling nanotubes (TNTs), membranous conduits that mediate long-range intercellular exchange, are increasingly implicated in tumor microenvironment remodeling. Thus, TNT-mediated mitochondrial transfer may represent an underexplored intercellular communication axis that can potentially influence tumor adaptation and immunotherapeutic responses. By enabling tumor cells to acquire functional mitochondria from neighboring stromal or immune cells, TNT-associated transfer may reinforce oxidative metabolism, redox homeostasis, and survival under immune and therapeutic pressure. Conversely, although the functional consequences of mitochondrial exchange are strongly dependent on the donor-recipient context, the transfer of tumor-derived mitochondria may result in the reprogramming of recipient immune or stromal cells and favor immunosuppressive states. However, direct evidence establishing TNT-mediated mitochondrial transfer as a causal determinant of immunotherapeutic resistance remains limited and varies significantly across therapeutic modalities. This review discusses the molecular mechanisms governing TNT formation and mitochondrial trafficking, examines the metabolic and immunological consequences of bidirectional tumor-host mitochondrial exchange, critically evaluates evidence linking these processes to distinct immunotherapeutic modalities, and discusses strategies and experimental priorities for their therapeutic translation.",
-      "journal": "Pharmacol Res",
-      "date": "2026-09-07",
-      "authors": [
-        "Xue Y",
-        "Gao W",
-        "Deng K",
-        "Xiao Y",
-        "Huang J",
-        "Wu M"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phrs.2026.108436",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "onko",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": "Kanser immünoterapisinde kaydedilen dönüştürücü ilerlemelere rağmen, birincil ve kazanılmış direnç halen yaygın olup, kalıcı klinik faydaları sınırlamaktadır. İmmünoterapötik dirençle ilgili mekanik çalışmalar büyük ölçüde tümör ve bağışıklık hücreleri içindeki genetik, transkripsiyonel, sinyalleşme ve metabolik programlara odaklanmıştır; organel fiziksel yolları ve tümör-konakçı arayüzü boyunca metabolik değişim nispeten az araştırılmıştır. Uzun menzilli hücreler arası alışverişe aracılık eden membranöz kanallar olan tünel açma nanotüpleri (TNT'ler), tümör mikro ortamının yeniden şekillenmesinde giderek daha fazla rol oynamaktadır. Bu nedenle, TNT aracılı mitokondriyal transfer, tümör adaptasyonunu ve immünoterapötik yanıtları potansiyel olarak etkileyebilecek, az araştırılmış bir hücreler arası iletişim eksenini temsil edebilir. TNT ile ilişkili transfer, tümör hücrelerinin komşu stromal veya immün hücrelerden fonksiyonel mitokondri almasını sağlayarak oksidatif metabolizmayı, redoks homeostazisini ve immün ve terapötik baskı altında hayatta kalmayı güçlendirebilir. Tersine, mitokondriyal değişimin fonksiyonel sonuçları güçlü bir şekilde donör-alıcı bağlamına bağlı olsa da, tümör kaynaklı mitokondrinin transferi, alıcının immün veya stromal hücrelerinin yeniden programlanmasına ve immünosüpresif durumların lehine sonuçlanabilir. Bununla birlikte, TNT aracılı mitokondriyal transferin immünoterapötik direncin nedensel bir belirleyicisi olduğunu gösteren doğrudan kanıtlar sınırlı kalmaktadır ve tedavi yöntemleri arasında önemli ölçüde değişiklik göstermektedir. Bu derleme, TNT oluşumunu ve mitokondriyal ticareti yöneten moleküler mekanizmaları tartışmakta, çift yönlü tümör-konakçı mitokondriyal değişiminin metabolik ve immünolojik sonuçlarını incelemekte, bu süreçleri farklı immünoterapötik yöntemlere bağlayan kanıtları eleştirel bir şekilde değerlendirmekte ve bunların terapötik çevirileri için stratejileri ve deneysel öncelikleri tartışmaktadır."
-    },
-    {
-      "pmid": "42704980",
-      "title": "A closed-loop paradigm for precision oncology: Integrating dynamic monitoring, organoid models, and explainable AI.",
-      "abstract": "BACKGROUND: Precision oncology faces three systemic bottlenecks: static molecular snapshots fail to capture tumor dynamics, patient‑derived organoids lack physiological reconstruction of the tumor microenvironment (TME), and artificial intelligence (AI) remains a \"black box\" in clinical decision‑making. This review aims to propose an integrated closed‑loop framework that addresses these challenges by combining dynamic multi‑omics monitoring, next‑generation bioengineered models, and explainable AI. MAIN BODY: This review synthesizes recent advances in microfluidics, organoid technology, CRISPR screening, and multimodal data integration and, more importantly, proposes a closed-loop framework that distinguishes itself from existing approaches by explicitly linking dynamic monitoring, functional organoid testing, and explainable AI into an iterative decision cycle. Liquid biopsy enables longitudinal tracking of tumor evolution, while vascularized organoids and organ‑on‑chip systems reconstruct key TME features such as oxygen gradients, shear stress, and immune‑stromal interactions. These models serve as \"therapeutic sandboxes\" for functional drug testing and resistance mechanism elucidation. Concurrently, explainable AI (XAI) techniques-including feature perturbation, knowledge graph embedding, and dynamic Bayesian networks-provide interpretable predictions of treatment response. We outline a closed‑loop paradigm where dynamic monitoring data inform organoid‑based assays, XAI translates experimental evidence into clinical decisions, and real‑world outcomes continuously refine the models. Technical challenges such as multi‑scale data integration, vascularization fidelity, and AI transparency are discussed, along with emerging solutions including federated learning, 3D bioprinting, and standardized quality control pathways. CONCLUSIONS: Integrating dynamic monitoring, physiologically relevant organoid models, and explainable AI establishes a convergent precision oncology ecosystem that shifts the field from static biopsy‑based decisions toward adaptive, closed‑loop personalized therapy. This paradigm holds promise for overcoming tumor heterogeneity, predicting drug resistance, and improving clinical outcomes, while also providing a roadmap for future translational research and regulatory harmonization.",
-      "journal": "Pharmacol Res",
-      "date": "2026-09-07",
-      "authors": [
-        "Liu Y",
-        "Wang Y",
-        "Huang X",
-        "Li Y",
-        "Zhu A",
-        "Wang M",
-        "Yao H",
-        "Liang LG"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phrs.2026.108438",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "kardiyometabolik",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": "ARKA PLAN: Hassas onkoloji üç sistemik darboğazla karşı karşıyadır: statik moleküler anlık görüntüler, tümör dinamiklerini yakalamakta başarısız olur, hastadan türetilen organoidler, tümör mikro ortamının (TME) fizyolojik olarak yeniden yapılandırılmasından yoksundur ve yapay zeka (AI), klinik karar vermede bir \"kara kutu\" olmaya devam etmektedir. Bu inceleme, dinamik çoklu-omik izlemeyi, yeni nesil biyomühendislik modellerini ve açıklanabilir yapay zekayı birleştirerek bu zorlukların üstesinden gelen entegre bir kapalı döngü çerçevesi önermeyi amaçlamaktadır. ANA GÖVDE: Bu inceleme, mikroakışkanlar, organoid teknolojisi, CRISPR taraması ve çok modlu veri entegrasyonundaki son gelişmeleri sentezler ve daha da önemlisi, dinamik izlemeyi, fonksiyonel organoid testi ve açıklanabilir yapay zekayı yinelenen bir karar döngüsüne açıkça bağlayarak kendisini mevcut yaklaşımlardan ayıran kapalı döngü bir çerçeve önerir. Sıvı biyopsi, tümör gelişiminin uzunlamasına izlenmesine olanak sağlarken, vaskülarize organoidler ve çip üzerinde organ sistemleri, oksijen gradyanları, kayma gerilimi ve immün-stromal etkileşimler gibi temel TME özelliklerini yeniden yapılandırır. Bu modeller, işlevsel ilaç testi ve direnç mekanizmasının aydınlatılması için \"terapötik sanal alanlar\" görevi görür. Eş zamanlı olarak, özellik pertürbasyonu, bilgi grafiği yerleştirme ve dinamik Bayes ağları dahil olmak üzere açıklanabilir AI (XAI) teknikleri, tedavi yanıtına ilişkin yorumlanabilir tahminler sağlar. Dinamik izleme verilerinin organoid tabanlı analizleri bilgilendirdiği, XAI'nin deneysel kanıtları klinik kararlara dönüştürdüğü ve gerçek dünyadaki sonuçların modelleri sürekli olarak iyileştirdiği bir kapalı döngü paradigmasının ana hatlarını çiziyoruz. Çok ölçekli veri entegrasyonu, vaskülarizasyon doğruluğu ve yapay zeka şeffaflığı gibi teknik zorlukların yanı sıra birleştirilmiş öğrenme, 3D biyobaskı ve standartlaştırılmış kalite kontrol yolları gibi yeni ortaya çıkan çözümler de tartışılıyor. SONUÇLAR: Dinamik izlemeyi, fizyolojik olarak ilgili organoid modelleri ve açıklanabilir yapay zekayı entegre etmek, alanı statik biyopsiye dayalı kararlardan uyarlanabilir, kapalı döngü kişiselleştirilmiş tedaviye doğru değiştiren yakınsak bir hassas onkoloji ekosistemi oluşturur. Bu paradigma, tümör heterojenliğinin üstesinden gelme, ilaç direncini öngörme ve klinik sonuçları iyileştirme konusunda umut vaat ederken, aynı zamanda gelecekteki çeviri araştırmaları ve düzenleyici uyumlaştırma için bir yol haritası da sağlıyor."
-    },
-    {
-      "pmid": "42710703",
-      "title": "Senotherapeutic Potential of Anti-Diabetic Medications: Bridging Type 2 Diabetes and Accelerated Aging.",
-      "abstract": "Aging and type 2 diabetes (T2D) are increasingly recognized as interconnected biological processes that share core pathogenic mechanisms, including cellular senescence, mitochondrial dysfunction, chronic low-grade inflammation, impaired autophagy, stem cell exhaustion, dysregulated nutrient sensing, and gut microbiota imbalance. Chronic hyperglycemia and insulin resistance accelerate tissue degeneration across multiple organ systems, thereby establishing T2D as a clinically relevant model of accelerated biological aging. In this context, anti-diabetic medications have attracted growing interest not only as glycemic control agents, but also for their potential to modulate aging biology and delay age-related functional decline. Here, we review the emerging evidence supporting the senotherapeutic properties of metformin, sodium-glucose cotransporter-2 inhibitors (SGLT-2i), dipeptidyl peptidase-4 inhibitors (DPP-4i), glucagon-like peptide-1 receptor agonists (GLP-1RAs), alpha-glucosidase inhibitors (AGIs), sulfonylureas (SUs), thiazolidinediones (TZDs), and insulin. These agents have been reported to influence key aging-related pathways, including AMPK, mTOR, SIRT1, NF-κB, ROS/c-JNK, and insulin/IGF-1 signaling, and to exert beneficial effects on cellular senescence, inflammaging, mitochondrial homeostasis, proteostasis, immunosenescence, autophagy, and gut microbiota composition. Despite strong preclinical support, translational relevance remains uncertain due to model heterogeneity, limited randomized clinical evidence, and insufficient long-term follow-up. Clarifying tissue specificity, timing, dose, and patient selection will be essential for determining whether anti-diabetic agents can be safely repurposed as gerotherapeutics.",
-      "journal": "Pharmacol Res",
-      "date": "2026-09-08",
-      "authors": [
-        "Cui H",
-        "Nisar A",
-        "Duan Z",
-        "Mao J",
-        "Zhu H",
-        "Li L",
-        "Cao X",
-        "He Y",
-        "Li W"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phrs.2026.108443",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "klinik",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42716238",
-      "title": "Druggable tumor-nerve-immune circuits in cancer pain: model systems, human translatability and therapeutic paradoxes.",
-      "abstract": "Cancer pain is increasingly recognized as an active output of tumor-nerve-immune biology rather than a passive consequence of tissue damage. Tumor-derived algogens, neurotrophic factors, stress signals and immune mediators can sensitize nociceptors, facilitate perineural invasion, remodel myeloid and lymphoid compartments and recruit central glial mechanisms that may maintain persistent pain. However, the evidence base is asymmetric: many causal circuits were defined in selected bone-metastasis, perineural-invasion, oral-cancer, sarcoma or chemotherapy-induced neuropathy models, whereas applicability to human cancer pain varies by tumor type, pain phenotype, immune contexture and treatment exposure. This critical narrative Review evaluates peripheral, central, immune and pharmacological evidence using explicit model-to-human boundaries. Recent patient studies in oral squamous cell carcinoma link pain with CGRP-positive nerve density, circulating or tissue CGRP, perineural invasion and reduced CD8-positive T-cell density, but these associations do not establish human causality; validated biomarkers of spinal glial mechanisms are still lacking. We examine druggable nodes including NGF-TrkA, SLIT2-ROBO1, CGRP-CALCRL/RAMP1, CSF1R-dependent myeloid or glial signaling, voltage-gated sodium channels and opioid-neuroimmune interactions. Clinical trial and cohort examples illustrate therapeutic paradoxes in which analgesia must be balanced against joint safety, tissue repair, host defense and potentially confounded associations with immunotherapy outcomes. We finally propose a phenotype-matched model-selection framework and a druggable circuit-state strategy for patient-stratified pharmacological development.",
-      "journal": "Pharmacol Res",
-      "date": "2026-09-09",
-      "authors": [
-        "Hu Y",
-        "Hou L",
-        "Zhang X",
-        "Jiang H",
-        "Liu F",
-        "Liu H",
-        "Yang C",
-        "Wang L",
-        "Li C",
-        "Bao Y"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phrs.2026.108445",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "noro",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": "Kanser ağrısı, doku hasarının pasif bir sonucu olmaktan ziyade tümör-sinir-bağışıklık biyolojisinin aktif bir çıktısı olarak giderek daha fazla kabul edilmektedir. Tümör kaynaklı algojenler, nörotrofik faktörler, stres sinyalleri ve immün aracılar, nosiseptörleri duyarlı hale getirebilir, perinöral invazyonu kolaylaştırabilir, miyeloid ve lenfoid bölmeleri yeniden şekillendirebilir ve kalıcı ağrıyı sürdürebilen merkezi glial mekanizmaları harekete geçirebilir. Bununla birlikte, kanıt temeli asimetriktir: seçilmiş kemik metastazı, perinöral invazyon, ağız kanseri, sarkom veya kemoterapinin neden olduğu nöropati modellerinde birçok nedensel devre tanımlanmıştır; oysa insan kanser ağrısına uygulanabilirlik, tümör tipine, ağrı fenotipine, bağışıklık yapısına ve tedaviye maruz kalmaya göre değişir. Bu kritik anlatı İncelemesi, model-insan sınırlarını açık bir şekilde kullanarak periferik, merkezi, bağışıklık ve farmakolojik kanıtları değerlendirir. Oral skuamöz hücreli karsinomdaki son hasta çalışmaları, ağrıyı CGRP-pozitif sinir yoğunluğu, dolaşımdaki veya doku CGRP'si, perinöral invazyon ve azalmış CD8-pozitif T hücre yoğunluğu ile ilişkilendirmektedir, ancak bu ilişkiler insanda nedensellik oluşturmamaktadır; Spinal glial mekanizmaların doğrulanmış biyobelirteçleri hala eksiktir. NGF-TrkA, SLIT2-ROBO1, CGRP-CALCRL/RAMP1, CSF1R'ye bağımlı miyeloid veya glial sinyalleme, voltaj kapılı sodyum kanalları ve opioid-nöroimmün etkileşimleri dahil olmak üzere uyuşturulabilir düğümleri inceliyoruz. Klinik deneme ve kohort örnekleri, analjezinin eklem güvenliği, doku onarımı, konak savunması ve immünoterapi sonuçlarıyla potansiyel olarak karışık ilişkilere karşı dengelenmesi gerektiği terapötik paradoksları göstermektedir. Son olarak fenotip uyumlu bir model seçim çerçevesi ve hastaya göre sınıflandırılmış farmakolojik gelişim için ilaçlanabilir bir devre durumu stratejisi öneriyoruz."
     }
   ]
 }
