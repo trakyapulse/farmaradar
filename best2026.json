@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T11:13:58+00:00",
+  "updated": "2026-09-17T11:21:44+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -315,11 +315,11 @@
       "journal_tier": 1,
       "impact": 13.4,
       "section": "onko",
-      "score": 102.0,
+      "score": 100.0,
       "score_parts": {
         "journal": 100,
         "pubtype": 0,
-        "recency": 2.0
+        "recency": 0.0
       },
       "tier": 2,
       "abstract_tr": ""
@@ -709,6 +709,40 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42749024",
+      "title": "Drug resistance in cancer: Emerging mechanisms, translational barriers, and pharmacological strategies.",
+      "abstract": "Multidrug resistance (MDR) remains a major challenge in cancer treatment. MDR has been explained by single-gene mechanisms, such as overexpression of ATP-binding cassette (ABC) transporters, drug-target mutations, activation of bypass signaling pathways, and increased DNA repair. However, these mechanisms alone are insufficient to explain the heterogeneity, reversibility, temporal evolution, and environmental dependence of drug resistance observed in clinical settings. Increasing evidence suggests that MDR is better viewed as a complex and evolving biological phenomenon rather than the result of isolated molecular events. This shift in perspective presents both challenges and opportunities for drug development. Future strategies will therefore require dynamic and mechanism-informed approaches that integrate rational drug combinations with sequential, intermittent, or adaptive treatment according to the evolving resistance state. In this review, we propose a conceptual shift from conventional MDR models toward systemic adaptive resistance. We review classical drug resistance, including drug uptake/efflux, compensatory pathway activation, and apoptosis evasion. We explore non-genetic drug resistance, such as drug-tolerant persisters (DTPs), epithelial-mesenchymal transition (EMT), cancer stem cell (CSC) plasticity, and related factors. Then, we discuss the interaction between these mechanisms, and how their coordinated effects contribute to tumor persistence and the evolution of MDR. Finally, we evaluate barriers in translational medicine and emerging pharmacological strategies, including longitudinal molecular monitoring and artificial intelligence (AI) -assisted drug resistance prediction.",
+      "journal": "Pharmacol Ther",
+      "date": "2026-09-16",
+      "authors": [
+        "Chen X",
+        "Huang Q",
+        "Li R",
+        "Cao LQ",
+        "Gong K",
+        "Wang N",
+        "Ashby CR",
+        "Gu J",
+        "Chen ZS"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.pharmthera.2026.109126",
+      "journal_tier": 1,
+      "impact": 12.0,
+      "section": "klinik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42728154",
       "title": "Deubiquitinases in mitophagy: therapeutic control of mitochondrial quality.",
       "abstract": "Mitochondrial quality control is essential for maintaining cellular and tissue homeostasis. Mitophagy, the selective autophagic removal of damaged mitochondria, is a central component of this process, and defects in mitophagy are increasingly linked to neurodegeneration, cardiovascular disease, cancer, and inherited mitochondrial disorders. Ubiquitin-dependent tagging of outer mitochondrial membrane proteins is a major mechanism for marking damaged mitochondria for clearance; however, recent advances reveal that mitochondrial deubiquitinases (DUBs) shape ubiquitin signaling at damaged mitochondria, thereby influencing the efficiency and selectivity of mitochondrial turnover. Moreover, DUBs are emerging as context-dependent editors of the mitochondrial ubiquitin code that link mitophagy to disease pathogenesis and therapeutic intervention. Here, we synthesize current understanding of mitochondrial DUBs in physiology and disease and discuss emerging pharmacological strategies to guide the development of mitophagy-targeted therapeutics.",
@@ -829,6 +863,36 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42749518",
+      "title": "Bias from within: intracellular allosterism and the ICL2 hub.",
+      "abstract": "Targeting the orthosteric site of G protein-coupled receptors (GPCRs) has long dominated drug discovery, but intracellular allosteric modulators (AMs) provide new avenues to enhance selectivity and fine-tune signaling. Recent structural advances have illuminated intracellular allosteric pockets that act as conformational control hubs for transducer-selective engagement, biased signaling, and noncanonical receptor activation. Among these, the transmembrane helix 3 (TM3)-intracellular loop 2 (ICL2)-TM4 intracellular pocket (hereafter, the ICL2 site) has emerged as a key determinant of GPCR signaling bias and a strategic target for intracellular AM development. We review emerging structure-activity relationships, mechanistic and evolutionary determinants of ICL2-targeted intracellular allostery, and key translational challenges including membrane accessibility, pharmacokinetics, and species divergence. Finally, we highlight structure-guided and affinity-based discovery strategies for engineering pathway-selective intracellular AMs with greater transducer control than conventional orthosteric ligands.",
+      "journal": "Trends Pharmacol Sci",
+      "date": "2026-09-16",
+      "authors": [
+        "Zhou Y",
+        "Long A",
+        "Gross JD",
+        "Barak LS",
+        "Kahsai AW"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.tips.2026.08.015",
+      "journal_tier": 1,
+      "impact": 11.0,
+      "section": "klinik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42728153",
       "title": "Centanafadine (Simtriyo): a triple monoamine reuptake inhibitor for ADHD.",
       "abstract": "",
@@ -906,6 +970,64 @@
       },
       "tier": 2,
       "abstract_tr": "Kaspaz inhibitörleri defalarca klinik deneylere girmiştir ancak toksisite ve sınırlı etkinlik nedeniyle klinik uygulamaya ulaşamamıştır. Groborz ve meslektaşları şimdi gasdermin D gözeneklerinin piroptotik hücrelere zar geçirgen olmayan inhibitörleri kabul ettiğini ve zayıf geçirgenliği hücre durumu seçiciliği mekanizmasına dönüştürdüğünü gösteriyor."
+    },
+    {
+      "pmid": "42749517",
+      "title": "October 2026 issue first authors.",
+      "abstract": "",
+      "journal": "Trends Pharmacol Sci",
+      "date": "2026-09-16",
+      "authors": [
+        "Zhou Y",
+        "Wang S",
+        "McKee N",
+        "Tang Y",
+        "Xu Y",
+        "Suarez SA"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.tips.2026.08.016",
+      "journal_tier": 1,
+      "impact": 11.0,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42749516",
+      "title": "Closing AI drug-regulatory gaps through harmonized oversight.",
+      "abstract": "Artificial intelligence (AI) not only accelerates drug discovery but also creates regulatory gaps-with more than 100 AI-assisted pipelines in trials. Frameworks lack enforceable standards. We propose a risk-tiered framework that distinguishes discovery AI from evidence-generating AI, mandates impact assessments and Investigational New Drug disclosure when AI influences decisions, and transforms guidelines into binding, risk-proportionate regulation.",
+      "journal": "Trends Pharmacol Sci",
+      "date": "2026-09-16",
+      "authors": [
+        "Sarsaiya S",
+        "Jain A",
+        "Chen J",
+        "Gong Q"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.tips.2026.09.001",
+      "journal_tier": 1,
+      "impact": 11.0,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
     },
     {
       "pmid": "42668070",
@@ -1050,6 +1172,36 @@
         "Review"
       ],
       "doi": "10.1016/j.jconrel.2026.115337",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "onko",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42749136",
+      "title": "Tumor-homing peptides in precision oncology: Mechanisms, design and recent advances.",
+      "abstract": "Mechanisms of systemic administration of cytotoxic and immunomodulatory agents are hindered due to poor intratumoral retention and off-target toxicities. While Antibody-Drug Conjugates (ADCs) have achieved substantial clinical success and validated the paradigm of targeted therapy, their large size (~150 kDa) limits their ability to cross blood vessels and interstitial spaces, especially in the dense, collagen-rich stroma of aggressive solid tumors. As a smaller alternative for drug delivery, Tumor-Homing Peptides (THPs) allow for improved tissue permeability, low immunogenicity and rapid systemic clearance. Here, we examine THPs discovery and development trajectory, from phage display strategies to current deep learning-driven design methodologies. We analyze the structural and functional biology of the predominant internalization pathways like the Neuropilin-1 (NRP-1) dependent C-end Rule (CendR) and the Sortilin (SORT1) scavenger receptor, and their use to promote deep tissue penetration. Finally, we assess the translational landscape of early 2026, including the recent FDA withdrawal of the lipophilic peptide-conjugated melphalan flufenamide (Pepaxto®) and the recent clinical success of the cyclic peptide certepetide for pancreatic adenocarcinoma and the ongoing promising studies with chemically constrained bicyclic peptides.",
+      "journal": "J Control Release",
+      "date": "2026-09-16",
+      "authors": [
+        "Ma G",
+        "Derkaoui DK",
+        "Senhadji R",
+        "Karoyan P",
+        "Poyet JL"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115360",
       "journal_tier": 1,
       "impact": 10.5,
       "section": "onko",
@@ -1672,193 +1824,35 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42668077",
-      "title": "Pharmacological inhibition of the SUMOylation pathway: Mechanisms, inhibitors and therapeutic opportunities.",
-      "abstract": "Small ubiquitin-like modifier (SUMO) conjugation, or SUMOylation, is a dynamic post-translational modification that regulates protein stability, localization, transcriptional activity, DNA damage response, and cellular stress adaptation. Increasing evidence indicates that dysregulated SUMOylation contributes to tumor progression, immune disorders, and neurodegenerative diseases, highlighting the SUMO pathway as a promising therapeutic target. However, despite extensive advances in SUMO biology, a comprehensive pharmacological assessment of SUMO pathway inhibitors, including their mechanisms of action, evidence quality, target engagement, and translational challenges, remains insufficient. This review presents an inhibitor-centered analysis of pharmacological strategies targeting the SUMOylation machinery. This review describes the molecular architecture of the SUMO conjugation cycle and identifies major druggable nodes, including the SUMO-activating enzyme (SAE), the SUMO-conjugating enzyme UBC9, SUMO-specific proteases (SENPs), and SUMO-dependent protein-protein interactions. It also examines the biological rationale for SUMO pathway inhibition in major disease contexts, with an emphasis on cancer, autoimmune disorders, and neurological diseases. Furthermore, SUMO pathway modulators are systematically classified according to their molecular targets and evidence maturity, including SAE inhibitors, UBC9-directed compounds, SENP inhibitors, direct SUMO binders, and natural product-derived modulators. Their mechanisms of action, biochemical potency, structural validation, cellular target engagement, in vivo efficacy, PK/PD properties, and developmental status are critically evaluated. Overall, this review provides a comprehensive pharmacological framework for understanding SUMO pathway inhibition and highlights key considerations for the development of next-generation SUMO-directed therapeutics.",
-      "journal": "Pharmacol Res",
-      "date": "2026-08-30",
+      "pmid": "42749135",
+      "title": "Biomimetic intelligent lipoprotein nanocarrier for sustained and well-tolerated nerve growth factor delivery in neurotrophic keratopathy treatment.",
+      "abstract": "Neurotrophic keratopathy (NK) is a degenerative disease caused by trigeminal/corneal nerve damage and may progress to persistent epithelial defects, ulceration, perforation, and vision loss. Although recombinant human nerve growth factor (rhNGF) has been approved for NK treatment, its clinical use is limited by low ocular bioavailability, irritation, and frequent dosing (six times daily). Here, we developed a biomimetic intelligent enzyme-responsive lipoprotein (NGFc-L@P) for sustained and well-tolerated delivery of NGF. NGFc-L@P features (i) an outer shell of reconstituted high-density lipoprotein (rHDL) functionalized with matrix metalloproteinase-9 (MMP-9)-activatable cell-penetrating peptides, enabling lesion-responsive activation and enhanced corneal penetration; and (ii) an inner core that mimics the extracellular matrix and encapsulates NGF, preserving its bioactivity while providing sustained release. Compared with conventional NGF formulations, NGFc-L@P prolonged corneal NGF residence to >8 h, enabled sustained release, mitigated ocular irritation and enabled targeted penetration. In alkali burn-induced NK mouse models, NGFc-L@P markedly accelerated corneal epithelial healing, promoted nerve restoration and suppressed inflammation with three daily instillations. Besides, diabetes NK mice were established to further validate superior therapeutic efficacy and universality of NGFc-L@P. Collectively, this biomimetic intelligent lipoprotein nanocarrier provides a promising strategy for NK therapy in a multi-dimensional manner and holds strong potential for clinical translation.",
+      "journal": "J Control Release",
+      "date": "2026-09-16",
       "authors": [
-        "Lu J",
-        "Chen X",
-        "Chen Y",
-        "Wang D",
-        "Wu J",
-        "Jin R",
-        "Guo H",
-        "Zhang Q",
-        "Zhao P",
-        "Shi Y",
-        "Wang Y"
+        "Li S",
+        "Huang J",
+        "Zhang S",
+        "Wu N",
+        "Sun H",
+        "Chen L",
+        "Gao X",
+        "Fu Y"
       ],
       "pubtypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
-      "doi": "10.1016/j.phrs.2026.108417",
+      "doi": "10.1016/j.jconrel.2026.115358",
       "journal_tier": 1,
-      "impact": 9.1,
-      "section": "onko",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1
-    },
-    {
-      "pmid": "42668075",
-      "title": "Decoding the bile acid-mitochondria axis: Implications for disease management and therapeutic opportunities.",
-      "abstract": "Bile acids, as cholesterol metabolites, orchestrate a regulatory network with mitochondrial quality control through nuclear receptor FXR, membrane receptor TGR5, and other signaling molecules, modulating mitochondrial biogenesis, dynamic equilibrium, selective autophagy, and redox homeostasis. TGR5 promotes PGC-1α-mediated mitochondrial biogenesis via the cAMP-PKA-CREB pathway, while concurrently regulating mitochondrial fission and calcium homeostasis through the PKCδ/Drp1 and GRP75-MAMs pathways. FXR, acting through transcriptional reprogramming and epigenetic mechanisms, governs fatty acid oxidation, antioxidant defense, and apoptotic pathways, and has been shown to restore PINK1/Parkin-dependent autophagy and suppress NLRP3 inflammasome activation in alcoholic liver disease. Noncanonical receptors, including S1PR2, VDR, and PXR, also participate in the regulation of mitochondrial dynamics and autophagy. Dysregulation of this network is closely associated with metabolic dysfunction-associated fatty liver disease, diabetic retinopathy, pancreatic β-cells injury, alcoholic liver disease, and sepsis-induced immunoparalysis. Agonists targeting the aforementioned receptors, such as INT-777, INT-767, and Fexaramine, have demonstrated the capacity to restore mitochondrial function and alleviate tissue damage in animal models. Future investigations should employ multi-omics and structural biology approaches to elucidate receptor crosstalk and concentration-dependent bidirectional effects, and to develop tissue-selective modulators, thereby facilitating clinical translation.",
-      "journal": "Pharmacol Res",
-      "date": "2026-08-30",
-      "authors": [
-        "Jia X",
-        "Zhang Z",
-        "Lin X",
-        "Dong X",
-        "Chen R",
-        "Liang N",
-        "Ding H",
-        "Li F"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phrs.2026.108415",
-      "journal_tier": 1,
-      "impact": 9.1,
+      "impact": 10.5,
       "section": "kardiyometabolik",
-      "score": 110.0,
+      "score": 100.0,
       "score_parts": {
         "journal": 100,
-        "pubtype": 10,
+        "pubtype": 0,
         "recency": 0.0
       },
-      "tier": 1
-    },
-    {
-      "pmid": "42668076",
-      "title": "Targeted structural destabilization of flavonoids: A novel paradigm for metabolic reprogramming and anti-senescence to repair the alveolar-capillary barrier.",
-      "abstract": "Persistent disruption of the alveolar-capillary barrier (ACB) is the core pathological basis of acute respiratory distress syndrome (ARDS) and pulmonary fibrosis (PF). ACB deterioration reflects a complex pathological process involving macrophage immunometabolic reprogramming, epithelial stress responses, and senescence-associated impairment of alveolar repair. Traditional single-target anti-inflammatory strategies are difficult to reverse this microenvironmental deterioration. Based on evidence from literature mining, network pharmacology, molecular docking, molecular dynamics (MD) simulations, protein conformational biology, and structure-activity considerations, this paper proposes selected flavonoid compounds as candidate \"Targeted Structural Destabilizers.\" Rather than representing a universal class effect of all flavonoids, this hypothesis applies to structurally compatible compounds whose scaffold features, hydroxylation patterns, and target-interface compatibility may permit conformational perturbation of pathogenic hub proteins such as TP53 and STAT3. These compounds are hypothesized to shift selected hub proteins toward more flexible, partially destabilized, or molten globule-like conformational states, thereby attenuating pathological signaling outputs in a compound- and target-context-dependent manner. Functionally, this proposed mechanism may contribute to ACB repair by suppressing HIF-1/STAT3-associated inflammatory glycolysis in macrophages, supporting metabolic restoration, and modulating TP53-associated senescence-associated secretory phenotype (SASP) programs in alveolar epithelial cells. This review outlines a hypothesis-driven framework linking targeted structural destabilization, metabolic reprogramming, and anti-senescence repair. Direct biophysical, cellular, and disease-model validation will be required to determine whether this proposed flavonoid-based paradigm can be translated into effective ACB repair strategies.",
-      "journal": "Pharmacol Res",
-      "date": "2026-08-29",
-      "authors": [
-        "Li M",
-        "Zhang GS",
-        "Shen FQ",
-        "Wang HY",
-        "Man YC",
-        "Ren FL",
-        "Ye JY",
-        "Jiang B",
-        "Wang Y"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phrs.2026.108416",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "immuno",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1
-    },
-    {
-      "pmid": "42668074",
-      "title": "Heterogeneous Associations of Antidiabetic Medications with Cancer Prognosis: Evidence from 61 Studies with Over 1.1 Million Patients.",
-      "abstract": "This systematic review and meta-analysis aimed to comprehensively evaluate the prognostic impacts of seven classes of antidiabetic medications in patients with cancer, predominantly in the setting of concomitant type 2 diabetes mellitus (T2DM), and to elucidate their potential differential effects.  A systematic search of PubMed, Embase, Cochrane Library, and the Web of Science was conducted from inception to May 2025, utilizing keywords including \"antidiabetic drugs,\" \"cancer,\" and \"prognosis.\" Based on predefined criteria, eligible English-language randomized controlled trials and cohort studies were included if they compared the prognostic impacts of metformin, insulin, sulfonylureas, dipeptidyl peptidase-4 (DPP-4) inhibitors, sodium-glucose cotransporter 2 (SGLT2) inhibitors, glucagon-like peptide-1 (GLP-1) receptor agonists, and thiazolidinediones in patients with cancer. The primary outcome domain was all-cause survival, represented by all-cause mortality (ACM) or overall survival (OS) according to the terminology of the original studies. Secondary cancer-related outcomes included cancer-specific mortality (CSM), disease-free survival (DFS), progression-free survival (PFS), and recurrence-free survival (RFS). Multiple independent investigators performed data extraction and quality assessment. Statistical analyses were performed using OnlineMeta V1.1. DerSimonian-Laird random-effects models were used for all primary meta-analyses to calculate hazard ratios (HRs) and 95% confidence intervals (CIs), while fixed-effects estimates were examined as complementary sensitivity analyses. Study quality was assessed using the Newcastle-Ottawa Scale and the Cochrane risk-of-bias tool for randomized trials.  A total of 61 studies comprising 1,106,966 patients with cancer were included. Metformin use was associated with lower ACM (HR=0.82, 95% CI: 0.74-0.91, P=0.0001) and CSM (HR=0.77, 95% CI: 0.69-0.87, P<0.0001), whereas insulin use was associated with higher ACM (HR=2.03, 95% CI: 1.63-2.51, P<0.0001). Among the drug classes analyzed, SGLT2 inhibitor use showed a nonsignificant inverse trend with ACM (HR=0.44, 95% CI: 0.11-1.71, P=0.24) and was associated with lower CSM (HR=0.21, 95% CI: 0.20-0.22, P<0.0001), although these estimates were based on few observational studies with study-specific comparator groups and do not establish superiority over other drug classes. In adjusted-HR-only sensitivity analyses, the direction of association was generally consistent for the major metformin outcomes and insulin-related ACM, whereas several other comparisons were attenuated or could not be pooled because too few studies reported adjusted estimates.  This meta-analysis identified heterogeneous associations between antidiabetic drug use and cancer-related survival outcomes, with variation across drug classes, cancer types, and study-level mean age groups. Because the evidence was derived predominantly from observational studies with study-specific comparator groups, substantial between-study heterogeneity, and limited data for newer agents, the pooled estimates should not be interpreted as evidence of treatment superiority or used to rank drug classes. These findings are hypothesis-generating and warrant confirmation in prospective studies using clinically comparable treatment groups, standardized outcome definitions, and rigorous control of confounding.",
-      "journal": "Pharmacol Res",
-      "date": "2026-08-29",
-      "authors": [
-        "Luo P",
-        "Ding Y",
-        "Huang W",
-        "Ma W",
-        "Lan X",
-        "Zhang J",
-        "Yang X",
-        "Lin A"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phrs.2026.108420",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "klinik",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1
-    },
-    {
-      "pmid": "42668072",
-      "title": "The complement system in the pathophysiology and treatment of depression: From synaptic pruning to pharmacological targeting.",
-      "abstract": "Major depressive disorder remains unsatisfactorily addressed by monoaminergic antidepressants, and the search for mechanistically novel targets has converged on the immune system. Among these, the complement system offers a defined molecular route through which locally synthesized complement proteins may tag synapses for microglial engulfment. Preclinical studies implicate the C1q-C3-CR3 pruning axis and the anaphylatoxin receptors C3aR and C5aR in linking immune activation to region-dependent synaptic and neuroinflammatory changes, but causal evidence in patients remains absent. This review synthesizes genetic and pharmacological studies of C3, C3aR, and C1q in stress- and inflammation-based animal models; critically appraises the heterogeneous human biomarker and large-scale proteomic literature; and organizes candidate pharmacology into natural products and small molecules, established drugs with secondary complement-related actions, and clinical-stage complement inhibitors developed for other indications. We emphasize that no randomized controlled trial has tested deliberate complement inhibition in depression and that physiological complement functions, infectious risk, CNS delivery, regional heterogeneity, sex, and patient selection remain major barriers. Complement therefore represents a testable, biomarker-linked therapeutic hypothesis rather than an established treatment mechanism, requiring stratified trials with direct pharmacodynamic evidence.",
-      "journal": "Pharmacol Res",
-      "date": "2026-08-29",
-      "authors": [
-        "Song JY",
-        "Zhang ZQ",
-        "Lin TC",
-        "Huang WF",
-        "Yi LT"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phrs.2026.108419",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "klinik",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1
-    },
-    {
-      "pmid": "42702342",
-      "title": "From Target Engagement to Translational Disconnect: A Systematic Review and Narrative Synthesis of Direct Tau-Targeted Clinical Trials in Alzheimer's Disease and Primary Tauopathies.",
-      "abstract": "BACKGROUND: Tau pathology is strongly associated with neurodegeneration and clinical progression in Alzheimer's disease (AD), positioning it as an important therapeutic target. However, tau-targeted therapies have thus far demonstrated limited and inconsistent translation into meaningful clinical benefit. OBJECTIVE: To examine clinical trials of tau-targeted therapies and explore potential mechanisms underlying their translational disconnect between biological target engagement and clinical outcomes. METHODS: A structured search of PubMed, MEDLINE, Embase, Cochrane CENTRAL, and related databases was conducted to identify interventional clinical trials targeting tau pathology. Eligible studies included randomized and early-phase trials evaluating monoclonal antibodies, vaccines, antisense oligonucleotides, and small-molecule aggregation inhibitors. Findings were synthesized using a structured narrative approach due to heterogeneity in study design, disease populations, therapeutic mechanisms and clinical end points. Risk of bias was assessed using the Cochrane Risk of Bias 2 tool. RESULTS: Eleven clinical trials were included, comprising seven monoclonal antibody studies, two vaccine trials, one antisense oligonucleotide study, and one small-molecule aggregation inhibitor study. Across monoclonal antibody and vaccine programs, biomarker modulation and target engagement were observed in some studies, yet these findings did not consistently translate into meaningful reductions in cognitive or functional decline. The antisense oligonucleotide BIIB080 demonstrated substantial reductions in cerebrospinal fluid tau biomarkers, supporting biological activity and target engagement; however, clinical efficacy remains to be established. Similarly, the small-molecule aggregation inhibitor LMTM did not demonstrate consistent clinical benefit in phase 3 trials. Most studies exhibited low risk of bias or some concerns, suggesting that methodological limitations alone may not fully explain the observed translational challenges. CONCLUSION: Tau-targeted therapies highlight a translational gap between biological activity and clinically meaningful benefit across multiple therapeutic mechanisms. Emerging evidence suggests that disease-stage timing, biomarker interpretation, tau heterogeneity, and aging-related factors may contribute to this disconnect. Future strategies will likely require earlier, and more biologically stratified intervention approaches, improved biomarker validation, and combination paradigms addressing the multifactorial complexity of neurodegenerative disease.",
-      "journal": "Pharmacol Res",
-      "date": "2026-09-06",
-      "authors": [
-        "Yin L",
-        "Ren R",
-        "Leo C",
-        "Lu Y"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.phrs.2026.108439",
-      "journal_tier": 1,
-      "impact": 9.1,
-      "section": "noro",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
+      "tier": 2,
       "abstract_tr": ""
     }
   ]
