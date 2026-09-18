@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T11:21:44+00:00",
+  "updated": "2026-09-18T10:55:59+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -501,6 +501,38 @@
       },
       "tier": 1,
       "abstract_tr": "Yağ dokusunun sistemik metabolizmanın merkezi düzenleyicisi olduğu giderek daha fazla kabul edilmektedir. Yağ dokusu, enerji depolamanın ötesinde besin algılamayı, endokrin sinyalini ve bağışıklık tepkilerini birleştirir ve metabolik homeostazı koordine etmek için diğer organlarla aktif olarak iletişim kurar. Bu fonksiyonel karmaşıklık, etkileşimleri hem fizyolojik hem de patolojik durumları dinamik olarak düzenleyen adipositlerin ve stromal hücrelerin koordineli aktivitesinden kaynaklanmaktadır. İlaç geliştirmede ve mekanik araştırmalarda kullanılan in vitro deneysel modellerin çoğu bu karmaşıklığı basitleştirirken, in vivo modeller sistemik fizyolojiyi bütünleştirir ancak insana özgü değildir. Bu uyumsuzluk, özellikle metabolik yolları, inflamasyonu veya organlar arası sinyalleşmeyi hedef alan bileşikler için yağa özgü ilaç etkilerini tahmin etme yeteneğini sınırlar. Farmakolojik bağlamlarda bu sınırlama özellikle önemlidir çünkü yağ dokusu yalnızca terapötik bir hedef olarak hareket etmekle kalmaz, aynı zamanda lipid bölünmesi, endokrin sinyalleme ve immün modülasyon yoluyla ilaç dağıtımını, biyoyararlanımını ve etkinliğini de etkiler. Bu özellikleri yakalayamayan modeller, temel eylem mekanizmalarını gözden kaçırma veya terapötik sonuçları yanlış tahmin etme riski taşır. Yağ dokusu karmaşıklığını yeniden yapılandıran mikrofizyolojik sistemler, bu boşluğu dolduracak bir çerçeve sunar. Olgun adipositler ve stromal vasküler fraksiyon hücreleri gibi yağla ilgili birden fazla hücre tipinin fizyolojik perfüzyon ve kontrol edilebilir mikro ortamlarla birlikte entegre edilmesiyle bu sistemler, hücre-hücre etkileşimlerinin metabolik fonksiyonu ve farmakolojik tepkileri nasıl şekillendirdiğinin ele alınmasına yardımcı olabilir. Bu nedenle, ilaç mekanizmalarını sorgulamak, dokuya özgü etkinliği değerlendirmek için çevirisel bir platformu temsil ederler ve metabolik olarak ilgili insan ortamlarında sistemik farmakolojik etkileri tahmin etmek için araçlar haline gelebilirler."
+    },
+    {
+      "pmid": "42753920",
+      "title": "Fibrosis: Bridging fundamental mechanisms to precision medicine via advanced therapeutics.",
+      "abstract": "Fibrosis is a progressive, pan-organ pathology characterized by excessive deposition of extracellular matrix (ECM), tissue stiffening, and ultimately organ failure. Despite a deepened understanding of its molecular mechanisms, effective therapies remain scarce, largely because the dense scar ECM, elevated interstitial fluid pressure (IFP), and metabolic heterogeneity severely limit drug penetration and lead to off-target toxicity. This review integrates converging mechanisms of fibrosis with advances in precision delivery, laying out a roadmap for the development of next-generation antifibrotic therapeutics. We first summarize the multicellular core mechanisms of fibrosis-myofibroblasts, immune cells, and barrier cells-as well as the interconnected TGF-β, PDGF, WNT/β-catenin and metabolic circuits, which together generate a hostile, stiff microenvironment. Subsequently, we highlight how single-cell and spatial multi-omics, complex humanized models, and AI-driven network analysis are redefining target identification, patient stratification and the \"design inputs\" for advanced drug and gene delivery systems. Building on these insights, we critically evaluate stimuli-responsive nanocarriers leveraging ROS, pH, enzymatic activity or exogenous triggers, as well as local depots, microneedles and inhalation formulations capable of overcoming systemic delivery limitations and fibrotic microenvironmental barriers. Key carrier platforms-including lipid, polymeric and inorganic nanoparticles, extracellular vesicles (EVs) and protein/peptide vectors-are compared in terms of organ tropism, penetration capacity, payload types, and translational application limitations. By explicitly mapping clinical and emerging antifibrotic agents to their primary delivery barriers, we propose a pan-fibrotic framework that integrates shared core pathways with organ-specific \"zip codes\" and synergistically develops intelligent payloads and vehicles to achieve precise, clinically translatable antifibrotic therapy.",
+      "journal": "Adv Drug Deliv Rev",
+      "date": "2026-09-17",
+      "authors": [
+        "An L",
+        "Lin P",
+        "Chen K",
+        "Chen Y",
+        "Feng Y",
+        "Liu Z",
+        "Wang C"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.addr.2026.115973",
+      "journal_tier": 1,
+      "impact": 13.3,
+      "section": "kardiyometabolik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
     },
     {
       "pmid": "42722584",
@@ -1215,6 +1247,68 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42753821",
+      "title": "Beyond efficiency: the AI-driven shift toward safer lipid nanoparticles for gene delivery.",
+      "abstract": "Lipid nanoparticles (LNPs) have reshaped gene delivery, most notably through their pivotal role in mRNA vaccines. However, as LNPs move beyond vaccination toward broader therapeutic applications, maximizing delivery efficiency alone is no longer sufficient. The inherent immunogenicity of both lipid and nucleic acid components initially observed in vaccines is posing new safety challenges. Herein, we advocate a shift from efficiency-driven optimization to a principled balance between safety and efficiency. We summarize recently uncovered mechanistic insights into LNP-associated immunogenicity and review strategies to mitigate these effects through rational lipid optimization. Advances in targeting, endosomal escape, and subcellular delivery are also examined, contributing to enhance overall delivery performance. The rapid iteration and the need to integrate multidimensional design parameters call for the assistance of artificial intelligence (AI)-guided approaches, that are enabling data-driven optimization of the safety-efficiency balance. This review concludes with a discussion of current progress, limitations, and future directions of the integrated wet-dry research paradigm, outlining a roadmap for next-generation LNP platforms across diverse therapeutic applications.",
+      "journal": "J Control Release",
+      "date": "2026-09-17",
+      "authors": [
+        "Xie HX",
+        "Liu JQ",
+        "Zhao M",
+        "Zhou TJ",
+        "Xing L",
+        "Cheng XW",
+        "Tian Z",
+        "Wang Y",
+        "Jiang HL"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115364",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "kardiyometabolik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42753820",
+      "title": "Designing nature's nanocarriers: advances and challenges in functionalizing bacterial extracellular vesicles.",
+      "abstract": "Bacterial extracellular vesicles (bEVs) are nanoscale, membrane-bound particles naturally secreted by bacteria and are increasingly being explored as therapeutic carriers. Their small size, ability to encapsulate and protect cargo, inherent bioactivity, and compatibility make them attractive candidates for therapeutic development. However, precise and reproducible functionalization remains a central challenge for clinical translation. Post-isolation physical and chemical modification methods enable cargo loading and surface conjugation but are often limited by membrane disruption, heterogeneous functionalization, and scale-up constraints. In contrast, genetic engineering approaches program vesicle composition during biogenesis, enabling controllable luminal loading, surface display, and hypervesiculation. In this review, we examine luminal targeting strategies (secretion pathway-mediated loading, lipoprotein anchoring, and membrane scaffold fusions), surface display platforms (ClyA, Lpp-OmpA hybrids, autotransporters, and ice nucleation protein), and genetic yield-enhancement mechanisms. Finally, we outline key translational considerations to advance bEVs toward clinically viable, programmable delivery systems.",
+      "journal": "J Control Release",
+      "date": "2026-09-17",
+      "authors": [
+        "Kumar VSH",
+        "Zierden HC",
+        "Molinari S"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115363",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "antimikrobiyal",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42668069",
       "title": "Thermogelling lacrimal duct-applied therapeutic platform for dry eye syndrome.",
       "abstract": "Dry eye syndrome (DED), a multifactorial ocular surface disorder, presents significant treatment challenges in severe cases where conventional eye drops demonstrate limited efficacy. Current lacrimal occlusion strategies, while clinically valuable, are compromised by a device migration and sizing inaccuracies that undermine therapeutic reliability. To address these limitations, we engineered an innovative SwitchPlug hydrogel as a switchable punctal plug formed in situ from pre-assembled mPEG-PLGA nanoparticles under the morphological and thermal cues of the lacrimal canaliculus, which affords reversible punctal occlusion and broad-spectrum drug loading capacity. The SwitchPlug hydrogel exhibits rapid sol-gel transition at physiological canalicular temperature (∼37 °C), forming stable occlusions that significantly prolong tear retention while permitting gentle, cooling-induced liquefaction for atraumatic removal, a critical safety advantage over current plugs. Beyond its mechanical occlusion, this smart hydrogel functions as a versatile drug reservoir capable of sustained release across diverse therapeutics, including hydrophobic small molecules (e.g., cyclosporine A), hydrophilic compounds (e.g., dequafosil sodium), and macromolecular proteins (e.g., human epidermal growth factor). In both mouse and rabbit DED models, cyclosporine A-loaded SwitchPlug hydrogel (CsA@SwitchPlug) demonstrated superior therapeutic efficacy compared to commercial formulations, effectively restoring tear secretion, suppressing corneal inflammation, reducing epithelial apoptosis, and accelerating tissue repair. Comprehensive biosafety evaluation confirmed excellent ocular and systemic biocompatibility. This integrated platform represents a paradigm shift in DED management by simultaneously addressing three critical clinical needs, including prolonged ocular retention, customizable drug delivery, and reversible mechanical occlusion, offering new possibilities for personalized and combinatorial therapy of DED.",
@@ -1743,109 +1837,6 @@
       "journal_tier": 1,
       "impact": 10.5,
       "section": "immuno",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42744200",
-      "title": "Nab-paclitaxel fused with the de novo designed receptor binder exhibits enhanced tumor targeting and therapeutic efficacy.",
-      "abstract": "Chemotherapy has been widely used in cancer treatment, but most of the chemotherapeutic drugs rely mainly on passive accumulation due to lack of target specificity, which may lead to systemic toxicity and limited clinical utility. Recent advances in artificial intelligence-based protein design provide new opportunities for developing precision therapeutics. Here we modify the albumin-bound paclitaxel (Nab-PTX), one of the most widely used drugs in chemotherapies, by applying the fusion proteins of albumin with the de novo designed protein binders targeting human EGFR or HER2. The resulting particles, EGFRmb-Nab-PTX and HER2mb-Nab-PTX, retain the similar physicochemical properties of Nab-PTX while acquiring the receptor-specific binding capacities. The in vitro assays show that both binder-modified Nab-PTX particles have increased uptake and inhibitory effects significantly in the cancer cell lines with high receptor expression levels. Furthermore, the data from a xenograft model, including tumor growth, excised tumor analysis, organ histology, and fluorescence imaging, show that the binder-modified Nab-PTX enhances tumor accumulation, improves tumor suppression, and may reduce off-target exposure compared with the conventional Nab-PTX, suggesting that they may have promising clinical potential in cancer treatment. Overall, this strategy provides an adaptable modular platform for generating albumin-based chemotherapeutic drugs with target specificities, which can be readily customized with diverse target binders to enable precise cancer therapies.",
-      "journal": "J Control Release",
-      "date": "2026-09-15",
-      "authors": [
-        "Qian Y",
-        "Yan W",
-        "Xu F",
-        "Liu Y",
-        "Chen F",
-        "Lu Y",
-        "Zhang Z",
-        "Gu A",
-        "Yu R",
-        "Fang Z",
-        "Yu Y",
-        "Li M",
-        "Cao L",
-        "Liu Y",
-        "He Y"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jconrel.2026.115355",
-      "journal_tier": 1,
-      "impact": 10.5,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42744199",
-      "title": "Metal-organic framework-based Z-scheme heterostructure enables oxygen-independent sonodynamic immunotherapy through tumor-associated macrophage reprogramming.",
-      "abstract": "Sonodynamic therapy (SDT) provides spatially controlled tumor treatment, but its efficacy in hypoxic tumors is limited by oxygen-dependent reactive oxygen species (ROS) generation and tumor-associated macrophage (TAM)-mediated immunosuppression. Here, we developed a hyaluronic acid (HA)-modified, metal-organic framework (MOF)-based CuO₂@FeTCPP Z-scheme nanosonosensitizer to combine hypoxia-tolerant hydroxyl radical (•OH) generation with macrophage reprogramming. Band-edge analysis, interfacial X-ray photoelectron spectroscopy, and spin-trapping and scavenging experiments provided complementary support for a Z-scheme charge-transfer pathway that preserves reducing electrons on FeTCPP and highly oxidative holes on CuO₂. Under ultrasound irradiation, CuO₂@FeTCPP@HA maintained strong •OH generation under hypoxia, whereas oxygen-dependent 1O₂ production was substantially attenuated. HA modification enhanced CD44-associated cellular uptake, as demonstrated by comparison with the HA-free material and by CD44-blocking experiments. In M2-like macrophages, CuO₂@FeTCPP@HA treatment without ultrasound was accompanied by increased H3 acetylation and decreased H3K9 trimethylation, whereas ultrasound activation markedly increased •OH production and amplified the M2-to-M1 phenotypic and cytokine responses. These observations support distinct but convergent contributions from Cu-associated metabolic-epigenetic regulation and ultrasound-triggered oxidative stress. In a bilateral subcutaneous A20 lymphoma model, local treatment of the primary tumor suppressed both irradiated primary and non-irradiated contralateral tumors, reduced the bone marrow lymphoma burden, and promoted dendritic cell maturation, CD8+ T-cell infiltration, and effector memory T-cell formation. Together, these results demonstrate a materials-based strategy that integrates oxygen-independent sonocatalysis with macrophage-centered immune remodeling for systemic antitumor therapy.",
-      "journal": "J Control Release",
-      "date": "2026-09-15",
-      "authors": [
-        "Liu J",
-        "Shao B",
-        "Miao Q",
-        "Wang J",
-        "Wang Z",
-        "Han M",
-        "Hou Y",
-        "Yan F"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jconrel.2026.115352",
-      "journal_tier": 1,
-      "impact": 10.5,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42749135",
-      "title": "Biomimetic intelligent lipoprotein nanocarrier for sustained and well-tolerated nerve growth factor delivery in neurotrophic keratopathy treatment.",
-      "abstract": "Neurotrophic keratopathy (NK) is a degenerative disease caused by trigeminal/corneal nerve damage and may progress to persistent epithelial defects, ulceration, perforation, and vision loss. Although recombinant human nerve growth factor (rhNGF) has been approved for NK treatment, its clinical use is limited by low ocular bioavailability, irritation, and frequent dosing (six times daily). Here, we developed a biomimetic intelligent enzyme-responsive lipoprotein (NGFc-L@P) for sustained and well-tolerated delivery of NGF. NGFc-L@P features (i) an outer shell of reconstituted high-density lipoprotein (rHDL) functionalized with matrix metalloproteinase-9 (MMP-9)-activatable cell-penetrating peptides, enabling lesion-responsive activation and enhanced corneal penetration; and (ii) an inner core that mimics the extracellular matrix and encapsulates NGF, preserving its bioactivity while providing sustained release. Compared with conventional NGF formulations, NGFc-L@P prolonged corneal NGF residence to >8 h, enabled sustained release, mitigated ocular irritation and enabled targeted penetration. In alkali burn-induced NK mouse models, NGFc-L@P markedly accelerated corneal epithelial healing, promoted nerve restoration and suppressed inflammation with three daily instillations. Besides, diabetes NK mice were established to further validate superior therapeutic efficacy and universality of NGFc-L@P. Collectively, this biomimetic intelligent lipoprotein nanocarrier provides a promising strategy for NK therapy in a multi-dimensional manner and holds strong potential for clinical translation.",
-      "journal": "J Control Release",
-      "date": "2026-09-16",
-      "authors": [
-        "Li S",
-        "Huang J",
-        "Zhang S",
-        "Wu N",
-        "Sun H",
-        "Chen L",
-        "Gao X",
-        "Fu Y"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jconrel.2026.115358",
-      "journal_tier": 1,
-      "impact": 10.5,
-      "section": "kardiyometabolik",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
