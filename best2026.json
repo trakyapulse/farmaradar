@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T10:55:59+00:00",
+  "updated": "2026-09-19T10:39:08+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -135,6 +135,57 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42760383",
+      "title": "The value of speed for drug developers.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-18",
+      "authors": [
+        "Ridley DB",
+        "Xu C"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00149-8",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42760382",
+      "title": "First myostatin-targeted antibody approved for spinal muscular atrophy.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-18",
+      "authors": [
+        "Mullard A"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00152-z",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42727408",
       "title": "Application of human liver cell models in drug development and toxicity studies: The role of membrane transporters.",
       "abstract": "The critical involvement of hepatic transporters in both physiological and pathological processes, including metabolic diseases, drug metabolism, and toxicity, represents a key issue in pharmacology. The expression and localization of transporters involved in hepatic functions are especially important in new drug development and toxicology studies. Because of major species differences in transporter expression, localization, and substrate recognition, the value of animal experiments is limited in this regard, and human liver cell preparations are already available to allow relevant in vitro studies. Currently, the gold standard for in vitro studies is the primary human liver cell preparation. However, the interindividual heterogeneity, low reproducibility, and high price of such preparations are prohibiting their widespread use. Hepatocytes derived from liver tumors are widely used in toxicology studies, but each of these cell lines has specific advantages and shortcomings. Stem cell-based liver cell preparations, especially spheroids and organoids derived from human induced pluripotent stem cells, may serve as a new toolbox for studying a variety of membrane transporters and complex metabolic interactions in human hepatocytes. These advanced preparations, although currently somewhat premature, should provide an excellent basis for comprehensive in vitro functional assays. The present paper provides a comparative review of our current understanding of the pharmacological relevance of hepatic transporters, their interactions with the key players of general drug metabolism, their complex regulation, as well as the recent methodologies to apply human-relevant in vitro systems in drug development and toxicology studies. SIGNIFICANCE STATEMENT: This review addresses the critical need for advanced human liver models in drug development, moving away from animal testing and inadequate tumor-derived cells. By evaluating emerging stem cell-derived 2D and 3D cultures, it highlights the often-overlooked role of membrane transporters-crucial for understanding how drugs enter and exit cells. This work provides a roadmap for creating physiologically accurate models to better predict drug safety, efficacy, and toxicity in humans.",
@@ -194,6 +245,47 @@
       },
       "tier": 1,
       "abstract_tr": "Klasik olarak mekanik bir iskele olarak görülmesine rağmen, iskelet, sistemik biyofiziksel ve biyokimyasal ipuçlarını bütünleştiren dinamik bir endokrin ve duyusal merkez olarak giderek daha fazla tanınmaktadır. Bu derlemede, devre seviyesinde yeniden modelleme programlarını çoklu organ homeostazisine bağlayan bir ağ tıbbı çerçevesi olan 'iskelet konnektomunu' önererek iskelet fizyolojisini yeniden düşünüyoruz. Yapısal olarak, öncelikle kemiğin yeniden şekillenmesinin hücresel mantığını inceleyerek osteoblastların, osteoklastların ve osteositlerin, durum geçişleri topoloji, bölümlendirme ve metabolik/biyofiziksel geçitleme ile sınırlanan plastik ağ düğümleri olarak nasıl hareket ettiklerini vurguluyoruz. Daha sonra, kemiği bağışıklık, metabolik, sinir ve kas sistemlerine bağlayan çift yönlü eksenleri detaylandırarak makroskobik konnektom mimarisini haritalandırıyoruz. Bu çerçevede, mekanometabolik dejenerasyon, otoimmün hastalık, endokrin-metabolik kırılganlık ve kemik metastazını kapsayan çeşitli iskelet bozukluklarını sistematik olarak yeniden değerlendiriyoruz. Bu koşulları, sistemik iletişim ağlarındaki belirli kesintilerin sonucu olarak kavramsallaştırıyoruz. Translasyonel bir perspektiften bakıldığında, bu konnektom paradigması, işlevsiz devreleri yeniden yapılandırmak için tasarlanmış, hedeflenen protein yıkımı ve mRNA bazlı ilaçlar gibi hassas terapötiklerin değerlendirilmesine rehberlik eder. Son olarak, gelecekteki kişiselleştirilmiş rejim tasarımında gerçek dünya kanıtlarını tamamlayacak şekilde, yerleşik klinik araçlardan ziyade, umut verici kavramsal/çevirisel durumlarını vurgulayarak, dijital iskelet ikizleri ve in silico klinik çalışmaları gibi yeni ortaya çıkan kavramları tartışıyoruz. ÖNEM BEYANI: Bu derleme, sistemik homeostazı sürdürmek için mekanik, metabolik ve bağışıklık devrelerini bütünleştiren dinamik bir duyusal ve endokrin merkez olarak kemiği yeniden tanımlayan 'iskelet konnektom' çerçevesini önermektedir. Çeşitli patolojileri izole kusurlar yerine karakteristik ağ arıza modları olarak haritalandıran bu çalışma, mRNA terapötikleri ve dijital iskelet ikizleri tarafından yönlendirilen hedeflenen protein bozunması dahil olmak üzere hassas bozulmalar yoluyla işlevsiz devrelerin yeniden kablolanması için çevirisel bir yol haritasının ana hatlarını çiziyor."
+    },
+    {
+      "pmid": "42759446",
+      "title": "Tumor-derived KLK5 activates TMEM158+ cancer-associated fibroblasts to induce CD8+ T cell exhaustion and confer immunotherapy resistance in lung cancer.",
+      "abstract": "AIM: Immune checkpoint blockade (ICB) has improved the treatment landscape of lung squamous cell carcinoma (LUSC), but durable clinical benefit is limited by frequent therapeutic resistance. We aimed to define the microenvironmental mechanisms underlying ICB resistance in LUSC. METHODS: Surgical specimens from LUSC patients treated with neoadjuvant anti-PD-1 therapy plus chemotherapy were analyzed using integrated single-cell and spatial transcriptomics. Our findings were validated in independent bulk RNA-seq and multiplex immunofluorescence cohorts and functionally tested in fibroblast-specific conditional knockout and humanized mouse models. RESULTS: We identified a TMEM158⁺ cancer-associated fibroblast (CAF) subpopulation enriched in non-responders and associated with poor prognosis. Spatial and functional analyses showed that TMEM158⁺ CAFs promoted CD8⁺ T-cell exhaustion. Mechanistically, tumor-derived KLK5 engaged TMEM158, recruited SDCBP, activated the MEK/ERK-ELK1 signaling axis, and induced TNC and SPP1 expression, thereby establishing an immunosuppressive niche. Genetic ablation or functional inhibition of TMEM158⁺ CAFs enhanced sensitivity to anti-PD-1 therapy in LUSC. CONCLUSION: TMEM158⁺ CAFs are key stromal mediators of immune evasion and ICB resistance in LUSC and represent a promising biomarker and therapeutic target.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-08-25",
+      "authors": [
+        "Pu S",
+        "Li G",
+        "Jiang Y",
+        "Shao C",
+        "Hou X",
+        "You L",
+        "Yu P",
+        "Jiang T",
+        "Zhao Y",
+        "Liu T",
+        "Lu Y",
+        "Wang D",
+        "Du R",
+        "Li C",
+        "Zhang J",
+        "Sun G",
+        "Gao Y"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.drup.2026.101473",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
     },
     {
       "pmid": "42730869",
@@ -1309,6 +1401,66 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42759666",
+      "title": "Immune memory engineering in mRNA therapeutics.",
+      "abstract": "Messenger RNA (mRNA) therapeutics have revolutionized vaccine development and are rapidly expanding into cancer immunotherapy, infectious diseases, regenerative medicine, and protein replacement therapies. While considerable efforts have focused on maximizing antigen expression and short term immune responses, durable therapeutic efficacy ultimately depends on the establishment of long lasting immune memory. Emerging evidence suggests that immune memory is not merely a passive consequence of antigen expression but can be actively shaped through the rational engineering of antigen persistence, delivery, and immune programming. In this review, we propose immune memory engineering as a unifying framework for mRNA therapeutics that achieve durable immune protection. We examine three interconnected biological determinants of immune memory, including antigen persistence, antigen trafficking, and innate and spatial programming, and discuss how LNP engineering, formulation parameters, and tissue specific delivery quantitatively influence memory formation. We further highlight how artificial intelligence and multiomics approaches can integrate these determinants into predictive design strategies for optimizing durable immune responses. Together, these advances position immune memory engineering as an emerging design paradigm for developing next generation mRNA therapeutics with durable, controllable, and increasingly personalized immune protection.",
+      "journal": "J Control Release",
+      "date": "2026-09-18",
+      "authors": [
+        "Wen J",
+        "Tao W",
+        "Zhou X"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115370",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "onko",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42759665",
+      "title": "Postoperative glioblastoma management: from relapse mechanisms and clinical interventions to emerging drug delivery strategies.",
+      "abstract": "Postoperative recurrence remains the principal cause of treatment failure in glioblastoma (GBM). Its development is driven by infiltrative residual tumor cells, glioma stem-like cell plasticity, therapy-resistant clones, dynamic blood-brain barrier (BBB)/blood-brain tumor barrier (BBTB) remodeling, and a wound-healing-associated immunosuppressive microenvironment. These factors create a distinct therapeutic window after surgery, during which tumor burden is minimal but residual disease rapidly acquires conditions favorable for regrowth. Drug delivery systems must go beyond enhanced intracranial drug accumulation; they should provide spatial coverage of the resection margin, sustained therapeutic exposure before adjuvant therapy begins, and active regulation of the evolving postoperative microenvironment. This review summarizes the clinical and biological basis of postoperative GBM recurrence and discusses delivery strategies designed to address these challenges. Established intracranial approaches and emerging local platforms, including injectable hydrogels, electrospun scaffolds, 3D-printed implants, microneedles, as well as intranasal systems, are analyzed with respect to cavity adaptation, tissue penetration, release control, and microenvironmental modulation. Systemic nanocarriers, cell-mediated delivery systems, and extracellular vesicle-based platforms are further discussed as complementary strategies for targeting infiltrative or distant tumor foci beyond the surgical cavity. Finally, we highlight integrated delivery systems combining local retention, systemic targeting, programmable release, and microenvironmental regulation to improve postoperative GBM therapy.",
+      "journal": "J Control Release",
+      "date": "2026-09-18",
+      "authors": [
+        "Cao W",
+        "Song M",
+        "Lai H",
+        "Xu F",
+        "Zhang H",
+        "Tang H",
+        "Ma A"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115380",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "onko",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42668069",
       "title": "Thermogelling lacrimal duct-applied therapeutic platform for dry eye syndrome.",
       "abstract": "Dry eye syndrome (DED), a multifactorial ocular surface disorder, presents significant treatment challenges in severe cases where conventional eye drops demonstrate limited efficacy. Current lacrimal occlusion strategies, while clinically valuable, are compromised by a device migration and sizing inaccuracies that undermine therapeutic reliability. To address these limitations, we engineered an innovative SwitchPlug hydrogel as a switchable punctal plug formed in situ from pre-assembled mPEG-PLGA nanoparticles under the morphological and thermal cues of the lacrimal canaliculus, which affords reversible punctal occlusion and broad-spectrum drug loading capacity. The SwitchPlug hydrogel exhibits rapid sol-gel transition at physiological canalicular temperature (∼37 °C), forming stable occlusions that significantly prolong tear retention while permitting gentle, cooling-induced liquefaction for atraumatic removal, a critical safety advantage over current plugs. Beyond its mechanical occlusion, this smart hydrogel functions as a versatile drug reservoir capable of sustained release across diverse therapeutics, including hydrophobic small molecules (e.g., cyclosporine A), hydrophilic compounds (e.g., dequafosil sodium), and macromolecular proteins (e.g., human epidermal growth factor). In both mouse and rabbit DED models, cyclosporine A-loaded SwitchPlug hydrogel (CsA@SwitchPlug) demonstrated superior therapeutic efficacy compared to commercial formulations, effectively restoring tear secretion, suppressing corneal inflammation, reducing epithelial apoptosis, and accelerating tissue repair. Comprehensive biosafety evaluation confirmed excellent ocular and systemic biocompatibility. This integrated platform represents a paradigm shift in DED management by simultaneously addressing three critical clinical needs, including prolonged ocular retention, customizable drug delivery, and reversible mechanical occlusion, offering new possibilities for personalized and combinatorial therapy of DED.",
@@ -1669,174 +1821,6 @@
       "journal_tier": 1,
       "impact": 10.5,
       "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42722162",
-      "title": "Single-component immunomodulatory hyaluronic acid hydrogel patch for accelerated chronic wound healing application.",
-      "abstract": "Chronic wounds often suffer from persistent inflammation, which hinders tissue regeneration. In this study, we present a multifunctional hyaluronic acid (HA)-based hydrogel patch with controlled reactive oxygen species (ROS) scavenging and immunomodulatory properties to accelerate chronic wound healing. A novel single-component strategy was developed in which HA was simultaneously modified with carbodihydrazide groups and gallic acid (GA) derivatives. We demonstrate, for the first time, that hydrogel formation can occur solely from carbodihydrazide-modified HA, without the need for an aldehyde-functionalized counterpart. Incorporation of GA not only consolidated hydrogel formation but also enabled material fabrication with tunable shapes and high fluid-absorbance capacity, as well as intrinsic antioxidant and immunomodulatory activities. This design offers significant clinical advantages by providing a user-friendly, ready-to-apply wound dressing that eliminates the need for precursor mixing, ensuring reproducibility and ease of use. In vitro studies further revealed that treatment of pro-inflammatory macrophages (M1) with the hydrogel formulations promoted a phenotypic shift toward anti-inflammatory M2 macrophages. When applied to chronic wounds in vivo, the multifunctional HA hydrogel patch effectively scavenged ROS, suppressed inflammation, and established a favorable microenvironment for tissue repair and regeneration.",
-      "journal": "J Control Release",
-      "date": "2026-09-10",
-      "authors": [
-        "Tavakoli S",
-        "Shokri M",
-        "Xia Y",
-        "Tafti MA",
-        "Oommen OP",
-        "Kharaziha M",
-        "Varghese OP"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jconrel.2026.115348",
-      "journal_tier": 1,
-      "impact": 10.5,
-      "section": "immuno",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42727817",
-      "title": "Engineered cryo-shocked tumor cells recruit T cells for lung cancer immunotherapy.",
-      "abstract": "Immune checkpoint blockade has transformed cancer therapy, yet its efficacy against solid tumors remains constrained by poor T cell infiltration and an immunosuppressive tumor microenvironment. Achieving localized and sustained chemokine signaling without systemic immune toxicity remains a central unmet challenge for cytokine-based immunotherapy. Here, we presented a cryo-engineered bio-depot platform derived from liquid‑nitrogen-treated (LNT) tumor cells for the site-restricted and controlled delivery of protein therapeutics. The cryo-shocked process preserves cellular integrity and protein bioactivity while abolishing pathogenicity of tumor cells, generating a versatile vehicle for therapeutic payloads. Applying this platform, we constructed LNT depots expressing C-X-C motif ligand 9 (CXCL9), which established a persistent chemokine gradient within the lung after intravenous injection, leading to robust T cell recruitment and augmented tumor growth inhibition. Furthermore, we demonstrated the platform adaptability by engineering LNT cells to secrete aPD-1, which significantly prolonged survival in a murine orthotopic lung cancer model. This cryo-engineered depot integrates the structural fidelity of biomaterials with the functional complexity of living systems, offering a generalizable route for personalized protein therapeutics in cancer immunotherapy.",
-      "journal": "J Control Release",
-      "date": "2026-09-11",
-      "authors": [
-        "Feng H",
-        "Liu F",
-        "Cheng Z",
-        "Zhang H",
-        "Lv W",
-        "Huang H",
-        "Yi X",
-        "He K",
-        "Gu Z",
-        "Li H"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jconrel.2026.115350",
-      "journal_tier": 1,
-      "impact": 10.5,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": "Bağışıklık kontrol noktası blokajı kanser tedavisini dönüştürdü, ancak katı tümörlere karşı etkinliği, zayıf T hücresi infiltrasyonu ve bağışıklık sistemini baskılayan tümör mikro ortamı nedeniyle kısıtlı olmaya devam ediyor. Sistemik immün toksisite olmadan lokalize ve sürekli kemokin sinyalinin elde edilmesi, sitokin bazlı immünoterapi için karşılanmayan merkezi bir zorluk olmaya devam etmektedir. Burada, protein terapötiklerinin alanla sınırlı ve kontrollü dağıtımı için sıvı nitrojenle tedavi edilen (LNT) tümör hücrelerinden türetilmiş, kriyo mühendisliğiyle üretilmiş bir biyo-depo platformu sunduk. Kriyo-şoklama işlemi, tümör hücrelerinin patojenitesini ortadan kaldırırken hücresel bütünlüğü ve protein biyoaktivitesini korur ve terapötik yükler için çok yönlü bir araç oluşturur. Bu platformu uygulayarak, intravenöz enjeksiyondan sonra akciğerde kalıcı bir kemokin gradyanı oluşturan, sağlam T hücresi alımına ve artırılmış tümör büyümesi inhibisyonuna yol açan C-X-C motif ligandı 9'u (CXCL9) eksprese eden LNT depoları oluşturduk. Ayrıca, fare ortotopik akciğer kanseri modelinde sağkalımı önemli ölçüde uzatan aPD-1'i salgılayacak şekilde LNT hücrelerini tasarlayarak platformun uyarlanabilirliğini gösterdik. Kriyo mühendisliğiyle tasarlanan bu depo, biyomateryallerin yapısal doğruluğunu canlı sistemlerin işlevsel karmaşıklığıyla birleştirerek kanser immünoterapisinde kişiselleştirilmiş protein terapötikleri için genelleştirilebilir bir yol sunuyor."
-    },
-    {
-      "pmid": "42744203",
-      "title": "Enzymatically triggered in situ gelation of a multifunctional peptide for localized controlled release and conformal fracture repair.",
-      "abstract": "Irregular fracture edges and gaps present significant challenges to bone healing. As versatile scaffolds for bone regeneration, hydrogels can effectively guide and facilitate tissue repair. Compared to preformed hydrogels, in situ gelation via a responsive sol-gel transition at the defect site offers superior flexibility, adaptability, and conformity, minimizing void cavities and establishing a more favorable environment for healing complex fractures. Peptides, as biogenic building blocks, can self-assemble into hierarchically structured hydrogels under specific stimuli. Given that alkaline phosphatase (ALP) is a key enzyme in bone mineralization and is highly expressed at the fracture site, we developed a phosphorylated peptide (NfFpYO) that undergoes ALP-triggered dephosphorylation, enabling direct in situ gelation on irregular fracture surfaces. Our results show that the resulting nanofibrous three-dimensional scaffold, functionalized with Gly-Pro-Hyp (GPO) motifs, promotes the migration, proliferation, and osteogenic differentiation of human bone marrow mesenchymal stem cells (hBMSCs) in vitro. Moreover, the resulting nanofibrous hydrogel, which presents peptide-bound naproxen and fluorinated motifs, was associated with a less inflammatory and more repair-supportive macrophage-associated marker profile, enhanced osteogenic marker expression, and improved radiographic and histological fracture repair in a murine model. This study adapts a promising ALP-instructed peptide self-assembly strategy to the fracture-repair microenvironment through a multifunctional precursor design, providing a local shape-conformal and bioactive hydrogel platform with potential for complex fracture repair.",
-      "journal": "J Control Release",
-      "date": "2026-09-15",
-      "authors": [
-        "Tang X",
-        "Wen C",
-        "Shang Y",
-        "Yang H",
-        "Hu H",
-        "Xu N",
-        "Li Y",
-        "Luo Y",
-        "Chen R",
-        "Zhao B",
-        "Duan Y",
-        "Wang Z",
-        "Liu J",
-        "Kuang M"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jconrel.2026.115354",
-      "journal_tier": 1,
-      "impact": 10.5,
-      "section": "immuno",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42744202",
-      "title": "B-cell maturation antigen -targeted Tirapazamine-loaded liposomes overcome hypoxia-induced drug resistance and metastasis in multiple myeloma.",
-      "abstract": "Multiple myeloma (MM) is a highly fatal disease, particularly in the relapsed-refractory stage, due to drug resistance associated with tumor hypoxia. TPZ, a hypoxia-activated pro-drug, effectively kills hypoxic tumor cells; however, its severe side effects have limited its therapeutic use. This study investigates BCMA-targeted liposomes loaded with TPZ to enhance their therapeutic efficacy while reducing toxicity. TPZ inhibits cell proliferation, induces apoptosis, and reverses the metastasis driven by hypoxia in MM cells. Encapsulation into liposomes maintained its cytotoxic effects in hypoxic MM cells. BCMA-targeting increased specific delivery in MM cells and enhanced biodistribution to MM cells within the bone marrow. In a relapsed/refractory MM mouse model, BCMA-targeted TPZ-loaded liposomes significantly reduced tumor progression while minimizing body weight loss in mice and reducing cytotoxicity in PBMCs, achieving a Efficacy-to-Body-Weight Toxicity Ratio of 8.3 compared to 1 for free TPZ. This study provides preclinical proof-of-concept for using BCMA-targeted TPZ-loaded liposomes as a promising and safer therapeutic option for relapsed/refractory MM.",
-      "journal": "J Control Release",
-      "date": "2026-09-15",
-      "authors": [
-        "Maksimos M",
-        "Muz B",
-        "Azab F",
-        "Afrough A",
-        "Kaur G",
-        "Khan A",
-        "Anderson LD",
-        "Azab AK"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jconrel.2026.115351",
-      "journal_tier": 1,
-      "impact": 10.5,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42744201",
-      "title": "A nano-adjuvant platform potentiates immunity for potent mucosal and systemic defense against influenza.",
-      "abstract": "Vaccines against respiratory viruses such as influenza require adjuvant platforms capable of simultaneously inducing robust mucosal and systemic immunity. Here, we report a PEGylated aluminum‑manganese oxide hybrid nano-adjuvant (Al-Mn-PEG) as an efficient mucosal vaccine delivery system. Al-Mn-PEG exhibits high stability and biocompatibility, enhancing antigen uptake, activation, and lysosomal escape in antigen-presenting cells, thus promoting cross-presentation. In vivo, intranasal immunization with Al-Mn-PEG loaded with hemagglutinin from influenza A or B viruses induces strong mucosal sIgA and systemic IgG responses, drives a mixed Th1/Th2 immune profile with systemic Th1 skewing, and activates CD8+ T cells, resulting in comprehensive immune protection. Mechanistically, Al-Mn-PEG engages both the STING/TBK1/IRF3 and NLRP3 pathways, which potentiate the immune system and drive coordinated innate and adaptive immune responses. This work establishes Al-Mn-PEG as a versatile adjuvant platform, offering a strategy for next-generation respiratory vaccines.",
-      "journal": "J Control Release",
-      "date": "2026-09-15",
-      "authors": [
-        "Cheng H",
-        "Wang Y",
-        "Wang S",
-        "Meng Z",
-        "Zhai X",
-        "Lv R",
-        "Cheng A",
-        "Guan K",
-        "Zhang G"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jconrel.2026.115353",
-      "journal_tier": 1,
-      "impact": 10.5,
-      "section": "immuno",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
