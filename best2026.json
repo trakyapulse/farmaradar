@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T10:39:08+00:00",
+  "updated": "2026-09-20T11:01:51+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -275,6 +275,42 @@
         "Journal Article"
       ],
       "doi": "10.1016/j.drup.2026.101473",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42762799",
+      "title": "Nucleolar METTL16 drives ccRCC tumorigenesis and pazopanib resistance via translational activation of JAG1/Notch signaling pathway.",
+      "abstract": "Resistance to tyrosine kinase inhibitors (TKIs), particularly pazopanib, is the primary driver of treatment failure in patients with advanced clear cell renal cell carcinoma (ccRCC). However, the epitranscriptomic mechanisms underlying TKI resistance, especially the regulatory role of N6-methyladenosine (m6A) modification, remain poorly understood. We integrated multi-omics analyses with in vitro and in vivo functional assays, multi-cohort clinical validation, and development of targeted small-molecule inhibitors to dissect the role of methyltransferase-like 16 (METTL16) in ccRCC resistance to pazopanib. METTL16, an independent catalytically active m6A writer, was significantly upregulated in pazopanib-resistant ccRCC cells and in clinical tumor tissues. High METTL16 expression was strongly associated with advanced nuclear grade, pazopanib non-response, and unfavorable clinical prognosis in ccRCC patients. Functionally, METTL16 promoted ccRCC proliferation, metastasis, stemness, and pazopanib resistance in both in vitro and in vivo settings. Mechanistically, METTL16 bound and stabilized the small nucleolar RNA SNORA80B in an m6A-dependent manner, which was associated with enhanced translational output and activation of the JAG1/Notch signaling axis. A novel small-molecule inhibitor targeting the METTL16 methyltransferase activity pocket, METTL16-IN, markedly suppressed resistant tumor growth and synergized with pazopanib to reverse TKI resistance. Our findings support a model in which METTL16-mediated m6A remodeling contributes to pazopanib resistance through altered ribosome biogenesis and translational reprogramming.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-09-18",
+      "authors": [
+        "Gong Z",
+        "Dong K",
+        "Chen W",
+        "Liu Y",
+        "Li M",
+        "Ma W",
+        "Zheng H",
+        "Zhang H",
+        "Di S",
+        "Zhou W",
+        "Pan X",
+        "Cui X"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.drup.2026.101476",
       "journal_tier": 1,
       "impact": 15.0,
       "section": "onko",
@@ -1461,6 +1497,41 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42762839",
+      "title": "Beyond the needle: engineering and industrial insight on oral delivery devices for biologics.",
+      "abstract": "The development of biologics has transformed disease treatment, yet their clinical use remains constrained by a reliance on parenteral administration. Oral delivery offers a more patient-friendly alternative, but its effectiveness is limited by a range of physiological and biochemical barriers. Recent advances in ingestible robotic devices provide a promising pathway for oral delivery of biologics by enabling controlled release and site-specific targeting. Yet despite this momentum, no device-enabled oral biologic has reached regulatory approval. This review surveys current robotic oral delivery technologies, classifying them according to their power and actuation strategies, mechanisms of mucus interaction or penetration, and target regions of the gastrointestinal system. For each category, we examine underlying design principles, along with key advantages and limitations. We also present an industrial perspective on development status and commercial potential, highlighting translational challenges related to manufacturing, regulatory approval, and clinical integration. This review investigates the underappreciated downstream consequences of early-stage engineering decisions on manufacturing scalability, regulatory classification, chronic biocompatibility, and cost of goods. Here, we evaluate translational viability by defining the engineering, pharmacokinetic, safety, and economic criteria that devices must simultaneously satisfy to advance beyond proof-of-concept.",
+      "journal": "J Control Release",
+      "date": "2026-09-19",
+      "authors": [
+        "Ji M",
+        "Lu Y",
+        "Arcovio K",
+        "Wang Y",
+        "Al-Jamal KT",
+        "Bolodeoku J",
+        "Forte AE",
+        "Ke P",
+        "Shanmugam RK",
+        "Alhnan MA"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.jconrel.2026.115371",
+      "journal_tier": 1,
+      "impact": 10.5,
+      "section": "klinik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42668069",
       "title": "Thermogelling lacrimal duct-applied therapeutic platform for dry eye syndrome.",
       "abstract": "Dry eye syndrome (DED), a multifactorial ocular surface disorder, presents significant treatment challenges in severe cases where conventional eye drops demonstrate limited efficacy. Current lacrimal occlusion strategies, while clinically valuable, are compromised by a device migration and sizing inaccuracies that undermine therapeutic reliability. To address these limitations, we engineered an innovative SwitchPlug hydrogel as a switchable punctal plug formed in situ from pre-assembled mPEG-PLGA nanoparticles under the morphological and thermal cues of the lacrimal canaliculus, which affords reversible punctal occlusion and broad-spectrum drug loading capacity. The SwitchPlug hydrogel exhibits rapid sol-gel transition at physiological canalicular temperature (∼37 °C), forming stable occlusions that significantly prolong tear retention while permitting gentle, cooling-induced liquefaction for atraumatic removal, a critical safety advantage over current plugs. Beyond its mechanical occlusion, this smart hydrogel functions as a versatile drug reservoir capable of sustained release across diverse therapeutics, including hydrophobic small molecules (e.g., cyclosporine A), hydrophilic compounds (e.g., dequafosil sodium), and macromolecular proteins (e.g., human epidermal growth factor). In both mouse and rabbit DED models, cyclosporine A-loaded SwitchPlug hydrogel (CsA@SwitchPlug) demonstrated superior therapeutic efficacy compared to commercial formulations, effectively restoring tear secretion, suppressing corneal inflammation, reducing epithelial apoptosis, and accelerating tissue repair. Comprehensive biosafety evaluation confirmed excellent ocular and systemic biocompatibility. This integrated platform represents a paradigm shift in DED management by simultaneously addressing three critical clinical needs, including prolonged ocular retention, customizable drug delivery, and reversible mechanical occlusion, offering new possibilities for personalized and combinatorial therapy of DED.",
@@ -1767,68 +1838,6 @@
       },
       "tier": 2,
       "abstract_tr": "Bor nötron yakalama terapisi (BNCT), nötron ışınlaması sırasında kanser hücrelerinde 10B'nin seçici olarak birikmesini ve tutulmasını gerektirir. Bununla birlikte, mevcut klinik bor ajanları, hücre içi geçici ikamet, hızlı temizlenme ve yetersiz tümör seçiciliği nedeniyle sınırlıdır. Burada, kötü huylu hücrelerin glikoz isteğini, sürekli bor tuzağı için endojen bir kimyasal makineye dönüştüren bir glikoz kaçırma stratejisini rapor ediyoruz. 10B etiketli bir kolesterol türevi olan Chol10B'yi içeren albümin bazlı bir nanopartikül olan AbChol10B'yi tasarladık. İçselleştirme üzerine Chol10B salınır ve hücre içi glikoz ile kendiliğinden kovalent olarak konjuge olur. Bu yerinde süreç, 10B'yi hücrelerin içine sabitleyen büyük bir kompleks yaratırken aynı zamanda tümörün metabolik homeostazisini bozmak için glikozu da devreye sokar. Malign hücrelerin glikoz alımının artmasıyla yönlendirilen bu tersine çevrilebilir kovalent bağlanma daha belirgin hale gelir ve böylece 10B'nin uzun süreli tutulmasını teşvik eder. Boronofenilalanin (10BPA) ile karşılaştırıldığında AbChol10B, 10B alımını 238,8 kat artırdı ve 10B klerensini %81,96 azalttı. GLUT1'in devre dışı bırakılması, glikoza bağımlı bir mekanizmayı destekleyerek bu tutulmayı belirgin şekilde azalttı. AbChol10B in vivo olarak tümör içi 10B birikimini 33,52 kat arttırdı ve 24,48'lik bir tümör/kan oranına (T/B) ulaştı. En önemlisi, eşik altı makroskopik tümör bor konsantrasyonunda (~7,7 ppm) bile bu bor yakalama stratejisi, minimum sistemik toksisiteyle tümör büyümesini %87,32 oranında bastırdı. Bu bulgular, glikozun kaçırılmasının aracılık ettiği hücre içi bor tuzağının, borun etkili kullanımını artırabileceğini ve BNCT ilaç tasarımını, toplu tümör bor yüklemesini maksimuma çıkarmaktan hücre içi borun yerleşimini tasarlamaya kadar yeniden çerçevelendirebileceğini göstermektedir."
-    },
-    {
-      "pmid": "42716125",
-      "title": "Pathogen capture driven spatial reprogramming microgels for oral treatment of bacterial enteritis.",
-      "abstract": "Intestinal Salmonella infections are primarily treated with antibiotics, yet non-selective bactericidal activity often disrupts the gut microbiota and limits therapeutic efficacy. Here, we introduce a precision anti-infective strategy based on spatial reprogramming, which redefines where antibacterial activity occurs rather than increasing antimicrobial potency. By functionally integrating Salmonella-specific nanobodies anchored on oral hydrogel microgels with meropenem-loaded bacterial membrane vesicles, we construct a targeted delivery system, termed HAMA-Nb@BM. Surface-anchored nanobodies selectively capture and concentrate dispersed Salmonella, spatially confining pathogens to the microgel surface. The microgels subsequently trigger the release of antibiotic-loaded vesicles, which deliver antibiotics directly into the periplasmic space of nearby pathogens via outer-membrane fusion, thereby avoiding diffusion-dependent dilution of free antibiotics and minimizing off-target microbiota perturbation. In a murine Salmonella infection model, this spatially confined therapy reduces intestinal pathogen burden, preserves microbiota homeostasis, and promotes inflammation resolution and mucus barrier restoration. This work establishes spatially reprogrammed antibacterial delivery as a strategy to reconcile effective pathogen clearance with host intestinal homeostasis.",
-      "journal": "J Control Release",
-      "date": "2026-09-09",
-      "authors": [
-        "Li J",
-        "Zhou C",
-        "Yang M",
-        "Chen X",
-        "Li C",
-        "Sun Y",
-        "Wang H",
-        "Lei C"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jconrel.2026.115342",
-      "journal_tier": 1,
-      "impact": 10.5,
-      "section": "immuno",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": "Bağırsak Salmonella enfeksiyonları öncelikle antibiyotiklerle tedavi edilir, ancak seçici olmayan bakterisidal aktivite sıklıkla bağırsak mikrobiyotasını bozar ve terapötik etkinliği sınırlar. Burada, antimikrobiyal gücü artırmak yerine antibakteriyel aktivitenin nerede oluştuğunu yeniden tanımlayan, mekansal yeniden programlamaya dayanan hassas bir anti-enfektif strateji sunuyoruz. Oral hidrojel mikrojellerine tutturulmuş Salmonella'ya özgü nanoyapıları meropenem yüklü bakteriyel membran kesecikleriyle işlevsel olarak entegre ederek, HAMA-Nb@BM olarak adlandırılan hedefe yönelik bir dağıtım sistemi oluşturuyoruz. Yüzeye sabitlenmiş nano gövdeler, dağınık Salmonella'yı seçici olarak yakalayıp konsantre ederek patojenleri mikrojel yüzeyinde mekansal olarak sınırlandırır. Mikrojeller daha sonra antibiyotik yüklü keseciklerin salınmasını tetikler; bu kesecikler, antibiyotikleri dış membran füzyonu yoluyla doğrudan yakındaki patojenlerin periplazmik alanına iletir, böylece serbest antibiyotiklerin difüzyona bağlı seyreltilmesini önler ve hedef dışı mikrobiyota bozulmasını en aza indirir. Bir fare Salmonella enfeksiyon modelinde, mekansal olarak sınırlandırılmış bu terapi bağırsak patojen yükünü azaltır, mikrobiyota homeostazisini korur ve inflamasyonun çözülmesini ve mukus bariyerinin restorasyonunu destekler. Bu çalışma, etkili patojen temizliğini konakçı bağırsak homeostazisi ile bağdaştıracak bir strateji olarak mekansal olarak yeniden programlanmış antibakteriyel dağıtım sağlar."
-    },
-    {
-      "pmid": "42722164",
-      "title": "Synergistic RNA therapy for scar reduction: co-delivery mRNA and siRNA attenuates MDA5/RIG-I activation to enhance anti-fibrotic efficacy.",
-      "abstract": "Fibrotic diseases including corneal scarring and hypertrophic skin scarring cause visual impairment, disfigurement, and functional limitations with limited clinical therapeutic options. mRNA-based therapies are promising but hampered by the intrinsic immunogenicity of mRNA-loaded lipid nanoparticles. Here, we developed a LNP-mediated co-delivery system (Co-delivery@LNPs) encapsulating ID3 mRNA and MMP9 siRNA. Then, Co-delivery@LNPs were synthesized, characterized, and evaluated in cellular and animal fibrotic models. ID3 mRNA delivered by LNPs exerted therapeutic effects but activated pattern recognition receptors (MDA5/RIG-I) and downstream inflammatory pathways. Notably, co-delivered MMP9 siRNA inhibited NF-κB p65 and p38 MAPK, thus suppressing MDA5/RIG-I activation. This resulted in a 1.63-fold increase in detected ID3 mRNA levels and approximately 3.2-fold greater reduction in MMP9 mRNA levels compared with single-delivery groups in keratocytes. Co-delivery@LNPs synergistically suppressed TGF-β1-induced fibrosis by downregulating TGF-β1, α-SMA, Col III, and PDGF-BB. Co-delivery@LNPs significantly alleviated corneal scarring in Brown Norway rats and exerted robust anti-scarring effects in mouse hypertrophic skin scars. This study represents the first LNP-mediated co-delivery of ID3 mRNA and MMP9 siRNA, which not only provides a promising strategy for fibrotic diseases with efficacy in both corneal and skin scarring models, but also offers a novel solution to alleviate exogenous mRNA immunogenicity.",
-      "journal": "J Control Release",
-      "date": "2026-09-10",
-      "authors": [
-        "Wang L",
-        "Yuan H",
-        "Mou Y",
-        "Zhang K",
-        "Zhou T",
-        "Huang X"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.jconrel.2026.115347",
-      "journal_tier": 1,
-      "impact": 10.5,
-      "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
     }
   ]
 }
