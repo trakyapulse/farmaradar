@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T12:28:38+00:00",
+  "updated": "2026-09-22T11:18:09+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -24,6 +24,41 @@
       "journal_tier": 1,
       "impact": 60.8,
       "section": "kardiyometabolik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42768085",
+      "title": "The evolving landscape of drug targets.",
+      "abstract": "Since the turn of the century, drug discovery has been transformed by advances in genetics, genomics and proteomics, as well as automation, data science and the diversification of therapeutic modalities beyond synthetic small molecules and natural product derivatives. This transformation has led to the expansion of the drug target landscape, enabling advances in the treatment of many diseases, including some that previously lacked pharmacotherapies. In this Review, we map and quantify key elements of these changes over the past 25 years, such as trends in the number and type of targets through which drugs mediate their therapeutic effects, which now include 686 biomolecules modulated by 1,702 drugs. We also discuss trends we believe will continue or change, as target druggability continues to evolve with the emergence of new therapeutic modalities.",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-21",
+      "authors": [
+        "Halip L",
+        "Avram S",
+        "Overington JP",
+        "Al-Lazikani B",
+        "Curpan R",
+        "Sirimulla S",
+        "Pushechnikov A",
+        "Beccari AR",
+        "Savchuck N",
+        "Oprea TI"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1038/s41573-026-01530-3",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "dogal",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -186,6 +221,39 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42768084",
+      "title": "Two trials or not two trials? That should not be the question.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-21",
+      "authors": [
+        "Arlett P",
+        "Thirstrup S",
+        "Day F",
+        "Burgos JG",
+        "Mbaeliachi N",
+        "Foggi P",
+        "Roes K",
+        "Cooke E",
+        "Sepodes B"
+      ],
+      "pubtypes": [
+        "Letter"
+      ],
+      "doi": "10.1038/s41573-026-01537-w",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": -30,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42727408",
       "title": "Application of human liver cell models in drug development and toxicity studies: The role of membrane transporters.",
       "abstract": "The critical involvement of hepatic transporters in both physiological and pathological processes, including metabolic diseases, drug metabolism, and toxicity, represents a key issue in pharmacology. The expression and localization of transporters involved in hepatic functions are especially important in new drug development and toxicology studies. Because of major species differences in transporter expression, localization, and substrate recognition, the value of animal experiments is limited in this regard, and human liver cell preparations are already available to allow relevant in vitro studies. Currently, the gold standard for in vitro studies is the primary human liver cell preparation. However, the interindividual heterogeneity, low reproducibility, and high price of such preparations are prohibiting their widespread use. Hepatocytes derived from liver tumors are widely used in toxicology studies, but each of these cell lines has specific advantages and shortcomings. Stem cell-based liver cell preparations, especially spheroids and organoids derived from human induced pluripotent stem cells, may serve as a new toolbox for studying a variety of membrane transporters and complex metabolic interactions in human hepatocytes. These advanced preparations, although currently somewhat premature, should provide an excellent basis for comprehensive in vitro functional assays. The present paper provides a comparative review of our current understanding of the pharmacological relevance of hepatic transporters, their interactions with the key players of general drug metabolism, their complex regulation, as well as the recent methodologies to apply human-relevant in vitro systems in drug development and toxicology studies. SIGNIFICANCE STATEMENT: This review addresses the critical need for advanced human liver models in drug development, moving away from animal testing and inadequate tumor-derived cells. By evaluating emerging stem cell-derived 2D and 3D cultures, it highlights the often-overlooked role of membrane transporters-crucial for understanding how drugs enter and exit cells. This work provides a roadmap for creating physiologically accurate models to better predict drug safety, efficacy, and toxicity in humans.",
@@ -245,6 +313,35 @@
       },
       "tier": 1,
       "abstract_tr": "Klasik olarak mekanik bir iskele olarak görülmesine rağmen, iskelet, sistemik biyofiziksel ve biyokimyasal ipuçlarını bütünleştiren dinamik bir endokrin ve duyusal merkez olarak giderek daha fazla tanınmaktadır. Bu derlemede, devre seviyesinde yeniden modelleme programlarını çoklu organ homeostazisine bağlayan bir ağ tıbbı çerçevesi olan 'iskelet konnektomunu' önererek iskelet fizyolojisini yeniden düşünüyoruz. Yapısal olarak, öncelikle kemiğin yeniden şekillenmesinin hücresel mantığını inceleyerek osteoblastların, osteoklastların ve osteositlerin, durum geçişleri topoloji, bölümlendirme ve metabolik/biyofiziksel geçitleme ile sınırlanan plastik ağ düğümleri olarak nasıl hareket ettiklerini vurguluyoruz. Daha sonra, kemiği bağışıklık, metabolik, sinir ve kas sistemlerine bağlayan çift yönlü eksenleri detaylandırarak makroskobik konnektom mimarisini haritalandırıyoruz. Bu çerçevede, mekanometabolik dejenerasyon, otoimmün hastalık, endokrin-metabolik kırılganlık ve kemik metastazını kapsayan çeşitli iskelet bozukluklarını sistematik olarak yeniden değerlendiriyoruz. Bu koşulları, sistemik iletişim ağlarındaki belirli kesintilerin sonucu olarak kavramsallaştırıyoruz. Translasyonel bir perspektiften bakıldığında, bu konnektom paradigması, işlevsiz devreleri yeniden yapılandırmak için tasarlanmış, hedeflenen protein yıkımı ve mRNA bazlı ilaçlar gibi hassas terapötiklerin değerlendirilmesine rehberlik eder. Son olarak, gelecekteki kişiselleştirilmiş rejim tasarımında gerçek dünya kanıtlarını tamamlayacak şekilde, yerleşik klinik araçlardan ziyade, umut verici kavramsal/çevirisel durumlarını vurgulayarak, dijital iskelet ikizleri ve in silico klinik çalışmaları gibi yeni ortaya çıkan kavramları tartışıyoruz. ÖNEM BEYANI: Bu derleme, sistemik homeostazı sürdürmek için mekanik, metabolik ve bağışıklık devrelerini bütünleştiren dinamik bir duyusal ve endokrin merkez olarak kemiği yeniden tanımlayan 'iskelet konnektom' çerçevesini önermektedir. Çeşitli patolojileri izole kusurlar yerine karakteristik ağ arıza modları olarak haritalandıran bu çalışma, mRNA terapötikleri ve dijital iskelet ikizleri tarafından yönlendirilen hedeflenen protein bozunması dahil olmak üzere hassas bozulmalar yoluyla işlevsiz devrelerin yeniden kablolanması için çevirisel bir yol haritasının ana hatlarını çiziyor."
+    },
+    {
+      "pmid": "42766963",
+      "title": "Recombinant protein drug metabolism and pharmacokinetics.",
+      "abstract": "Recombinant proteins represent a critically important class of biopharmaceuticals and are indispensable for the prevention and treatment of various clinical diseases. However, their in vivo disposal is far more complex than those of small-molecule drugs. Unfortunately, pharmacokinetic (PK) studies of recombinant proteins still lag far behind those of small molecules, and most investigations are limited to the determination of overall PK parameters, with insufficient exploration at the cellular and subcellular levels or in-depth mechanistic insights. Inadequate understanding of the PK and metabolic characteristics of recombinant proteins frequently leads to limited or diminished efficacy and suboptimal safety profiles in clinical practice. Moreover, with the emergence of a growing number of novel recombinant proteins in recent years, such as monoclonal antibodies and fusion proteins, the PK research of recombinant proteins has become increasingly extensive while also facing mounting new challenges. Therefore, this article focuses on the PKs and metabolic characteristics of both classical and novel recombinant proteins, as well as the factors affecting their in vivo disposal, in order to enhance their therapeutic efficacy and safety through optimization of their PKs. To our knowledge, no comprehensive review has systematically summarized the PK properties and metabolic mechanisms of recombinant proteins, which highlights the necessity of this review. Furthermore, mechanistic insights into the PKs of recombinant proteins, particularly their metabolic mechanisms, remain scarce and outdated. We hope this review can draw more attention to this vital yet understudied area and promote further in-depth exploration. SIGNIFICANCE STATEMENT: Recombinant proteins, as indispensable clinical therapeutic agents, face limitations in achieving better efficacy and safety due to insufficient understanding of their PKs. This systematic review elucidates the PKs and metabolic mechanisms of recombinant proteins in the body, along with associated influencing factors. The information provided herein aims to deepen the understanding of the PK properties and disposal mechanisms of recombinant proteins, thus maximizing their potential clinical values in disease prevention and treatment.",
+      "journal": "Pharmacol Rev",
+      "date": "2026-08-07",
+      "authors": [
+        "Jiang JB",
+        "Zhao HY",
+        "Miao ZW",
+        "Miao CY"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.pharmr.2026.100155",
+      "journal_tier": 1,
+      "impact": 19.3,
+      "section": "klinik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
     },
     {
       "pmid": "42759446",
@@ -1976,81 +2073,6 @@
         "Journal Article"
       ],
       "doi": "10.1007/s40265-026-02383-1",
-      "journal_tier": 1,
-      "impact": 13.4,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42714746",
-      "title": "Atacicept: First Approval.",
-      "abstract": "Atacicept (atacicept-vymj; TRUTAKNA™) is a human recombinant fusion glycoprotein targeting B lymphocyte stimulator [BLyS; also known as B cell-activating factor (BAFF)] and A proliferation-inducing ligand (APRIL) being developed by Vera Therapeutics, under a license from Merck Serono. On 7 July 2026, atacicept received accelerated approval in the USA to reduce proteinuria in adults with primary immunoglobulin A nephropathy (IgAN) at risk for disease progression. In patients with IgAN, atacicept produced sustained reductions in proteinuria across the ORIGIN clinical development program and stabilized estimated glomerular filtration rates through 96 weeks. This article summarizes the milestones in the development of atacicept leading to this first approval for IgAN.",
-      "journal": "Drugs",
-      "date": "2026-09-09",
-      "authors": [
-        "Blair HA"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s40265-026-02384-0",
-      "journal_tier": 1,
-      "impact": 13.4,
-      "section": "immuno",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": "Atacicept (atacicept-vymj; TRUTAKNA™), B lenfosit stimülatörünü [BLyS; B hücresi aktive edici faktör (BAFF) olarak da bilinir] ve A proliferasyonu indükleyen ligand (APRIL), Merck Serono lisansı altında Vera Therapeutics tarafından geliştirilmektedir. 7 Temmuz 2026'da atasisept, hastalığın ilerlemesi riski taşıyan primer immünoglobulin A nefropatisi (IgAN) olan yetişkinlerde proteinüriyi azaltmak için ABD'de hızlandırılmış onay aldı. IgAN'li hastalarda atasicept, ORIGIN klinik geliştirme programı boyunca proteinüride sürekli azalmalar sağladı ve tahmini glomerüler filtrasyon oranlarını 96 hafta boyunca stabilize etti. Bu makale, IgAN için bu ilk onaya yol açan atasiceptin geliştirilmesindeki kilometre taşlarını özetlemektedir."
-    },
-    {
-      "pmid": "42730871",
-      "title": "Doravirine/Islatravir: First Approval.",
-      "abstract": "Doravirine/islatravir is an oral two-drug fixed-dose combination of doravirine [a non-nucleoside reverse transcriptase inhibitor (NNRTI)] and islatravir [a nucleoside reverse transcriptase translocation inhibitor (NRTTI)]. Developed by Merck & Co., Inc., Rahway, NJ, USA, doravirine/islatravir [IDVYNSO® イドビンソ® (Japan); IDVYNSO™ (USA); IDVYNSO® (Canada)] was first approved on 6 March 2026 in Japan and subsequently approved on 21 April 2026 in the USA and 3 June 2026 in Canada for the treatment of HIV-1 infection in adults who are virologically suppressed (HIV-1 RNA < 50 copies/mL). Clinical development is underway in several other countries worldwide. This article summarizes the milestones in the development of doravirine/islatravir leading to these first approvals.",
-      "journal": "Drugs",
-      "date": "2026-09-12",
-      "authors": [
-        "Hoy SM"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s40265-026-02367-1",
-      "journal_tier": 1,
-      "impact": 13.4,
-      "section": "antimikrobiyal",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42730870",
-      "title": "Anbenitamab: First Approval.",
-      "abstract": "Anbenitamab (Ennituo®), a bispecific IgG monoclonal antibody targeting human epidermal growth factor receptor 2 (HER2), is being developed by Alphamab Oncology for the treatment of various solid tumours (including gastric cancer and breast cancer). Anbenitamab received its first approval in China on 27 May 2026. Anbenitamab, in combination with chemotherapy, is approved for the treatment of adult patients with locally advanced or metastatic HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma who have previously received at least one trastuzumab-containing therapy. This article summarizes the milestones in the development of anbenitamab leading to this first approval for gastric or GEJ cancer.",
-      "journal": "Drugs",
-      "date": "2026-09-12",
-      "authors": [
-        "Blair HA"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s40265-026-02382-2",
       "journal_tier": 1,
       "impact": 13.4,
       "section": "onko",
