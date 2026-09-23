@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T11:18:09+00:00",
+  "updated": "2026-09-23T11:11:15+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -221,6 +221,106 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42773151",
+      "title": "Navigating ultralarge virtual screening.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-22",
+      "authors": [
+        "Crunkhorn S"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00155-w",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42773150",
+      "title": "Suppressor tRNA rescues cystic fibrosis.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-22",
+      "authors": [
+        "Crunkhorn S"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00153-y",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42773149",
+      "title": "Covalent BAX inhibitor confers cytoprotection.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-22",
+      "authors": [
+        "Crunkhorn S"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00156-9",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42773148",
+      "title": "Targeting norovirus RNA structures.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-22",
+      "authors": [
+        "Crunkhorn S"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00154-x",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "antimikrobiyal",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42768084",
       "title": "Two trials or not two trials? That should not be the question.",
       "abstract": "",
@@ -334,6 +434,35 @@
       "journal_tier": 1,
       "impact": 19.3,
       "section": "klinik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42772203",
+      "title": "Kv7 channels as pharmacological targets for central nervous system diseases.",
+      "abstract": "Neuronal Kv7 (also known as KCNQ) voltage-gated potassium channels are key regulators of membrane excitability, primarily through their contribution to the M-current, a slowly activating and noninactivating potassium conductance that stabilizes the resting membrane potential and limits repetitive firing. Given the central role of the M-current in regulating critical central nervous system functions, it is not surprising that Kv7 channel dysfunction contributes to the onset and progression of a wide range of neuropsychiatric disorders, and that Kv7 channels are primary targets for pharmacological intervention in all these conditions. In this review, we provide a comprehensive overview of the physiological roles of neuronal Kv7 subunits (Kv7.2-Kv7.5) with particular emphasis on their expression patterns during development and across distinct neuronal populations. We also discuss the complex regulatory mechanisms governing Kv7 channel expression, trafficking, and function, including modulation by intracellular signaling pathways and interacting proteins. Particular attention is devoted to the involvement of Kv7 channel dysfunction in epileptic encephalopathies, pain syndromes, and neuropsychiatric conditions, as well as neurodegenerative disorders such as Alzheimer and Parkinson disease, where altered neuronal excitability is a common pathogenic hallmark. Furthermore, we examine the evolving pharmacological landscape of Kv7 channel modulators, from first-generation openers such as retigabine to next-generation agents, repurposed drugs, natural products, and Kv7 modulators currently in clinical development, highlighting both their therapeutic promise and existing challenges. Collectively, available evidence identifies Kv7 channels as versatile and highly attractive pharmacological targets for the treatment of central nervous system disorders characterized by maladaptive changes in neuronal excitability. SIGNIFICANCE STATEMENT: Kv7 channels are central regulators of neuronal excitability and are increasingly recognized as key therapeutic targets in multiple central nervous system disorders. Advancing our understanding of their pathophysiological role may enable the development of more selective and effective treatments for diseases driven by maladaptive changes in neuronal excitability.",
+      "journal": "Pharmacol Rev",
+      "date": "2026-07-20",
+      "authors": [
+        "Miceli F",
+        "Soldovieri MV",
+        "Barrese V",
+        "Taglialatela M"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.pharmr.2026.100153",
+      "journal_tier": 1,
+      "impact": 19.3,
+      "section": "noro",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -1915,174 +2044,6 @@
         "recency": 0.0
       },
       "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764893",
-      "title": "Erratum to \"Ginsenoside Rg1 alleviates post-ischemic stroke neuroinflammation by inhibiting CKLF1-mediated suppression of dead/dying neuron clearance\" [Acta Pharmaceutica Sinica B 16 (2026) 3632-3654].",
-      "abstract": "[This corrects the article DOI: 10.1016/j.apsb.2026.04.003.].",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-09",
-      "authors": [
-        "Fan P",
-        "Ruan Y",
-        "Hu K",
-        "Wang H",
-        "Ye J",
-        "Wang S",
-        "Yuan R",
-        "Yang G",
-        "Liu F",
-        "He W",
-        "Li G",
-        "Yan X",
-        "Chu S",
-        "Zhang Z",
-        "Chen N"
-      ],
-      "pubtypes": [
-        "Published Erratum"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.015",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "immuno",
-      "score": 0.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": -100,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42730869",
-      "title": "GLP-1 Receptor Agonists and Musculoskeletal Outcomes: A Systematic Literature Review and Meta-Analysis.",
-      "abstract": "INTRODUCTION: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for the treatment of type 2 diabetes and obesity, but their effects on musculoskeletal health remain completely misunderstood. OBJECTIVE: This systematic review/meta-analysis aims to synthesise clinical data on the effects of GLP-1 RAs on key relevant bone, muscle, and joint outcomes. METHODS: MEDLINE, Cochrane Central Register of Controlled Trials (CENTRAL) (both via Ovid® platform) and Embase were searched from inception to March 2025 to identify relevant randomised controlled trials (RCTs) or real-world evidence (RWE) studies to be included. This bibliographic search was completed manually. A random-effect model meta-analysis was performed for any outcome reported in at least 2 studies. Subgroup analyses were performed on the type of GLP-1 RAs, type of comparator used and study design. Sensitivity analyses (i.e., leave-out sensitivity analyses and analyses restricted to the most adjusted effect estimate) were performed to test the robustness of the data. The strength of evidence was assessed using GRADE. This work has been performed in adherence with PRISMA statement. (PROSPERO Record ID: CRD420251024082). RESULTS: From 1148 potentially relevant references, 60 articles (46 RCTs, 13 RWE studies and 1 pharmacovigilance study, comprising 1,250,717 individuals) met our inclusion criteria. Different GLP-1 RAs were represented across the panel of studies, i.e., semaglutide, liraglutide, exenatide, dulaglutide, tirzepatide (dual agonist gastric inhibitory polypeptide [GIP]/GLP-1) and others. No effect on bone outcomes (i.e., bone mineral density [all sites] and fractures [all sites]) were observed when the meta-analytical models included the most adjusted effect size. Regarding muscle outcomes, a significant decrease of lean body mass/fat-free mass was consistently observed with GLP-1 RAs in the global model (k = 28, standardised mean difference [SMD] 0.52, 95% confidence interval [CI] -0.8; -0.23, I2 88%, p-value for heterogeneity <0.0001), which remained robust in all sensitivity analyses. Subgroup analyses showed that the effect was mainly driven by liraglutide and semaglutide, with a decrease in lean body mass/fat-free mass observed when GLP-1 RAs were compared with placebo. No publication bias was found. Regarding joint outcome, models revealed no significant change in The Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) pain, physical function and stiffness. CONCLUSIONS: This meta-analysis is the first to investigate the effects of GLP-1 RAs on a large panel of musculoskeletal health outcomes. While no significant effects were observed on bone- or joint-related outcomes, GLP-1 RAs were associated with reductions in lean body mass/fat-free mass, although the certainty of evidence was low and these changes appeared largely related to weight loss. Whether these changes translate into clinically meaningful impairments in muscle function or physical performance remains uncertain. Further studies in this field, including those looking at muscle function, strength or performance and using multivariate models considering confounding are needed to better reinforce the models and final findings.",
-      "journal": "Drugs",
-      "date": "2026-09-12",
-      "authors": [
-        "Beaudart C",
-        "Malréchauffé Y",
-        "van Heden S",
-        "Sanchez-Rodriguez D",
-        "Scheen A",
-        "Bruyère O",
-        "Mobasheri A",
-        "Duque G",
-        "Rizzoli R",
-        "Reginster JY",
-        "Thiyagarajan JA"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "doi": "10.1007/s40265-026-02365-3",
-      "journal_tier": 1,
-      "impact": 13.4,
-      "section": "klinik",
-      "score": 140.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 40,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42730868",
-      "title": "Safety Profile of the Non-steroidal Anti-inflammatory Drug Celecoxib in the Short-Term Management of Acute Non-cancer Pain: A Systematic Review with Meta-analysis of Randomised Controlled Trials.",
-      "abstract": "OBJECTIVE: To summarise the literature regarding the safety of short-term use of the non-steroidal anti-inflammatory drug (NSAID) celecoxib. STUDY DESIGN: Systematic review with meta-analysis of randomised trials. Participants comprised individuals of all ages with acute non-cancer pain. Interventions included celecoxib at 200-400 mg/day for up to 10 days. The comparators were placebo, other NSAIDs (including cyclooxygenase-2 [COX-2] inhibitors and non-selective NSAIDS [nsNSAIDS]), or opioids. DATA SOURCES: Five databases were searched from inception to April 2025: Embase, Web of Science, MEDLINE, Cochrane Central Register of Controlled Trials, and Scopus. Additionally, a registry was searched: ClinicalTrials.gov. DATA SYNTHESIS: Meta-analyses using Mantel-Haenszel and random-effects model were used to calculate risk ratios (RRs) and 95% confidence intervals (CIs) for severe cardiovascular, respiratory, and gastrointestinal adverse events and secondary outcomes. The Cochrane Risk of Bias Tool for randomised trials (RoB-2) was used to assess bias risk. The Grading of Recommendation Assessment, Development and Evaluation (GRADE) was conducted to assess the certainty of evidence of each reported outcome. RESULTS: Title/abstract and full text screening comprised 3976 and 273 studies, respectively. Fifty studies were included with 10,693 participants. The RRs for adverse events were no different between celecoxib and placebo for severe events (3 studies) (RR 0.44 [95% CI 0.10-2.03]), cardiovascular (3 studies) (RR 0.84 [95% CI 0.24-2.92]), respiratory (4 studies) (RR 1.23 [95% CI 0.29-5.26]), and gastrointestinal events (33 studies) (RR 0.96 [95% CI 0.64-1.43]). There was no difference between celecoxib and NSAIDS for gastrointestinal adverse events, RR 0.89 (95% CI 0.68-1.17). Celecoxib had a lower risk compared to opioids for gastrointestinal events, RR 0.34 (95% CI 0.14-0.86), and showed a lower risk of nausea compared with placebo, RR 0.75 (95% CI 0.60-0.93), and nsNSAIDS, RR 0.80 (95% CI 0.64-0.99). Most studies had some risk of bias concerns, and the overall certainty of evidence for most outcomes was very low. Celecoxib appears to be safe for acute non-cancer pain when compared to placebo, NSAIDS, and opioids. It had a lower risk compared to opioids for gastrointestinal adverse events in general, nausea and vomiting, as well as a lower risk for nausea adverse events when compared to placebo and nsNSAIDS. REGISTRATION: PROSPERO-CRD42025642152.",
-      "journal": "Drugs",
-      "date": "2026-09-12",
-      "authors": [
-        "Mesa-Castrillon C",
-        "Tian Y",
-        "Hughes J",
-        "Beckenkamp P",
-        "Hall M",
-        "Papadimitriou D",
-        "Ferreira P"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "doi": "10.1007/s40265-026-02377-z",
-      "journal_tier": 1,
-      "impact": 13.4,
-      "section": "noro",
-      "score": 140.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 40,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42730872",
-      "title": "Current and Emerging Biomarkers and Surrogate Endpoints in Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD).",
-      "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD), formerly known as non-alcoholic fatty liver disease (NAFLD), is a prevalent condition affecting 25-30% of the global population and is closely linked to obesity, type 2 diabetes, and other cardiometabolic risk factors. Although liver biopsy remains the gold standard for diagnosis, its invasive nature has prompted a shift toward non-invasive biomarkers for disease assessment, staging, and monitoring. Multiple non-invasive biomarkers have been studied or are currently under investigation to assess both fibrosis and steatosis among patients with MASLD. This review aims to summarize the current literature on emerging and established biomarkers for MASLD, focusing on their roles in detecting inflammation, fibrosis, metabolic dysfunction, and steatosis, including imaging-based surrogate endpoints and composite biomarker panels.",
-      "journal": "Drugs",
-      "date": "2026-09-12",
-      "authors": [
-        "Alamgir M",
-        "Sohal A",
-        "Kowdley KV"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1007/s40265-026-02369-z",
-      "journal_tier": 1,
-      "impact": 13.4,
-      "section": "kardiyometabolik",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42745024",
-      "title": "Antibiotic-Refractory Chronic Pouchitis After Ileal Pouch-Anal Anastomosis: Current and Emerging Therapeutic Strategies.",
-      "abstract": "Chronic inflammatory pouch disorders may affect up to 20% of patients within 5 years after ileal pouch-anal anastomosis and remains a major therapeutic challenge. Within this spectrum, chronic antibiotic-refractory pouchitis is associated with impaired quality of life, long-term pouch-related complications, and potential risk for pouch failure and excision. Current recommendations support the use of probiotics for primary and secondary prevention in selected patients. Increasingly, targeted advanced therapies, including biologics and small molecules approved for the treatment of ulcerative colitis and Crohn's disease, are being used to reduce antibiotic dependence and maintain disease control in patients with pouch inflammation. Vedolizumab is the only advanced therapy approved in Europe for chronic pouchitis, whereas evidence for tumor necrosis factor (TNF) antagonists, ustekinumab, and newer agents, such as interleukin (IL)-23p19 antagonists and Janus kinase (JAK) inhibitors is largely based on observational data from clinical practice and real-world experience. Fecal microbiota transplantation is biologically attractive but remains investigational, with early studies showing inconsistent efficacy. Dietary patterns may modify pouch inflammation; however, most evidence is observational. Overall, current management strategies for chronic pouchitis are limited by incomplete understanding of disease pathogenesis, and by persistent methodological gaps, including poorly standardized treatment outcomes and the lack of validated treat-to-target strategies for this population. Well designed prospective and controlled studies are needed to define appropriate antibiotic-sparing strategies, optimal treatment positioning, and long-term durability of response.",
-      "journal": "Drugs",
-      "date": "2026-09-16",
-      "authors": [
-        "Faggiani I",
-        "Tuttle C",
-        "Danese S",
-        "Peyrin-Biroulet L",
-        "Jairath V",
-        "Sedano R",
-        "Dotan I",
-        "Panaccione R",
-        "Ma C"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s40265-026-02383-1",
-      "journal_tier": 1,
-      "impact": 13.4,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
       "abstract_tr": ""
     }
   ]
