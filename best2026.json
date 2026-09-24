@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T11:11:15+00:00",
+  "updated": "2026-09-24T11:27:37+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -59,6 +59,34 @@
       "journal_tier": 1,
       "impact": 60.8,
       "section": "dogal",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42778654",
+      "title": "Refining therapeutic targeting of interleukin-6 by signalling mode selectivity.",
+      "abstract": "Interleukin-6 (IL-6) is a multifunctional cytokine that regulates immunity, tissue repair and metabolic homeostasis, while also driving chronic inflammation in a broad range of diseases. IL-6 exerts its effects through distinct signalling modes, including classic signalling via its membrane-bound receptor (IL-6R) and trans-signalling via the soluble IL-6R (sIL-6R), which expands IL-6 responsiveness to most if not all cell types. Therapeutic targeting of the IL-6 pathway - primarily through monoclonal antibodies neutralizing IL-6 or IL-6R and Janus kinase (JAK) inhibitors targeting downstream signalling - has transformed the treatment of several autoimmune diseases but has also highlighted safety concerns linked to the homeostatic functions of IL-6. Advances in the understanding of IL-6 signalling biology, including endogenous regulation by soluble glycoprotein 130 kDa (sgp130) and the regulation of trans-signalling by a disintegrin and metalloproteinase 17 (ADAM17), have renewed interest in strategies that allow selective pathway modulation. In this Review, we outline the molecular basis of IL-6 signalling, examine the differential roles of classic and trans-signalling in experimental and clinical disease, and compare global and selective IL-6-targeted therapeutic approaches. We focus on the emerging concept of mechanistic and clinical differentiation within the IL-6 pathway and its implications for future drug development.",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-23",
+      "authors": [
+        "Rose-John S",
+        "Waetzig GH",
+        "Schreiber S"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1038/s41573-026-01536-x",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "immuno",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -463,6 +491,41 @@
       "journal_tier": 1,
       "impact": 19.3,
       "section": "noro",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42777406",
+      "title": "Extracellular vesicle-mediated drug resistance in cancer.",
+      "abstract": "Drug resistance remains a major challenge to successful cancer treatment. Although cell-autonomous genetic, molecular, and cellular modifications have historically been linked to resistance, there is growing evidence that extracellular vesicles (EVs) can promote the intercellular transfer of resistance-associated components. With a focus on the ways in which EV cargo modifies treatment response, this review critically investigates the role of EVs in therapeutic resistance in breast cancer, lung cancer, leukemia, glioblastoma, pancreatic cancer, and melanoma. The effects of major EV-associated factors on drug efflux, apoptosis, survival signaling, DNA repair, and metabolic adaptation are discussed. These factors include drug-efflux transporters, anti-apoptotic and oncogenic proteins, non-coding RNAs, DNA-repair molecules, metabolic components, and drug-sequestering molecules. As components of the tumor microenvironment that may strengthen treatment resistance, the review also considers EVs released by mesenchymal stromal cells, cancer-associated fibroblasts, and tumor-associated macrophages. By combining these results, we present a community-level view of EV-mediated resistance, where multidrug resistance and treatment failure may be caused by tumor-intrinsic resistance, horizontal transfer via tumor-derived EVs, and TME-derived EV signaling. Lastly, the potential of EVs as delivery systems, biomarkers, predictors, and therapeutic targets is examined, along with the present translational constraints and open issues. This synthesis emphasizes EV-mediated communication as a crucial addition to traditional cancer medication resistance models.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-09-16",
+      "authors": [
+        "Zhao B",
+        "Chen Y",
+        "Khan H",
+        "Wang Y",
+        "Tang H",
+        "Swati K",
+        "Anand K",
+        "Parvez S",
+        "Lin Y",
+        "Wu H"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.drup.2026.101474",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "klinik",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -1971,76 +2034,6 @@
       "score_parts": {
         "journal": 100,
         "pubtype": -30,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764891",
-      "title": "Targeting senescent cells with dipeptidyl peptidase 4-CAR-NK cells alleviates liver fibrosis and reverses metabolic dysfunction.",
-      "abstract": "Selective elimination of senescent hepatocytes by DPP4-CAR-NK cells could rescue liver fibrosis; therefore improving liver function and metabolic homeostasis in CCl4-induced liver fibrotic and naturally aged mice.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-01",
-      "authors": [
-        "Hua R",
-        "Xu K",
-        "Peng H",
-        "Liu K",
-        "Long N",
-        "Zeng C",
-        "Wang Y",
-        "Guo Y",
-        "Wang Z"
-      ],
-      "pubtypes": [
-        "Letter"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.054",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "diger",
-      "score": 70.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": -30,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42765000",
-      "title": "Erratum: Author correction to \"A neutrophil-biomimic platform for eradicating metastatic breast cancer stem-like cells by redox microenvironment modulation and hypoxia-triggered differentiation therapy\" [Acta Pharm Sin B 13 (2023) 298-314].",
-      "abstract": "[This corrects the article DOI: 10.1016/j.apsb.2022.05.027.].",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-23",
-      "authors": [
-        "Chu Y",
-        "Luo Y",
-        "Su B",
-        "Li C",
-        "Guo Q",
-        "Zhang Y",
-        "Liu P",
-        "Chen H",
-        "Zhao Z",
-        "Zhou Z",
-        "Wang Y",
-        "Jiang C",
-        "Sun T"
-      ],
-      "pubtypes": [
-        "Published Erratum"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.039",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 0.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": -100,
         "recency": 0.0
       },
       "tier": 3,
