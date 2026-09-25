@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T11:27:37+00:00",
+  "updated": "2026-09-25T11:33:28+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -501,6 +501,34 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42785153",
+      "title": "The promise of biased ligands in therapeutics.",
+      "abstract": "Discovered 40 years ago but underappreciated for decades, the paradigm of biased agonism has now become standard in G protein-coupled receptor (GPCR) pharmacology and drug discovery. Biased agonism refers to the phenomenon in which different agonists binding to the same receptor result in differential activation of signaling pathways downstream of the receptor. Biased agonists may have distinct physiological effects from the endogenous agonist or antagonists of a receptor, leading to unique pharmacological profiles that could serve as more effective drugs. This phenomenon is in part due to the stabilization of different ensembles of agonist:GPCR complexes leading to distinct transducer coupling. The delay in the appreciation of biased agonism likely reflects our prior inability to monitor different transducers and signaling pathways downstream of the receptor, as well as a lack of chemical diversity among tested agonists. Now, with a wealth of agonist:receptor:transducer structures, biased agonism is not the exception to GPCR pharmacology, but the rule. GPCR-biased signaling is encoded throughout a diversity of chemical space, from structurally distinct orthosteric agonists as well as allosteric modulators, which can engage receptors in distinct binding modes. Here, we review our current understanding of biased agonism, from pharmacological, mechanistic, and structural perspectives, and the current and potential impact of biased agonism on the development of new therapeutics. SIGNIFICANCE STATEMENT: Biased agonism has become a foundational paradigm in G protein-coupled receptor pharmacology that is fundamentally reshaping modern drug discovery by leveraging structural insights to selectively target distinct signaling pathways downstream of receptors. We review our current understanding of the structural mechanisms, pharmacology, and physiology of biased agonism, providing insights into how researchers can exploit this phenomenon to develop precise therapeutics with optimized pharmacological profiles.",
+      "journal": "Pharmacol Rev",
+      "date": "2026-09-04",
+      "authors": [
+        "Eiger DS",
+        "Smith JS",
+        "Rajagopal S"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.pharmr.2026.100160",
+      "journal_tier": 1,
+      "impact": 19.3,
+      "section": "diger",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42777406",
       "title": "Extracellular vesicle-mediated drug resistance in cancer.",
       "abstract": "Drug resistance remains a major challenge to successful cancer treatment. Although cell-autonomous genetic, molecular, and cellular modifications have historically been linked to resistance, there is growing evidence that extracellular vesicles (EVs) can promote the intercellular transfer of resistance-associated components. With a focus on the ways in which EV cargo modifies treatment response, this review critically investigates the role of EVs in therapeutic resistance in breast cancer, lung cancer, leukemia, glioblastoma, pancreatic cancer, and melanoma. The effects of major EV-associated factors on drug efflux, apoptosis, survival signaling, DNA repair, and metabolic adaptation are discussed. These factors include drug-efflux transporters, anti-apoptotic and oncogenic proteins, non-coding RNAs, DNA-repair molecules, metabolic components, and drug-sequestering molecules. As components of the tumor microenvironment that may strengthen treatment resistance, the review also considers EVs released by mesenchymal stromal cells, cancer-associated fibroblasts, and tumor-associated macrophages. By combining these results, we present a community-level view of EV-mediated resistance, where multidrug resistance and treatment failure may be caused by tumor-intrinsic resistance, horizontal transfer via tumor-derived EVs, and TME-derived EV signaling. Lastly, the potential of EVs as delivery systems, biomarkers, predictors, and therapeutic targets is examined, along with the present translational constraints and open issues. This synthesis emphasizes EV-mediated communication as a crucial addition to traditional cancer medication resistance models.",
@@ -610,6 +638,33 @@
         "recency": 0.0
       },
       "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42786050",
+      "title": "Cysteine acquisition in cancer: Cystine import or glutathione catabolism?",
+      "abstract": "",
+      "journal": "Drug Resist Updat",
+      "date": "2026-09-23",
+      "authors": [
+        "Xia C",
+        "Chen ZS",
+        "Fu C"
+      ],
+      "pubtypes": [
+        "Editorial"
+      ],
+      "doi": "10.1016/j.drup.2026.101483",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "onko",
+      "score": 75.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": -25,
+        "recency": 0.0
+      },
+      "tier": 3,
       "abstract_tr": ""
     },
     {
@@ -1978,62 +2033,6 @@
       "score_parts": {
         "journal": 100,
         "pubtype": -25,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764908",
-      "title": "Commentary beyond the ATP site: Cryo-EM views of allosteric PI3Kα inhibition.",
-      "abstract": "",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-09-11",
-      "authors": [
-        "Paetzel BG",
-        "Burke JE"
-      ],
-      "pubtypes": [
-        "Editorial"
-      ],
-      "doi": "10.1016/j.apsb.2026.08.014",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "diger",
-      "score": 75.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": -25,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764902",
-      "title": "Structural elucidation of the herpesvirus replication machinery: Cryo-EM insights into helicase-primase complex assembly and mechanisms of antiviral inhibition.",
-      "abstract": "",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-29",
-      "authors": [
-        "Zhou Q",
-        "Li B",
-        "Shi D",
-        "Gao S",
-        "Zhan P",
-        "Yang J"
-      ],
-      "pubtypes": [
-        "Letter"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.050",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "antimikrobiyal",
-      "score": 70.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": -30,
         "recency": 0.0
       },
       "tier": 3,
