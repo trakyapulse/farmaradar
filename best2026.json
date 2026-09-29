@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T13:26:20+00:00",
+  "updated": "2026-09-29T12:30:14+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -339,6 +339,31 @@
       "journal_tier": 1,
       "impact": 60.8,
       "section": "antimikrobiyal",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42806076",
+      "title": "Drug conjugate allows cell surface payload release.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-28",
+      "authors": [
+        "Eccleston A"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00157-8",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
@@ -2011,31 +2036,6 @@
         "recency": 0.0
       },
       "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42765011",
-      "title": "A novel intervention strategy for bladder cancer targeting dual metabolic pathways-Unraveling the pleiotropic mechanisms of quercetin.",
-      "abstract": "",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-09-11",
-      "authors": [
-        "Leung EL"
-      ],
-      "pubtypes": [
-        "Editorial"
-      ],
-      "doi": "10.1016/j.apsb.2026.08.015",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 75.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": -25,
-        "recency": 0.0
-      },
-      "tier": 3,
       "abstract_tr": ""
     }
   ]
