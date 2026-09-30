@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T12:30:14+00:00",
+  "updated": "2026-09-30T12:15:33+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -87,6 +87,36 @@
       "journal_tier": 1,
       "impact": 60.8,
       "section": "immuno",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42811101",
+      "title": "The cellular landscape of druggable RNA-binding proteins.",
+      "abstract": "RNA-binding proteins (RBPs) are involved in every step of RNA metabolism, from RNA processing and modification to translation and decay, and are also important for the function of non-coding RNAs. As such, RBPs are crucial in shaping cell identity and are central to the development of numerous diseases. Over the past decade, systematic efforts to explore the RNA interactome have expanded the RBP census as well as the landscape of potentially therapeutically targetable RBPs. More recently, certain RBPs have been shown to be present on the cell surface with cell-type and disease-associated specificities. These cell surface RBPs could potentially serve as biomarkers and immunotherapy targets in a variety of diseases. Here, we summarize established intracellular roles for RBPs, as well as their connections to disease with an emphasis on cancer. Moreover, we review the nascent field of cell surface RBPs and describe strategies to harness the cell surface localization of RBPs for the design and development of novel immunotherapeutic modalities.",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-29",
+      "authors": [
+        "Di Timoteo G",
+        "George BM",
+        "Abdel-Wahab O",
+        "Flynn RA",
+        "Tzelepis K"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1038/s41573-026-01531-2",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "onko",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -364,6 +394,31 @@
       "journal_tier": 1,
       "impact": 60.8,
       "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42811107",
+      "title": "Psychedelic protects against chemotherapy-induced nerve damage.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-29",
+      "authors": [
+        "Kingwell K"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00158-7",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "onko",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
@@ -653,6 +708,50 @@
         "Journal Article"
       ],
       "doi": "10.1016/j.drup.2026.101476",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42809895",
+      "title": "UBR5-KDM5A axis rewires redox metabolism to confer cisplatin resistance in triple-negative breast cancer via the cAMP-PKA-SIRT3 cascade.",
+      "abstract": "Triple-negative breast cancer (TNBC) lacks actionable therapeutic targets and remains highly dependent on cytotoxic chemotherapy, yet the rapid emergence of cisplatin resistance severely limits clinical benefits. The molecular mechanisms underlying this resistance and effective combination strategies remain incompletely defined. Here, we identify an epigenetic-metabolic signaling axis that drives cisplatin resistance in TNBC. Mechanistically, the histone demethylase KDM5A suppresses the endogenous protein kinase A inhibitor PKIA, thereby activating the cAMP-PKA pathway, enhancing CREB phosphorylation, and upregulating mitochondrial deacetylase SIRT3 transcription. Elevated SIRT3 subsequently deacetylates and activates SOD2, reducing intracellular reactive oxygen species (ROS) levels and attenuating cisplatin-induced oxidative damage and apoptosis, thereby promoting a drug-resistant phenotype. Upstream, we demonstrate that the E3 ubiquitin ligase UBR5 directly interacts with KDM5A and mediates its ubiquitin-dependent degradation, acting as a negative regulator of this pathway. Loss or attenuation of UBR5 stabilizes KDM5A and amplifies the KDM5A-cAMP-PKA-SIRT3 signaling cascade, conferring resistance to cisplatin. Therapeutically, pharmacologic inhibition of KDM5A restores cisplatin sensitivity and suppresses tumor growth in both cellular and in vivo models. Collectively, our findings establish the UBR5-KDM5A-cAMP-PKA-SIRT3 axis as a central regulator of cisplatin resistance in TNBC and highlight KDM5A as a promising therapeutic target for combination treatment strategies.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-09-21",
+      "authors": [
+        "Gong M",
+        "Liang F",
+        "Wang H",
+        "Gong M",
+        "Zuo P",
+        "Zhang Y",
+        "Liu P",
+        "Han X",
+        "Qiu W",
+        "Wang S",
+        "Wang S",
+        "Wang Z",
+        "Yu H",
+        "Lv E",
+        "Liu Y",
+        "Sun L",
+        "Tian L",
+        "Yu L",
+        "Liao X",
+        "Li D"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.drup.2026.101484",
       "journal_tier": 1,
       "impact": 15.0,
       "section": "onko",
@@ -1909,126 +2008,6 @@
       "journal_tier": 1,
       "impact": 14.0,
       "section": "immuno",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764861",
-      "title": "Neutrophil-mediated BDNF delivery for the treatment of moderate to severe Alzheimer's disease.",
-      "abstract": "Alzheimer's disease (AD), especially its moderate-to-severe stage (MSAD), remains a global health challenge with no disease-modifying therapies. Here, we identified a dual pathological signature in MSAD patients and murine models: a systemic pro-inflammatory milieu and critically reduced brain-derived neurotrophic factor (BDNF) levels in both the hippocampus and serum. To mitigate the decrease in BDNF, we developed an engineered neutrophil capsule, in which neutrophils carrying lipid nanoparticles encapsulating BDNF penetrated the brain and ameliorated cognitive capacity deficits in MSAD mice. The pro-inflammatory state in the MSAD brain facilitated neutrophil passage through the blood-brain barrier, and inflammatory mediators triggered the release of BDNF from the engineered neutrophils. Collectively, our findings show that engineered neutrophil-mediated brain delivery of BDNF efficiently reduces the amyloid-β plaque deposition in the hippocampus, leading to significantly improved learning and memory in MSAD mice. This study establishes neutrophil-mediated delivery as a paradigm strategy for MSAD, merging cell biology with nanotechnology to reverse neurodegeneration.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-10",
-      "authors": [
-        "Qin F",
-        "Zhang N",
-        "Jiang Y",
-        "Xu K",
-        "Xiong Y",
-        "Liu Y",
-        "Ouyang Q",
-        "Liu H",
-        "Dai Y",
-        "Jiang L",
-        "Zhao Y",
-        "Li H",
-        "Wang L",
-        "Chen Y",
-        "Hu L",
-        "Bu Q",
-        "Zhao Y",
-        "Kuang W",
-        "Qin M",
-        "Cen X"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.009",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "noro",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764856",
-      "title": "Direct pharmacological targeting of RAC1 by chlorogenic acid: A novel therapeutic approach for mesangial proliferative glomerulonephritis.",
-      "abstract": "Mesangial proliferative glomerulonephritis (MsPGN) is a common cause of end-stage renal disease, characterized by mesangial cell proliferation within glomeruli. Mesangial cell activation triggered by inflammation is a key factor in the development of MsPGN. However, effective therapeutic strategies targeting this process are still limited. Here, we uncovered, for the first time, the direct effects of chlorogenic acid (CGA), a naturally occurring small-molecule compound with anti-inflammatory and antiproliferative properties, on mesangial cells in an anti-Thy1 nephritis animal model. A multi-dimensional pharmacological platform integrating laser microdissection-coupled glomerular proteomics affinity deconvolution, surface plasmon resonance, molecular dynamics, and enzyme assays identified Ras-related C3 botulinum toxin substrate 1 (RAC1) as the direct target of CGA. Mechanistically, CGA competitively binds to the LYS15, PRO33, and THR34 amino acid residues-located within residues 57-65 of the GTP/GDP-binding domain of RAC1, inhibiting its activation and subsequently reducing AKT phosphorylation while suppressing Thrombospondin-1 secretion from mesangial cells-a key ligand for macrophage CD36 receptors. This interaction deactivates macrophages and lowers the levels of inflammatory cytokines, including TNFα, IL1β, and IL6. Significantly, as a novel natural RAC1 inhibitor, CGA disrupts mesangial-macrophage crosstalk by dual suppression of regional immunity and cellular proliferation, thus conferring renal protection in MsPGN models. Our findings highlight CGA as a promising pharmacotherapy, offering a mechanism-driven, natural product-based strategy to mitigate MsPGN progression.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-24",
-      "authors": [
-        "Qu Y",
-        "Wu L",
-        "Wang Y",
-        "Peng F",
-        "Zhang J",
-        "Pan D",
-        "Wang T",
-        "Zhou Y",
-        "Xia J",
-        "He J",
-        "Shi C",
-        "Zhao Y",
-        "Wang X",
-        "Liu R",
-        "Zhang Y",
-        "Liu J",
-        "Wu J",
-        "Duan S",
-        "Cai G",
-        "Li P",
-        "Hong Q",
-        "Chen X"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.041",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764855",
-      "title": "Molecular architecture responsible for specific inhibition of oncogenic PI3Kα mutants by RLY-2608 and STX-478.",
-      "abstract": "Hotspot mutations in phosphoinositide 3-kinase alpha (PI3Kα), such as H1047R, E542K, and E545K, drive tumorigenesis across multiple cancer types. Orthosteric PI3Kα inhibitors are effective but have toxicity against wild-type PI3Kα, the emergence of resistance, and a narrow therapeutic index. Allosteric inhibitors such as RLY-2608 and STX-478 offer a promising path toward mutant-specific suppression, yet the structural basis for their selectivity and mechanisms of action remain elusive. Here, we report high-resolution cryogenic electron microscopy structures of RLY-2608- and STX-478-bound H1047R, E542K, and E545K, revealing a shared cryptic allosteric pocket, accessible only through a major conformational rearrangement of the activation loop that is stabilized in oncogenic mutants. While both inhibitors occupy this pocket, they have distinct interaction networks and propagate divergent allosteric activities: RLY-2608 induces large-scale remodeling of catalytic and membrane-interacting elements, whereas STX-478 reinforces autoinhibitory interfaces between p110α and p85α subunits. Comparative analysis provides structural insights into their differentiated potency and selectivity.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-05",
-      "authors": [
-        "Liu X",
-        "Chen Y",
-        "Li G",
-        "Chen A",
-        "Zhou Q",
-        "Wang MW"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.003",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
