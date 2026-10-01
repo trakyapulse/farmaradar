@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T12:15:33+00:00",
+  "updated": "2026-10-01T12:50:24+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -117,6 +117,35 @@
       "journal_tier": 1,
       "impact": 60.8,
       "section": "onko",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42816649",
+      "title": "Soft drugs: design principles and topical applications.",
+      "abstract": "The rational design of soft drugs has emerged as a powerful strategy to enhance drug safety, without compromising efficacy. Unlike conventional active pharmaceutical ingredients, soft drugs are deliberately designed to undergo predictable and rapid metabolic inactivation after exerting their therapeutic effect. Systemic soft drugs are particularly valuable in anaesthesiology, where rapid offset of action is desirable. Regarding topical administration, the soft drug approach enables potent local activity while minimizing systemic exposure and toxicity. However, despite these advantages and the market approval of several soft drugs, especially in dermatological, inhaled and gut-restricted therapies, the concept remains underutilized and often misunderstood, frequently being conflated with prodrugs. This Review revisits the concept of soft drugs from a modern perspective, clarifies its distinction from related approaches, highlights recent clinical successes in topical delivery, and provides practical insights into the application of soft drug design in drug discovery.",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-09-30",
+      "authors": [
+        "Pirali T",
+        "Accetta A",
+        "Rautio J",
+        "Carzaniga L"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1038/s41573-026-01535-y",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "toksikoloji",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -1973,41 +2002,6 @@
       "journal_tier": 1,
       "impact": 14.0,
       "section": "diger",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764862",
-      "title": "SIRT6 activator MDL-800 alleviates periodontal inflammation by inhibiting AIM2 pathway.",
-      "abstract": "Periodontitis is an infectious and inflammatory disease. The inability to control clinical inflammation significantly contributes to unsuccessful periodontal treatment. As a key regulator of epigenetics, Sirtuin 6 is one of the NAD+-dependent histone deacetylase family members and has recently gained considerable interest in the context of inflammation. While MDL-800 has been demonstrated as an activator of SIRT6, its function in treating periodontitis remains unknown. In this study, animal experiments revealed that MDL-800 reduced alveolar bone resorption in ligature-induced periodontitis, particularly via reducing inflammation and inhibiting osteoclast production in a SIRT6-dependent manner. Furthermore, human gingival fibroblasts (HGFs) were exposed to lipopolysaccharide (LPS) to mimic periodontal inflammation in vitro. We noted that MDL-800 remarkably reduced expressions of pro-inflammatory cytokines in LPS-induced HGFs, which was neutralized by inhibiting SIRT6. Besides, MDL-800 could also reduce oxidative stress damage under inflammatory conditions. The suppression of AIM2 inflammasome activation was associated with the significant anti-inflammatory properties of MDL-800, as demonstrated by RNA sequencing and validation experiments. In conclusion, these findings suggest that MDL-800 was effective in reducing periodontal inflammation, partly by inhibiting AIM2 pathway in a SIRT6-dependent manner, demonstrating significant promise for enhancing therapeutic outcomes in periodontitis.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-15",
-      "authors": [
-        "Shi P",
-        "Ma R",
-        "Lan X",
-        "Feng L",
-        "Xue K",
-        "Dai R",
-        "Xie X",
-        "Xu C",
-        "Pang T",
-        "Wang J",
-        "Zhang J"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.021",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "immuno",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
