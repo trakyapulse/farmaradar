@@ -1,11 +1,40 @@
 {
-  "updated": "2026-10-04T12:05:14+00:00",
+  "updated": "2026-10-05T14:09:33+00:00",
   "window_days": 1,
   "datetype": "edat",
-  "count": 65,
-  "tier1_count": 2,
+  "count": 75,
+  "tier1_count": 3,
   "source": "PubMed (NCBI E-utilities)",
   "articles": [
+    {
+      "pmid": "42830379",
+      "title": "Infections and the Opioid Epidemic: Changing Epidemiology and Treatment Options.",
+      "abstract": "The opioid epidemic has led to an infectious diseases syndemic, with injection drug use responsible for driving rising rates of HIV, viral hepatitis, and serious bacterial and fungal infections. Opioid use continues to cause devastating mortality, with over 80,000 opioid-involved overdose deaths in the USA in 2022. Despite the proven effectiveness of opioid agonist therapy, specifically methadone and buprenorphine, treatment coverage remains inadequate, with profound gaps in opioid use disorder (OUD) continuum of care. Injection-related infections, particularly skin and soft tissue infections, bacteremia, osteomyelitis, and infective endocarditis, have increased substantially since the early 2000s and carry a high risk of morbidity and mortality. Risk is further compounded by criminalization, stigma, incarceration, and comorbid psychiatric conditions. Emerging concerns such as xylazine-associated necrotic wounds illustrate the dynamic intersection of substance use and infectious disease. While direct-acting antivirals have made hepatitis C curable, barriers to treatment persist, and uptake of HIV prevention strategies, including pre-exposure prophylaxis, remains low among people who inject drugs. Integration of addiction treatment into infectious disease and hospital care improves outcomes, yet systemic and policy barriers limit access. Innovative models such as syringe service programs, mobile units, and inpatient addiction consult services demonstrate the feasibility of integrated, patient-centered care. Evidence gaps remain regarding optimal antibiotic strategies for serious infections in people with OUD, and research and policy must address exclusionary practices, stigma, and fragmented systems of care. A synergistic approach integrating OUD treatment, infectious disease management, risk reduction, and trauma-informed care is essential to reduce preventable deaths and improve long-term health outcomes.",
+      "journal": "Drugs",
+      "date": "2026-10-04",
+      "authors": [
+        "Fanucchi LC",
+        "Eaton E",
+        "Van Sickels N",
+        "Lofwall MR"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1007/s40265-026-02364-4",
+      "journal_tier": 1,
+      "impact": 13.4,
+      "section": "noro",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
     {
       "pmid": "42829049",
       "title": "Delivery architectures for oligonucleotide therapeutics in genetic and rare diseases: GalNAc-based hepatocyte targeting and extrahepatic translation.",
@@ -70,6 +99,95 @@
         "recency": 0.0
       },
       "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42830215",
+      "title": "Kininase I drives angiotensin II-induced hypertension through activation of the bradykinin B1 receptor.",
+      "abstract": "BACKGROUND AND PURPOSE: Kininase I, comprising carboxypeptidase N (CPN) and carboxypeptidase M, regulates kinin activity and is up-regulated during injury, inflammation and immune activation. Under these conditions, kininase I converts bradykinin and kallidin into des-Arg kinins, primary endogenous agonists of the bradykinin B1 receptor (R). B1R signalling promotes vasoconstriction and inflammatory responses in the pathogenesis of hypertension. The roles of kininase I in regulating kinin-dependent signalling and inter-system interactions that contribute to blood pressure control and hypertensive organ injury remain poorly defined. EXPERIMENTAL APPROACH: CPN knockout (CPNKO) and wild-type (WT) mice underwent chronic Ang II infusion to evaluate the role of CPN, and a separate cohort of WT mice were treated with the kininase I inhibitor Mergetpa alongside angiotensin (Ang) II to assess the effects of kininase I inhibition. KEY RESULTS: Ang II in WT mice increased blood pressure and was accompanied by sympathetic overactivation, increased B1R expression, cardiac remodelling, immune cell infiltration and complement activation. CPNKO mice exhibited attenuated Ang II-induced hypertension, reduced B1 receptor expression, decreased cardiac fibrosis and blunted sympathetic activation. Pharmacologic inhibition of kininase I with Mergetpa reduced Ang II-induced increases in blood pressure, limited B1R up-regulation and suppressed complement activation and immune cell infiltration. CONCLUSIONS AND IMPLICATIONS: These findings identify kininase I as a critical enzymatic regulator linking the renin angiotensin and kallikrein kinin systems and highlight a mechanism through which cardiovascular and immune signalling pathways interact to drive hypertension. These results position kininase I as a potential therapeutic target for the treatment of hypertension.",
+      "journal": "Br J Pharmacol",
+      "date": "2026-10-04",
+      "authors": [
+        "White A",
+        "Theobald D",
+        "Johnston A",
+        "Tulis DA",
+        "Hannan J",
+        "Sriramula S"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1111/bph.70692",
+      "journal_tier": 1,
+      "impact": 6.8,
+      "section": "kardiyometabolik",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42830193",
+      "title": "Targeted delivery of the CB2 receptor agonist JWH-133 via VCAM-1-functionalised nanoparticles attenuates atherosclerosis and reveals sex-specific therapeutic outcomes.",
+      "abstract": "BACKGROUND AND PURPOSE: Atherosclerosis, a chronic inflammatory disease characterised by lipid accumulation and endothelial dysfunction, remains a leading cause of cardiovascular morbidity and mortality. While cannabinoid 2 (CB2) receptor agonists show therapeutic promise in preclinical studies, their systemic application is hindered by poor bioavailability and off-target effects. Consequently, targeted delivery systems are essential to enhance therapeutic efficacy and mitigate adverse effects. EXPERIMENTAL APPROACH: This study presents a targeted nanotherapeutic strategy for localising the CB2 receptor agonist directly at atherosclerotic lesions. Poly(lactic-co-glycolic acid) (PLGA) nanoparticles (NPs), encapsulating the selective agonist JWH-133 and functionalised with a VCAM-1 binding peptide (VBP) for selective binding to vascular cell adhesion molecule-1 (VCAM-1) (VBP-JWH-133-NPs), were developed. In vivo experiments were conducted in both male and female apolipoprotein E-deficient (ApoE-/-) mice to assess the anti-inflammatory and lipid-modulating effects of the nanotherapy. Serum lipid profiles, aortic plaque burden and key inflammatory markers were analysed. KEY RESULTS: VBP-JWH-133-NPs significantly reduced foam cell-rich depositions and modulate systemic inflammatory markers in both sexes, demonstrating superior anti-atherogenic efficacy compared with free JWH-133. The therapeutic benefits are notably more pronounced in male mice, which exhibit greater initial plaque area and lipid deposition. CONCLUSION AND IMPLICATIONS: These findings underscore the potential of VBP-JWH-133-NPs as an efficient and superior delivery system for cannabinoid therapies in atherosclerosis. By addressing sex as a biological variable, this approach offers a nuanced strategy for developing more effective and precise cardiovascular interventions.",
+      "journal": "Br J Pharmacol",
+      "date": "2026-10-04",
+      "authors": [
+        "Martín-Navarro L",
+        "Martín-Banderas L",
+        "Álvarez-Fuentes J",
+        "Herrera-González MD"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1111/bph.70688",
+      "journal_tier": 1,
+      "impact": 6.8,
+      "section": "kardiyometabolik",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42830016",
+      "title": "Wei-Tong-Xin decoction targets CD8+ T cell-driven colitis via gut microbiota and linoleic acid modulation: an integrated omics study.",
+      "abstract": "BACKGROUND: Wei-Tong-Xin (WTX), derived from the Hua Tuo Zhong Cang Jing, has been demonstrated to exert therapeutic effects against gastric ulcers and gastritis, with well-established anti-inflammatory properties. However, its potential role in intestinal inflammation has not yet been investigated. PURPOSE: To evaluate the therapeutic efficacy of WTX in dextran sulfate sodium (DSS)-induced colitis in mice and to elucidate its underlying pharmacological mechanisms while identifying its active components. METHODS: Mice with DSS-induced colitis were treated with WTX extracts. The primary active fraction of WTX was identified by screening intestinal injury and hematological indicators. Integrated 16S rRNA sequencing, serum metabolomics, and network pharmacology analyses were employed to investigate the therapeutic mechanisms. Specifically, serum metabolomics identified linoleic acid (LA) metabolism as the major metabolic pathway regulated by the petroleum ether (PE) fraction, whereas network pharmacology linked PE-derived constituents to colitis-related targets and identified ALOX5 and PTGS2 as key nodes connecting PE with LA metabolism. These findings were subsequently validated using LA supplementation and pseudo-germ-free mouse models. RESULTS: The PE fraction significantly alleviated colitis symptoms, including reduced disease activity index scores, attenuation of colon shortening, improved intestinal mucosal barrier integrity, and decreased CD8⁺ T-cell infiltration in the spleen, colon, and mesenteric lymph nodes. PE also reshaped the gut microbiota by modulating the abundance of Bacteroidota and Proteobacteria, reduced the levels of unsaturated fatty acids, particularly those involved in LA metabolism, and downregulated the expression of ALOX5 and PTGS2. Fecal microbiota transplantation produced comparable therapeutic effects, whereas LA supplementation reversed the protective effects of PE. CONCLUSION: PE alleviates colitis by remodeling the gut microbiota, promoting the dominance of Bacteroidota, inhibiting LA metabolism through the ALOX5/PTGS2 pathway, and suppressing the activation of pathogenic CD8⁺ T cells. These effects collectively preserve intestinal barrier integrity and mitigate the progression of colitis.",
+      "journal": "Phytomedicine",
+      "date": "2026-09-28",
+      "authors": [
+        "Lin F",
+        "Wang J",
+        "Han Y",
+        "Zhang D",
+        "Wu B",
+        "Yan T",
+        "Jia Y"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.phymed.2026.158831",
+      "journal_tier": 1,
+      "impact": 6.7,
+      "section": "immuno",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
       "abstract_tr": ""
     },
     {
@@ -418,102 +536,38 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42827404",
-      "title": "Evaluating Vaginal Microbiome Effects on Antiretroviral Exposure in the Female Genital Tract Using Pharmacometric and Machine Learning Approaches.",
-      "abstract": "Antiretroviral pre-exposure prophylaxis (PrEP) is less effective in women than expected, partly because drug exposure within the female genital tract is variable and may be influenced by the vaginal microbiome. We developed an integrated pharmacometrics and machine learning framework to evaluate associations between vaginal microbiome composition and cervical antiretroviral exposure in women with human immunodeficiency virus (HIV) receiving tenofovir (TFV)-, lamivudine (3TC)-, or emtricitabine (FTC)-containing regimens. Pharmacokinetic and microbiome data were obtained from two single-center studies in Uganda and the United States. Published population pharmacokinetic models were used to estimate individual parameters by maximum a posteriori Bayesian estimation and to simulate plasma and cervical tissue exposure metrics under sexual-activity-driven dosing that were not studied in these trials. Microbiome diversity was assessed using alpha and beta diversity analyses. Associations between microbial genera and cervical drug exposure were evaluated using correlation analysis, differential abundance testing, and three machine learning approaches: LASSO, random forest, and XGBoost. Overall vaginal microbiome diversity was not associated with cervical exposure to TFV, 3TC, or FTC. In contrast, specific taxa-level associations with cervical drug exposure were identified. For TFV, Gemella was positively associated with cervical TFV-diphosphate exposure, whereas Megasphaera and Falsiporphyromonas were negatively associated across multiple models. For 3TC, Dialister, Prevotella, Atopobium, Streptobacillus, and Gardnerella were repeatedly identified. For FTC, Bifidobacteriaceae was consistently selected, with Lachnospiraceae and Prevotellaceae also implicated. This pharmacometrics-machine learning framework identified specific vaginal taxa associated with cervical antiretroviral exposure, supporting the future development of microbiome-based biomarkers and precision PrEP strategies for women.",
-      "journal": "Clin Pharmacol Ther",
-      "date": "2026-10-03",
+      "pmid": "42830162",
+      "title": "Advances in radiolabeled antibody technology: optimization strategies for precision medicine.",
+      "abstract": "Radiolabeled antibody technology couples radionuclides with the target specificity of antibodies and has become an important platform for tumor imaging and therapy. However, its clinical application still faces multiple challenges. For example, production challenges include low radiochemical yield, poor homogeneity, and limited product stability. In addition, biological challenges include nonspecific accumulation, which results from unfavorable pharmacokinetics and the mismatch between the half-lives of radionuclides and antibodies. This review summarizes optimization strategies aimed at improving product quality and reducing nonspecific accumulation. These approaches include optimization basic parameters, site-specific conjugation, development of novel chelators, antibody engineering, Fc-region modification, and pretargeting strategies. Collectively, these studies demonstrate that synergistic multi-strategy optimization has substantially improved the targeting specificity and safety of radioimmunoconjugates while reducing their non-specific accumulation. With continued advances in radionuclide-labeled antibody technology, progressive refinement of regulatory frameworks and standards, and implementation of patient-specific dosimetry, this field is expected to play an increasingly pivotal role in precision medicine.",
+      "journal": "Int J Pharm",
+      "date": "2026-10-04",
       "authors": [
-        "Yan D",
-        "Collins LB",
-        "Staley C",
-        "Matovu FK",
-        "Jacobson P",
-        "Nicol M",
-        "Cheng S"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1002/cpt.70499",
-      "journal_tier": 1,
-      "impact": 6.3,
-      "section": "klinik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42827337",
-      "title": "Inhibition of the NR4A1-mediated cell cycle checkpoint enhances hyperplastic adipogenesis and glucose homeostasis in obesity.",
-      "abstract": "BACKGROUND AND PURPOSE: The nuclear receptor NR4A1 is a critical node in transcriptional circuits for metabolic adaptation, yet its role in adipocyte progenitor (AP) fate and proliferation is unclear. We sought to define how NR4A1 governs early adipogenesis and adipose tissue plasticity. EXPERIMENTAL APPROACH: Doxycycline-inducible NR4A1-overexpressing and NR4A1-deficient 3T3-L1 models were used to assess lipid accumulation, mitotic clonal expansion (MCE), and cell-cycle dynamics. Multiomics integration (RNA-seq and chromatin assays) identified NR4A1 targets. The functionality of two lead candidates, ANLN and CDC20, was tested by genetic knockdown and pharmacological inhibition. Diet-induced obese mice received the NR4A1 antagonist C-DIM8 alone or combined with the PPARγ agonist rosiglitazone to evaluate adipose expansion and metabolic outcomes. KEY RESULTS: NR4A1 exerted a stage-specific inhibitory effect during early differentiation, reducing expression of canonical adipogenic markers and lipid accumulation. Integrative transcriptomic and chromatin analyses identified Anln and Cdc20 as direct NR4A1 targets essential for MCE. Depletion of either gene phenocopied NR4A1 overexpression, inducing G2/M arrest and blunting of adipogenesis. Pharmacological CDC20 inhibition with Apcin suppressed preadipocyte proliferation and differentiation in a dose-dependent manner. Importantly, in a diet-induced obese mouse model, combined treatment with the NR4A1 antagonist C-DIM8 and the PPARγ agonist rosiglitazone promoted AP proliferation, hyperplastic adipose tissue expansion, and improved glucose tolerance. CONCLUSIONS AND IMPLICATIONS: NR4A1 functions as a transcriptional gatekeeper of adipogenic initiation by restraining the Anln/Cdc20 cell-cycle program. Pharmacological modulation of the NR4A1-cell-cycle axis, particularly alongside PPARγ activation, may offer a strategy to augment adipose tissue plasticity and metabolic resilience in obesity.",
-      "journal": "Br J Pharmacol",
-      "date": "2026-10-02",
-      "authors": [
-        "Qiao W",
-        "Ku C",
-        "Kumar GVN",
-        "Brown JD",
-        "Wu M",
-        "Li C",
-        "Xie J",
-        "Meng H",
-        "Sun L",
-        "Zhou T",
-        "Liang D",
+        "Lei Q",
+        "Jiang Q",
+        "Liu Q",
+        "Nian S",
+        "Ye Y",
+        "Xu W",
         "Li Y",
-        "Steinhauser ML",
-        "Zhang Y"
+        "Li C",
+        "Yuan Q",
+        "Li L"
       ],
       "pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
-      "doi": "10.1111/bph.70655",
-      "journal_tier": 1,
-      "impact": 6.8,
-      "section": "kardiyometabolik",
-      "score": 100.0,
+      "doi": "10.1016/j.ijpharm.2026.127497",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "klinik",
+      "score": 70.0,
       "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
+        "journal": 60,
+        "pubtype": 10,
         "recency": 0.0
       },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42827289",
-      "title": "Metformin Use Before Assisted Reproductive Technology and Pregnancy Outcomes in Women With Polycystic Ovary Syndrome: A Nationwide Cohort Study.",
-      "abstract": "Metformin has been hypothesized to improve ovulation and pregnancy rates in women with polycystic ovary syndrome (PCOS) undergoing assisted reproductive technology (ART). This population-based cohort study assessed pregnancy outcomes associated with metformin use prior to ART in women with PCOS. We included 10,178 women with PCOS undergoing their first fresh embryo transfer cycle under the national health insurance program of South Korea between 2017 and 2021. Women who received metformin for ovulation induction within 12 weeks prior to ovarian stimulation were compared with those who did not receive metformin. ART outcomes included successful oocyte retrieval, embryo transfer, and clinical pregnancy, while pregnancy outcomes included spontaneous abortion, preterm birth, and live birth. Overlap-weighted risk ratios (RR) were calculated for each outcome. Among the study population, 2,149 (21.1%) had used metformin prior to ovarian stimulation, and 8,029 (78.9%) had not. Metformin use did not improve or worsen ART outcomes, with comparable rates of oocyte retrieval (RR: 1.01, 95% confidence interval 1.00-1.02) and clinical pregnancy (RR: 1.05, 1.00-1.11), as well as no increased rates of spontaneous abortion (RR: 1.01, 0.84-1.21), preterm birth (RR: 0.99, 0.84-1.18), or live birth (RR: 1.05, 0.99-1.12). Subgroup analyses suggested modest benefits, including higher clinical pregnancy or live birth rates, among women aged ≥ 35 years, those undergoing a GnRH antagonist protocol, and those with ≥ 30 days of metformin use. In conclusion, metformin pretreatment before ART was not associated with any clinically meaningful benefits or harms in pregnancy outcomes among women with PCOS.",
-      "journal": "Clin Pharmacol Ther",
-      "date": "2026-10-02",
-      "authors": [
-        "Cho Y",
-        "Park YS",
-        "Lee Y",
-        "Lim H",
-        "Shin JY",
-        "Kwak SH"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1002/cpt.70512",
-      "journal_tier": 1,
-      "impact": 6.3,
-      "section": "diger",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
+      "tier": 3,
       "abstract_tr": ""
     },
     {
@@ -778,28 +832,356 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42827180",
-      "title": "Ciprofloxacin beyond antibacterial therapy: pharmacological mechanisms, anticancer activity, and translational limitations.",
-      "abstract": "Ciprofloxacin is a widely used fluoroquinolone antibiotic whose biological effects extend beyond bacterial DNA gyrase and topoisomerase IV inhibition. Accumulating preclinical evidence suggests that ciprofloxacin can modulate mammalian cellular pathways involved in tumor growth, regulated cell death, inflammation, and tissue homeostasis. This narrative review summarizes PubMed-indexed evidence on the pharmacological effects of ciprofloxacin beyond antibacterial activity, focusing on DNA and topoisomerase-related mechanisms, mitochondrial dysfunction, apoptosis, cell-cycle regulation, oxidative stress, ferroptosis, autophagy, inflammatory signaling, and tissue remodeling. Evidence concerning the parent ciprofloxacin molecule is considered separately from that involving chemical derivatives, conjugates, nanoparticles, and combination regimens. Overall, the available evidence suggests that the effects of ciprofloxacin on cancer cells and host pathways are context-dependent. However, most of the evidence remains preclinical, and the clinical relevance of concentrations used in many studies remains uncertain. Established fluoroquinolone-associated toxicities should also be considered when evaluating its potential for drug repurposing. Ciprofloxacin may therefore warrant further pharmacological investigation, but it should not yet be considered an established anticancer or host-directed therapy.",
-      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
-      "date": "2026-10-03",
+      "pmid": "42830608",
+      "title": "Lithium-related adverse drug reactions in children: A case-control study comparing lithium to second-generation antipsychotics in VigiBase.",
+      "abstract": "AIMS: This study aimed to improve the understanding of lithium's safety profile by analysing the frequency and distribution of reported adverse drug reactions (ADRs) compared to second-generation antipsychotics (SGAs). METHODS: Individual case safety reports from VigiBase (1968-October 2023) involving individuals older than 2 years, with lithium or SGAs as a suspected or interacting drug, were included. Medical Dictionary for Regulatory Activities (MedDRA) was used for ADRs classification. Proportional reporting ratios (PRRs) with 95% confidence intervals were calculated across different age groups. RESULTS: The lithium group contained 29 897 reported ADRs. Proportional reporting patterns varied across age groups. In children, lithium was associated with a higher proportion of renal, endocrine, gastrointestinal, skin and cardiac ADRs compared to SGAs. SGAs showed proportionally more ADRs in females, whereas lithium displayed fewer and more balanced sex-related differences. Renal impairment accounted for a larger proportion of lithium-related ADRs in older adults compared to children. For SGAs, type 2 diabetes and cardiovascular events showed higher proportional reporting in both younger and older adults than in children. In contrast, thyroid-related ADRs with lithium and weight-related ADRs with SGAs were proportionally more common in children. CONCLUSIONS: Renal, endocrine and gastrointestinal effects are observed in children using lithium, though serious outcomes like renal failure appear proportionally more often in older adults. SGAs also show age-specific risk patterns, particularly metabolic and cardiovascular effects in adults. This emphasizes the ongoing need for individualized treatment and continued ADR monitoring and reporting to enhance the understanding of lithium's safety profile and support informed clinical decision-making.",
+      "journal": "Br J Clin Pharmacol",
+      "date": "2026-10-04",
       "authors": [
-        "Tahmasbi R",
-        "Khalaj-Kondori M",
-        "Karimpur-Zahmatkesh A"
+        "Ringeling LT",
+        "Gangapersad RN",
+        "Lieuw L",
+        "Souverein PC",
+        "Heerdink ER",
+        "Garcia-Gomez P",
+        "Hillegers MHJ",
+        "Koch BCP",
+        "Dierckx B"
       ],
       "pubtypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
-      "doi": "10.1007/s00210-026-05960-z",
+      "doi": "10.1002/bcp.70827",
       "journal_tier": 2,
-      "impact": 3.2,
-      "section": "onko",
-      "score": 70.0,
+      "impact": 3.5,
+      "section": "noro",
+      "score": 60.0,
       "score_parts": {
         "journal": 60,
-        "pubtype": 10,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42830595",
+      "title": "Prevalence of pregnancy and birth outcomes following biologic exposure in immune-mediated inflammatory diseases: A population-based study.",
+      "abstract": "AIMS: Almost 5% of pregnancies are affected by immune-mediated inflammatory diseases (IMIDs). As treatments become available, understanding their use during pregnancy is important. We aimed to describe maternal, pregnancy and infant outcomes among IMID pregnancies exposed to biologic therapies. METHODS: Using the Merative™ MarketScan® Commercial Database, we identified pregnancies among mothers aged 15-45 with a pre-gestational IMID diagnosis. Biologic exposure during pregnancy was ascertained using prescription and procedure claims and classified by trimester. Outcomes included maternal complications, fetal/neonatal outcomes and pregnancy loss. Descriptive statistics were used to summarize characteristics, comorbidities, medication use and outcomes by biologic exposure status. RESULTS: Among 257 409 IMID pregnancies, 6531 (2.5%) were exposed to biologics. Biologic-exposed pregnancies more frequently involved multiple IMIDs (34.9% vs. 7.7%). Nearly half of tumour necrosis factor inhibitor (TNFi) exposures occurred across all trimesters, while first-trimester-only exposure was more common for several non-TNFi biologics. Live births occurred in 77.4% of biologic-exposed pregnancies and 74.2% of biologic-unexposed pregnancies, with most births occurring at term. Maternal serious infections (i.e., infections requiring hospitalization) occurred in 19.7% of biologic-exposed pregnancies and 16.5% of unexposed pregnancies. Among 2066 biologic-exposed infants, the proportions of low birth weight and neonatal intensive care unit admission varied by specific non-TNFi biologics, whereas the distribution of neonatal outcomes appeared similar across exposure groups. CONCLUSION: Biologic use in IMID pregnancy increased over time and extended beyond the first trimester. Pregnancies with biologic exposure differed from unexposed pregnancies in disease characteristics and treatment patterns. Maternal and neonatal outcomes varied across biologic exposure groups.",
+      "journal": "Br J Clin Pharmacol",
+      "date": "2026-10-04",
+      "authors": [
+        "Flatman LK",
+        "Leal LF",
+        "Nohmie G",
+        "Bérard A"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1002/bcp.70848",
+      "journal_tier": 2,
+      "impact": 3.5,
+      "section": "klinik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42830496",
+      "title": "Safety and pharmacokinetics of inhaled aloxistatin: A first-in-human phase 1 dose escalation trial.",
+      "abstract": "AIMS: Aloxistatin (E64d) is a membrane-permeable cysteine protease inhibitor prodrug that is converted by esterases to the active metabolite E64c (loxistatin). This first-in-human study evaluated the safety, tolerability and pharmacokinetics of single ascending doses of inhaled E64d in healthy volunteers. METHODS: In this randomized, double-blind, placebo-controlled phase 1 trial, 47 healthy male volunteers contributed 48 study participations across six dose cohorts. Thirty-six treatment assignments were to E64d and 12 to placebo. Study medication was administered by inhalation using a breath-triggered mesh nebulizer. Safety assessments included adverse events, pulmonary function, gas exchange, cardiovascular parameters, and laboratory variables. Plasma concentrations of E64d and E64c were characterized following inhalation. RESULTS: No serious adverse events occurred, no adverse event was classified as severe and no participant discontinued because of an adverse event. Ten adverse events occurred following E64d and four following placebo; one mild event of mucosal dryness was considered treatment related. No clinically relevant changes were observed in pulmonary, cardiovascular, or laboratory safety assessments. E64d appeared rapidly and transiently in plasma, with a median Tmax of 3 min. E64c showed sustained systemic exposure, with median Tmax values of approximately 15-20 min and an elimination half-life of approximately 30-40 min across evaluable dose levels. Dose proportionality was not formally assessed. CONCLUSIONS: Single ascending doses of inhaled E64d were generally well tolerated in healthy male volunteers. Inhalation resulted in rapid, transient systemic exposure to E64d followed by measurable formation of E64c. These findings provide a safety and pharmacokinetic basis for further investigation of inhaled aloxistatin.",
+      "journal": "Br J Clin Pharmacol",
+      "date": "2026-10-04",
+      "authors": [
+        "Fähndrich S",
+        "Friedrich F",
+        "Soriano D",
+        "Gjeloshi J",
+        "Frye BC",
+        "Nguyen XP",
+        "Herbstritt L",
+        "von Spee-Mayer C",
+        "Lang B",
+        "Nollevaux F",
+        "Hoheisel A",
+        "Winterberg D",
+        "Braun A",
+        "Epting T",
+        "Contini C",
+        "Winkler K",
+        "Reinheckel T",
+        "Trudzinski FC",
+        "Rohde G",
+        "Stolz D",
+        "Bals R",
+        "Hug MJ",
+        "Wirtz S",
+        "Peters C",
+        "Jenkner C"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1002/bcp.70858",
+      "journal_tier": 2,
+      "impact": 3.5,
+      "section": "klinik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42830176",
+      "title": "Assessment of Excised and Reconstructed Human Pigmented Skin Models for In Vitro Permeation Testing.",
+      "abstract": "Percutaneous absorption is essential in the safety assessment of topical drugs and cosmetic products, but the potential impact of skin pigmentation on dermal absorption remains understudied. Here, a novel framework integrating quantitative pigmentation characterization, barrier function assessment, and in vitro permeation testing (IVPT) to investigate the role of melanin in percutaneous absorption using both excised and reconstructed human skin models was established. Abdominal excised human skin (EHS) from female donors of Fitzpatrick phototypes (FP) I/II and FP V/VI and reconstructed human pigmented epidermis (RHPE) with melanocytes derived from Caucasian and African American donors were tested. RHPEs were cultured for 15 days in basal or melanogenesis-stimulating media. Skin pigmentation level, transepidermal water loss (TEWL), and the in vitro permeation of radiolabeled caffeine, salicylic acid, testosterone, mannitol, hydroquinone, and ciprofloxacin were evaluated in EHS and RHPE samples. Melanin quantification assays and histological analyses confirmed higher pigmentation in EHS of FP V/VI versus FP I/II donors, in RHPE from African American versus Caucasian donors, and in RHPEs cultured under melanogenesis-stimulating versus basal conditions, especially in tissues from African American donors. No significant differences in TEWL were observed between EHS groups or across RHPE groups. In general, no statistically significant differences were observed in the cumulative amount, flux, and mass distribution of test chemicals between EHS groups or across RHPE groups. The study demonstrated the feasibility of using a standardized toolkit and pigmented human skin models to investigate the role of melanin in percutaneous absorption in vitro. The ability to modulate pigmentation levels in RHPEs within the same donor background supports their utility as a reproducible model for evaluating melanin-associated variability in dermal safety assessments, particularly for compounds that may interact with melanin.",
+      "journal": "Eur J Pharm Sci",
+      "date": "2026-10-04",
+      "authors": [
+        "Modaresi S",
+        "Salminen AT",
+        "Felton RP",
+        "Maisha M",
+        "Davis KJ",
+        "Kudlyk T",
+        "An N",
+        "Zang Y",
+        "Srinivasan J",
+        "Manga P",
+        "Camacho L"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ejps.2026.107681",
+      "journal_tier": 2,
+      "impact": 4.5,
+      "section": "diger",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42830161",
+      "title": "Colon-targeted delivery of α-terpineol via ZIF-8 alleviates ulcerative colitis by anti-inflammatory and gut microbiota-metabolism modulation.",
+      "abstract": "Ulcerative colitis (UC) demands lifelong therapy, yet current regimens require daily high-dose administration that drives poor adherence and cumulative toxicity. Although α-terpineol (αTL) shows therapeutic efficacy in colitis, its oral application is limited by poor oral bioavailability and a lack of colon specificity. Rather than relying on sophisticated surface engineering, we encapsulated αTL within zeolitic imidazolate framework-8 (ZIF-8) during co-nucleation. This unmodified design permitted partial gastric release (∼46%) in gastric fluid and minimal release in intestinal fluid, with the remaining cargo subsequently released in the acidic environment of the inflamed colon. Oral administration of αTL@ZIF-8 resulted in colonic retention exceeding 24 h in DSS-induced colitis mice. Leveraging this colonic accumulation, an every-other-day regimen at 10 mg kg-1 achieved efficacy comparable to daily free αTL at 100 mg kg-1 or cyclosporine A at 60 mg kg-1. Mechanistically, αTL@ZIF-8 restored Claudin-1 and ZO-1 expression, enriched butyrate-producing genera and elevated butyrate levels, and uniquely modulated glutathione synthesis-related pathways. Safety evaluation in healthy mice showed no overt toxicity under this regimen. This formulation reduces premature drug exposure in the upper gastrointestinal tract and allows more αTL to reach the acidic environment of the inflamed colon. These features enable a low-dose, every-other-day oral regimen that decouples therapeutic efficacy from dosing frequency, positioning it as a promising candidate for long-term UC management.",
+      "journal": "Int J Pharm",
+      "date": "2026-10-04",
+      "authors": [
+        "Zhou H",
+        "Zhang N",
+        "Sun C",
+        "Feng M",
+        "Yang T",
+        "Liang Y",
+        "Peng C",
+        "Fu Z",
+        "Zhang H"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127488",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "klinik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42830160",
+      "title": "Investigation of the pentamidine efficacy against myotonic dystrophy type 1 exploiting polymeric- and lipid-based nanoparticles.",
+      "abstract": "Myotonic dystrophy type 1 (DM1) is a genetic disorder caused by a mutation in the DMPK gene, in which an expanded CTG trinucleotide is transcribed into abnormal mRNA that accumulates in nuclear foci. These foci sequester crucial splicing factors, causing a strong mis-regulation of downstream target genes. Consequently, DM1 causes dysfunctions of multiple organs, including skeletal muscle. Currently, no cure exists for DM1, although significant efforts are underway to develop novel therapeutic strategies. Pentamidine (PTM), a drug currently used as an antiparasitic agent, has been shown to reduce nuclear foci formation, and restore normal splicing patterns; however, its clinical translation via systemic administration (e.g., intravenous) for widespread muscle targeting is severely limited by a narrow therapeutic window and organ toxicities. Nanocarriers (NCs) may improve drug efficacy by enabling targeted delivery while reducing side effects and the required therapeutic dose. Although active surface functionalization would be required for organ-specific targeting in vivo, non-functionalized platforms provide a primary baseline for evaluating fundamental uptake and efficacy. In this study, we explored in vitro the potential of different formulations of poly(lactic-co-glycolic) acid-based nanoparticles, liposomes, and nanohydrogels as safe and efficient NCs for PTM delivery to skeletal muscle (C2C12) cells. The most suitable concentration for each PTM-loaded formulation was assessed by a cell viability assay, while NC uptake and potential cell damage were evaluated using transmission electron microscopy. Finally, the therapeutic efficacy of PTM-loaded NCs was tested in cells transfected with human (CTG)n expansion to express nuclear mRNA foci. Three NC formulations significantly reduced nuclear foci, while improving cell viability and prolonging the therapeutic effect compared with PTM administered as free molecule. Although obtained in vitro, these results open promising perspectives for NCs as therapeutic tools for DM1.",
+      "journal": "Int J Pharm",
+      "date": "2026-10-04",
+      "authors": [
+        "Carton F",
+        "Andreana I",
+        "Meo CD",
+        "Migliorini C",
+        "Montanari E",
+        "Boetti S",
+        "Galiè M",
+        "Zancanaro C",
+        "Matricardi P",
+        "Stella B",
+        "Arpicco S",
+        "Malatesta M"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127507",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42830159",
+      "title": "Development of orodispersible wafer-based delayed-release omeprazole systems for pediatric compounding.",
+      "abstract": "Omeprazole (OMZ) is one of the most frequently compounded active pharmaceutical ingredients for pediatric use. Despite the availability of licensed pediatric formulations in some countries, extemporaneous oral suspensions remain widely used in hospital pharmacies, although their limited chemical stability, short shelf life, and need for specific storage conditions may complicate routine use. This study aimed to develop a child-appropriate solid alternative based on a hybrid lipid-wafer platform combining gastro-resistant OMZ microparticles with an orodispersible matrix. Orodispersible wafers (ODWs), composed of pectin, κ-carrageenan, and maltodextrins, were produced by lyophilization, yielding highly porous matrices with low residual moisture (2.74%) and rapid oral disintegration. To protect OMZ during gastric exposure, two encapsulation strategies were investigated: calcium alginate-zein beads and lipid microparticles (LMPs). Morphology, particle size, drug loading, encapsulation efficiency, and solid state were characterized, and drug release was evaluated in gastrointestinal buffers and pediatric biorelevant media. Trimyristin-based LMPs showed the most favorable performance, limiting OMZ exposure to the acidic environment and providing controlled intestinal release consistent with Higuchi kinetics. Their incorporation into ODWs yielded a solid unit containing approximately 2.5 mg OMZ. Importantly, OMZ content remained unchanged for up to six months, with comparable release profiles at t0 and after storage, including at room temperature. Overall, the proposed hybrid lipid-wafer platform provides a stable, child-appropriate solid dosage form to OMZ delivery and represents a promising formulation strategy for further development in suitably equipped hospital pharmacy compounding settings.",
+      "journal": "Int J Pharm",
+      "date": "2026-10-04",
+      "authors": [
+        "De Renzis E",
+        "Donati E",
+        "Bertoni S",
+        "Passerini N",
+        "Albertini B"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127509",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42830158",
+      "title": "Spray-dried simvastatin-loaded dry emulsions as preformulations for 2D printing inks: effects of carrier and ink medium composition on redispersion and stability.",
+      "abstract": "This study evaluated spray-dried simvastatin-loaded dry emulsions as preformulations for the extemporaneous preparation of two-dimensional (2D) printing inks. The concept was based on stable solid intermediates intended for redispersion immediately before use, rather than storage as pre-mixed drug-loaded liquid inks. Oil-in-water emulsions containing simvastatin were prepared using lactose, maltodextrin, nanocrystalline cellulose (NCC)/lactose and NCC/maltodextrin as carrier systems, with and without antioxidants, and converted into dry emulsions by spray drying. The resulting powders were characterized for particle size, morphology, drug solid state, encapsulation efficiency and redispersibility, and were subjected to one-month stability testing. After redispersion in different propylene glycol/water media, the reconstituted systems were evaluated for particle size, surface tension and viscosity, together with physical and chemical stability. Carrier composition strongly affected powder properties and simvastatin retention. Lactose formulations showed higher encapsulation efficiency than maltodextrin formulations, while NCC affected simvastatin retention in a carrier- and condition-dependent manner, with NCC/lactose showing the most favorable chemical stability profile. Simvastatin was partly crystalline in lactose and NCC/lactose particles, whereas it was amorphous in maltodextrin and NCC/maltodextrin systems. NCC/lactose provided the most favorable simvastatin retention across both dry and redispersed formulations, while maltodextrin-based systems produced smaller dry and redispersed particles that showed higher physical stability over the storage period. The blank ink medium also influenced redispersion performance: water-rich media promoted smaller particles, whereas propylene glycol-rich media resulted in higher simvastatin retention regardless of the carrier used. This demonstrates the potential of spray-dried dry emulsions as solid preformulations for 2D printing inks, while highlighting the need to tailor both carrier and blank ink medium composition to the physicochemical properties of the incorporated drug.",
+      "journal": "Int J Pharm",
+      "date": "2026-10-04",
+      "authors": [
+        "Zorec BS",
+        "Dreu R"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127508",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "formulasyon",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42830156",
+      "title": "Chronic tetracycline exposure resulted in VPS13 dysregulation, lipid accumulation, and physiological impairments in Drosophila melanogaster.",
+      "abstract": "Antibiotics are widely detected in the environment due to their extensive use in medicine, aquaculture, and animal husbandry. Among these, tetracycline (TC) is recognized as a significant environmental contaminant with considerable ecological and public health implications. Continuous exposure to TC through contaminated food, water, and soil can lead to the accumulation of TC residues in the body, potentially exerting adverse effects on human health. To evaluate these effects, we used Drosophila melanogaster as a model organism. Our findings demonstrated that chronic exposure to TC at 1 mg/ml disrupted both metabolic and endocrine homeostasis as indicated by altered prothoracic gland morphology, reduced expression of ecdysone biosynthetic genes spo, phm, and dib, and significantly decreased 20-hydroxyecdysone levels. These changes were associated with developmental delay and reduced fecundity. TC exposure also increased lipid droplet accumulation, elevated TAG and glucose levels, shortened lifespan, and impaired locomotion. In addition, TC-treated flies exhibited reduced VPS13 expression, mitochondrial fragmentation, increased expression of Drp1, Pink1, Parkin, and Atg8a, enhanced oxidative stress, diminished antioxidant defences, and increased apoptosis. Molecular docking and molecular dynamics simulations further suggested a potential interaction between TC and the lipid-binding region of VPS13. Collectively, these findings indicate that chronic TC exposure is associated with altered lipid and endocrine homeostasis, mitochondrial dysfunction, oxidative stress, and impaired physiological performance in D. melanogaster. The observed reduction in VPS13 expression, together with the computational interaction analyses, suggests that VPS13 may contribute to the biological responses associated with TC exposure; however, further experimental studies are required to establish a direct mechanistic relationship.",
+      "journal": "Chem Biol Interact",
+      "date": "2026-10-04",
+      "authors": [
+        "Behera P",
+        "Ojha M",
+        "Behera DP",
+        "Jha S",
+        "Sahoo H",
+        "Mishra M"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.cbi.2026.112352",
+      "journal_tier": 2,
+      "impact": 4.4,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42830147",
+      "title": "3-Methoxychrysazin suppresses RANKL-induced osteoclastogenesis by modulating Notch2 signaling.",
+      "abstract": "Bone homeostasis is maintained by a delicate balance between osteoblast and osteoclast activity, and disruption of this equilibrium leads to bone loss and associated disorders. Oxidative stress and dysregulation of key signaling pathways, such as Notch2 and NF-κB, play pivotal roles in promoting osteoclastogenesis and pathological bone resorption. As part of our ongoing search for bioactive natural products, this study investigated the EtOAc extract of the culture broth of the bioluminescent bacterium Photorhabdus luminescens, leading to the HPLC-purified isolation of 3-methoxychrysazin (3-MC), which was structurally characterized by NMR spectroscopy and HR-ESI-MS. This study subsequently evaluated the effects of 3-MC on RANKL-induced osteoclast differentiation and oxidative stress in RAW264.7 cells. Treatment with 3-MC significantly and dose-dependently inhibited osteoclast formation, function, and migration, as evidenced by reduced numbers of TRAP-positive multinucleated cells, impaired F-actin ring formation, and suppressed expression of osteoclast-related genes, including dcstamp, ctsk, acp5, and atp6v0d2. In addition, 3-MC attenuated oxidative stress by lowering intracellular ROS levels and restoring the expression of antioxidant enzymes such as SOD and CAT. Mechanistically, 3-MC inhibited the Notch2 signaling pathway, demonstrated by the downregulation of Notch2 and Hes1, and suppressed the NF-κB pathway by reducing phosphorylation of p65 and IKKα. Taken together, these findings indicate that 3-MC mitigates osteoclast differentiation and oxidative stress, accompanied by downregulation of the Notch2 signaling axis, highlighting its potential as a promising therapeutic candidate for bone-related disorders.",
+      "journal": "Biochem Pharmacol",
+      "date": "2026-10-04",
+      "authors": [
+        "Lee DE",
+        "Cho YR",
+        "Kim KH",
+        "Jeong GS"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.bcp.2026.118518",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "antimikrobiyal",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42830130",
+      "title": "Differentiation of protein aggregates and silicone oil droplets by fluctuation in scattering amplitude using three-dimensional homodyne light detection.",
+      "abstract": "Particle characterization is vital in ensuring the safety and efficacy of biopharmaceutical products throughout their development and manufacturing processes. Rotational motion of irregularly shaped particles, such as protein aggregates, causes larger scattering amplitude fluctuations than that of spherical particles. In this study, we demonstrated that protein aggregates can be differentiated from silicone oil droplets in the submicron size range (0.1-1.0 µm) based on fluctuation in scattering amplitude determined by three-dimensional homodyne light detection (3D-HLD) at single-particle level with no sample pretreatment. Monoclonal antibody aggregates were differentiated from silicone oil droplets using the fluctuation in scattering amplitude as a parameter with a misclassification rate below 8%. The average refractive indices of classified particles were estimated by simultaneous acquisition of the scattering amplitude and hydrodynamic particle size, providing complementary information about the features of the classified particles. These results demonstrate the effectiveness of 3D‑HLD as a powerful characterization method for submicron particles.",
+      "journal": "J Pharm Sci",
+      "date": "2026-10-04",
+      "authors": [
+        "Osawa K",
+        "Minemura H",
+        "Shibuya R",
+        "Torisu T",
+        "Uchiyama S"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.xphs.2026.104520",
+      "journal_tier": 2,
+      "impact": 3.3,
+      "section": "diger",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
         "recency": 0.0
       },
       "tier": 3,
@@ -1936,65 +2318,25 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42827357",
-      "title": "Physiologically based pharmacokinetic modelling and dose optimization of tedizolid in paediatric patients.",
-      "abstract": "AIMS: Tedizolid is a next-generation oxazolidinone antibiotic approved for the treatment of acute bacterial skin and skin structure infections (ABSSSIs). This study aimed to develop a physiologically based pharmacokinetic (PBPK) model for tedizolid in adults and paediatric population. METHODS: An adult PBPK model was built using GastroPlus®, incorporating physicochemical and pharmacokinetic parameters from the literature. The model was verified against clinical PK data from healthy adults and patients. It was then scaled to paediatric patients aged 2-18 years using age-dependent physiological changes. Paediatric model performance was validated against independent clinical data. Dose simulations evaluated once-daily intravenous and oral regimens targeting a free-drug area under the plasma concentration-time curve (AUC)/minimum inhibitory concentration (MIC) ratio (fAUC/MIC) of ≥3, with ≥90% probability of target attainment (PTA) across MIC values of 0.125-16 mg/L in immunocompetent patients. RESULTS: The adult and paediatric PBPK models showed good predictive performance, with all predicted AUC and Cmax values within the acceptable twofold error range and most observed concentrations falling within the 90% prediction interval. For children aged 2 to <12 years, intravenous and oral doses of ≥4 mg/kg achieved ≥90% PTA at an MIC of 0.5 mg/L. For adolescents aged 12 to <18 years, either a fixed 200 mg dose or a 3 mg/kg dose (intravenous or oral) achieved ≥90% PTA at an MIC of 0.5 mg/L. CONCLUSIONS: The paediatric PBPK model was successfully developed and identified model-derived candidate regimens for immunocompetent paediatric patients with ABSSSIs. These findings support further clinical evaluation of PBPK-guided dose optimization in children.",
-      "journal": "Br J Clin Pharmacol",
-      "date": "2026-10-02",
+      "pmid": "42830532",
+      "title": "Astaxanthin Nanoemulsion Attenuates Paraquat-Induced Parkinsonism via Modulation of Oxidative Stress, Neuroinflammation, and Dopaminergic Dysfunction in Rats.",
+      "abstract": "1. BACKGROUND: Parkinson's disease (PD) involves dopaminergic dysfunction, oxidative stress, and neuroinflammation. This study evaluated an optimized astaxanthin-loaded nanoemulsion (AXTNE) in paraquat-induced experimental Parkinsonism. 2. METHODS: Male Wistar rats were randomly assigned to nine groups (n = 6). Parkinsonian alterations were induced by paraquat (10 mg/kg, i.p.) twice weekly for 4 weeks. Aqueous astaxanthin (AXT; 30 mg/kg), AXTNE (15 and 30 mg/kg), levodopa + carbidopa (15 + 3.75 mg/kg), and AXTNE-levodopa combinations were administered orally for 28 days. Motor function was assessed using catalepsy, locomotor activity, grip strength, postural instability, and beam-walk tests. Pooled bilateral striatal tissue was analyzed for oxidative stress, inflammatory cytokines, monoaminergic neurotransmitters, and dopaminergic protein markers. 3. RESULTS: Paraquat induced motor deficits, oxidative imbalance, increased inflammatory cytokines, reduced dopamine and noradrenaline, and altered tyrosine hydroxylase (TH), aromatic L-amino acid decarboxylase (AADC), and α-synuclein levels. AXTNE attenuated these alterations and reduced MDA levels measured by TBARS. AXTNE-levodopa combinations produced additional improvements across several endpoints. 4. CONCLUSION: AXTNE attenuated multiple paraquat-associated Parkinsonian alterations, with generally greater numerical improvements than aqueous AXT. Combination with levodopa showed potential complementary effects. Further histopathological, pharmacokinetic, biodistribution, and mechanistic studies are warranted.",
+      "journal": "Xenobiotica",
+      "date": "2026-10-04",
       "authors": [
-        "Li X",
-        "Cheng Y",
-        "Lin R",
-        "Shao J",
-        "Lou L",
-        "Lin T",
-        "Wu X",
-        "Qiu H"
+        "Aijaz M",
+        "Kumar A"
       ],
       "pubtypes": [
         "Journal Article"
       ],
-      "doi": "10.1002/bcp.70845",
-      "journal_tier": 2,
-      "impact": 3.5,
+      "doi": "10.1080/00498254.2026.2732969",
+      "journal_tier": 3,
+      "impact": 1.5,
       "section": "klinik",
-      "score": 60.0,
+      "score": 35.0,
       "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42827179",
-      "title": "Immunopharmacological design of a multi-epitope vaccine targeting hepatitis C virus genotype 3a.",
-      "abstract": "Hepatitis C is one of the leading causes of acute and chronic hepatitis worldwide. Immunoinformatics has emerged as a reliable and practical approach for identifying immunogenic regions. We analyzed the HCV genotype 3a polyprotein for antigenicity, allergenicity, and physicochemical characteristics. Four vaccine constructs with possible immunogenic qualities were assembled. B-cell epitopes were examined to predict antigenic determinants, and T-cell epitopes were assessed for MHC class I and II binding. All were linked together using linker peptides, a reliable adjuvant, the PADRE sequence, and a His tag. All models were analyzed for structural refinement, population coverage, molecular docking, molecular dynamics, and immune simulation. The vaccine constructs exhibited antigenicity > 0.6 in E. coli, solubility > 0.8, and GRAVY values between - 0.124 and - 0.518, indicating a hydrophilic nature. The Ramachandran plot showed that 90% of residues were within the allowed regions, confirming structural stability. The vaccine constructs showed more than 99% global coverage and 97% coverage for the Pakistani population. Docking analysis showed strong binding of the Vaccine2-TLR8 and Vaccine4-TLR3 complexes, with docking energies of - 1153.5 kcal/mol and - 1015.8 kcal/mol, respectively. Molecular dynamics simulations revealed a stabilized and consistent complex of TLRs. A strong humoral response was predicted by recording IgG and IgM titers within 5 days, which remained for 35 days. In silico cloning showed successful insertion into the pET-29a ( +) vector. These results indicate that multiple-epitope vaccine constructs have strong binding properties and are good candidates for developing a vaccine against HCV3a.",
-      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
-      "date": "2026-10-03",
-      "authors": [
-        "Kalsoom A",
-        "Aleem Z",
-        "Rehman HM",
-        "Sajjad M",
-        "Shabbir G",
-        "Khan MS",
-        "Altaf A",
-        "Rahman IU",
-        "Alharbi M",
-        "Alasmari AF"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00210-026-05944-z",
-      "journal_tier": 2,
-      "impact": 3.2,
-      "section": "immuno",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
+        "journal": 35,
         "pubtype": 0,
         "recency": 0.0
       },
@@ -2020,34 +2362,6 @@
       "journal_tier": 3,
       "impact": 3.0,
       "section": "diger",
-      "score": 35.0,
-      "score_parts": {
-        "journal": 35,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42827216",
-      "title": "Glutamine-tagged Sorafenib and Atorvastatin Coloaded Polymeric Nanoparticles for Hybrid Cell Death Induction in Colorectal Cancer: Part I Formulation, Characterization, In-vitro/In-vivo Safety and Efficacy Evaluation.",
-      "abstract": "The present study explores the potential of sorafenib (SOR) and atorvastatin (ATST) to induce a ferroptosis and apoptosis-based hybrid cell death mechanism. The synergistic ATST + SOR combination was delivered through Glutamine-tagged PLGA nanoparticles (ATST + SOR/G-PLGA NPs) to promote intratumoral specificity. The formulation was optimized using DesignExpert® software by adopting Box-Behnken design (BBD). The optimized ATST + SOR/G-PLGA NPs had a spherical particle size of ~ 178.3 ± 12.6 nm, a PDI of 0.151 ± 0.08, and a Z-potential of -24.8 ± 5.8 mV. The formulation revealed a biphasic sustained release with higher release at acidic pH. In-vitro biological assessment showed a dose-dependent decrease in cell viability with reduced IC50 values. In the presence of ferrostatin-1, the IC50 value was significantly increased. The exposure to ATST + SOR/G-PLGA NPs led to elevated levels of malondialdehyde (MDA), reactive oxygen species (ROS), glutathione (GSH), increased late apoptotic/necrotic cells, and mitochondrial membrane depolarization. Pharmacokinetic study revealed a 2.63- and 2.93-fold improved AUC0-∞, and 2.58- and 2.84-fold improvement in MRT as compared to free SOR and ATST. Preclinical efficacy study showed a marked reduction in tumor volume and a higher inhibition rate. Toxicity assessment revealed no signs of systemic or organ toxicity, implying suitability of formulation for in-vivo delivery. In a nutshell, the proposed strategy offers a powerful avenue to manage advanced malignancies by inducing a hybrid cell death mechanism. Also, the nutrient transporter targeted polymeric nanosystems present an effective approach, which warrants further investigation.",
-      "journal": "AAPS PharmSciTech",
-      "date": "2026-10-02",
-      "authors": [
-        "Yadav V",
-        "Dighe S",
-        "Dhake P",
-        "Jain S"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1208/s12249-026-03546-9",
-      "journal_tier": 3,
-      "impact": 3.0,
-      "section": "klinik",
       "score": 35.0,
       "score_parts": {
         "journal": 35,
