@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T14:09:33+00:00",
+  "updated": "2026-10-06T13:06:29+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -458,6 +458,81 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42834104",
+      "title": "Probing the many benefits of GLP-1 receptor agonists.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-10-05",
+      "authors": [
+        "Kingwell K"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00161-y",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42834103",
+      "title": "Gene therapy for rare lysosomal storage disorder nabs FDA approval.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-10-05",
+      "authors": [
+        "Mullard A"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00160-z",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42834102",
+      "title": "COPD trial wins spur broad respiratory hopes.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-10-05",
+      "authors": [
+        "Mullard A"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00162-x",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42768084",
       "title": "Two trials or not two trials? That should not be the question.",
       "abstract": "",
@@ -815,6 +890,47 @@
       "score_parts": {
         "journal": 100,
         "pubtype": -25,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42833907",
+      "title": "Corrigendum to \"Tumor-derived KLK5 activates TMEM158+ cancer-associated fibroblasts to induce CD8+ T cell exhaustion and confer resistance to cancer immunotherapy\" [Drug Resist. Updates, Vol. 90, January 2027, 101473].",
+      "abstract": "",
+      "journal": "Drug Resist Updat",
+      "date": "2026-10-05",
+      "authors": [
+        "Pu S",
+        "Li G",
+        "Jiang Y",
+        "Shao C",
+        "Hou X",
+        "You L",
+        "Yu P",
+        "Jiang T",
+        "Zhao Y",
+        "Liu T",
+        "Lu Y",
+        "Wang D",
+        "Du R",
+        "Li C",
+        "Zhang J",
+        "Sun G",
+        "Gao Y"
+      ],
+      "pubtypes": [
+        "Published Erratum"
+      ],
+      "doi": "10.1016/j.drup.2026.101485",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "onko",
+      "score": 0.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": -100,
         "recency": 0.0
       },
       "tier": 3,
@@ -1846,162 +1962,6 @@
       "journal_tier": 1,
       "impact": 14.0,
       "section": "noro",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764914",
-      "title": "L-cell-specific Abca1 deficiency impairs glucose homeostasis through defective GLP-1 production in mice.",
-      "abstract": "Evidence suggests dietary cholesterol intake associates with higher diabetes risk, but mechanisms need further study. Glucagon-like peptide-1 (GLP-1), a glucose-regulating hormone produced by intestinal L-cells, has served as the basis for widely used diabetes therapeutics. However, how dietary cholesterol and intracellular cholesterol in L-cells affects GLP-1 and glucose regulation remains unclear. We studied ABCA1 (a cholesterol efflux protein) in L-cells using L cell specific Abca1 gene null nice (IntL-Abca1 -/- ) mice and ABCA1-targeted interventions in STC-1 and GLUTag cells. A high-cholesterol diet induced mouse glucose intolerance and reduced GLP-1. IntL-Abca1 -/- mice showed worse hyperglycemia and GLP-1 impairment via disrupted caveolin-1-β-catenin signaling. Abca1 overexpression and cholesterol depletion in STC-1 and GLUTag cells enhanced the CAV1-β-catenin pathway and GLP-1 secretion, whereas cholesterol loading, Abca1 siRNA knockdown, and treatment with probucol (an ABCA1 inhibitor) produced opposite effects. The findings of this study confirm that ABCA1 is a key regulator in maintaining cholesterol homeostasis in intestinal L cells and in the synthesis and secretion of GLP-1. Moreover, the regulatory effect of ABCA1 on GLP-1 is mediated through the CAV1-β-catenin signaling pathway. These observations further uncover promising therapeutic targets for metabolic disorders linked to diabetes.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-16",
-      "authors": [
-        "Gao L",
-        "Lin Y",
-        "Ye Q",
-        "Zhao Y",
-        "He W",
-        "Lv S",
-        "Yang K",
-        "Chen J",
-        "Zhang Z",
-        "Xiang X",
-        "Xu G"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.018",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764912",
-      "title": "Neuroprotection by YZG-331 in postoperative cognitive dysfunction via Mg2+-dependent blockade of NMDA receptors.",
-      "abstract": "Postoperative cognitive dysfunction (POCD) is a debilitating neurological complication that occurs following surgery, for which no effective interventions are currently available. Here, we identified YZG-331, a novel adenosine analog, as a promising neuroprotective agent that rescues cognitive deficits and mitigates dendritic spine loss in a murine POCD model. Integrated proteomic profiling and bioinformatics pathway analysis revealed that YZG-331 selectively targets NMDA receptor (NMDAR) signaling. Electrophysiological recordings and living-cell calcium imaging demonstrated that YZG-331 suppressed NMDAR-mediated currents and calcium influx in a dose-dependent manner. Furthermore, Mg2+ is required for YZG-331 to inhibit NMDAR activity. YZG-331 disrupts the formation of NMDAR condensates in the presence of Mg2+, thereby attenuating NMDAR-mediated excitotoxicity. Our findings establish YZG-331 as a prospective therapeutic candidate for POCD and reveal Mg2+-dependent receptor modulation as a novel pharmacological strategy for targeting NMDAR-associated neuropathologies.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-20",
-      "authors": [
-        "Guo H",
-        "Zhao J",
-        "Tian K",
-        "Guo Q",
-        "Chen S",
-        "Ge Y",
-        "Guo W",
-        "Lin X",
-        "Bai H",
-        "Yang L",
-        "Yang L",
-        "Qin X",
-        "Zhang P",
-        "Jia Z",
-        "Zheng R",
-        "Yang Z",
-        "Shi YS",
-        "Kong D",
-        "Ji T",
-        "Zhang W"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.025",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "noro",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764910",
-      "title": "Quercetin's antitumor effect in bladder cancer: Synergistic regulation of gut microbiota and l-serine metabolic pathway.",
-      "abstract": "Quercetin is a bioflavonoid that is abundant and easy to extract, and has beneficial effects such as anti-cancer, anti-inflammatory, and antioxidant properties. We have demonstrated that oral administration of quercetin in an animal model inhibits bladder cancer (BCa), with inhibition rates of 48.5% (100 mg/kg) and 51.41% (200 mg/kg), respectively. Additionally, quercetin treatment reverses gut microbiota dysbiosis in the model mice. Metabolomics results showed that l-serine had the highest correlation coefficient with tumor weight in model mice (r = 0.935), and oral quercetin reduced l-serine levels by modulating the abundance of Escherichia-Shigella in the gut microbiota. Transcriptomic sequencing results revealed that quercetin treatment downregulates the expression of phosphoserine phosphatase (PSPH), inhibiting the serine synthesis pathway (SSP) and reducing l-serine levels in the body, thus exerting anti-tumor effects. Fecal microbiota transplantation (FMT) experiments reproduced the pharmacological results of oral quercetin treatment for BCa and identified Escherichia coli Nissle 1917 as capable of inhibiting BCa growth by metabolizing l-serine. In conclusion, quercetin effectively inhibits the progression of BCa by comprehensively regulating l-serine levels in the body at both endogenous and exogenous levels.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-03-23",
-      "authors": [
-        "Zhai Z",
-        "Yang F",
-        "Feng R",
-        "Zhang H",
-        "Wang J",
-        "Zuo H",
-        "Yang X",
-        "Ye M",
-        "Xu H",
-        "Hu J",
-        "Lu J",
-        "Zhao Y",
-        "Song J",
-        "Zhang Y",
-        "Wang Y",
-        "Xing N"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.03.034",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764907",
-      "title": "SNX3 exacerbates hepatic fibrosis by amplifying TGF-β1/Smad signaling pathway in hepatocyte-HSC fibrotic loop.",
-      "abstract": "Hepatic fibrosis is a chronic disease driven by dysregulated TGF-β1-mediated interactions between hepatocytes and hepatic stellate cells. The molecular mechanisms controlling TGF-β1 degradation versus secretion remain poorly understood. Here, we identify sorting nexin 3 (SNX3), a retromer-associated cargo-binding protein, as a critical regulator of TGF-β1-driven hepatic fibrosis. SNX3 expression was significantly elevated in liver tissues from fibrosis patients and mouse models, correlating positively with TGF-β1 signaling. Functional studies using conditional mouse models demonstrated that hepatocyte-specific SNX3 knockout provided substantial protection against fibrosis, while overexpression induced spontaneous liver fibrosis. Mechanistically, SNX3 binds TGF-β1 and prevents its lysosomal degradation by promoting retention in early endosomes, thereby enhancing secretion. In hepatocytes, SNX3 increases TGF-β1 secretion that activates neighboring hepatic stellate cells through paracrine signaling. In activated hepatic stellate cells, elevated SNX3 expression further amplifies TGF-β1 production, creating a self-perpetuating fibrotic cascade leading to enhanced downstream signaling and transcriptional activation of fibrotic genes. Pharmacological studies validated therapeutic potential, with TGF-β1 signaling inhibition attenuating SNX3-induced fibrosis while pathway activation abolished SNX3 knockout protection, establishing SNX3 as a promising therapeutic target.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-15",
-      "authors": [
-        "Zhang J",
-        "Dai Y",
-        "Yu J",
-        "Chen Y",
-        "Ma D",
-        "Yu W",
-        "Peng M",
-        "Li Z",
-        "Lu J",
-        "Xu H",
-        "Xu S",
-        "Sun D",
-        "Liu P"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.021",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "diger",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
