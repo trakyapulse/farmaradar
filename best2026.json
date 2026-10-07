@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T13:06:29+00:00",
+  "updated": "2026-10-07T13:01:37+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -890,6 +890,32 @@
       "score_parts": {
         "journal": 100,
         "pubtype": -25,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42837734",
+      "title": "AI-enabled genomic surveillance for antimicrobial resistance: balancing effectiveness, trustworthiness and equity.",
+      "abstract": "",
+      "journal": "Drug Resist Updat",
+      "date": "2026-10-05",
+      "authors": [
+        "Vitiello A",
+        "Zovi A"
+      ],
+      "pubtypes": [
+        "Letter"
+      ],
+      "doi": "10.1016/j.drup.2026.101486",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "antimikrobiyal",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": -30,
         "recency": 0.0
       },
       "tier": 3,
@@ -1921,47 +1947,6 @@
       "journal_tier": 1,
       "impact": 14.0,
       "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764917",
-      "title": "Gut microbiota-derived 5-HTP penetrates the host blood-brain barrier and ameliorates autism symptoms.",
-      "abstract": "Autism spectrum disorder (ASD), a highly prevalent neurodevelopmental condition, is increasingly recognized for its strong association with the intestinal microbiome. However, the development of gut microbiota-targeted therapies has been impeded by a limited understanding of the molecular mechanisms underlying interactions between commensal bacteria and the host nervous system. In this study, shotgun metagenomic sequencing and UPLC-MS/MS targeted metabolic analyses identified altered tryptophan metabolites in the gut microbiota of both human ASD patients and ASD mouse models. Notably, we demonstrate that commensal bacteria-derived 5-hydroxytryptophan (5-HTP), metabolite of tryptophan, ameliorates anxiety, stereotypical and repetitive behaviors, as well as social deficits in these mouse models. Furthermore, 5-HTP is capable of crossing the blood-brain barrier and inhibits the overexpression of receptor tyrosine kinase (RTK) ligands, thereby suppressing the downstream RTK/MAPK/ERK signaling cascade. This inhibition subsequently normalizes the excessive stabilization of dendritic spines in the hippocampus in MeCP2 mouse. Our research demonstrates that gut microbiota producing 5-HTP improves ASD symptoms in various ASD animal models, elucidates the molecular mechanisms between gut microbiota and the onset and treatment of ASD, and provides a promising therapeutic approach for ameliorating ASD through the expression of neuron-regulated small molecules by gut indigenous bacteria.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-16",
-      "authors": [
-        "Li B",
-        "Yang Q",
-        "Li M",
-        "He J",
-        "Zhang Z",
-        "Wan X",
-        "Mo Z",
-        "Li R",
-        "Li S",
-        "Xu W",
-        "Gu M",
-        "Huang H",
-        "Li W",
-        "Huang Z",
-        "Yang H",
-        "Chen WH",
-        "Liu Z"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.025",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "noro",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
