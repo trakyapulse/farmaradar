@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T13:01:37+00:00",
+  "updated": "2026-10-08T13:09:04+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -146,6 +146,40 @@
       "journal_tier": 1,
       "impact": 60.8,
       "section": "toksikoloji",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42844361",
+      "title": "Next-generation immune cell engagers for B cell depletion in autoimmune diseases.",
+      "abstract": "Immune cell engagers (ICEs) offer a promising approach for achieving deep depletion of pathogenic B cell populations in systemic autoimmune diseases. Their modular design enables the recruitment of T cells, natural killer cells, γδ T cells or myeloid cells to eliminate B cells, plasmablasts and long-lived plasma cells. Use of ICEs in haematological malignancies has established the therapeutic potential of targeting the lineage antigens of B cells and plasma cells, and informed understanding of resistance, treatment-associated toxicity and incomplete target-cell depletion. However, applications in autoimmune diseases present distinct challenges, including disease-specific B cell heterogeneity, pharmacokinetic limitations, effector-cell dysfunction and the risk of cytokine release syndrome. Despite these challenges, early clinical reports using CD19-directed and B cell maturation antigen-directed T cell engagers have shown sustained improvements in several systemic autoimmune diseases. In this Review, we discuss the principles guiding ICE development for autoimmune diseases, including target selection, engager architecture, effector-cell recruitment and safety. We also consider emerging strategies, including CD8-biased T cell engagement, co-stimulatory multispecific formats, and natural killer or γδ T cell recruitment, to improve safety and durability of response. ICEs could ultimately provide an off-the-shelf alternative to chimeric antigen receptor T cell therapies, enabling sustained immune reprogramming in patients with refractory autoimmune diseases.",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-10-07",
+      "authors": [
+        "Fu Y",
+        "Robert B",
+        "Bitoun S",
+        "Martineau P",
+        "Konig MF",
+        "Avouac J",
+        "Tsokos GC",
+        "Ye S",
+        "Scherlinger M"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1038/s41573-026-01534-z",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "klinik",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -520,6 +554,31 @@
         "News"
       ],
       "doi": "10.1038/d41573-026-00162-x",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42844417",
+      "title": "Molecular glue targets ALK resistance.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-10-07",
+      "authors": [
+        "Villanueva MT"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00163-w",
       "journal_tier": 1,
       "impact": 60.8,
       "section": "diger",
@@ -1879,74 +1938,6 @@
       "journal_tier": 1,
       "impact": 14.0,
       "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764935",
-      "title": "Elesclomol-mediated cuproptosis overcomes cisplatin resistance by restricting epigenetically activated mitochondrial respiration: Novel therapeutic insights into cisplatin-elesclomol combination therapy.",
-      "abstract": "Chemoresistance remains a significant challenge in cancer treatment, substantially limiting therapeutic efficacy. Cuproptosis is copper-induced cell death driven by mitochondrial protein aggregation and metabolic dysfunction. However, the involvement of cuproptosis in chemoresistance remains enigmatic. This study reveals that epigenetic remodeling augments mitochondrial respiration, thereby sensitizing cells to elesclomol-induced cuproptosis in cisplatin-resistant uveal melanoma (UM). First, we established cisplatin-resistant UM cell lines, which were validated in vitro and in vivo. A multi-omics analysis, including transcriptomics, metabolomics, and histone acetylation profiling (H3K9Ac/H3K27Ac CUT&Tag), revealed an upregulation of mitochondrial respiration and downregulation of glycolysis in cisplatin-resistant cells due to changes in histone acetylation. This metabolic reprogramming was associated with increased sensitivity to elesclomol-mediated cuproptosis, characterized by the diminishment of Fe-S cluster proteins and DLAT aggregation. Our research further delineated that the absence of FDX1 not only mitigated the sensitivity of chemoresistant UM cells to elesclomol but also attenuated copper-induced cell death, thereby substantiating the pivotal role of cuproptosis in this context. Therapeutically, employing zebrafish models, orthotopic xenografts, and patient-derived xenografts (PDXs), we confirmed the therapeutic efficacy of elesclomol in overcoming chemoresistance. Collectively, our study highlights a novel avenue for the development of a combinatorial therapeutic approach employing cisplatin and elesclomol to improve chemotherapy outcomes.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-18",
-      "authors": [
-        "Zhu T",
-        "Li Y",
-        "Tang J",
-        "Lin H",
-        "Gu X",
-        "Ge S",
-        "Ye L",
-        "Wu P",
-        "Fan X",
-        "Zhuang A",
-        "Chai P",
-        "Jia R"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.027",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764925",
-      "title": "Preclinical evaluation of GW406108X, a broad-spectrum therapeutic blocking ULK1/2-mediated autophagy to inhibit enterovirus replication.",
-      "abstract": "Enterovirus D68 (EV-D68) is an emerging respiratory pathogen, with severe cases developing into acute flaccid myelitis, a paralytic condition. Despite growing concern, no approved antivirals currently exist for EV-D68, underscoring the urgent need for therapeutic discovery. Here, we report the development of a high-throughput, phenotypic-based assay to screen 7986 compounds across nine diverse compound libraries for EV-D68 antivirals, on two EV-D68-susceptible cell lines (RD and H1299). The screen identified GW406108X as a potent post-entry inhibitor of EV-D68 infection (EC50: 1.804 μmol/L). Mechanistic studies using luciferase replicon assays, siRNA knockdowns, and drug-resistant mutant generation suggest that GW406108X targets the autophagy pathway through ULK1/2 inhibition. Transmission electron microscopy and fluorescence bioimaging demonstrate a significant reduction in autophagosome formation in treated, infected cells. This disruption likely impairs the virus's ability to exploit autophagy, which may in turn hinder replication organelle formation and non-lytic virion release, leading to reduced viral replication. Preclinical evaluations showed that GW406108X demonstrates strong antiviral efficacy without detectable cytotoxicity. These findings reveal a previously uncharacterized antiviral mechanism and position GW406108X as a promising candidate for antiviral therapeutic development. Findings from this study expand the current antiviral landscape for enteroviruses and represent a significant step toward clinical intervention for EV-D68 and potentially related viral pathogens.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-01",
-      "authors": [
-        "Fong YD",
-        "Yogarajah T",
-        "Khoo XW",
-        "Chan YS",
-        "Mohameed JBH",
-        "Neo A",
-        "Yi B",
-        "Chu JJH"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.052",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
