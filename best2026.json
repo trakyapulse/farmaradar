@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T13:09:04+00:00",
+  "updated": "2026-10-09T12:55:41+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -762,6 +762,37 @@
       "journal_tier": 1,
       "impact": 19.3,
       "section": "diger",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42849310",
+      "title": "Medication adherence: An overlooked critical determinant of pharmacological effectiveness.",
+      "abstract": "Medication adherence and therapeutic inertia are 2 major barriers to the optimal control of chronic diseases in clinical practice. In drug development, these factors contribute to variability in drug exposure and may substantially influence estimates of efficacy, safety, and benefit-risk balance, but they frequently remain overlooked. Medication adherence is a complex and dynamic process characterized by several patterns and a large number of determinants that may exert variable, phase-specific, and time-dependent effects throughout the medication-taking process. A major challenge remains the accurate monitoring of drug adherence, the ideal goal being that of obtaining a reliable dosing history and confirmation that the medication has been taken as prescribed. Several new approaches discussed in this review are available to monitor adherence in clinical studies with more precision, but their implementation remains limited. This review discusses contemporary approaches to improve patients' medication adherence and to limit physicians' inertia, another form of poor adherence. Among them, interprofessional collaborations have demonstrated sustained improvements in adherence and therapeutic inertia. However, this approach still needs profound changes in terms of interprofessional education and collaboration and strong support from teaching organizations and health care providers. Finally, our review addresses an often overlooked issue in drug development, eg, the need to consider the entire drug life cycle from chemical development to the accumulation and disposal of drugs when unused. Medication nonadherence is now recognized as a significant driver of pharmaceutical waste and environmental burden. Modern clinical pharmacology should consider the global environmental impact of drugs. SIGNIFICANCE STATEMENT: Medication adherence and therapeutic inertia are 2 major determinants of variable drug exposure but they remain insufficiently recognized and systematically addressed. This review examines the taxonomy, the multiple determinants of nonadherence and therapeutic inertia, the various methods available to measure adherence, and some innovative approaches for designing future clinical trials that account for these 2 variables. Finally, we address an increasingly important but often overlooked consequence of poor medication adherence: the environmental and economic impact of unused medicines.",
+      "journal": "Pharmacol Rev",
+      "date": "2026-09-12",
+      "authors": [
+        "Burnier M",
+        "Azizi M",
+        "Gupta P",
+        "Kardas P",
+        "Schneider MP",
+        "Vrijens B"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.pharmr.2026.100161",
+      "journal_tier": 1,
+      "impact": 19.3,
+      "section": "klinik",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -1891,53 +1922,6 @@
       "journal_tier": 1,
       "impact": 14.0,
       "section": "klinik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764949",
-      "title": "Engineered flavonoid disrupts mitochondrial AIF/CHCHD4 complex for targeted cancer therapy.",
-      "abstract": "Cancer metabolism depends on multifaceted mechanisms, including bidirectional inter-organelle communication between mitochondria and the nucleus, facilitating cellular adaptation at the transcriptomic, proteomic, and metabolomic levels. The mitochondrial protein complex composed of apoptosis-inducing factor (AIF) and coiled-coil-helix-coiled-coil-helix domain-containing protein 4 (CHCHD4) is essential for this mitochondrio-nuclear communication. The AIF/CHCHD4 complex mediates the mitochondrial import of cysteine-enriched nuclear gene-encoded proteins, thereby adapting the mitochondrial proteome to cellular energy demands. Here, we report the discovery of M30-E05, a compound that binds to the NADH pocket of AIF, preventing its dimerization and disrupting the AIF/CHCHD4 complex, as demonstrated by molecular docking and gel electrophoresis analysis of mitochondrial AIF/CHCHD4 substrate expression. In cancer cells, M30-E05 reduces the expression of nuclear gene-encoded mitochondrial proteins such as AIF, CHCHD4, cytochrome c oxidase copper chaperone (COX17), and Mitochondrial calcium uptake 1 (MICU1). In addition, M30-E05 fragments the mitochondrial network and impairs mitochondrial respiration, causing profound alterations, particularly in glucose, lipid, and amino acid metabolism, as revealed by kinetic measurements of oxygen consumption and mass spectrometric metabolomics. Importantly, M30-E05 significantly reduces the viability of a human adult and pediatric osteosarcoma cancer cell panel, including those from patient-derived xenografts (PDX) of osteosarcomas, and induces apoptosis. When orally administered for two weeks to immunodeficient NSG mice, M30-E05 inhibited tumor growth in a subcutaneous PDX xenograft model without apparent toxicity. We anticipate that M30-E05, as a first-in-class metabolic inhibitor, could serve as the lead compound for a new class of antineoplastic agents.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-15",
-      "authors": [
-        "Lai HT",
-        "Dias-Pedroso D",
-        "Da Costa MEM",
-        "Fernandes R",
-        "Nguyen TNA",
-        "Bawa O",
-        "Khneisser P",
-        "Silva JG",
-        "Khalij Y",
-        "Campanella M",
-        "Jones JG",
-        "Dokudovskaya S",
-        "Kroemer G",
-        "Marchais A",
-        "Gaspar N",
-        "Geoerger B",
-        "Diane O",
-        "Mazzanti L",
-        "Duong TH",
-        "Lewin G",
-        "Ferrié L",
-        "Figadère B",
-        "Brenner C"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.022",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "kardiyometabolik",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
