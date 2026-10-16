@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T11:10:37+00:00",
+  "updated": "2026-10-16T11:05:54+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -579,6 +579,31 @@
         "News"
       ],
       "doi": "10.1038/d41573-026-00163-w",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42881255",
+      "title": "One year of Commissioner's National Priority Vouchers.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-10-15",
+      "authors": [
+        "Mullard A"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00165-8",
       "journal_tier": 1,
       "impact": 60.8,
       "section": "diger",
@@ -1883,45 +1908,6 @@
       "journal_tier": 1,
       "impact": 14.0,
       "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764951",
-      "title": "Dual-modal tumor-selective benzofuran tracer integrating real-time imaging and anticancer effects.",
-      "abstract": "Microtubule-targeting agents remain a cornerstone of cancer therapy; however, few compounds can simultaneously visualize intratumoral distribution and correlate pharmacodynamics with therapeutic response. Here, we describe BF-04, a Benzofuran-derived microtubule destabilizer that circumvents multidrug resistance and integrates anticancer efficacy with dual-modality imaging. Chemical conjugation with the Cyanine 5 fluorescent dye (Cy5) and Zirconium-89 (89Zr) provided high-contrast, real-time fluorescence and Positron emission tomography (PET) signals without the need for antibody or nanoparticle carriers, enabling direct monitoring of drug distribution and retention in tumors. Importantly, BF-04 exhibited tumor-selective accumulation independent of labeling, confirming a scaffold-driven targeting mechanism with strong translational potential for image-guided therapy. Mechanistically, BF-04 induced microtubule depolymerization, mitotic arrest, and apoptosis across multiple cancer cell lines and patient-derived organoids (PDOs). In vivo studies demonstrated selective tumor uptake and robust growth suppression with minimal systemic toxicity. Collectively, these findings establish BF-04 as a promising theranostic platform that combines potent microtubule disruption with real-time imaging to facilitate precision cancer therapy.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-10",
-      "authors": [
-        "Han HJ",
-        "Yim MS",
-        "Hwang GJ",
-        "Han J",
-        "Kim S",
-        "Choi Y",
-        "Kim MJ",
-        "Lee KR",
-        "Kwon J",
-        "Shin U",
-        "Shin EY",
-        "Bang JK",
-        "Ryu EK",
-        "Kim BY",
-        "Soung NK"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.012",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "klinik",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
