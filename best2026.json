@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T11:05:54+00:00",
+  "updated": "2026-10-17T10:25:22+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -180,6 +180,33 @@
       "journal_tier": 1,
       "impact": 60.8,
       "section": "klinik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42888260",
+      "title": "Translating base editors: a decade of progress from the bench to the clinic.",
+      "abstract": "A decade has passed since the initial description of cytosine base editors in 2016. This new class of gene editors, utilizing DNA damage intermediates beyond double-stranded DNA breaks, fundamentally shifted the paradigm of gene editing from stochastic disruption to precise chemical correction. Since then, the field has rapidly matured, with the development of optimized base editors with improved editing efficiency, targeting scope, precision and specificity, as well as the subsequent generation of adenine base editors and prime editors. Base editors have not only become widely used research tools but have served as foundational platforms for biotechnology companies developing human therapies. Today, base editors are being deployed in trials for a diverse list of indications including sickle cell disease, alpha-1 antitrypsin deficiency, inborn errors of metabolism, leukaemias and cardiovascular indications. This Review critically examines the 'bench-to-bedside' trajectory of base editors, detailing their mechanistic evolution and expanding role in treating human disease.",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-10-16",
+      "authors": [
+        "Gaudelli NM",
+        "Komor AC"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1038/s41573-026-01548-7",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "kardiyometabolik",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -818,6 +845,40 @@
       "journal_tier": 1,
       "impact": 19.3,
       "section": "klinik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42887433",
+      "title": "Harnessing autophagy and its transcriptional regulation in tumorigenesis and neurodegeneration: Potential and existing therapeutic strategies.",
+      "abstract": "Autophagy is a fundamental cellular process that maintains homeostasis by degrading and recycling cellular components. As autophagy is essential for metabolizing damaged organelles and toxic substances, it plays a crucial role in both normal physiology and pathological conditions. However, autophagy has dual roles in both tumorigenesis and neurodegeneration. In cancer, autophagy can act as a tumor suppressor by clearing damaged components in early stages, but promotes tumor survival and growth in later stages, particularly under stress. In neurodegeneration, impaired autophagy is implicated in the disease progression of conditions such as Alzheimer, Parkinson, and Huntington diseases, in which the failure to clear misfolded proteins and damaged organelles exacerbates disease pathology. This review is organized to cover the molecular machinery and transcriptional regulation of autophagy, its disease-specific subtypes, its dual roles in tumorigenesis and neurodegeneration, and the current pharmacological landscape for therapeutic targeting. Attention is given to pharmacological modulation of autophagy, including senolytic drugs that selectively eliminate senescent cells by exploiting their dependence on antiapoptotic survival pathways, and small-molecule regulators targeting key pathways such as phosphoinositide 3-kinase/Akt serine/threonine kinase/mechanistic target of rapamycin and AMP-activated protein kinase. Depending on the pathological context, these drugs are under development to either inhibit or induce autophagy. Additionally, we address the challenges and limitations in developing effective autophagy-targeting drugs, underscoring the need for further research to identify new compounds that can modulate cellular autophagic flux. SIGNIFICANCE STATEMENT: Autophagy is an important homeostatic mechanism, and its dysregulation contributes to a wide range of diseases, including cancer and neurodegenerative disorders. Therefore, a deeper mechanistic understanding of the regulation of autophagy is crucial for advancing targeted therapies with significant clinical impact.",
+      "journal": "Pharmacol Rev",
+      "date": "2026-08-22",
+      "authors": [
+        "Suri P",
+        "Daartey AB",
+        "Olive Khan DMI",
+        "Rayana NP",
+        "Chilamakuri R",
+        "Godugu D",
+        "Azad MG",
+        "Reeb KL",
+        "Richardson DR"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.pharmr.2026.100158",
+      "journal_tier": 1,
+      "impact": 19.3,
+      "section": "noro",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -1828,83 +1889,6 @@
         "Journal Article"
       ],
       "doi": "10.1016/j.apsb.2026.06.044",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764990",
-      "title": "Targeting the SETD2-FTO-KIT pathway as a pharmacological strategy for TKI-refractory GIST.",
-      "abstract": "Tyrosine kinase inhibitors (TKIs) have significantly improved outcomes in gastrointestinal stromal tumors (GIST), but acquired resistance remains a major clinical obstacle. The underlying mechanisms that sustain oncogenic KIT signaling in TKI-refractory GIST are not fully understood. Here, we identify a previously unrecognized epigenetic-epitranscriptomic regulatory axis involving SETD2, FTO, and KIT that promotes TKI resistance by stabilizing KIT mRNA. FTO, a key N 6-methyladenosine (m6A) RNA demethylase, was found to be markedly overexpressed in high-risk and recurrent GIST samples and correlated with poor prognosis. Mechanistically, FTO enhances KIT mRNA stability by erasing m6A modification in its 3' untranslated region (UTR), thereby preventing YTHDF2-mediated degradation and sustaining oncogenic KIT expression. Furthermore, the histone methyltransferase SETD2 activates FTO transcription via H3K36 trimethylation at the FTO promoter, establishing a self-reinforcing loop that maintains FTO overexpression. Functional experiments using FTO knockout and pharmacological inhibition (CS1 and entacapone) demonstrated that disrupting FTO activity suppresses tumor proliferation, reduces KIT expression, and restores sensitivity to imatinib both in vitro and in vivo. In KIT-Asp818Tyr/+ genetically engineered GIST mouse models, the combination of entacapone and imatinib led to significant tumor regression. Most importantly, preliminary clinical results from a Phase I trial (ClinicalTrials.gov: NCT04006769) showed that treatment with entacapone plus imatinib resulted in partial remission in two out of three evaluable TKI-refractory GIST patients, supporting the translational relevance of this strategy. Collectively, our findings establish the SETD2-FTO-KIT axis as a critical mechanism driving drug resistance in GIST and reveal m6A demethylation as a key regulator of KIT mRNA stability. Targeting FTO represents a promising and actionable therapeutic strategy to overcome TKI resistance and improve outcomes for patients with advanced GIST.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-15",
-      "authors": [
-        "Li Z",
-        "He J",
-        "Cao Z",
-        "Zhou S",
-        "Zhu Y",
-        "Duan Y",
-        "Jiang A",
-        "Guan Y",
-        "Gao J",
-        "Tian J",
-        "Liu L",
-        "Rong Z",
-        "Liu H",
-        "Liu X",
-        "Xiao H",
-        "Deng Y",
-        "Li B",
-        "Sun L"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.016",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764955",
-      "title": "CMTM6 maintains B cell-intrinsic membrane CD40 stability to regulate anti-tumor immunity.",
-      "abstract": "The essential role of B cells and B cell intrinsic molecules in tumor immunity is beginning to be recognized. Tumor cell CKLF-like MARVEL transmembrane domain-containing protein 6 (CMTM6) is a novel tumor immunoregulator involved in maintaining membrane levels of several important molecules, such as programmed cell death ligand 1 (PD-L1) and CD58. Host CMTM6 may also play a function in the tumor microenvironment. Here, we found that CMTM6 was highly expressed in splenic B cells and tumor-infiltrating B cells. CMTM6 deficiency resulted in impaired splenic development, germinal center B cell differentiation, memory B cell differentiation, T/B cell interaction and B cell anti-tumor immune responses. Through multi-omics data mining and B-cell agonist screening, we identified that CMTM6 interacted with CD40 and maintained CD40 membrane levels in B cells. CMTM6 cis-interacts with CD40 and inhibits ubiquitin/proteasome-mediated CD40 degradation. CMTM6 deficiency led to impaired CD40 signaling-mediated B cell activation, survival, proliferation, differentiation and T/B cell interaction. In vivo, CMTM6 deficiency leads to a significant decrease in the anti-tumor activity of immune checkpoint blockade (ICB) therapy and B cell-dependent CD40 agonists. Collectively, B-cell intrinsic CMTM6 maintains B cell CD40 levels and signaling to promote B cell function and anti-tumor immunity.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-15",
-      "authors": [
-        "Chen R",
-        "Chang W",
-        "Li F",
-        "Gu L",
-        "Chen C",
-        "Zhang R",
-        "Li Z",
-        "Sun J",
-        "Chen J",
-        "Gong L",
-        "Long Y"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.017",
       "journal_tier": 1,
       "impact": 14.0,
       "section": "onko",
