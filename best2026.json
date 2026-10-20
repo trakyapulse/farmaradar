@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T12:42:17+00:00",
+  "updated": "2026-10-20T11:13:42+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -924,6 +924,40 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42896292",
+      "title": "Structural insights into P-glycoprotein substrate polyspecificity: A dynamic conformational sampling model.",
+      "abstract": "P-glycoprotein (P-gp, also known as ABCB1) is a member of the ATP-binding cassette (ABC) transporter family that protects tissues from diverse xenobiotics and contributes to multidrug resistance in cancer. Despite extensive structural, biochemical, and biophysical studies, the molecular basis of its remarkable substrate polyspecificity remains incompletely understood. Recent structures of P-gp and its homologs, including zebrafish Abcb4, have revealed extensive conformational heterogeneity and provided unprecedented views of substrate and inhibitor recognition. In this review, we integrate structural and functional studies to examine how conformational variability of the drug-binding site contributes to P-gp polyspecificity. We highlight the continuum of inward-facing conformations and the coupling between local changes in drug-binding site architecture, including transmembrane-helix rotation and tilting, and the global opening and closing of the transporter's two pseudo-symmetric halves. We propose a dynamic conformational sampling model in which diverse substrates can recognize and possibly stabilize different conformational states of P-gp and, in some cases, adopt distinct binding poses. We further discuss how this dynamic view provides a framework for understanding the complex pharmacological behavior of P-gp and may inform the development of more effective inhibitors.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-10-15",
+      "authors": [
+        "Zhan J",
+        "Hsieh CM",
+        "Esser L",
+        "Huang RK",
+        "Shafrir Y",
+        "Wlodawer A",
+        "Ambudkar SV",
+        "Gottesman MM",
+        "Xia D"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.drup.2026.101491",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "onko",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42759446",
       "title": "Tumor-derived KLK5 activates TMEM158+ cancer-associated fibroblasts to induce CD8+ T cell exhaustion and confer immunotherapy resistance in lung cancer.",
       "abstract": "AIM: Immune checkpoint blockade (ICB) has improved the treatment landscape of lung squamous cell carcinoma (LUSC), but durable clinical benefit is limited by frequent therapeutic resistance. We aimed to define the microenvironmental mechanisms underlying ICB resistance in LUSC. METHODS: Surgical specimens from LUSC patients treated with neoadjuvant anti-PD-1 therapy plus chemotherapy were analyzed using integrated single-cell and spatial transcriptomics. Our findings were validated in independent bulk RNA-seq and multiplex immunofluorescence cohorts and functionally tested in fibroblast-specific conditional knockout and humanized mouse models. RESULTS: We identified a TMEM158⁺ cancer-associated fibroblast (CAF) subpopulation enriched in non-responders and associated with poor prognosis. Spatial and functional analyses showed that TMEM158⁺ CAFs promoted CD8⁺ T-cell exhaustion. Mechanistically, tumor-derived KLK5 engaged TMEM158, recruited SDCBP, activated the MEK/ERK-ELK1 signaling axis, and induced TNC and SPP1 expression, thereby establishing an immunosuppressive niche. Genetic ablation or functional inhibition of TMEM158⁺ CAFs enhanced sensitivity to anti-PD-1 therapy in LUSC. CONCLUSION: TMEM158⁺ CAFs are key stromal mediators of immune evasion and ICB resistance in LUSC and represent a promising biomarker and therapeutic target.",
@@ -1035,6 +1069,42 @@
       "journal_tier": 1,
       "impact": 15.0,
       "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42896293",
+      "title": "Nationwide dalbavancin surveillance identifies sagB-associated cell-wall adaptation linked to reduced lipoglycopeptide susceptibility in CC5 Staphylococcus aureus.",
+      "abstract": "AIMS: Dalbavancin is a long-acting lipoglycopeptide with potent activity against Staphylococcus aureus. However, the emergence of reduced dalbavancin susceptibility and its underlying molecular mechanisms remain poorly understood. METHODS: Dalbavancin MICs were determined for 1803 S. aureus isolates from 37 hospitals in 27 provinces of China. Comparative genomics of a clinical dalbavancin-nonsusceptible (DAL-NS) isolate and in vitro vancomycin-selected derivatives was performed to identify resistance-associated mutations. The role of sagB was assessed by gene deletion and complementation, followed by antimicrobial susceptibility testing and phenotypic assays. Transcriptomic profiling, autolysis assays, electron microscopy, cytochrome c binding assays, and time-kill assays were performed to characterize the cellular effects of sagB dysfunction. RESULTS: Dalbavancin showed potent activity, with MIC50/MIC90 values of 0.06/0.125 μg/mL, and only one nonsusceptible isolate was detected (0.06%, 1/1803). This isolate belonged to ST5523/CC5 and had prior vancomycin exposure but no dalbavancin treatment. sagB mutations occurred in both the clinical isolate and independent vancomycin-selected derivatives with reduced dalbavancin susceptibility. Genetic complementation and deletion supported sagB dysfunction as contributing to reduced susceptibility to lipoglycopeptides, glycopeptides, and lipopeptides, with reciprocal β-lactam sensitization. Mechanistically, sagB dysfunction altered cell-wall hydrolase expression, autolysis, and envelope properties, and was associated with prolonged survival under dalbavancin exposure but enhanced killing by oxacillin. CONCLUSIONS: Dalbavancin remains highly active against clinical S. aureus in China. Rare nonsusceptibility may emerge under glycopeptide pressure through lineage-conditioned sagB-associated cell-wall remodeling.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-10-09",
+      "authors": [
+        "Hong Y",
+        "Zhuang H",
+        "Wang H",
+        "Guo Y",
+        "Shi K",
+        "Chen Y",
+        "Zhu F",
+        "Zhang X",
+        "Hu F",
+        "Sun L",
+        "Yu Y",
+        "Chen Y"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.drup.2026.101487",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "antimikrobiyal",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
@@ -1814,84 +1884,6 @@
       "journal_tier": 1,
       "impact": 14.0,
       "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764998",
-      "title": "Red light-responsive bioorthogonal chemistry enabled on-demand prodrug activation for cancer therapy.",
-      "abstract": "Light-driven chemistry has revolutionized modern medicine, enabling precise disease detection and on-demand therapeutic interventions with high spatiotemporal accuracy. However, despite tremendous advances in bioorthogonal reactions, photoclick chemistry-based therapeutics remain as a challenge in vivo. To address this limitation, we have developed a multifunctional BODIPY-caged glucamine dihydrotetrazine (BGdTz) that integrates cancer-targeting, fluorescence imaging, and photoactivable tetrazine bioorthogonal chemistry. By targeting the overexpressed glucose transporter 1 (Glut1) on cancer cells, BGdTz specifically accumulates at the tumor site, leading to high-contrast fluorescence imaging of tumor in murine models. Subsequent irradiation of BGdTz with red light results in a spatialtemporal formation of glucamine-tetrazine. Furthermore, we have demonstrated an image-guided bioorthogonal prodrug activation between BGdTz and trans-cyclooctene caged doxorubicin, revealing potent antitumor efficacy and minimal systemic toxicity in A375 xenograft mouse models. In summary, we present a red light-controllable tetrazine bioorthogonal platform operable in mammals, offering a powerful tool for dual cancer diagnosis and therapy. We anticipate that this photouncaging-driven tetrazine ligation will open new avenues for precision medicine.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-17",
-      "authors": [
-        "Cheng H",
-        "Wang Y",
-        "Zhang J",
-        "Pei Z",
-        "Yan Q",
-        "Cai Z",
-        "Zhang D",
-        "Ma H",
-        "Liu H",
-        "Peng D",
-        "Gao Z",
-        "Yuan H",
-        "Cui B",
-        "Wang X",
-        "Wang R",
-        "Liu L"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.024",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764994",
-      "title": "Self-assembled supramolecular nanoparticles of α-mangostin for targeted STING activation and enhanced tumor immunotherapy.",
-      "abstract": "Targeted activation of the stimulator of interferon genes (STING) signaling pathway represents a promising strategy to counteract immunosuppressive tumor microenvironments (TME) and elicit anti-tumor immunity. However, clinical translation of STING agonists has been strongly hindered by the challenges in achieving tumor-targeted STING activation. Here, we report a facile and efficient supramolecular self-assembly strategy for tumor-targeted STING activation of α-mangostin (MGT), a natural non-cyclic dinucleotide STING agonist. MGT can self-assemble into uniform supramolecular nanoparticles (MGT-SNPs) with 100% drug loading, driven by its inherent amphiphilic xanthone structure via multiple non-covalent interactions. The resulting MGT-SNPs (∼186.50 nm, negatively charged) demonstrate excellent colloidal stability, pH-responsive drug release, and enhanced cellular uptake in vitro. Furthermore, MGT-SNPs exhibit sufficient circulatory stability, enabling efficient tumor accumulation and cytosolic delivery via the enhanced permeability and retention (EPR) effect. Leveraging these favorable properties, MGT-SNPs enhance STING activation both in vitro and in vivo, effectively remodeling TME. Consequently, MGT-SNPs trigger robust anti-tumor immunity in melanoma-bearing mice following either intratumoral or intravenous administration. Collectively, this work showcases a supramolecular self-assembly strategy based on the intrinsic structural properties of a STING agonist for tumor-targeted STING activation, which eliminates carrier-related toxicity and offers a clinically promising approach for STING-targeted cancer immunotherapy.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-26",
-      "authors": [
-        "Miao J",
-        "Liu Y",
-        "Chen S",
-        "Zhou Y",
-        "Liu J",
-        "Xu D",
-        "Mo X",
-        "Wang J",
-        "Zhu Q",
-        "Yu C",
-        "Qian Q",
-        "Deng H",
-        "Xu L",
-        "Ge G"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.044",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
