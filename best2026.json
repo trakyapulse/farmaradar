@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T11:13:42+00:00",
+  "updated": "2026-10-21T11:29:42+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -958,6 +958,41 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42901086",
+      "title": "Advancements in peptidomimetics as a strategy against multidrug resistance: Fundamentals, rational design, resistance mechanisms, and artificial intelligence.",
+      "abstract": "Antimicrobial peptides offer rapid, often membrane centered activity, but their therapeutic translation is limited by proteolytic instability, toxicity, reduced activity under physiological conditions, unfavourable pharmacokinetics, and manufacturing challenges. Peptidomimetics seek to retain the functional logic of antimicrobial peptides while improving these properties. This review presents a unified framework for peptidomimetic based antimicrobial discovery. It describes the fundamentals and classes of antimicrobial peptidomimetics, discusses mechanisms of antibacterial activity and the molecular basis of multidrug resistance. The review also highlights advances in molecular modelling and the growing role of artificial intelligence. A literature search was performed using PubMed, Scopus, Web of Science, and Google Scholar to review experimental, computational, and translational studies on peptidomimetics. Relevant studies were selected. The review examines the fundamentals of peptidomimetics, including key classes, structural modifications, and optimization strategies designed to overcome antimicrobial resistance. The review also highlights that effective antibacterial action involves electrostatic accumulation, selective membrane anchoring, transition into a membrane active conformation, and, in some cases, permeation to intracellular targets. In Gram-negative organisms, lipopolysaccharide organization and Ca²⁺/Mg²⁺ mediated cross linking increases the energetic barrier to membrane engagement. Furthermore, advances in synthetic methodologies, coupled with AI, are expected to enable faster and more efficient synthesis routes. Peptidomimetics seek to redefine antibacterial strategy by encoding resistance resilience into molecular design rather than relying on single target novelty. Their future impact will depend on integrating structure-activity relationships, mechanistic understanding with AI guided design.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-10-15",
+      "authors": [
+        "Ibisanmi TA",
+        "Bahatheg G",
+        "Urmi UL",
+        "Mishra SK",
+        "Khan RA",
+        "Shen J",
+        "Enninful GN",
+        "To TA",
+        "Willcox MDP",
+        "Kumar N"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.drup.2026.101490",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "klinik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42759446",
       "title": "Tumor-derived KLK5 activates TMEM158+ cancer-associated fibroblasts to induce CD8+ T cell exhaustion and confer immunotherapy resistance in lung cancer.",
       "abstract": "AIM: Immune checkpoint blockade (ICB) has improved the treatment landscape of lung squamous cell carcinoma (LUSC), but durable clinical benefit is limited by frequent therapeutic resistance. We aimed to define the microenvironmental mechanisms underlying ICB resistance in LUSC. METHODS: Surgical specimens from LUSC patients treated with neoadjuvant anti-PD-1 therapy plus chemotherapy were analyzed using integrated single-cell and spatial transcriptomics. Our findings were validated in independent bulk RNA-seq and multiplex immunofluorescence cohorts and functionally tested in fibroblast-specific conditional knockout and humanized mouse models. RESULTS: We identified a TMEM158⁺ cancer-associated fibroblast (CAF) subpopulation enriched in non-responders and associated with poor prognosis. Spatial and functional analyses showed that TMEM158⁺ CAFs promoted CD8⁺ T-cell exhaustion. Mechanistically, tumor-derived KLK5 engaged TMEM158, recruited SDCBP, activated the MEK/ERK-ELK1 signaling axis, and induced TNC and SPP1 expression, thereby establishing an immunosuppressive niche. Genetic ablation or functional inhibition of TMEM158⁺ CAFs enhanced sensitivity to anti-PD-1 therapy in LUSC. CONCLUSION: TMEM158⁺ CAFs are key stromal mediators of immune evasion and ICB resistance in LUSC and represent a promising biomarker and therapeutic target.",
@@ -1105,6 +1140,43 @@
       "journal_tier": 1,
       "impact": 15.0,
       "section": "antimikrobiyal",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42901085",
+      "title": "SRSF1-DLAT axis drives mitochondrial fusion to confer therapy resistance in diabetes-associated pancreatic ductal adenocarcinoma.",
+      "abstract": "BACKGROUND: Patients with pancreatic ductal adenocarcinoma (PDAC) and concurrent diabetes mellitus frequently exhibit poor outcomes. This study aims to elucidate the molecular mechanism linking diabetes with therapeutic failure. METHODS: We integrated clinical analysis, diabetic-KPC mouse models, multi-omics approaches including scRNA-seq and eCLIP-seq analysis, and functional validations to investigate the mechanisms of therapy resistance in PDAC associated with diabetes. RESULTS: It was found that pancreatic cancer with concurrent diabetes is prone to chemoresistance, which is accompanied by Serine/arginine-rich splicing factor 1(SRSF1)-driven altered splicing and expression of Dihydrolipoamide S-Acetyltransferase(DLAT). Our results showed that lactate accumulation in the diabetic tumor microenvironment induces K48-lactylation and stabilization of SRSF1. Crucially, stabilized SRSF1 directly binds to DLAT pre-mRNA, promoting the retention of Exon 5. This enhanced exon retention prevents nonsense-mediated decay (NMD) of DLAT, thereby elevating DLAT protein levels.The resulting SRSF1/DLAT axis drives mitochondrial hyperfusion, conferring chemoresistance by inhibiting senescence and apoptosis. Furthermore, the hyperfusion of mitochondria facilitates immune evasion by promoting the acetylation and stabilization of PD-L1. Notably, pharmacological intervention with Berberine effectively suppressed this SRSF1-DLAT axis, thereby re-sensitizing diabetes-associated PDAC tumors to combined chemo- and immunotherapy in vivo. CONCLUSIONS: Our findings reveal that the SRSF1-DLAT-mitochondrial fusion axis drives therapeutic resistance in diabetes-associated PDAC. Targeting this metabolic-immune crosstalk offers a promising strategy for PDAC treatment.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-10-16",
+      "authors": [
+        "Wang Z",
+        "Chen Y",
+        "Lu J",
+        "Zhang H",
+        "Pan Y",
+        "Zhu S",
+        "Lin H",
+        "Li G",
+        "Chen Y",
+        "Liao C",
+        "Huang L",
+        "Tian Y",
+        "Chen S"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.drup.2026.101489",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "kardiyometabolik",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
@@ -1803,87 +1875,6 @@
       "journal_tier": 1,
       "impact": 14.0,
       "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42765032",
-      "title": "Photothermal-driven sequential immunotherapy overcomes resistance to PARP inhibition in Brca1-deficient triple-negative breast cancer.",
-      "abstract": "Triple-negative breast cancer (TNBC) faces formidable clinical challenges due to target scarcity and a profound immunosuppressive microenvironment, necessitating innovative therapeutic strategies. Although poly ADP-ribose polymerase inhibitors leverage synthetic lethality in BRCA-mutated tumors, their efficacy is subverted by tumor-associated macrophages (TAMs)-driven immunosuppression, and current combinatorial strategies fail to overcome these resistance barriers. To address this, we engineered a thermo-responsive double-layer gel for spatiotemporally coordinated delivery: mild photothermal therapy reprograms TAMs to dismantle immunosuppressive niches, poly ADP-ribose polymerase inhibitors induce immunogenic tumor death releasing damage-associated molecular patterns, and delayed anti-CD47 antibodies release blocks the CD47-signal regulatory protein α axis. In Brca1-deficient TNBC models, this strategy demonstrated: (1) mild photothermal therapy-activated stimulator of interferon genes pathway triggering TAMs repolarization, (2) tumor-derived double-stranded DNA reinforcing the anti-tumor phenotypes, and (3) anti-CD47 antibody-enhanced phagocytosis and T cell activation via antigen cross-presentation. Consequently, this strategy controlled orthotopic/distal tumors and lung metastases by remodeling the immunosuppressive microenvironment. Our work not only unveils a novel mechanism of physical energy-mediated immune modulation but also establishes a paradigm shift for TNBC therapy, from empirical drug combinations to rationally designed spatiotemporal cascades.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-17",
-      "authors": [
-        "Xu Z",
-        "Wang S",
-        "Cao Y",
-        "Song J",
-        "Liu Y",
-        "Zhang R",
-        "Tang X",
-        "Wang Y",
-        "Wu H",
-        "Tu J",
-        "Chen Q",
-        "Sun C"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.022",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42765007",
-      "title": "Tocotrienol metabolites redirect lipid mediator production in innate immune cells towards inflammation resolution.",
-      "abstract": "Restoring homeostasis in persistent inflammation requires suppressing the inflammatory response and promoting resolution. Currently, no clinically used small molecules intentionally achieve both effects. Endogenous long-chain vitamin E metabolites (LCMs) address inflammation at multiple sites, including pro-inflammatory leukotriene production and cytokine release, thus limiting inflammation. Among LCMs, we here identified ω-carboxylates and ω-alcohols that suppress leukotriene biosynthesis while enhancing the biosynthesis of prostaglandin E2 and specialized pro-resolving mediators, specifically protectins or isomers, proposed to promote inflammation resolution. These LCMs induce a lipid mediator class switch in activated and non-activated human innate immune cells and in a mouse model of self-resolving peritonitis and inhibit ferroptosis. Changes in lipid mediator classes are tightly coordinated between local and systemic sites and follow different kinetics. Mechanistically, LCMs induce polyunsaturated fatty acid release and translocate 15-lipoxygenase-1, a key enzyme in protectin biosynthesis, to particulate locales while also engaging other mechanisms, partially involving cyclooxygenase-2, to increase protectin production. The LCMs also inhibit soluble epoxide hydrolase, reducing the degradation of anti-inflammatory epoxyeicosatrienoic acids, and increase levels of endocannabinoids and dihydroceramides with immunomodulatory and stress-protective functions. These findings provide insights into immunoregulation by tocotrienol metabolites and offer promising lead structures for redirecting lipid mediator profiles from inflammation toward resolution.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-01",
-      "authors": [
-        "Permann S",
-        "Brunner E",
-        "Alsabil K",
-        "Werner M",
-        "Waltl L",
-        "Viault G",
-        "D'Avino D",
-        "Perkowski B",
-        "Siller A",
-        "Fritsch L",
-        "Perna S",
-        "Schennach H",
-        "Séraphin D",
-        "Koeberle SC",
-        "Jordan PM",
-        "Roviezzo F",
-        "Richomme P",
-        "Rossi A",
-        "Helesbeux JJ",
-        "Werz O",
-        "Koeberle A"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.056",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "kardiyometabolik",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
