@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T11:29:33+00:00",
+  "updated": "2026-10-23T11:19:39+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -993,6 +993,35 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42906414",
+      "title": "Neural programs of therapy resistance in cancer: A mechanism-first framework for therapeutic targeting.",
+      "abstract": "Neural regulation of cancer therapy resistance is established unevenly across tumor types, signal sources, and treatments. This review proposes an evidence-calibrated framework that evaluates each candidate mechanism through its source, signal or activity pattern, receptor, target cell, and treatment context. We organize candidate neural contributions into four author-defined, overlapping analytical programs: survival and damage tolerance; cell-state plasticity and drug-tolerant persistence; neuroimmune suppression; and metabolic, vascular, and stromal adaptation. These categories facilitate comparison rather than denote equally established mechanisms: survival and selected neuroimmune routes have more direct treatment-linked support than many vascular and stromal hypotheses. Local innervation is distinguished from systemic neuroendocrine signaling and non-neuronal ligand production, while circuit integration in brain tumors is separated from predominantly paracrine and perineural interactions in peripheral cancers. An explicit hierarchy differentiates prospective biomarker-supported clinical benefit (Level 1), early interventional pharmacodynamic evidence (Level 2), treatment-specific preclinical intervention evidence (Level 3), and association (Level 4). Source resolution and rescue are assessed separately within each study. Therapy-associated sprouting, receptor adaptation, and cancer-induced nerve injury are evaluated as distinct processes; current evidence does not establish treatment-induced neural rewiring as a universal resistance driver. Study-level comparisons, model-selection criteria, and operational biomarker examples identify where neural targeting is supported, where only pathway-level dependence is demonstrated, and where additional causal validation is required. The framework is intended to improve selection and interpretation of mechanism-matched combinations, rather than infer oncologic efficacy from the availability of neuromodulatory drugs.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-10-19",
+      "authors": [
+        "Zhao PY",
+        "Rozpędek-Kamińska W",
+        "Chen ZS",
+        "Jin WL"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.drup.2026.101492",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "klinik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42759446",
       "title": "Tumor-derived KLK5 activates TMEM158+ cancer-associated fibroblasts to induce CD8+ T cell exhaustion and confer immunotherapy resistance in lung cancer.",
       "abstract": "AIM: Immune checkpoint blockade (ICB) has improved the treatment landscape of lung squamous cell carcinoma (LUSC), but durable clinical benefit is limited by frequent therapeutic resistance. We aimed to define the microenvironmental mechanisms underlying ICB resistance in LUSC. METHODS: Surgical specimens from LUSC patients treated with neoadjuvant anti-PD-1 therapy plus chemotherapy were analyzed using integrated single-cell and spatial transcriptomics. Our findings were validated in independent bulk RNA-seq and multiplex immunofluorescence cohorts and functionally tested in fibroblast-specific conditional knockout and humanized mouse models. RESULTS: We identified a TMEM158⁺ cancer-associated fibroblast (CAF) subpopulation enriched in non-responders and associated with poor prognosis. Spatial and functional analyses showed that TMEM158⁺ CAFs promoted CD8⁺ T-cell exhaustion. Mechanistically, tumor-derived KLK5 engaged TMEM158, recruited SDCBP, activated the MEK/ERK-ELK1 signaling axis, and induced TNC and SPP1 expression, thereby establishing an immunosuppressive niche. Genetic ablation or functional inhibition of TMEM158⁺ CAFs enhanced sensitivity to anti-PD-1 therapy in LUSC. CONCLUSION: TMEM158⁺ CAFs are key stromal mediators of immune evasion and ICB resistance in LUSC and represent a promising biomarker and therapeutic target.",
@@ -1843,38 +1872,6 @@
       "journal_tier": 1,
       "impact": 14.0,
       "section": "diger",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42765033",
-      "title": "APRIL-driven BCMA/TACI dual-targeted ligand-drug conjugates for selective and potent therapy of multiple myeloma.",
-      "abstract": "B-cell maturation antigen (BCMA) is highly expressed on malignant plasma cells and has emerged as an ideal therapeutic target in multiple myeloma (MM). However, the efficacy of BCMA-targeted therapies is often limited by antigen downregulation and tumor escape. Here, we report the design of a dual-targeted ligand-drug conjugate (LDC) leveraging a proliferation-inducing ligand (APRIL), the natural ligand for both BCMA and transmembrane activator and calcium-modulator and cyclophilin ligand interactor (TACI). This dual-targeting strategy enables enhanced binding breadth and mitigates antigen-loss-mediated resistance. Compared to conventional antibodies, APRIL-based fusion proteins (APRILFc) exhibited markedly faster internalization in MM cells (∼25% within 30 min), facilitating efficient intracellular drug delivery. LDCs conjugated with monomethyl auristatin E (MMAE) or SN-38 demonstrated potent cytotoxicity across diverse MM cell lines, outperforming corresponding antibody-drug conjugates (ADCs). Notably, LDCs maintained strong antitumor activity in BCMA-knockout models, highlighting their capacity to overcome BCMA escape. In both subcutaneous and intratibial MM mouse models, LDC-MMAE significantly suppressed tumor growth, including in the context of BCMA shedding. These findings establish APRIL-based LDCs as a promising, mechanistically distinct modality for MM therapy, capable of addressing key limitations of current BCMA-targeted approaches.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-02-06",
-      "authors": [
-        "Zhou L",
-        "Sun Y",
-        "Bi J",
-        "Zhao J",
-        "Xia Y",
-        "He J",
-        "Wang J",
-        "Pan L"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.02.001",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
