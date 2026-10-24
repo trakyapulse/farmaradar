@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T11:19:39+00:00",
+  "updated": "2026-10-24T10:39:49+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -644,6 +644,31 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42918846",
+      "title": "FDA approves hepatitis B antisense drug.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-10-21",
+      "authors": [
+        "Mullard A"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00166-7",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42768084",
       "title": "Two trials or not two trials? That should not be the question.",
       "abstract": "",
@@ -1206,6 +1231,47 @@
       "journal_tier": 1,
       "impact": 15.0,
       "section": "kardiyometabolik",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42914937",
+      "title": "Genomic dynamics and macrolide resistance in Bordetella pertussis: implications for surveillance and rapid visual detection.",
+      "abstract": "BACKGROUND: The post-COVID-19 resurgence of pertussis has raised concerns regarding shifts in circulating Bordetella pertussis populations and increasing macrolide resistance. This study aims to characterize the population dynamics and clinically relevant genomic changes of B. pertussis in China and globally, and to develop a rapid visual assay for detecting the macrolide resistance-associated 23S rRNA A2047G mutation. METHODS: In this cross-sectional genomic epidemiology study, 22 recent clinical isolates were sequenced and analyzed with 7322 publicly available B. pertussis genomes. Global population structure was assessed using 7344 genomes, and Bayesian phylodynamic analysis was performed on 1054 temporally informative Chinese genomes selected from 1292 isolates collected during 1951-2024. We designed and optimized an allele-specific loop-mediated isothermal amplification (LAMP) assay incorporating a 3'-terminal artificial mismatch and a neutral red indicator for detection of the macrolide resistance-associated 23S rRNA A2047G mutation. Its analytical sensitivity and specificity were evaluated alongside quantitative PCR (qPCR) using serially diluted plasmids and 39 contrived DNA samples. RESULTS: The macrolide resistance of B. pertussis in China, defined by the 23S rRNA A2047G mutation, reached 98.9% (88/89; 95% CI 93.9-100) among available genomes in 2024, concurrent with the rapid clonal expansion of the ptxP3-MT28 sub-lineage. Among the available Chinese isolates, the proportion of predicted Prn-deficient strains increased to 31.46% in 2024, with 12 distinct prn inactivation mechanisms, predominantly IS481-mediated insertions. The optimized LAMP assay differentiated mutant and wild-type alleles within 50 min at 65°C, with a neutral red visual limit of detection (LOD) of 10 copies/μL, compared with 100 copies/μL for qPCR. The results of LAMP-based differentiation were consistent with those obtained by qPCR for all 39 contrived samples. CONCLUSIONS: B. pertussis populations have undergone marked genomic shifts characterized by antigenic variation and macrolide resistance, although the evolutionary drivers underlying these temporal and genomic patterns remain to be determined. The visual LAMP assay provides a proof-of-concept analytical evidence for rapid A2047G allele discrimination and may have future point-of-care potential following validation with prospective clinical respiratory specimens. These findings support continued genomic surveillance and further evaluation of vaccine antigen matching and antimicrobial resistance.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-10-20",
+      "authors": [
+        "Zhuang Y",
+        "Li S",
+        "Bao D",
+        "Jin X",
+        "Xiao F",
+        "He Q",
+        "Jia H",
+        "Shen F",
+        "Jiang T",
+        "Xie X",
+        "Zhang J",
+        "Butaye P",
+        "Furlan JPR",
+        "He F",
+        "Zhang Y",
+        "Lin X",
+        "Ruan Z"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.drup.2026.101494",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "antimikrobiyal",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
@@ -1798,80 +1864,6 @@
       "journal_tier": 1,
       "impact": 14.0,
       "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42765057",
-      "title": "Tumor-responsive nanoparticles precisely overcome hypoxia-mediated STING dysfunction to unleash potent antitumor immunity.",
-      "abstract": "The Stimulator of Interferon Genes (STING) pathway plays a central role in anti-tumor immunity by mobilizing both the innate and adaptive immunity. However, hypoxia, a tumor hallmark was shown to severely constrain immune responses and lead to suboptimal therapeutic efficacy. Through bioinformatic analyses, we revealed that hypoxia directly repress STING-pathway-related genes. Furthermore, we developed tumor-targeted pH-responsive nanoparticles (SPF) to overcome hypoxia-induced STING dysfunction for amplifying immune responses. The nanoparticles (NPs) effectively accumulate and reoxygenate the hypoxic tumor, achieving a potent STING activation with enhanced secretion of type-I IFNs and other inflammatory cytokines. Moreover, SPF are capable of decreasing Tregs and polarizing M2 to M1 macrophages, thus creating an immune-promoting microenvironment to unleash cascade immune response. In colon cancer models, SPF NPs strongly inhibited tumor growth with 33% tumor-free over 50 days and long-term immune memory. Importantly, robust STING activation was achieved in human tumor samples with a substantial 782.3-fold of IFN-β and 1683.8-fold CXCL10 over control, highlighting the significance of hypoxia overcoming on STING activation in clinical settings. This study demonstrates a tumor-responsive nanomedicine with precise spatiotemporal control of hypoxia relief to overcome STING resistance, guiding the rational design and clinical translation of therapeutics for next-generation cancer immunotherapy.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-25",
-      "authors": [
-        "Hai L",
-        "Wang J",
-        "Liu D",
-        "Yun K",
-        "Ma K",
-        "Peng Y",
-        "Xu M",
-        "Ma X",
-        "Gao S",
-        "Wang Q",
-        "Zhou J",
-        "Liang S",
-        "Wang Z"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.043",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42765054",
-      "title": "Metrnl in mitigating radiation enteritis via label-retaining cells protection by modulating the c-KIT-WNT pathway.",
-      "abstract": "Currently, there exists no definitive standardized therapy for radiation enteritis. This study unveils Metrnl as a pivotal regulator of intestinal radioprotection through multi-dimensional single-cell profiling and mechanistic dissection. We first demonstrate that radiation dynamically reprograms Metrnl expression in a time-dependent manner, revealing its role as a radiation-responsive mediator. Crucially, Metrnl confers potent protection against radiation-induced intestinal injury through double mechanisms; Metrnl safeguards label-retaining cells (LRCs) rather than conventional Lgr5+ intestinal stem cells, and activates a novel c-KIT-WNT signaling axis via ERK/GSK3β-mediated pathway crosstalk, both revitalizing intestinal epithelial regeneration. Therapeutically, recombinant Metrnl emerges as a potential biotherapeutic, effectively attenuating radiation enteritis. These findings establish Metrnl as a key mediator bridging radiation biology and regenerative medicine, offering a transformative potential for radiation injury management.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-18",
-      "authors": [
-        "Zhang S",
-        "Chen S",
-        "Guo B",
-        "Ling Q",
-        "Wang S",
-        "Miao Z",
-        "Wang Z",
-        "Wei Y",
-        "Zheng S",
-        "Li Z",
-        "Feng AQ",
-        "Qian FH",
-        "Miao CY"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.026",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "diger",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
