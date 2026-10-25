@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T10:39:49+00:00",
+  "updated": "2026-10-25T11:03:20+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -1282,6 +1282,45 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42925861",
+      "title": "Targeting V-ATPase assembly via sEVs-delivered doxorubicin triggers methuosis and circumvents temozolomide resistance in glioblastoma.",
+      "abstract": "AIM: Temozolomide (TMZ) resistance remains a major challenge in glioblastoma (GBM). Whether lysosomal alterations represent a targetable vulnerability in TMZ-resistant GBM (TR-GBM) is unclear. This study investigates whether small extracellular vesicles (sEVs) can reprogram doxorubicin (DOX) subcellular trafficking to exploit lysosomal vulnerabilities and circumvent resistance. METHODS: Paired primary/recurrent GBM tissues, TR-GBM cell lines (TR-U87, TR-U251), patient-derived xenografts (PDX), and orthotopic models were used. DOX-loaded sEVs (sEVs-DOX) were characterized. Subcellular DOX distribution was assessed by confocal microscopy, organelle staining, and Percoll gradient fractionation. V-ATPase assembly and function were evaluated by co-immunoprecipitation, immunofluorescence, lysosomal pH measurement, and proton-pumping activity. ATP6V1D overexpression and knockdown were used for validation. RESULTS: TR-GBM showed lysosomal expansion and instability. sEVs-DOX redirected DOX to lysosomes, inducing methuosis and circumventing TMZ resistance. Mechanistically, lysosomal DOX directly bound ATP6V1D, disrupting V-ATPase assembly, causing lysosomal deacidification and dysfunction. ATP6V1D overexpression rescued these defects, whereas knockdown phenocopied sEVs-DOX effects. sEVs-DOX demonstrated potent efficacy in subcutaneous, orthotopic, and PDX models with minimal toxicity. CONCLUSION: Lysosomal dysfunction is a targetable vulnerability in TR-GBM. sEVs-DOX circumvents resistance by inducing V-ATPase-dependent methuosis, offering a promising therapeutic strategy.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-10-20",
+      "authors": [
+        "Guo Y",
+        "Tang R",
+        "Dai Z",
+        "Wu L",
+        "Liu Y",
+        "Cai L",
+        "Lu J",
+        "Yang S",
+        "Xu F",
+        "Yang Y",
+        "Wang C",
+        "Wang X",
+        "Zeng B",
+        "Li Q",
+        "Su Z"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.drup.2026.101493",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42786050",
       "title": "Cysteine acquisition in cancer: Cystine import or glutathione catabolism?",
       "abstract": "",
@@ -1823,44 +1862,6 @@
         "Journal Article"
       ],
       "doi": "10.1016/j.apsb.2026.06.053",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42765063",
-      "title": "Hepatokine FGL1 drives endothelial injury and atherogenesis via integrin β1-mediated endothelial-mesenchymal transition.",
-      "abstract": "Atherosclerosis is driven by metabolic dysregulation and endothelial dysfunction; however, the precise molecular mechanisms underlying its pathogenesis remain incompletely elucidated. Fibrinogen-like protein 1 (FGL1) is a well-established hepatokine with critical roles in regulating tumorigenesis and metabolic dysfunction, while its involvement in atherogenesis remains unclear. Our clinical and preclinical studies revealed elevated plasma FGL1 levels in atherosclerotic patients and mice, correlating with arterial stenosis severity. Prolonged high-fat diet exposure specifically upregulated hepatic FGL1 expression. Hepatic FGL1 overexpression accelerated atherosclerosis, while liver-specific knockdown reduced plaque burden. Exogenous administration of FGL1 accelerated endothelial injury and atherosclerosis progression. Mechanistically, liver-derived FGL1 accumulates in vascular endothelium through fibrinogen C-terminal domain Trp225-mediated binding to integrin β1's vWFA domain. This interaction promotes the conformational change of integrin β1 and the formation of integrin β1/ILK1 complex, co-activating FAK/ERK and Smad signaling to drive transcriptional reprogramming of endothelial cells. Therapeutic interventions targeting FGL1-integrin β1 axis by integrin β1 blocking antibody, FGL1-neutralizing antibody, or RGD peptide effectively attenuated endothelial injury and atherogenic progression in murine models. These findings establish hepatic FGL1 as a novel endocrine regulator of vascular pathophysiology, highlighting the FGL1-integrin β1 axis as a promising therapeutic target for endothelial protection and atherosclerosis management.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-08",
-      "authors": [
-        "Zhao Y",
-        "Chen H",
-        "Yin L",
-        "Meng R",
-        "Zheng J",
-        "Zhang Y",
-        "Wang Z",
-        "Chen Y",
-        "Xu R",
-        "Liu J",
-        "Li Y",
-        "An N",
-        "Li H",
-        "Zhang Y"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.005",
       "journal_tier": 1,
       "impact": 14.0,
       "section": "kardiyometabolik",
