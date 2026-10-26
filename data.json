@@ -1,11 +1,40 @@
 {
-  "updated": "2026-10-25T11:03:20+00:00",
+  "updated": "2026-10-26T12:36:30+00:00",
   "window_days": 1,
   "datetype": "edat",
-  "count": 109,
-  "tier1_count": 8,
+  "count": 93,
+  "tier1_count": 3,
   "source": "PubMed (NCBI E-utilities)",
   "articles": [
+    {
+      "pmid": "42927808",
+      "title": "The dual role of BDNF in epilepsy: insights from calpain-mediated TrkB-FL cleavage.",
+      "abstract": "Despite the efficacy of current antiseizure medications in managing seizures, approximately one-third of patients develop refractory epilepsy, highlighting an urgent need to uncover the molecular mechanisms driving epileptogenesis. This process emerges from a complex interplay of molecular alterations, involving changes in neuronal signaling pathways. Among these, brain-derived neurotrophic factor (BDNF) and its high-affinity receptor, the full-length tropomyosin receptor kinase B (TrkB-FL), are heavily implicated in epilepsy pathophysiology. While traditionally recognized for promoting synaptic plasticity, BDNF signaling can become maladaptive in pathological states. Consequently, BDNF exhibits a paradoxical dual role in epilepsy, acting as a proepileptogenic factor in the acute phase, while exerting antiepileptic effects during the chronic phase. Recently, a calpain-dependent proteolytic mechanism mediating TrkB-FL cleavage, previously described in Alzheimer's disease (AD) and cerebral ischemia, has been shown to occur during epileptogenesis. Elevated levels of the intracellular cleavage product of TrkB-FL, TrkB-ICD, have been observed in the hippocampus of patients with refractory epilepsy, establishing its clinical relevance. In vitro, TrkB-ICD overexpression depolarizes neuronal membranes, increases miniature excitatory postsynaptic current frequency, and alters the transcription of genes related to synaptic transmission and plasticity. In vivo, its overexpression induces long-term memory impairment, a common comorbidity in epilepsy. Moreover, in experimental epilepsy models, TrkB-ICD protein levels correlate with seizure frequency during the acute phase (status epilepticus) and remain elevated during the chronic phase (established epilepsy). These findings highlight TrkB-FL cleavage and TrkB-ICD formation as molecular determinants in epileptogenesis, providing a biological rationale for the contrasting effects of BDNF. Inhibiting this cleavage, using tools like cell-penetrating peptides, represents a promising therapeutic avenue. As the field moves forward, elucidating the precise functions, regulation, and translational potential of the TrkB-FL proteolysis and TrkB-ICD formation may yield innovative, disease-modifying strategies for epilepsy, moving beyond the symptomatic suppression offered by conventional antiseizure drugs.",
+      "journal": "Pharmacol Res",
+      "date": "2026-10-25",
+      "authors": [
+        "Ribeiro-Rodrigues L",
+        "Griškova-Bulanova I",
+        "Diógenes MJ",
+        "Xapelli S"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.phrs.2026.109702",
+      "journal_tier": 1,
+      "impact": 9.1,
+      "section": "klinik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
     {
       "pmid": "42926019",
       "title": "The microbiota-drug delivery nexus: from pharmacomicrobiomics to live biotherapeutic delivery.",
@@ -63,180 +92,69 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42919945",
-      "title": "Mechanistic pathways of cosmetic ingredient toxicity: a critical review of in vitro and in vivo evidence.",
-      "abstract": "Every day, billions of people apply cosmetic products containing dozens of bioactive compounds whose combined toxicological profile has never been formally evaluated. Human biomonitoring confirms systemic deposition of these compounds in blood, adipose tissue, placenta, and breast milk worldwide. This scoping review, following PRISMA-ScR, synthesizes in vitro and in vivo mechanistic toxicology evidence for six major cosmetic ingredient categories-preservatives, UV filters, engineered nanoparticles, fragrances, surfactants, and colorants-and maps findings onto established adverse outcome pathways (AOPs). Searches of PubMed/MEDLINE, Embase, and Web of Science identified 1231 records, of which 48 studies met eligibility criteria. Critical appraisal exposes three structural failures: most studies test at concentrations orders of magnitude above realistic dermal exposures; nearly all assess single ingredients in isolation; and the field over-relies on targeted assays over untargeted omics. The evidence nonetheless reveals mechanistic convergence: parabens, benzophenones, UV filters, and surfactants activate overlapping estrogen receptor, oxidative stress, and innate immune pathways, with biological plausibility supported by cohort data linking benzophenone-3 to lower testosterone and altered pubertal timing, and the preservatives chloromethylisothiazolinone/methylisothiazolinone to Th2-skewed atopic responses. AOP mapping shows uneven regulatory readiness: skin sensitization (AOP40) is the most mature pathway; estrogen and androgen receptor activity (AOP29, AOP19) and thyroid disruption (AOP54) are existing anchors needing refinement; and three candidate AOPs are proposed. We propose a four-tier, largely non-animal integrated testing strategy compatible with EU Regulation 1223/2009 and the US Modernization of Cosmetics Regulation Act of 2022, alongside six priority research gaps to guide future regulatory risk assessment of cosmetic ingredients.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
+      "pmid": "42928410",
+      "title": "Quantitative Sciences in the Model-Informed Era: From Parallel Functions to a Shared Decision System.",
+      "abstract": "Model-informed drug development increasingly depends on collaboration among clinical pharmacology, statistics, pharmacometrics, and quantitative systems pharmacology. Yet functional silos, distinct leadership structures, and divergent goals can reduce collaboration to late, parallel deliverables that constrain decision architecture. This Perspective defines a shared decision system as an operating model in which quantitative and clinical disciplines jointly define the question, context of use, evidentiary role, uncertainty standards, and accountability for model-informed evidence.",
+      "journal": "Clin Pharmacol Ther",
+      "date": "2026-10-25",
       "authors": [
-        "Bridgeman L",
-        "Lázaro Á",
-        "Mohammed V",
-        "Frangiamone M"
+        "McIntosh A",
+        "Elmeliegy M",
+        "Palmer JP",
+        "Tsamandouras N",
+        "Sahasrabudhe V",
+        "Shtylla B"
       ],
       "pubtypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
-      "doi": "10.1007/s00204-026-04592-9",
+      "doi": "10.1002/cpt.70531",
       "journal_tier": 1,
-      "impact": 6.1,
-      "section": "immuno",
-      "score": 110.0,
+      "impact": 6.3,
+      "section": "diger",
+      "score": 100.0,
       "score_parts": {
         "journal": 100,
-        "pubtype": 10,
+        "pubtype": 0,
         "recency": 0.0
       },
-      "tier": 1,
+      "tier": 2,
       "abstract_tr": ""
     },
     {
-      "pmid": "42919941",
-      "title": "Epigenetic markers as predictors of neurotoxicity and abuse potential of psychotropic drugs: integration of epigenetic modifications in New Approach Methodologies.",
-      "abstract": "Neurotoxicity and abuse potential are strongly associated with psychotropic drugs. Although animal models have been used for decades to investigate different forms of toxicity, including neurotoxicity and abuse potential, increasing efforts have been directed toward overcoming their inherent limitations. In this context, the development of New Approach Methodologies (NAMs), aimed at improving chemical safety assessment through more protective and physiologically relevant models, has emerged as a promising strategy to predict the neurotoxic potential of drugs while contributing to the replacement, reduction, and refinement of animal experimentation. Nevertheless, the number of NAMs capable of reliably and efficiently predicting neurotoxicity remains limited. Importantly, psychotropic drugs have been shown to induce epigenetic modifications (e.g., DNA methylation, histone modifications), which are frequently associated with neurotoxic adverse effects. The integration of these alterations into NAMs may therefore represent a major advance for academia, industry, and regulatory agencies in assessing the neurotoxic and abuse potential of such substances. Here, we review the latest evidence on the role of psychotropic drug-induced epigenetic modifications in neurotoxicity and abuse potential. Importantly, we further discuss how integrating these epigenetic alterations into NAMs could advance risk assessment of neurotoxic effects and abuse liability.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
+      "pmid": "42927795",
+      "title": "Redox-responsive nanoparticles prevent post-ablation hepatocellular carcinoma recurrence by dual regulation of dendritic cells and tumor cells.",
+      "abstract": "Radiofrequency ablation (RFA) is a locoregional therapy for hepatocellular carcinoma (HCC). However, the long-term efficacy for RFA is severely compromised by recurrence driven by an immunosuppressive tumor microenvironment (TME). In this study, we identify mature regulatory dendritic cells (mregDCs) as a key immune-regulatory population closely associated with this immune evasion. Following insufficient RFA (iRFA), sublethal thermal injury induces excessive reactive oxygen species (ROS) and hypoxia, which synergistically promote mregDC differentiation and upregulate PD-L1, leading to profound CD8+ T cell exhaustion. To address these challenges, we developed a redox-responsive nanoplatform for co-delivery of an ROS scavenger N-acetylcysteine (NAC) and siPD-L1. This nanoplatform effectively mitigates hypoxia and oxidative stress within the TME while reprogramming mregDCs toward an immunostimulatory phenotype via PD-L1 silencing. In both subcutaneous and orthotopic iRFA-HCC models, treatment with NPs(siPD-L1/NAC) potently activates CD8+ T cells, suppresses tumor growth, and exhibits a favorable safety profile. Our findings uncover an mregDC-mediated immune evasion mechanism underlying post-ablation recurrence and present a promising dual-regulation strategy for remodeling the post-ablation TME to potentiate durable anti-tumor immunity.",
+      "journal": "J Control Release",
+      "date": "2026-10-25",
       "authors": [
-        "Paiva-da-Rocha E",
-        "Carvalho F",
-        "Silva JP",
-        "Carmo H"
+        "Luo M",
+        "Zheng S",
+        "Luo W",
+        "Zhang Y",
+        "Liu R",
+        "Shen Z",
+        "Zhou Y",
+        "Tan J",
+        "Su X",
+        "Cai Y",
+        "Luo B",
+        "Zhang W"
       ],
       "pubtypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
-      "doi": "10.1007/s00204-026-04601-x",
+      "doi": "10.1016/j.jconrel.2026.115469",
       "journal_tier": 1,
-      "impact": 6.1,
-      "section": "toksikoloji",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919938",
-      "title": "Hormesis as a universal cellular strategy for growth.",
-      "abstract": "Our review synthesizes a vast and dispersed literature to demonstrate that subtoxic doses of structurally diverse chemicals can induce a conserved growth-stimulatory (hormetic) response across bacterial, microalgal, plant, and mammalian cells. Stimulation is concentration- and exposure-time-dependent, with higher concentrations inhibiting growth. In eukaryotic models, moderate ROS signaling and activation of DNA-PKcs/Akt, ERK1/2, PI3K/AKT, mTOR, or AURKA accompany growth stimulation, with Cyclin D-CDK4 promoting G1/S transition in mammalian cells. The proliferative DNA-PKcs/Akt response is observed in human hepatic cells, while bacterial examples involve LuxR-dependent signaling and fatty acid β-oxidation. Metabolism rewires, with some microalgae enhancing glycolysis and Krebs cycling, whereas other photosynthetic microorganisms reroute photosynthetic carbon toward lipid or starch storage while downregulating selected carbohydrate-catabolic proteins. Nrf2-driven antioxidants in mammalian cells, carotenoids, and detoxifying enzymes are upregulated, establishing a preconditioned state that can attenuate apoptosis upon subsequent challenge. Within the Catabolic-Anabolic Cycling Hormesis (CACH) model, some time-dependent responses are consistent with an anabolic overshoot following a transient catabolic decline (ATP depletion). This anabolic reprogramming accompanies biofilm formation, altered motility, and, in neoplastic cells, anchorage-independent growth. Thus, cell proliferation is a metabolic strategy shaped by adversity, with functional consequences that depend on cellular context and the endpoint assessed.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Agathokleous E",
-        "Markouizou A",
-        "Calabrese EJ",
-        "Saitanis CJ"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1007/s00204-026-04580-z",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "kardiyometabolik",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919936",
-      "title": "From TD50 to benchmark dose in nitrosamine risk assessment: evidence from N-Nitrosotrimetazidine carcinogenicity and TGR mutation data.",
-      "abstract": "The presence of N-nitrosamine drug substance-related impurities (NDSRIs) in pharmaceuticals represents a significant regulatory and safety challenge due to their classification as a \"cohort of concern.\" This paper describes the toxicological evaluation of N-Nitrosotrimetazidine (NTMZ), performed to refine the initial default acceptable intake (AI) limits of 18-26.5 ng/day and the later published value of 400 ng/day, established using the Carcinogenic Potency Categorization Approach (CPCA). The evaluation followed a tiered approach: NTMZ was first confirmed as mutagenic in vitro in a standard Ames test. To further investigate its genotoxic potential, two in vivo studies were conducted in Wistar and transgenic rats. DNA strand breaks in the liver and duodenum (comet assay) and positive results in the Transgenic Rodent (TGR) confirmed an in vivo mutagenic mode of action. Benchmark Dose (BMD) analysis of the TGR data yielded a BMDL50 of 7 mg/kg/day in male rat livers. To characterize long-term carcinogenic risk, a GLP-compliant 2-year carcinogenicity study was conducted in Wistar rats. Chronic exposure induced liver (hemangiosarcomas, hepatocellular carcinomas and adenomas) and intestinal tumors (adenomas and adenocarcinomas), leading to a Tumor Dose 50 (TD50) of 23 mg/kg/day in male rats. BMD analysis of tumor incidence identified the lowest BMDL10 of 2.6 mg/kg/day in females, used to derive an AI of 13 µg/day. Strong concordance between the transgenic rat BMD, carcinogenicity-study BMDL10 and TD50 supported derivation of a conservative AI of 13 µg/person/day based on the BMDL10 and further support regulatory acceptance and use of BMD-derived approaches for nitrosamine evaluation.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Leheup M",
-        "Johnson GE",
-        "Kirkland D",
-        "Griffon A",
-        "Weaver RJ",
-        "Pasello Dos Santos F",
-        "Fouliard S",
-        "Mueller SO"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1007/s00204-026-04577-8",
-      "journal_tier": 1,
-      "impact": 6.1,
+      "impact": 10.5,
       "section": "onko",
-      "score": 110.0,
+      "score": 100.0,
       "score_parts": {
         "journal": 100,
-        "pubtype": 10,
+        "pubtype": 0,
         "recency": 0.0
       },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919934",
-      "title": "Mechanistic insights into PFAS-induced toxicity: from lipid membrane perturbation to ion channel and transporter dysregulation.",
-      "abstract": "Per- and polyfluoroalkyl substances (PFAS) are persistent environmental contaminants associated with a wide range of adverse health outcomes, including metabolic, developmental, and neurodevelopmental disorders. Recent evidence suggests that PFAS can act as membrane-active compounds, directly interacting with lipid bilayers. Their amphiphilic properties allow incorporation into cellular membranes, altering membrane properties. These physicochemical changes can impact the structural dynamics and functional properties of membrane proteins, particularly ion channels. A growing body of research demonstrates that PFAS modulate the activity of multiple ion channel types, including voltage-gated Ca²⁺ channels, glutamate receptors, GABAA receptors, and K⁺ channels, as well as intracellular channels such as ryanodine receptors, voltage-dependent anion channels (VDACs), and mitochondrial calcium uniporters. These effects are often observed as shifts in channel gating, conductance, and voltage dependence rather than as competition at defined ligand-binding sites, a pattern compatible with membrane perturbation acting as one contributing influence alongside direct protein interactions and other lipid-mediated mechanisms. PFAS also interact with plasma membrane transporters, altering the transport of endogenous substrates while utilizing transport systems such as organic anion and bile acid transporters for their own cellular uptake, tissue distribution, and elimination. Thus, membrane transport proteins may function both as targets of PFAS toxicity and as determinants of PFAS disposition. These effects extend beyond the plasma membrane to intracellular organelles. PFAS have been associated with Ca²⁺ and iron homeostasis across the endoplasmic reticulum-mitochondrial axis, promoting mitochondrial dysfunction, reactive oxygen species generation, and activation of cell death pathways. These observations suggest that ion channel dysfunction may contribute to the link membrane perturbations to downstream cellular damage. This review integrates current evidence on PFAS-induced membrane perturbation and ion channel dysregulation and situates these mechanisms within a multiscale framework encompassing membrane biophysics, organelle signaling, and cellular toxicity. This perspective offers a mechanistic framework for PFAS toxicity and underscores the need for integrative approaches to evaluate both legacy and emerging compounds.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Kim H"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1007/s00204-026-04607-5",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "noro",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919933",
-      "title": "Changes in human biomarkers of exposure after complete switching from cigarettes to e-cigarettes or exclusive e-cigarette use: a systematic review and biomarker-specific meta-analysis.",
-      "abstract": "BACKGROUND: Combustible cigarette smoking remains a major preventable cause of premature mortality worldwide, and the public-health relevance of electronic cigarettes depends substantially on whether switching from cigarettes lowers exposure to toxicants associated with smoking-related disease. We systematically reviewed the human biomonitoring evidence and quantified changes in biomarkers of exposure after complete switching from cigarettes to e-cigarettes or exclusive e-cigarette use after cigarette smoking. METHODS: PubMed, Scopus and Web of Science Core Collection were searched from inception to 28 May 2026 for human studies reporting biomarkers of exposure or potential harm in relation to e-cigarette use, dual use or switching. Study characteristics, biomarker data and a pragmatic risk-of-bias and funding assessment were extracted in duplicate. Meta-analysis was restricted to biomarkers of exposure with at least two compatible estimates for complete switching or exclusive e-cigarette use after cigarette smoking; dual-use evidence was synthesised narratively. Effects were expressed as ratios of means comparing post-switch with baseline or reference cigarette-smoking levels and pooled using random-effects models with restricted maximum likelihood estimation. RESULTS: Sixty studies were included. Six publications, representing seven study-level sources, contributed 47 biomarker-specific effects across ten biomarkers. Complete switching or exclusive e-cigarette use after cigarette smoking was associated with lower levels of every pooled biomarker. Approximate reductions were 61% for NNAL, 92% for NNN, 72% for 3-HPMA, 84% for the acrylonitrile metabolite CEMA, 77% for HMPMA, 82% for MHBMA, 90% for S-PMA, 79% for exhaled carbon monoxide, 77% for carboxyhaemoglobin and 76% for 1-OHP. Between-study heterogeneity was substantial for most biomarkers (I² 57-99%), and 95% prediction intervals lay entirely below 1.0 only for NNN, CEMA and carboxyhaemoglobin; the pooled values are therefore central estimates rather than precise expectations for any individual future study. Narrative evidence was broadly consistent: exclusive e-cigarette use was generally associated with lower exposure than cigarette smoking, whereas reductions among dual users were smaller and depended on cigarette displacement. Biomarkers of potential harm were more heterogeneous and were not pooled. Many switching studies were short-term, product-specific and industry-funded. CONCLUSIONS: Complete switching from cigarettes to e-cigarettes or exclusive e-cigarette use after cigarette smoking is associated with substantially lower biomarkers of exposure to tobacco- and combustion-related toxicants. Exposure reductions appear greatest when cigarette smoking is fully displaced. These findings describe reduced exposure to measured toxicants; they do not, by themselves, establish reduced disease risk or long-term safety.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Adebisi YA",
-        "Scherer M",
-        "Pluym N",
-        "Alhur AA",
-        "Tomaselli V",
-        "Polosa R"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1007/s00204-026-04583-w",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "kesif",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
+      "tier": 2,
       "abstract_tr": ""
     },
     {
@@ -797,521 +715,6 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42920570",
-      "title": "Comparative effectiveness and safety of almonertinib in EGFR-mutated non-small cell lung cancer: an integrated evidence synthesis.",
-      "abstract": "BACKGROUND: Comparative evidence regarding the efficacy and safety of almonertinib in epidermal growth factor receptor (EGFR)-mutated non-small cell lung cancer (NSCLC) remains fragmented across randomized and real-world studies. We conducted a systematic review and meta-analysis to comprehensively evaluate the comparative clinical performance of almonertinib. METHODS: Eight electronic databases were systematically searched from inception to March 2025. Comparative studies evaluating almonertinib versus active control regimens in patients with EGFR-mutated NSCLC were included. Random-effects meta-analyses were performed to synthesize objective response rate (ORR), disease control rate (DCR), progression-free survival (PFS), overall survival (OS), and treatment-related adverse events. Methodological quality was assessed using the Cochrane Risk of Bias tool and analogous domains for observational studies, and certainty of evidence was evaluated using the GRADE framework. RESULTS: Fifteen comparative studies involving 1,902 patients met the eligibility criteria. Compared with control regimens, almonertinib was associated with higher pooled ORR (RR = 1.33, 95% CI 1.08-1.65) and DCR (RR = 1.14, 95% CI 1.03-1.26). However, after trim-and-fill adjustment for potential publication bias, the 95% CIs for both ORR and DCR included the null value, suggesting that the observed response benefits may be influenced by small-study effects. No statistically significant differences were observed for pooled PFS or OS. Almonertinib demonstrated a generally favorable safety profile, with a lower incidence of diarrhea, while rates of grade ≥3 adverse events and other major toxicities were broadly comparable between groups. Integrated analyses further suggested consistent concordance between ORR and DCR across most studies, supporting improved short-term disease control despite moderate-to-substantial between-study heterogeneity. CONCLUSION: Current comparative evidence suggests that almonertinib may improve tumor response and disease control while maintaining a favorable tolerability profile in patients with EGFR-mutated NSCLC. Although favorable objective response outcomes were observed, these benefits may be influenced by small-study effects, and definitive survival advantages remain uncertain. These findings support almonertinib as a clinically meaningful therapeutic option, while underscoring the need for cautious interpretation and for larger, high-quality comparative trials with longer follow-up to further define its long-term clinical value. SYSTEMATIC REVIEW REGISTRATION: https://doi.org/10.17605/OSF.IO/ZDF2N; Identifier: OSF.IO/ZDF2N.",
-      "journal": "Front Pharmacol",
-      "date": "2026-10-09",
-      "authors": [
-        "Rong B",
-        "Pan H",
-        "Fu T",
-        "Liu Y",
-        "Yang P",
-        "Zhang J",
-        "Wang Y"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Systematic Review"
-      ],
-      "doi": "10.3389/fphar.2026.1932051",
-      "journal_tier": 2,
-      "impact": 4.4,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 40,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42920365",
-      "title": "Investigating the TASK1 potassium channel in equine atrial myocardium as a potential treatment target for atrial fibrillation.",
-      "abstract": "BACKGROUND AND PURPOSE: Atrial fibrillation (AF) is the most common clinically relevant arrhythmia in horses, with limited pharmacological treatment options in both veterinary and human medicine. TASK1 potassium channels represent a promising atrial-selective antiarrhythmic target, but their relevance in horses has not been established. To characterize equine TASK1 (eqTASK1) channels regarding structural conservation, electrophysiological function, pharmacological sensitivity, cardiac expression pattern and in vivo electrophysiological effects of TASK1 inhibition. EXPERIMENTAL APPROACH: Sixteen horses killed for non-cardiovascular reasons, of which 10 horses used for tissue harvesting and six horses for in vivo testing. Functional and pharmacological properties of eq TASK1 and human (hTASK1) channels were assessed in Xenopus laevis oocytes using two-electrode voltage clamp recordings. Cardiac expression of eqTASK1 was analysed by qRT-PCR and immunoblotting, while in vivo electrophysiological studies were performed in anaesthetized horses before and after intravenous ketodoxapram administration. KEY RESULTS: EqTASK1 and h TASK1 channels demonstrated high structural conservation, comparable potassium-selective background currents and preserved pharmacological sensitivity with species-dependent differences in potency. EqTASK1 expression was strongly enriched in atrial and nodal tissue, whereas ventricular expression was minimal. In vivo administration of ketodoxapram significantly prolonged atrial effective refractory periods from 275 ± 54 to 418 ± 94 ms without significant changes in heart rate or atrioventricular conduction parameters. CONCLUSION AND IMPLICATIONS: EqTASK1 channels are highly conserved with human orthologs and display pronounced atrial-predominant cardiac expression. In vivo TASK1 inhibition prolongs atrial refractoriness in horses, supporting TASK1 as a translational atrial-selective antiarrhythmic target in both human and veterinary medicine.",
-      "journal": "Br J Pharmacol",
-      "date": "2026-10-24",
-      "authors": [
-        "Verhaeghe LM",
-        "Jávorszky N",
-        "Kraft M",
-        "Wiedmann F",
-        "Weitkamp FM",
-        "Decloedt A",
-        "Van Steenkiste G",
-        "van Loon G",
-        "Schmidt C"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1111/bph.70703",
-      "journal_tier": 1,
-      "impact": 6.8,
-      "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919951",
-      "title": "Cheminformatics-based read-across prioritization of food additives with obesogenic potential and PPARγ agonist activity.",
-      "abstract": "Food additives are widely used in processed foods, yet many remain insufficiently evaluated for potential metabolic-disrupting effects. In this study, we developed a cheminformatics-based read-across approach integrating curated food additive inventories with Tox21 high-throughput screening (HTS) data to prioritize food additives with potential obesogenic activity. We integrated 7917 compounds from the Tox21 dataset with 3185 compounds from curated food additive inventories, followed by rigorous data curation to yield a dataset comprising 10,077 compounds. Dimensionality reduction and clustering analyses identified 428 structurally defined clusters. Enrichment analysis of Tox21 assay endpoints identified five clusters significantly associated with peroxisome proliferator-activated receptor γ (PPARγ) agonist activity. From these PPARγ activity-enriched clusters, eight food additives not previously evaluated in Tox21 were prioritized for experimental validation and assessed in an adipogenic differentiation model of human bone marrow-derived mesenchymal stem cells (hBM-MSCs). Among them, benzyl disulfide (BD), hesperetin (HSP), and syringaldehyde (SD) significantly enhanced adiponectin biosynthesis and lipid accumulation. Pharmacological profiling further demonstrated that BD and HSP directly bound to PPARγ and induced coactivator recruitment. Collectively, these findings support the use of integrated cheminformatics read-across analysis and targeted in vitro testing for hazard identification and prioritization of food additives with potential obesogenic activity. The results provide a basis for further mechanistic and exposure-informed assessment of the prioritized candidates.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Gong J",
-        "Shim Y",
-        "Hwang S",
-        "Lee MJ",
-        "Cho J",
-        "Kang J",
-        "Park J",
-        "Park S",
-        "Kim U",
-        "Park K",
-        "Li Y",
-        "Noh M"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00204-026-04603-9",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919950",
-      "title": "Environmentally relevant bis(2-ethylhexyl) phthalate exposure increases stress vulnerability, evoking depressive-like behaviors in male mice.",
-      "abstract": "Chronic stress is a major risk factor for major depressive disorder, and accumulating evidence implicates environmental pollutants in depression-related pathophysiology. We previously showed that prolonged exposure to bis(2-ethylhexyl) phthalate (DEHP) induces depressive-like behaviors in male mice by dampening glutamatergic transmission in the medial prefrontal cortex (mPFC), resembling the effects shown in the chronic immobilization stress (CIS)-induced mouse model of depression. Here, we investigated whether chronic environmentally relevant (ER) DEHP exposure increases vulnerability to stress. Mice received DEHP (120-125 µg/kg body weight) for 42 days and were then subjected to a subthreshold immobilization stress (sIS) regimen that does not elicit overt depressive-like behaviors when administered alone. Notably, DEHP exposure rendered this otherwise subthreshold stress sufficient to unmask a robust depressive-like phenotype. Mice exposed to DEHP + sIS displayed anxiety-like, despair/helplessness-like, and anhedonia-like behaviors, along with elevated corticosterone and reactive oxygen/nitrogen species, recapitulating key features observed in mice with CIS-induced depression. Mechanistically, mice exposed to DEHP + sIS and to CIS both exhibited reduced glutamatergic signaling and decreased glutamine synthetase activity in the mPFC. Together, these findings indicate that sustained ER pollutant exposure can sensitize stress responses and lower the threshold for stress-evoked depressive-like behaviors, and that the underappreciated interaction between environmental pollutants and psychosocial stressors warrants closer attention in assessments of mental health risk.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Kang JS",
-        "Baek JH",
-        "Jeong W",
-        "Rehman NU",
-        "Chung HJ",
-        "Lee DK",
-        "Kim HJ"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00204-026-04610-w",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "noro",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919949",
-      "title": "Development and translational application of a rat-to-human PBPK model for isopropoxate to support forensic exposure reconstruction and risk assessment.",
-      "abstract": "Isopropoxate is a new synthetic etomidate analog and emerging new psychoactive substance, posing severe public health risks due to its high abuse liability and overdose potential. Ethical constraints preclude clinical pharmacokinetic investigations, necessitating alternative mechanistic approaches. In this study, we developed the first physiologically based pharmacokinetic (PBPK) model for isopropoxate by integrating in vitro data of human liver microsomes and in vivo data of rats. The rat PBPK model accurately described dose-dependent plasma concentration-time profiles, with predicted-to-observed ratios remaining within the accepted two-fold range, as reflected by fold errors (FE) of 0.944-1.12 for Cmax and 0.744-1.68 for AUC0-∞ across all dose levels. In addition, dedicated PBPK submodels were established and validated for the primary metabolite of etomidate acid with FE ranging from 0.800 to 1.01 for Cmax. Human pharmacokinetics were extrapolated using in vitro-in vivo extrapolation (IVIVE) and allometric scaling, predicting a high oral bioavailability of 94.9% and a systemic clearance of 0.31 mL/min/kg. The model facilitates pharmacokinetic interpretation, postmortem back-calculation of exposure timing, and assessment of metabolite production, thereby supporting forensic and overdose risk evaluation. Beyond predicting pharmacokinetics, the developed PBPK framework provides a practical tool for forensic toxicology by supporting interpretation of parent-metabolite relationships in biological specimens, reconstruction of exposure timelines under different scenarios, and mechanistic comparison of exposure profiles following different routes of administration.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Tang Y",
-        "Ma Y",
-        "Zhong L",
-        "Xiang P",
-        "Hong Z",
-        "Xiang X",
-        "Yan H"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00204-026-04596-5",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "klinik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919948",
-      "title": "Evaluation of anogenital distance (AGD) and areola/nipple retention (NR) assessments in extended one generation reproductive toxicity studies - Implications for regulatory toxicology.",
-      "abstract": "The Extended One-Generation Reproductive Toxicity Study (EOGRTS) represents the current state-of-the-art in in vivo reproductive toxicity testing. Although its main purpose is to provide information on sexual function and fertility, it can also provide important information for assessing the endocrine disrupting effects of chemical substances. In a collaborative effort between the European Chemicals Agency (ECHA) and nine EU Member States, a comprehensive review of the EOGRTS was conducted to evaluate its role in supporting regulatory hazard assessment in the EU. In a satellite project, measurements of anogenital distance (AGD) and areola/nipple retention (NR), two critical and sensitive endpoints in assessing endocrine disruption, were analysed. From 72 full study reports (FSR), all F1 generation offspring were investigated for AGD and NR. An additional 25 datasets for AGD and 21 datasets for NR were available from the F2 generation offspring, resulting in a total of 97 datasets analysed for AGD and 93 datasets for NR. In the evaluation of the AGD data, the following factors were assessed; coefficient of variation (CoV), measuring precision and overlap between male and female AGDs in the control group. Good or acceptable data quality (i.e. low CoV, sufficient measuring precision and a clear separation between male and female AGDs) was observed in 63% of the datasets. Limited data quality was seen in 12%, while 25% demonstrated insufficient quality. The 20 test facilities performing the studies demonstrated variable proficiency, with approximately one-third of the facilities excelling, one-third showing mixed results, and one-third underperforming. In the evaluation of the areola retention datasets, it was considered a potential limitation if no areolae were seen in any of the investigated males within a study. Likewise, a potential limitation was identified if an unexpectedly high number of areolae was seen in the control males. Surprisingly, these issues were very common and were identified in 83% of the datasets, which emphasises the importance of improving guidance on the assessment of this endpoint. Based on this review, updated guidance for assessing both endpoints is presently being prepared at the Organisation for Economic Co-operation and Development (OECD). Addressing the identified challenges will be crucial for enhancing the utility of the EOGRTS and consequently contributing to more informed decision-making on the potential hazards and risks associated with exposure to endocrine disrupting chemicals.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Axelstad M",
-        "Hass U",
-        "Bichlmaier I",
-        "Simanainen U",
-        "Beausoleil C",
-        "Deweirdt J",
-        "Bergkvist C",
-        "Christiansen S"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00204-026-04595-6",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "toksikoloji",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919946",
-      "title": "Murine hippocampal CA3 vulnerability to intravenously administered polystyrene nanoplastics: preferential accumulation and ROS-related neuronal cell death.",
-      "abstract": "Polystyrene nanoplastics (PS-NPs) are emerging neurotoxicants with the potential to access the brain following systemic exposure; however, their region-specific effects and underlying mechanisms remain incompletely understood. In this study, adult male mice (C57BL/6J) were intravenously injected with unlabeled or fluorescently labeled PS-NPs (50-60 nm) at a dose of 400 mg/kg, and brain tissues were collected and analyzed 3 days post-injection to evaluate PS-NPs distribution, oxidative stress, and regulated cell death pathways. Confocal imaging revealed preferential accumulation of fluorescent PS-NPs in the hippocampal CA3 region, where neuronal localization was most prominent among the regions examined. This accumulation was associated with a significant reduction in NeuN-positive neurons in CA3 (p < 0.01), accompanied by elevated mitochondrial ROS levels as detected by MitoSOX staining (p < 0.001). Immunofluorescence analyses demonstrated increased expression of cleaved caspase-3 and p-MLKL, indicating activation of apoptosis and necroptosis, whereas NLRP3 expression remained unchanged. Behavioral assessments using the Y-maze and passive avoidance tests revealed impairments in hippocampus-dependent cognitive performance in PS-NP-treated mice. Collectively, these findings suggest that acute intravenous exposure to PS-NPs induces early, region-selective neuronal vulnerability in the hippocampal CA3 area, which is associated with oxidative stress-mediated neuronal cell death and cognitive dysfunction under the present experimental conditions.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Jo HS",
-        "Kwon TW",
-        "Ha Y",
-        "Lee WM",
-        "Park DY",
-        "Jeong J",
-        "Lee IS",
-        "Lee DY",
-        "Kim MS",
-        "Cho IH"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00204-026-04591-w",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919944",
-      "title": "Molecular basis of azole fungicide interactions with human estrogen receptor alpha (ERα): an integrated in silico and in vitro toxicological assessment.",
-      "abstract": "The extensive agricultural use of azole fungicides, while essential for crop protection, has raised growing concern regarding their potential to disrupt endocrine signaling in humans. This study examined the molecular basis of interactions between selected azole compounds and human estrogen receptor alpha (ERα) to determine their capacity to interfere with receptor function. An integrated in silico and in vitro workflow was employed. Molecular docking was first performed for the azoles alongside the endogenous agonist estradiol (E2) and the antagonist 4-hydroxytamoxifen (OHT) as reference ligands, followed by binding free energy estimation using MM/GBSA analysis. The five top-ranked azoles were subsequently characterized through ADMET profiling and density functional theory (DFT) calculations to assess their physicochemical and electronic properties. Molecular dynamics simulations and post-simulation MM/GBSA analysis were then conducted to evaluate the stability and dynamic behavior of the azole-ERα complexes. Experimental validation was performed using a bioluminescence resonance energy transfer (BRET)-based assay. Computational analyses identified five azoles with notable binding affinity toward ERα, and molecular dynamics simulations confirmed the structural stability of the corresponding complexes, supported by favorable MM/GBSA binding energies. Experimentally, three azoles (flusilazole, myclobutanil, and tebuconazole) intrinsically induced cytosolic ERα dimerization, consistent with agonist-like activity, whereas the remaining two azoles (fenbuconazole and paclobutrazol) significantly suppressed E2-induced ERα dimerization, consistent with antagonist-like activity comparable to that produced by OHT. Together, these findings provide mechanistic insight into ERα modulation by azole fungicides and highlight their relevance for human endocrine toxicity and health risk assessment.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Pahak RK",
-        "Jeong DH",
-        "Kumar V",
-        "Lee HS",
-        "Kim JM"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00204-026-04582-x",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "toksikoloji",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919943",
-      "title": "Risk assessment of oral exposure to cyclic siloxanes - octamethylcyclotetrasiloxane (D4) as an example.",
-      "abstract": "Published data on in vivo toxicity of octamethylcyclotetrasiloxane (D4) on rat kidneys was re-evaluated. It turned out that a molecular and biochemical mode of action (MOA) of D4 induced effects on kidneys and its human relevance is missing, which remains a gap in current knowledge. Increased kidney weights (also in recovery groups) were considered as D4 specific adverse effects. In vitro, cytotoxicity was observed for D4 in human (HEK293, CaKi-1) and canine (MDCK) kidney cell lines, while no toxicity was observed in human hepatic cell line HepG2. Proteomic profiling at low toxic doses, using KEGG pathway analysis revealed that proteins in ribosomes, t-RNA biosynthesis and carbon metabolism were down-regulated in HEK293 cells. This indicates, that main cellular processes were disturbed. In HepG2 cells, DNA replication was affected, but no decrease in cell viability occurred. A BMDL5 value of 84 ppm for the kidney weight increases after chronic inhalation of D4 in rats was derived. The BMDL5 was converted to an oral TDI of 0.21 mg/kg bw per day, using standard factors. This corresponds to a specific migration reference value of 13 mg/kg food, which is applicable for food contact materials. Due to missing data on higher cyclic siloxane oligomers, but an expected similar toxicological profile, this reference value was applied to the weighed sum of oligomers from D4 to D13. The daily oral uptake of cyclic siloxanes was calculated, based on published migration and food consumption data. In summary, post-curing of food contact materials made of silicone reduced the exposure of D4 and higher oligomers below the specific migration reference value of 13 mg/kg food.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Zellmer S",
-        "Stobernack T",
-        "Vater E",
-        "Dumit VI",
-        "Luch A",
-        "Tietz T"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00204-026-04575-w",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919942",
-      "title": "Histone deacetylase 6 (HDAC6)-mediated α-tubulin (K40) deacetylation and microtubule destabilization disrupt autophagosome-lysosome fusion in PBDE-47-induced neurotoxicity.",
-      "abstract": "2,2',4,4'-tetrabromodiphenyl ether (PBDE-47) is a pervasive environmental brominated flame retardant that accumulates in nervous tissues and induces persistent neurotoxicity. Emerging evidence indicates that PBDE-47 perturbs neuronal autophagy, yet the definitive upstream molecular mechanism remains uncharacterized, hindering the development of effective protective strategies. This study was performed to clarify the toxic regulatory cascade and explore feasible pharmacological interventions using in vivo neonatal rat hippocampal tissue and in vitro PC12 neuronal cell models. Animals were neonatally exposed to PBDE-47 (0.1, 1.0, 10.0 mg/kg·bw), and PC12 cells were treated with PBDE-47 (1, 10, 20 µM) for mechanistic exploration. Results showed that PBDE-47 dose-dependently upregulated histone deacetylase 6 (HDAC6), decreased α-tubulin (K40) acetylation, and destabilized neuronal microtubules. Such microtubule structural damage impaired autophagosome retrograde trafficking, blocked autophagosome-lysosome fusion, and eventually caused neuronal loss, synaptic protein reduction, and cognitive impairment. For mechanism validation and rescue experiments, 1 mg/kg·bw paclitaxel (PTX) and 1 mg/kg·bw tubastatin A (TBA) were administered to neonatal rats, whereas 12.5 nmol/L PTX and 10 µmol/L TBA were used for PC12 cell treatment to stabilize microtubules and selectively inhibit HDAC6, respectively. Both pharmacological interventions effectively restored tubulin acetylation, rescued defective autophagic flux, and mitigated PBDE-47-induced neuronal injury, with TBA showing better applicability due to its high blood-brain barrier permeability and biosafety. Behavioral tests in vivo verified that PTX and TBA treatment significantly ameliorated PBDE-47-elicited learning and memory deficits. Collectively, these findings define the HDAC6/microtubule acetylation axis as a core upstream pathway responsible for PBDE-47-triggered autophagic transport failure and neurotoxicity, providing robust experimental evidence and a promising therapeutic target for the prevention of PBDEs-mediated neurological disorders.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Tang H",
-        "Hou H",
-        "Tian Z",
-        "Liu W",
-        "Chen G",
-        "Li D",
-        "Wang C",
-        "Liu R",
-        "Wang D",
-        "Xia T",
-        "Wang A"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00204-026-04594-7",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "toksikoloji",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919940",
-      "title": "Target fishing in the \"kinome\": integrated in silico/in vitro discovery of novel kinase inhibitory activities of alternariol.",
-      "abstract": "Alternariol (AOH), an emerging mycotoxin produced by Alternaria species, is a frequent contaminant of plant-derived foods and a major contributor to chronic dietary exposure to Alternaria toxins. Despite evidence of its cytotoxic, genotoxic, endocrine-disrupting, and immunomodulatory effects, its molecular mechanisms of toxicity remain incompletely understood, limiting mechanistically informed risk assessment. As evidence suggests that AOH acts as a multi-kinase inhibitor, this study aimed to expand its kinase target spectrum through integrated computational and experimental approaches. Ligand-based screening of structurally characterized kinase-ligand complexes, followed by molecular docking, molecular dynamics simulations, and free-energy calculations, identified phosphoinositide 3-kinase (PI3K) as a promising target. Functional validation was performed in Caco-2 and HT-29 human intestinal cells exposed to AOH (1-20 μM) for up to 5 h. PI3K activity was assessed by quantifying phosphorylation of its downstream effector Akt by Western blot, while AOH metabolism was characterized by liquid chromatography-tandem mass spectrometry. AOH induced a concentration-dependent reduction in phosphorylated Akt in Caco-2 cells at concentrations ≥ 10 μM without affecting total Akt, whereas no inhibition was observed in HT-29 cells. Immunofluorescence microscopy revealed decreased global protein phosphorylation in Caco-2 cells but increased phosphorylation in HT-29 cells. These contrasting responses were associated with differences in phase II metabolism, with extensive glucuronidation and sulfation occurring only in HT-29 cells. Computational analyses indicated that these metabolites exhibit reduced fitting into the ATP-binding pocket of PI3K. Overall, the findings identify PI3K as a novel molecular target of AOH and demonstrate that cellular metabolism critically determines its kinase-inhibitory activity.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Crudo F",
-        "Pedroni L",
-        "Perugino F",
-        "Call F",
-        "Borsos E",
-        "Rieger J",
-        "Del Favero G",
-        "Marko D",
-        "Dall'Asta C",
-        "Dellafiora L"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00204-026-04608-4",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919939",
-      "title": "Additive hepatotoxicity of seneciphylline and lasiocarpine mixtures: multi-omics insights into P53 driven apoptosis and a Warburg-like metabolic reprogramming.",
-      "abstract": "Pyrrolizidine alkaloids (PAs) are widespread food contaminants whose co-occurrence poses serious yet poorly understood cumulative health risks. Here, using primary mouse hepatocytes and C57BL/6J mice combined with concentration addition (CA) and combination index (CI) models, we demonstrate that co-exposure to the prevalent 1,2-unsaturated PAs seneciphylline (Sp) and lasiocarpine (La) produces strictly additive hepatotoxicity across a wide concentration range (CI ≈ 1.0; 1/8 EC50 to 8 EC50). Mechanistically, combined exposure triggers mitochondrial calcium overload, ROS burst, and membrane potential collapse, leading to ultrastructural disintegration. Integrated targeted metabolomics and MitoCarta 3.0-based transcriptomics reveal a previously unappreciated Warburg-like metabolic reprogramming characterized by TCA cycle uncoupling, ATP depletion despite heightened cycle activity, and intracellular lactate acidosis driven by Pdk1-mediated pyruvate dehydrogenase inhibition and Slc16a3 downregulation. In vivo, co-exposure faithfully recapitulates human hepatic sinusoidal obstruction syndrome (HSOS) pathology, with additive activation of P53 target genes (Pmaip1, Hrk, Septin4) that dismantle anti-apoptotic BCL-2 defenses, culminating in cytochrome c release and caspase-9 cleavage. This multi-omics investigation establishes that additive hepatotoxicity of Sp and La arises from the convergence of two lethal cascades P53-driven mitochondrial apoptosis and metabolic energy catastrophe providing a mechanistic rationale for treating structurally related 1,2-unsaturated PAs as toxicological dose-surrogates in cumulative food safety risk assessment.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Yu-Shun L",
-        "Wen-Biao S",
-        "Yong-Zhong Q",
-        "Xi-Yan M",
-        "Lu C"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00204-026-04597-4",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919937",
-      "title": "Pharmacological correlates of topoisomerase II-directed protection against anthracycline-induced DNA damage and cardiotoxicity: a comparative evaluation of catalytic topoisomerase II inhibitors.",
-      "abstract": "Anthracyclines remain indispensable anticancer drugs, but their use is limited by dose-dependent cardiotoxicity involving topoisomerase IIβ (TOP2B)-mediated DNA damage in cardiomyocytes. To identify pharmacological features associated with TOP2-directed cardioprotection, we comparatively evaluated a chemically diverse panel of synthetic compounds, repurposed agents and natural products previously reported to modulate TOP2 activity, using dexrazoxane as the reference cardioprotectant. Recombinant human TOP2A and TOP2B inhibition was assessed by kDNA decatenation. Primary neonatal rat cardiomyocytes were pretreated with test compounds for 3 h and co-exposed to daunorubicin (DAU; 1.2 µM) for 3 h, followed by a 45-h drug-free period. TOP2 immunoreactivity was assessed after 24 h of compound exposure and DAU-induced γH2AX after 30-min pretreatment followed by 90-min DAU exposure. Effects on DAU antiproliferative activity were examined in HL-60 cells during 72-h exposure to 19 nM DAU. Dexrazoxane showed protective activity across the investigated endpoints. BNS-22 inhibited TOP2A and TOP2B with similar potency (IC₅₀ ≈ 2 µM for both isoforms) and produced the strongest protection among the experimental compounds, reducing DAU-induced LDH release by 55% at 10 µM, together with a 90% reduction in TOP2 immunoreactivity and 99.97% attenuation of DAU-induced γH2AX. BNS-22 did not attenuate DAU-induced antiproliferative activity in HL-60 cells. Resveratrol and suramin also provided significant protection at higher concentrations. Across this structurally diverse panel, biochemical TOP2 inhibition alone did not predict cardioprotection. Instead, protection was associated with a broader favourable cellular profile comprising low intrinsic toxicity, attenuation of anthracycline-induced DNA damage and, for the most effective compounds, reduced TOP2 immunoreactivity.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Kubeš J",
-        "Jansová H",
-        "Jirkovská A",
-        "Keresteš V",
-        "Moravová K",
-        "Hatalová D",
-        "Schellenberg MJ",
-        "Austin CA",
-        "Roh J",
-        "Štěrba M",
-        "Šimůnek T"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00204-026-04600-y",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919935",
-      "title": "Population-specific transcriptomic bioactivity assessment of perfluorooctanoic acid using human liver spheroids and physiologically based toxicokinetic modeling.",
-      "abstract": "Perfluorooctanoic acid (PFOA) has been widely used in industrial and consumer products and was recently classified as a Group 1 carcinogen by the International Agency for Research on Cancer. However, uncertainties remain regarding transcriptomic bioactivity thresholds associated with liver effects and their variability across clinically relevant populations. In this study, previously published transcriptomic data obtained following 24-h and 10-day exposure of primary human liver spheroids (LS) to PFOA were integrated into a physiologically based toxicokinetic (PBTK), population-specific framework to estimate transcriptomic human equivalent doses (HEDs). In addition, exploratory concordance analysis was performed between PFOA-responsive genes and liver hepatocellular carcinoma (LIHC)-associated transcriptomic profiles. Median transcriptomic HEDs ranged from 283 to 412 µg/kg body weight (bw)/week and were substantially higher than the estimated HEDs corresponding to the 95th percentile serum PFOA concentration in the U.S. population (0.0099 µg/kg bw/week) and the mean PFOA concentrations reported in human liver tissue samples (0.035 µg/kg bw/week). Obesity class III, cirrhosis Child-Pugh classes A and B, and non-alcoholic fatty liver disease reduced transcriptomic HEDs by approximately 31-41% compared with the healthy population, although HEDs remained substantially above reference values. Gene-level analysis identified only a limited number of genes within the bioactivity exposure ratio range of 1-100. More than 50% of PFOA-responsive genes exhibited concordant expression patterns with LIHC-associated transcriptomic profiles. Although the biological significance of these overlaps remains uncertain, concordance significantly exceeded that expected by chance from a background gene set and was driven mainly by down-regulated genes. Overall, this study provides a population-informed framework for integrating transcriptomic bioactivity data with PBTK modeling in human-relevant assessment of PFOA-associated liver effects.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Kokai D",
-        "Borkovic K",
-        "Kostic M",
-        "Todorovic N",
-        "Lalic-Popovic M",
-        "Stanic B",
-        "Andric N"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00204-026-04579-6",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919932",
-      "title": "Gestational benzyl butyl phthalate exposure impairs sperm capacitation in F1 offspring by altering PKA-associated signaling and tyrosine phosphorylation.",
-      "abstract": "Benzyl butyl phthalate (BBP) is a phthalate plasticizer recognized as an endocrine-disrupting chemical. However, the effects of gestational BBP exposure on sperm function during capacitation in adult offspring remain unclear. This study investigated the effects of gestational BBP exposure on sperm function in adult male offspring, focusing on PKA-associated signaling and protein tyrosine phosphorylation. Pregnant ICR mice were orally administered BBP at 100, 250, or 500 mg/kg/day from gestational day 7 to 20. Adult male F1 offspring were evaluated on postnatal day 78, and sperm function was assessed by measuring motility, kinematic parameters, capacitation status, cell viability, intracellular ATP and reactive oxygen species (ROS) levels, PKA-associated signaling, and protein tyrosine phosphorylation. Gestational BBP exposure significantly reduced body weight, anogenital distance, and testicular size. While cell viability and intracellular ROS levels were unchanged, sperm motility and intracellular ATP levels were significantly reduced, capacitation status was altered, and the acrosome reaction was increased. Furthermore, PKA substrate phosphorylation and protein tyrosine phosphorylation were significantly decreased in spermatozoa. Collectively, these findings demonstrate that gestational BBP exposure impairs sperm function in adult male offspring, potentially through ATP depletion and disruption of capacitation-associated signaling pathways.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Lee WJ",
-        "Jo JH",
-        "Uwamahoro C",
-        "Jang SI",
-        "Jung EJ",
-        "Bae JW",
-        "Kwon WS"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00204-026-04588-5",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "diger",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919930",
-      "title": "Enantioselective disruption of human steroidogenesis in vitro by the azole fungicides imazalil, miconazole, and ketoconazole.",
-      "abstract": "Racemic mixtures of azoles such as imazalil, miconazole and ketoconazole are widely used as fungicides on food crops indirectly affecting humans or directly in humans as treatment of fungal infections. We investigated the potency of individual enantiomers (R- and S-imazalil, R- and S-miconazole and RS- and SR-ketoconazole), to disrupt human steroidogenesis in vitro. Effects of individual enantiomers and racemic mixtures on the canonical steroidogenic pathway were examined in the OECD standardized H295R steroidogenesis assay. Results indicate that disruption of steroidogenesis by the studied azoles is a highly enantioselective process, the degree of stereoselectivity being strongly dependent on the compound and the steroidogenic pathway. Results from the cell assay are supported by recombinant enzyme assays, where inhibition of CYP17A1-hydroxylase and -lyase as well as CYP19A1-aromatase activity was investigated. To shed light on the potential binding modes of the azoles, the enantiomers were also docked to CYP11A1, CYP17A1, CYP19A1 and CYP21A2 and selected poses subjected to molecular dynamics simulations, indicating differences in binding affinities but high potentials for endocrine disruption for all investigated enantiomers.",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
-      "authors": [
-        "Kretschmann A",
-        "Munck JL",
-        "Cedergreen N",
-        "Elgaard C",
-        "Olesen MK",
-        "Munkboel CH",
-        "Jørgensen FS",
-        "Styrishave B"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00204-026-04605-7",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "antimikrobiyal",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
       "pmid": "42922992",
       "title": "Jintiange capsule as add-on therapy for lumbar disc herniation: an open-label randomized controlled trial.",
       "abstract": "BACKGROUND: Lumbar disc herniation (LDH) is a prevalent and costly disorder. Evidence regarding the efficacy and safety of Jintiange (JTG) capsules as add-on therapy for LDH remains limited. METHODS: This prospective, single-center, open-label randomized add-on trial compared JTG capsules plus conventional therapy with conventional therapy alone. The Japanese Orthopaedic Association (JOA) score was the sole primary outcome; VAS, SF-12 physical and mental component scores (PCS/MCS), numbness, lumbar muscle elastic modulus, and lumbar range of motion (ROM) were secondary outcomes. All 64 randomized participants were included according to their assigned groups. JOA, VAS, PCS, and MCS were analyzed using baseline-adjusted linear mixed-effects models incorporating all available post-baseline observations. Week 8 objective outcomes were analyzed using baseline-adjusted ANCOVA after multiple imputation. Multiplicity across the specified Week 8 secondary outcomes was controlled using the Holm procedure, and complete-case analyses were performed as sensitivity analyses. RESULTS: Seven participants discontinued follow-up (2 JTG, 5 control). The adjusted between-group difference in JOA favored the JTG-containing regimen at Week 2 (2.50 points, 95% CI 1.03-3.97; P < 0.001), Week 8 (2.73, 95% CI 1.21-4.26; P < 0.001), and 2-week follow-up (1.79, 95% CI 0.27-3.32; P = 0.021). At Week 8, adjusted differences also favored the JTG-containing regimen for VAS (-0.57, 95% CI -0.89 to -0.25), MCS (10.48, 95% CI 9.58-11.39), PCS (4.02, 95% CI 3.34-4.70), lumbar muscle elastic modulus (left -1.22, 95% CI -2.37 to -0.08; right -1.53, 95% CI -2.19 to -0.86), and ROM measures after multiplicity adjustment. Complete-case analyses showed similar effect directions. CONCLUSION: The JTG-containing regimen was associated with greater improvement in JOA and several secondary outcomes than conventional therapy alone. However, the open-label, non-placebo-controlled design, undocumented assessor blinding, differential attrition, multiplicity, small sample size, and single-center setting limit causal attribution and generalizability. Further blinded placebo-controlled multicenter trials are warranted. CLINICAL TRIAL REGISTRATION: https://www.chictr.org.cn/, ChiCTR2300069735.",
@@ -1339,6 +742,78 @@
       "score_parts": {
         "journal": 60,
         "pubtype": 15,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42928993",
+      "title": "Cardiovascular outcomes of SGLT2 inhibitors across the spectrum of myocardial infarction: A systematic review and meta-analysis.",
+      "abstract": "AIMS: Sodium-glucose cotransporter-2 inhibitors (SGLT2i) help in heart failure (HF), but their benefit after acute myocardial infarction is unclear. This meta-analysis assesses their impact on mortality and heart failure hospitalization post-acute myocardial infarction (AMI) and identifies which patients benefit most. METHODS: Four databases were searched through August 2025 for randomized controlled trials (RCTs) and matched studies comparing SGLT2i with control post-AMI. PRIMARY OUTCOMES: all-cause death and hospitalization for heart failure (HHF); secondary: major adverse cardiovascular events (MACE), cardiovascular (CV) death, stroke and recurrent myocardial infarction (MI). Subgroups and meta-regression examined timing, diabetes, follow-up, design, SGLT2i type and baseline HF/diabetes. RESULTS: Fifteen studies including 117 096 patients (58 613 SGLT2i vs. 58 483 control) were included. A total of 117 096 patients contributed to the all-cause mortality analysis (OR 0.78, 95% CI 0.67-0.90), whereas 116 992 patients across 14 studies contributed to the HHF analysis (OR 0.74, 95% CI 0.63-0.88). All-cause mortality was significantly lower in PSM observational studies (OR 0.64, 95% CI 0.61-0.67), whereas the reduction did not reach statistical significance in RCTs (OR 0.87, 95% CI 0.76-1.01), with a significant interaction by study design. HHF reduction occurred with both early and delayed initiation; dapagliflozin and empagliflozin were similarly effective. MACE was significantly lower with SGLT2i, but CV death, recurrent MI and stroke did not differ. Baseline HF or diabetes showed no association with primary outcomes. CONCLUSIONS: SGLT2i reduced HHF after MI, but this benefit should be interpreted cautiously because of small-study effects and possible publication bias. The all-cause mortality benefit is driven by observational studies; RCTs show a favourable but nonsignificant trend.",
+      "journal": "Br J Clin Pharmacol",
+      "date": "2026-10-26",
+      "authors": [
+        "Elazab A",
+        "Elbataa A",
+        "Mansour A",
+        "Abouzid M",
+        "Hammad N",
+        "Hassanin MS",
+        "Abouzkaly F",
+        "Alganadi R",
+        "Ali AHG",
+        "Alabed A",
+        "Mansour A",
+        "Shaaban M",
+        "Elbahloul MA",
+        "Mabrouk MA",
+        "Awashra A",
+        "Elgendy IY"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1002/bcp.70894",
+      "journal_tier": 2,
+      "impact": 3.5,
+      "section": "kardiyometabolik",
+      "score": 72.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 10,
+        "recency": 2.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42927860",
+      "title": "The PHLPP paradox revisited: from canonical AKT phosphatases to signaling pseudoenzymes in human disease.",
+      "abstract": "PHLPP1 and PHLPP2 (pleckstrin homology-domain leucine-rich-repeat protein phosphatases) are multidomain signaling proteins that have been associated with the regulation of AKT phosphorylation in several cellular contexts. PHLPP1 and PHLPP2 have historically been classified as PP2C-family phosphatases that terminate AKT signaling. Recent biochemical evidence challenges this interpretation for PHLPP2, which showed no detectable phosphatase activity in vitro and contained a single Zn2⁺ ion in its catalytic center, raising the possibility that it functions as a signaling pseudophosphatase or scaffold. While traditionally characterized as tumor suppressors, emerging evidence reveals that PHLPP isoforms possess distinct, non-redundant roles at the interface of metabolism, cardiovascular integrity, and regulated cell death (RCD). This functional diversity introduces a complex biochemical paradox, in which the tight regulation of these phosphatases dictates divergent pathological and protective outcomes depending on the cellular microenvironment. This review provides a comprehensive analysis of the structural divergence between PHLPP1 and PHLPP2, emphasizing how the PHLPP1-specific N-terminal extension and PDZ-binding motif contribute to spatial signaling specificity and preferential targeting of AKT2/3, while PHLPP2 exhibits preference toward AKT1/3, reflecting isoform-dependent differences in regulatory architecture. The review asks how two decades of cellular and disease evidence should be reinterpreted if PHLPP proteins, particularly PHLPP2, function as signaling pseudoenzymes or scaffolds rather than conventional AKT phosphatases. Finally, we evaluate the therapeutic landscape, focusing on small-molecule inhibitors and cell-penetrating peptides designed to modulate the PHLPP-AKT interface as a programmable node for dual-target therapies.",
+      "journal": "Biochem Pharmacol",
+      "date": "2026-10-25",
+      "authors": [
+        "Shaaban EM",
+        "Elnaggar MF",
+        "Abdelgawad A",
+        "Sedeek M",
+        "Estfanous S",
+        "Eladl O"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.bcp.2026.118573",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "kardiyometabolik",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 10,
         "recency": 0.0
       },
       "tier": 3,
@@ -1408,11 +883,11 @@
       "journal": "Biochem Pharmacol",
       "date": "2026-10-24",
       "authors": [
-        "de Oliveira VH",
+        "Oliveira VH",
         "Duarte ACM",
         "Araujo AF",
         "Candido RCM",
-        "de Lorena LMC",
+        "Lorena LMC",
         "Machado MFM"
       ],
       "pubtypes": [
@@ -1854,84 +1329,457 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42919975",
-      "title": "NRF2 modulation in colorectal cancer chemoprevention: integrating traditional medicine with translational strategies against oxidative stress, inflammation, and cancer stem cells.",
-      "abstract": "Colorectal cancer (CRC) is an important and significant reason for cancer-related morbidity and mortality globally. Treatment remains challenging due to recurrence, metastasis, and chemoresistance. Evidence shows that oxidative stress, ongoing inflammation, and cancer stem cells (CSCs) play essential functions in CRC development and progression. Nrf2 is a master regulator of cellular redox balance through the Keap1-Nrf2-is signalling pathway. Normal activation of Nrf2 protects colonic cells from oxidative DNA harm and inflammation during initial carcinogenesis. However, sustained Nrf2 activation in tumours encourages chemoresistance, metabolic reprogramming, and CSC upkeep, showing a dual role. Traditional medicine and dietary phytochemicals (curcumin, sulforaphane, resveratrol, EGCG, berberine) can modulate Nrf2 while interacting with NF-κB, Wnt/β-catenin, and Notch pathways. This review synthesises mechanistic and translational evidence on Nrf2 modulation in CRC chemoprevention, stressing conventional medicine-derived agents in modern approaches. It moreover highlights difficulties, limitations, and future viewpoints for precision chemoprevention and personalised interventions.",
-      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
-      "date": "2026-10-24",
+      "pmid": "42928272",
+      "title": "Evaluating whether a therapeutic dose of ketamine exposure during adolescence influences adult vulnerability in rats to commonly abused drugs.",
+      "abstract": "Rationale Ketamine has emerged as a rapid-acting antidepressant drug for treatment-resistant depression in adults and is currently evaluated for adolescent depression. However, the long-term effects of ketamine exposure during this period of brain development remain unclear, particularly regarding addiction liability. Objectives To investigate whether repeated ketamine exposure during adolescence may influence the long-term risk of addiction following subsequent exposure to commonly abused drugs (alcohol and cocaine) in adulthood. Methods Male and female Sprague-Dawley rats received daily i.p. injections of ketamine (10 mg/kg) or saline for 7 consecutive days during mid adolescence. The dose paradigm of ketamine administered was selected based on its antidepressant-like properties in adolescent rats. In adulthood, addiction liability was measured by voluntary ethanol consumption, using a two-bottle choice paradigm, and by assessing cocaine reward using a single-exposure place preference protocol. Results The main results suggested that a therapeutic dose of ketamine exposure during adolescence did not enhance addictive liability in adulthood as measured by voluntary ethanol consumption or cocaine reward in rats of both sexes. Conclusions Ketamine, administered during adolescence at a dose known to induce antidepressant-like effects did not impact the long-term risk of addiction caused by exposure to commonly abused drugs (i.e., alcohol and cocaine). These results suggested a good long-term safety profile following the therapeutic use of ketamine in adolescence.",
+      "journal": "Psychopharmacology (Berl)",
+      "date": "2026-10-26",
       "authors": [
-        "A R",
-        "Verma P"
+        "Jornet-Plaza J",
+        "Colom-Rocha C",
+        "García-Fuster MJ"
       ],
       "pubtypes": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
-      "doi": "10.1007/s00210-026-06007-z",
+      "doi": "10.1007/s00213-026-07195-5",
       "journal_tier": 2,
-      "impact": 3.2,
-      "section": "onko",
-      "score": 70.0,
+      "impact": 3.5,
+      "section": "noro",
+      "score": 62.0,
       "score_parts": {
         "journal": 60,
-        "pubtype": 10,
+        "pubtype": 0,
+        "recency": 2.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42927872",
+      "title": "The decoction of licorice, ginseng, and dry ginger demonstrates anti-pulmonary fibrosis activity through modulation of the pyroptosis pathway.",
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Pulmonary fibrosis (PF) is a chronic progressive lung disease that causes damage to the lung structure and respiratory failure. Currently, there is no effective cure for this condition. The \"Licorice dried ginger ginseng soup\" (LGGS) recorded in Volume 3 of \"Xianzheng Bingzhi\" is a traditional prescription used to treat lung atrophy. However, the pharmacological mechanism of its effect on pulmonary fibrosis has not been studied yet. AIM OF THE STUDY: This study aims to explore the protective effects of LGGS when administered separately as silica and bleomycin in the mouse lung fibrosis model, to reveal its mechanism of action, and to focus on the NLRP3/Caspase-1/GSDMD signaling pathway. MATERIALS AND METHODS: Two mouse models of pulmonary fibrosis were induced in C57BL/6 mice using silica and bleomycin, respectively, and LGGS was administered as intervention. Lung function, histopathology, and serum metabolites were evaluated. The major component contents in LGGS were determined by high-performance liquid chromatography (HPLC). Western blotting was performed to verify the molecular mechanism. RESULTS: LGGS significantly reduced the degree of pulmonary fibrosis in both silica- and bleomycin-induced mouse models, improved lung function, and decreased hydroxyproline (HYP) content in lung tissues. The established HPLC method effectively determined the main components with good linearity. LGGS down-regulated the protein expression of α-SMA, COL1, Caspase-1, GSDMD, and NLRP3. CONCLUSION: LGGS exerts anti-pulmonary fibrosis effects, potentially by inhibiting the NLRP3/Caspase-1/GSDMD pyroptosis pathway. The HPLC method is accurate and reliable, providing a basis for quality control of LGGS.",
+      "journal": "J Ethnopharmacol",
+      "date": "2026-10-25",
+      "authors": [
+        "Li K",
+        "Kong Z",
+        "Ma Y",
+        "Wang Y",
+        "Su G"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.jep.2026.122519",
+      "journal_tier": 2,
+      "impact": 5.4,
+      "section": "dogal",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
         "recency": 0.0
       },
       "tier": 3,
       "abstract_tr": ""
     },
     {
-      "pmid": "42919947",
-      "title": "Hazard identification was the aim: reply to Zhao et al. on the exposure context of flavoured-air inhaler toxicity.",
-      "abstract": "",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
+      "pmid": "42927869",
+      "title": "Linarin ameliorates bisphenol A-induced prostatic primary ciliogenesis and epithelial-mesenchymal transition via reducing stromal exosome circ_0027470.",
+      "abstract": "Changes in epithelial features are the crucial pathological phenomena in many prostatic diseases. Previous studies elucidated the negative effects of bisphenol A (BPA) on regulating exosome-mediated epithelium-mesenchyme communication. This study investigated the effects of linarin, a natural flavonoid, on BPA-induced epithelium changes in mouse prostate, as well as in a co-culture system of human epithelial-stromal cells. The visualized evaluation for mouse prostatic collagen deposition was performed via Masson and Sirius red staining. The characteristics of prostate epithelium including primary ciliogenesis, epithelial-mesenchymal transition (EMT) and circ_0027470/miR-1236-3p/Sonic Hedgehog (SHH) axis were evaluated through immunohistochemistry, immunofluorescence, qPCR and western blotting. The results showed that linarin attenuated epithelial primary ciliogenesis and EMT which were triggered by BPA-exposed stromal exosomes. Additionally, linarin reduced the circ_0027470 level, increased the miR-1236-3p level, and inhibited the activity of the Sonic Hedgehog signaling pathway. This study added new evidence for the application of linarin in improving prostatic injuries caused by BPA.",
+      "journal": "Toxicol Appl Pharmacol",
+      "date": "2026-10-25",
       "authors": [
-        "Larcombe AN",
-        "Catchpole EE",
-        "Hopper P",
-        "Stanley S",
-        "Kicic A",
-        "Landwehr KR",
-        "On Behalf Of Conquer"
+        "Liu H",
+        "He M",
+        "Chen J",
+        "Huang N"
       ],
       "pubtypes": [
-        "Letter"
+        "Journal Article"
       ],
-      "doi": "10.1007/s00204-026-04609-3",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "toksikoloji",
-      "score": 70.0,
+      "doi": "10.1016/j.taap.2026.118090",
+      "journal_tier": 2,
+      "impact": 3.8,
+      "section": "immuno",
+      "score": 60.0,
       "score_parts": {
-        "journal": 100,
-        "pubtype": -30,
+        "journal": 60,
+        "pubtype": 0,
         "recency": 0.0
       },
       "tier": 3,
       "abstract_tr": ""
     },
     {
-      "pmid": "42919931",
-      "title": "Structural context matters when interpreting clozapine AHR docking.",
-      "abstract": "",
-      "journal": "Arch Toxicol",
-      "date": "2026-10-23",
+      "pmid": "42927868",
+      "title": "Development of an adverse outcome pathway (AOP): Stimulation of toll-like receptor (TLR) 7/8 induces psoriatic skin disease.",
+      "abstract": "The Adverse Outcome Pathway (AOP) framework serves as a vital tool in regulatory toxicology, providing a structured approach for understanding the mechanistic links between chemical exposure and adverse health outcomes. This AOP specifically addresses the pathway leading to psoriatic skin disease, initiated by the stimulation of Toll-like receptors 7 and 8 (TLR7/8), which triggers a cascade of key events (KEs). The sequence begins with the maturation of TNF/iNOS-producing dendritic cells, leading to increased interleukin-23 (IL-23) production, which subsequently drives Th17 cell migration and inflammation. Ultimately, these processes culminate in the manifestation of psoriatic skin disease as the adverse outcome (AO). This AOP was developed according to OECD guidance for AOP development through the integration and evaluation of published mechanistic evidence. Relevant information was assembled using an iterative literature review approach, and the biological plausibility, essentiality, and empirical support for each key event relationship (KER) were evaluated using a weight-of-evidence framework based on modified Bradford-Hill considerations. The resulting AOP highlights mechanistically supported relationships among TLR7/8 stimulation, dendritic cell activation, IL-23 production, and Th17-mediated inflammation, supported by evidence evaluated according to OECD AOP principles. By integrating existing data and mechanistic insights, this AOP not only enhances our understanding of the pathophysiology of psoriatic skin disease but also aids in the regulatory assessment of chemicals that may trigger these pathways. This AOP broadens the AOP network, particularly with respect to autoimmune skin disease. Additionally, this AOP represents a significant step toward expanding AOPs related to immunotoxicity.",
+      "journal": "Toxicol Appl Pharmacol",
+      "date": "2026-10-25",
       "authors": [
-        "Wu L",
-        "Wei X"
+        "Matsumura S",
+        "Komatsu H",
+        "Hata S",
+        "Ohishi T",
+        "Sugimoto J",
+        "Goto K",
+        "Otsubo Y",
+        "Konishi S",
+        "Kushima K",
+        "Yoshida Y",
+        "Fukuyama T",
+        "Kosaka T",
+        "Hisada S",
+        "Ashikaga T"
       ],
       "pubtypes": [
-        "Letter"
+        "Journal Article"
       ],
-      "doi": "10.1007/s00204-026-04590-x",
-      "journal_tier": 1,
-      "impact": 6.1,
-      "section": "kesif",
-      "score": 70.0,
+      "doi": "10.1016/j.taap.2026.118092",
+      "journal_tier": 2,
+      "impact": 3.8,
+      "section": "immuno",
+      "score": 60.0,
       "score_parts": {
-        "journal": 100,
-        "pubtype": -30,
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42927867",
+      "title": "Coptisine attenuates gastric mucosal injury by activating the PPARα signaling pathway to inhibit ferroptosis.",
+      "abstract": "BACKGROUND: Ethanol-induced gastric mucosal injury is a common and highly recurrent gastrointestinal disorder. Coptisine exerts a confirmed protective effect on the gastric mucosa, yet its underlying mechanism of action remains elusive to date. OBJECTIVE: The present research aims to explore how coptisine confers protection on the gastric mucosa from ethanol-mediated damage and to unravel the intrinsic mechanisms responsible for this effect. METHODS: Network pharmacology screened key targets and pathways, and molecular docking plus dynamics simulations analyzed compound-protein binding properties. A mouse model of ethanol-induced gastric mucosal injury was established, and coptisine was administered intragastrically for one week continuously. The protective effect on gastric mucosa and the impact on ferroptosis and the PPARα signaling pathway were evaluated through HE staining, biochemical indicators, immunohistochemistry, Western blotting (WB), and transmission electron microscopy. GES-1 cells were cultured, and cell viability, apoptosis, and mitochondrial membrane potential were evaluated. RESULTS: Coptisine significantly protects against ethanol-induced gastric mucosal injury. It suppresses inflammation and oxidative stress and inhibits apoptosis by modulating related protein expression. Coptisine modulates ferroptosis-related molecules and PPARα signaling, improves GES-1 cell viability, attenuates ROS accumulation, recovers mitochondrial function, and relieves cell apoptosis. These findings demonstrate that coptisine exerts gastric mucosal protection by activating the PPARα pathway and inhibiting ferroptosis. CONCLUSION: Our research reports, for the first time, that coptisine possesses the capacity to prevent and ameliorate ethanol-induced gastric mucosal injury. Regulation of apoptosis and ferroptosis in gastric epithelial cells via the PPARα signaling pathway constitutes the key mechanism underlying this process.",
+      "journal": "Toxicol Appl Pharmacol",
+      "date": "2026-10-25",
+      "authors": [
+        "Fei S",
+        "Peng S",
+        "Li H",
+        "Liao M",
+        "Li J",
+        "Zhang J",
+        "Jin W",
+        "Xue Y",
+        "Cheng J",
+        "Guan S"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.taap.2026.118076",
+      "journal_tier": 2,
+      "impact": 3.8,
+      "section": "onko",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42927866",
+      "title": "Oxaliplatin-induced redox imbalance and lipid remodeling are associated with altered steroid-related responses in spermatogenic cells.",
+      "abstract": "Oxaliplatin (OXA) is a cornerstone of colorectal cancer therapy, but its effects on male germ cell metabolism and signaling remain poorly understood. This study aimed to investigate the effects of OXA on redox homeostasis, lipid-related processes, and steroid-related responses in GC-1 (spg) and GC-2 (spd) spermatogenic cells. OXA exposure induced oxidative stress and mitochondrial depolarization together with pronounced changes in lipid organization and signaling pathways. Notably, instead of inducing overt lipid peroxidation, OXA prompted neutral lipid accumulation and increased intracellular free cholesterol, accompanied by changes in proteins involved in lipid and cholesterol homeostasis. These alterations were accompanied by modulation of lipid-metabolic regulators, including increased expression of ACOX1, consistent with alterations in peroxisomal fatty acid metabolism. The metabolic perturbations were further associated with stage-specific activation of signaling cascades and altered intracellular testosterone levels. Importantly, antioxidant intervention attenuated oxidative stress but did not fully reverse the observed lipid-related and steroid-related responses, suggesting that redox regulation may contribute to these changes but does not fully explain the cellular response to OXA. Collectively, our findings indicate that OXA exposure is associated with coordinated changes in redox balance, lipid-related processes, and steroid-related responses in spermatogenic cells, revealing cell type-specific differences in their response to chemotherapy.",
+      "journal": "Toxicol Appl Pharmacol",
+      "date": "2026-10-25",
+      "authors": [
+        "Szlachcikowska D",
+        "Tabęcka-Łonczyńska A"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.taap.2026.118089",
+      "journal_tier": 2,
+      "impact": 3.8,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42927807",
+      "title": "LGA-PEI nanoparticles enable efficient nucleic acid delivery to primary murine T cells.",
+      "abstract": "Non-viral engineering of primary T cells is constrained by low transfection efficiency and significant cargo-induced toxicity. This study evaluates a LGA-PEI (lactic-co-glycolic acid-modified polyethyleneimine) nanoparticle system designed to overcome the recalcitrance of murine T cells, particularly unstimulated, murine T cells. We characterized LGA-PEI polyplexes for size, surface charge, and pH-dependent stability, noting rapid disassembly at pH 5.0 to facilitate endosomal escape. Optimization of nanoparticle concentrations enabled transfection efficiencies of 16.5 % in CD3-sensitized T cells and 30.0 % in stimulated primary mouse T cells, maintaining high viability (85 %). Mechanistic analysis suggests that cell death is primarily driven by initial membrane disruption rather than post-internalization metabolic stress. We identified a direct correlation between the number of internalized plasmids and GFP expression, confirming efficient post-internalization events. LGA-PEI-mediated delivery of shRNA targeting Sorcin achieved significant gene knockdown. Transfection with LGA-PEI-encapsulated scrambled control plasmids (shRNA) exhibited increased CD25 and FoxP3 marker expression, along with cytokine production alterations. These findings demonstrate that the LGA-PEI platform provides a high-efficiency, low-toxicity alternative for T cell modulation, though the observed phenotypic alterations necessitate careful immunotoxicity screening in therapeutic applications.",
+      "journal": "Int J Pharm",
+      "date": "2026-10-25",
+      "authors": [
+        "Baschirotto PT",
+        "Marín-Müller C",
+        "Loaiza-Montoya R"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127584",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "immuno",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42927806",
+      "title": "Transferrin functionalization enhances prostate cancer cell uptake and cytotoxicity of cabazitaxel-loaded polymeric nanoparticles.",
+      "abstract": "Prostate cancer (PCa) is the second most common cancer in men worldwide, and chemotherapeutic treatment may exhibit limited efficacy owing to side effects and hypersensitivity. Cabazitaxel (CTX) is an antineoplastic agent used to treat prostate cancer; however, it has low selectivity and adverse effects that limit its adherence and efficacy. In this context, transferrin (Tf)-functionalized polymeric nanoparticles have emerged as a potential targeted therapy directed toward the Tf receptor (TfR), which is overexpressed in prostate cancer cells. In this study, cabazitaxel was encapsulated in polycaprolactone (PCL) polymeric nanoparticles functionalized with transferrin (Tf), and its in vitro activity was evaluated in PCa cell lines. Therefore, a study was conducted to determine the optimal preparation conditions in terms of formulation characteristics. The nanoparticles were produced by nanoprecipitation using acetone as the solvent in the presence of the surfactant Poloxamer 188. Transferrin was covalently bound to the PEG-PCL-maleimide moiety on the nanoparticle surface. The transferrin-functionalized nanoparticles had an average particle size of 123.9 nm ± 1.13, a polydispersity index (PDI) of 0.168 ± 0.11, a zeta potential of -11.43 mV ± 1.89, and an encapsulation efficiency (EE%) of 79.6% ± 6.8. In electrophoresis, free transferrin exhibited a band near 80 kDa, with a corresponding band observed in the elution of the functionalized nanoparticles, indicating protein attachment to the nanoparticles. Circular dichroism analysis, together with fluorescence spectroscopy, demonstrated the preservation of protein structural integrity after conjugation. Microscopy techniques (SEM and AFM) revealed the spherical morphology of the nanoparticles, and AFM further confirmed successful conjugation through changes in the surface roughness of the functionalized nanoparticles. The in vitro release study demonstrated that both non-functionalized and transferrin-functionalized PCL-based nanoparticles provided a sustained release of cabazitaxel over 192 h, confirming the potential of these systems for prolonged drug delivery. In cell culture assays, the high cell viability observed in the L929 cell line demonstrated the safety of the developed systems, whereas the marked reduction in viability in DU145 and PC3 cell lines demonstrated the effect of encapsulation on cytotoxicity of the developed systems. Functionalization with transferrin (Tf) significantly increased the in vitro toxicity and cellular internalization. The percentage of cellular internalization was higher in the PC3 cell line than in the DU145 cell line, corroborating the literature reporting higher TfR expression in this lineage. Encapsulation and functionalization demonstrated potential as active drug-targeting vectors, as they increased cytotoxicity compared to free drugs. This finding represents an important advancement in the development of a formulation and approach capable of enhancing therapeutic efficacy while reducing the systemic side effects of the drug.",
+      "journal": "Int J Pharm",
+      "date": "2026-10-25",
+      "authors": [
+        "Barroso de Freitas JV",
+        "Holanda VM",
+        "Matos de França AB",
+        "Moreira TDS",
+        "Cruz de Souza AC",
+        "Juvêncio BA",
+        "de Araujo Nobre AR",
+        "da Silva Ribeiro FO",
+        "Petrilli R",
+        "Eloy JO"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127583",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "klinik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42927805",
+      "title": "Impact of the protein corona in RGD-functionalized nanoliposomes delivering enzymatic replacement therapy for Fabry disease.",
+      "abstract": "The protein corona (PC) formed upon nanoparticle exposure to blood critically defines their biological identity and in vivo fate, yet its impact on targeted liposomal enzyme replacement therapies (ERTs) remains incompletely understood. Here, we systematically investigated how RGD functionalization (including varying ligand densities) and α-galactosidase A (GLA) loading influence PC composition, cellular uptake, and biodistribution using a panel of liposomal formulations with and without targeting ligands and therapeutic cargo. Quantitative proteomics revealed that both RGD functionalization and GLA loading reshape the PC by enriching key opsonins (e.g., C3 and IgG subclasses) together with dysopsonins (such as apolipoproteins and albumin), generating distinct and balanced immune signatures. Notably, RGD promoted complement recruitment, indicating increased immune recognition potential. In vitro, RGD functionalization significantly enhanced endothelial uptake even in the presence of a pre-formed PC, demonstrating that targeting functionality is modulated but not abolished by corona formation. In vivo, GLA-loaded liposomes increased enzymatic activity in plasma and tissues compared to free GLA, and higher RGD density enhanced delivery to liver, spleen, kidney, and heart, albeit with reduced plasma persistence. All GLA-loaded formulations showed brain-associated enzymatic activity in perfused brain tissue. Additional capillary-depletion analysis indicated that, at 30 min after administration, the measurable signal was predominantly associated with the cerebrovascular fraction, that could be potentially linked to coronas enriched in ApoE, transferrin, and transthyretin. Together, these findings support a hybrid model in which the protein corona modulates, rather than masks, targeting ligands through a balanced opsonin/dysopsonin profile. This work provides mechanistic insight into how nanoparticle surface properties and biological identity interplay, offering general design principles for optimizing targeted nanomedicines beyond liposomal ERT.",
+      "journal": "Int J Pharm",
+      "date": "2026-10-25",
+      "authors": [
+        "Moltó-Abad M",
+        "Tomsen-Melero J",
+        "Villagrasa-Araya V",
+        "Marijuan-Pinel D",
+        "Díaz-Riascos ZV",
+        "Canals F",
+        "Martín L",
+        "Pintos-Morell G",
+        "Mancilla S",
+        "García B",
+        "Carreño A",
+        "Font A",
+        "Schwartz S",
+        "Ferrer R",
+        "Ventosa N",
+        "González-Mira E",
+        "Abasolo I"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127582",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42927804",
+      "title": "Calixarene-based nanocarrier for ciprofloxacin and curcumin: evaluation of antibacterial, antibiofilm, antioxidant and anti-inflammatory activities.",
+      "abstract": "Drug delivery and multidrug therapy are essential research fields in the fight against complex diseases, including infections. Here, we investigated the capability of a polyanionic nanocarrier, formed through the spontaneous self-assembly of an amphiphilic p-sulfonate-calix[4]arene derivative, to load ciprofloxacin and curcumin, both individually and in combination, using a simple and reproducible organic solvent-free method. Entrapment in the nanocarrier enhanced the aqueous solubility and stability of both ciprofloxacin and curcumin and protected them from UV light-induced photodegradation. The supramolecular nanosized assemblies exhibited antibacterial activity against Gram-positive (S. aureus ATCC 6538) and Gram-negative (Escherichia coli ATCC 10536, P. aeruginosa ATCC 9027) bacteria, including antibiotic-resistant strains (S. aureus (MRSA) ATCC 43300, S. aureus 1199B, Enterococcus faecium DSM 17050, Acinetobacter baumannii DSM 106838, E. coli DSM 105388, and P. aeruginosa DSM 102273). Against S. aureus 1199B, the nanoassemblies reduced biofilm formation, an effect largely attributable to the empty nanocarrier, and were effective against mature biofilms. The antioxidant activity of curcumin was preserved following its incorporation into the nanocarrier, as demonstrated by its DPPH radical scavenging activity. Additionally, the nanoassemblies loaded with ciprofloxacin and curcumin showed anti-inflammatory effects, as evidenced by the reduced TNF-α levels in LPS-stimulated eukaryotic cells. The multifunctional nature of the nanoassemblies highlights their potential for combining antimicrobial, radical-scavenging and anti-inflammatory properties, offering a promising approach to addressing the complex challenges associated with bacterial infections, including those involving biofilms.",
+      "journal": "Int J Pharm",
+      "date": "2026-10-25",
+      "authors": [
+        "Ferreri L",
+        "Cambria L",
+        "Ginestra G",
+        "Taviano MF",
+        "Granata G",
+        "Maugeri L",
+        "Calabrese G",
+        "Galletta B",
+        "Pedotti S",
+        "Consoli V",
+        "Vanella L",
+        "Petralia S",
+        "Nostro A",
+        "Letizia Consoli GM"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127597",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "immuno",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42927803",
+      "title": "Dynamic stratum corneum ceramide alterations reflect barrier dysfunction and clinical response to topical chlormethine treatment in early-stage mycosis fungoides.",
+      "abstract": "Early-stage mycosis fungoides (MF), a cutaneous T-cell lymphoma, presents as patches and/or plaques with an impaired skin barrier. The stratum corneum (SC) lipid matrix is important for skin barrier function. Alterations in the SC ceramide profile have been linked to a reduced barrier function in benign inflammatory skin diseases and might also be an underlying factor in the impaired barrier function in MF. Therefore, we characterized barrier function and SC ceramide profiles in lesional and non-lesional skin of 21 patients with early-stage MF and 10 healthy controls, and assessed how these barrier and ceramide characteristics evolve during chlormethine gel treatment in patients. Barrier function was measured by transepidermal water loss. SC ceramides were collected by tape stripping and analyzed by liquid chromatography-mass spectrometry. Local inflammatory markers were measured in suction blister fluid. At baseline, MF lesions showed impaired barrier function accompanied by distinct changes in the SC ceramide profile, including altered ceramide subclass composition and reduced ceramide chain length. These abnormalities occurred in the context of a predominantly type 1-skewed inflammatory milieu. Importantly, both barrier dysfunction and ceramide alterations were dynamic and improved in patients with a clinical response to chlormethine gel treatment, alongside reduced lesion severity and local inflammation. Longitudinal associations of ceramide characteristics with barrier function, clinical lesion severity, and inflammatory markers support SC ceramide alterations as dynamic correlates of MF disease activity. Together, these findings suggest that SC ceramide alterations may reflect a downstream consequence of inflammation that is shared across inflammatory dermatoses.",
+      "journal": "Int J Pharm",
+      "date": "2026-10-25",
+      "authors": [
+        "Mergen C",
+        "Wind SS",
+        "Beljaards ESM",
+        "Rijneveld R",
+        "van Schaick M",
+        "Bouwstra JA",
+        "Jansen M",
+        "Klarenbeek N",
+        "der Kolk TN",
+        "Vreeken RJ",
+        "van Smeden J",
+        "El Ghalbzouri A",
+        "Hankemeier T",
+        "Quint KD",
+        "Vermeer MH",
+        "Rissmann R",
+        "Rousel J",
+        "Next-Generation ImmunoDermatology Consortium (NGID)"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127593",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42927790",
+      "title": "Comparison of bupivacaine concentrations in local tissue from three extended-release formulations in a pig incision model.",
+      "abstract": "This study measured bupivacaine distribution in subcutaneous (SC) tissue and skin after administration of the commercially available extended-release local anesthetics ERLAs liposomal bupivacaine (Lip-Bupi) and polyorthoester bupivacaine-meloxicam (POE-Bupi-Mel), an investigational temperature-responsive gel formulation (SBG004) by subcutaneous (SC) injection or wound filling (WF), and 0.25% bupivacaine HCl. Each ERLA was administered to six skin and muscle incisions in pigs surviving for 24, 48, or 72 h. Samples of skin or SC tissue representing 2 mm intervals from the incision were analyzed for bupivacaine concentration. Average bupivacaine concentration in each tissue within 10 mm of the incision ([BUPI]SC,10mm or [BUPI]skin,10mm) was compared between formulations. SBG004 SC resulted in higher [BUPI]SC,10mm versus each other formulation at each time point (P < 0.01). Average [BUPI]SC,10mm for SBG004 SC was 15 to 52-fold greater than Lip-Bupi and at least 64-fold greater than POE-Bupi-Mel (at 72 h: SBG004 SC 1,250 ± 580 µg/g; Lip-Bupi 24 ± 28 µg/g; POE-Bupi-Mel 20 ± 21 µg/g). Concentration differences in skin were similar but of a lower magnitude. The results indicate that injection in surgical wound margins and remaining in situ throughout the duration of release contribute to sustaining higher local anesthetic concentrations in tissue.",
+      "journal": "J Pharm Sci",
+      "date": "2026-10-25",
+      "authors": [
+        "Pal A",
+        "McLaren AC",
+        "Overstreet DJ"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.xphs.2026.104565",
+      "journal_tier": 2,
+      "impact": 3.3,
+      "section": "formulasyon",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42927778",
+      "title": "Development of pH-Responsive Curcumin-Loaded nanofiber composites with AI-Assisted color recognition for wound dressing.",
+      "abstract": "A novel pH-responsive curcumin-loaded nanofiber composite with artificial intelligence (AI)-assisted color recognition for therapeutic delivery and intelligent visual monitoring was developed for application in smart wound dressings. Smart wound dressings were developed by integrating curcumin electrospray microparticles (Cur/MPs) and polycaprolactone/chitosan (PCL/CS) nanofibers using a dual-process strategy involving electrospray and electrospinning by the Taguchi method. Zein was the biocompatible carrier to enhance curcumin stability and regulate its sustained release. The curcumin electrospray microparticles@polycaprolactone/chitosan (Cur/MPs@PCL/CS) nanofiber composites exhibited tunable hydrophilicity, over 90% porosity, good cell viability with 125.1 ± 2.0%, and visible inhibition of Escherichia coli growth under the tested plate-diffusion conditions, indicating the suitability of these composites for biomedical dressings. Curcumin release followed first-order kinetics with dual-stage release, prolonging bioactivity. The visible pH-dependent color change of curcumin suggests potential for pH-responsive wound monitoring, and AI-assisted image classification may reduce subjective interpretation under controlled imaging conditions. The VISDEEP-C2 model (batch = 5, epochs = 100, learning rate = 10-4), optimized via Taguchi design, achieved an initial accuracy of 91.03% and rose to 99.28% after the dataset was expanded to 1,360 images. The synergistic integration of intelligent sensing, controlled drug release, and antimicrobial functionality positions Cur/MPs@PCL/CS as a promising next-generation smart wound-care material. This intelligent, biocompatible nanocomposite platform contributes to the United Nations Sustainable Development Goals (SDG 3: Good Health and Well-Being and SDG 9: Industry, Innovation, and Infrastructure) by promoting sustainable biomedical materials and AI-driven healthcare innovation.",
+      "journal": "Eur J Pharm Biopharm",
+      "date": "2026-10-25",
+      "authors": [
+        "Chen HW",
+        "Kuo YL",
+        "Quach-Tran PT",
+        "Jiang L",
+        "Chung CY",
+        "Chiang PC",
+        "Hou YA",
+        "Chen WT"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ejpb.2026.115266",
+      "journal_tier": 2,
+      "impact": 4.5,
+      "section": "antimikrobiyal",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42927724",
+      "title": "Estrogen receptor modulation by a newly-identified cannabinoid in a preclinical model of breast cancer.",
+      "abstract": "BACKGROUND: Breast cancer is a diverse group of diseases comprising subtypes with distinct behavior and response to therapy. Tumors that express estrogen receptor alpha (ERα) and depend on estrogen constitute ∼65% of all breast cancer cases. Common endocrine therapy for this kind of breast cancer includes Selective Estrogen Receptor Modulators (SERMs) such as tamoxifen. However, despite the clear benefits, many patients do not complete the recommended 5 and sometimes 10 years of treatment because of adverse effects. Medical cannabis is increasingly used by cancer patients, primarily for palliative care, yet its direct antitumor potential in breast cancer remains poorly understood. PURPOSE: Examine whether cannabis-derived compounds exert selective antitumor effects in breast cancer and elucidate the underlying molecular mechanisms. STUDY DESIGN: A combination of in vitro experiments in multiple ER-positive breast cancer cell lines with in vivo validation in an estrogen-dependent xenograft mouse model. METHODS: Breast cancer cell lines representing different molecular subtypes were evaluated. A panel of chemically distinct cannabis extracts was initially screened for cytotoxic activity and subsequently tested in combination with SERMs. Extracts were chemically profiled using ESI-LC/MS. Phytocannabinoid fractionation, chemical analyses, and structural elucidation were performed to isolate and characterize the bioactive phytocannabinoid in the only cannabis extract identified in the initial screen as effective in combination with tamoxifen. The mechanism of action of this phytocannabinoid was investigated in vitro using molecular and biochemical assays. Finally, antitumor efficacy was assessed in vivo using an estrogen-dependent ER-positive breast cancer xenograft mouse model. RESULTS: We found a unique cannabis extract, CANN14, capable of sensitizing ER-positive breast cancer cells to the cytotoxic effect of tamoxifen. We identified a novel phytocannabinoid 373.15b that mimicked the effect of the whole extract without any toxicity by itself. It has a unique structure of a dihydroxyphenol with an acetate group attached to the aromatic ring, distinguishing it from known cannabinoid scaffolds. Cannabinoid 373.15b modulated estrogen signaling by decreasing the mRNA and protein expression levels of ERα, as well as its transcriptional activity, possibly through a signaling pathway involving RASSF1A and Hippo signaling components. In an in vivo mouse model, treatment with 373.15b reduced tumor volume and weight, with a more profound effect when combined with tamoxifen. CONCLUSION: The work presented here identifies a novel cannabinoid that modulates ERα signaling and enhances the antitumor efficacy of SERMs. The findings suggests that co-therapy of 373.15b with SERMs may allow dose reduction of conventional therapy, and by that, diminish the associated adverse effects and improve patient quality of life. ONE-SENTENCE SUMMARY: The newly identified cannabinoid 373.15b reduces ERα expression and activity through RASSF1A and Hippo signaling pathway thus exerting antitumor effects.",
+      "journal": "Biomed Pharmacother",
+      "date": "2026-10-25",
+      "authors": [
+        "Cohen V",
+        "Besser E",
+        "Shotan SR",
+        "Procaccia S",
+        "Halle-Bikovski A",
+        "Litvinsky SS",
+        "Truman M",
+        "Harel M",
+        "Thaler S",
+        "Meiri D"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.biopha.2026.119942",
+      "journal_tier": 2,
+      "impact": 6.5,
+      "section": "onko",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
         "recency": 0.0
       },
       "tier": 3,
@@ -2743,456 +2591,33 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42920650",
-      "title": "Exploratory machine-learning analysis of bevacizumab exposure and circulating VEGF dynamics in patients with cancer.",
-      "abstract": "INTRODUCTION: This study explored pharmacokinetic and pharmacodynamic factors associated with circulating vascular endothelial growth factor (VEGF) dynamics during bevacizumab treatment. METHODS: A secondary analysis was conducted using data from 74 patients with breast, ovarian, cervical, non-small cell lung, or colorectal cancer. Paired pre- and post-infusion serum concentrations of bevacizumab and VEGF were measured by ELISA. Exploratory dimensionality-reduction methods and supervised tree-based models were applied. Artificial neural networks were used only as a complementary exploratory analysis on the same dataset. RESULTS: The main outcome of the analysis was VEGF_D, the absolute difference between the paired VEGF concentrations. The supervised models did not perform above the naive three-class benchmark; therefore, their variable-importance outputs were treated as secondary, model-specific, and hypothesis-generating observations. The results show exploratory model patterns of bevacizumab exposure and circulating VEGF dynamics. We did not assess clinical efficacy, safety results, and other dosing strategies in this study. DISCUSSION: The results do not support clinical implementation, personalized dosing, or treatment optimization and need to be confirmed in large independent cohorts.",
-      "journal": "Front Pharmacol",
-      "date": "2026-10-09",
+      "pmid": "42927549",
+      "title": "miR-138-5p: From Multidimensional Tumor-Suppressive Regulatory Networks to Nanocarrier-Based Delivery for Solid Tumor Therapy.",
+      "abstract": "BACKGROUND: MicroRNA-138-5p (miR-138-5p) has been reported to exert tumor-suppressive effects in several solid tumors, and its downregulation has been associated with malignant progression, therapeutic resistance, and poor prognosis. OBJECTIVE: This review summarizes research trends and current evidence on the molecular functions, regulatory networks, and therapeutic potential of miR-138-5p in solid tumors, with particular emphasis on competing endogenous RNA (ceRNA) regulation and nanocarrier-based delivery strategies. METHODS: Bibliometric analysis and CiteSpace visualization were conducted using English-language original articles and reviews retrieved from the Web of Science Core Collection from January 2014 to October 2025. Relevant literature was reviewed to examine miR-138-5p expression, biological functions, target genes, signaling pathways, ceRNA networks, and therapeutic strategies. Studies focused exclusively on hematological malignancies were excluded. RESULTS: Bibliometric mapping identified research clusters spanning multiple solid tumor types, cell-cycle regulation, and proliferation, while metabolic reprogramming and therapeutic resistance emerged as relevant research themes. Mechanistic studies suggest that miR-138-5p regulates proliferation, apoptosis, migration, invasion, autophagy, immune-related signaling, and chemosensitivity through diverse targets and pathways. Long non-coding RNA- and circular RNA-mediated ceRNA networks have been proposed as an additional regulatory layer, although their physiological relevance requires further quantitative validation. Preclinical findings, including exosome-mediated delivery of miR-138-5p, suggest potential for replacement therapy; however, challenges involving delivery efficiency, tumor specificity, biosafety, pharmacokinetics, and manufacturing standardization remain. CONCLUSION: miR-138-5p is a potential biomarker and therapeutic target in solid tumors. Further validation of its context-dependent mechanisms and optimization of targeted delivery strategies are needed to support clinical translation.",
+      "journal": "Daru",
+      "date": "2026-10-25",
       "authors": [
-        "Theofili I",
-        "Liolis E",
-        "Koutras A",
-        "Karalis VD",
-        "Sivolapenko G"
+        "Leng T",
+        "Lv Y",
+        "Ha M",
+        "Zhu X",
+        "Jiang Y",
+        "Hu S",
+        "Rao C",
+        "Ma X"
       ],
       "pubtypes": [
-        "Journal Article"
+        "Journal Article",
+        "Review"
       ],
-      "doi": "10.3389/fphar.2026.1899527",
-      "journal_tier": 2,
-      "impact": 4.4,
+      "doi": "10.1007/s40199-026-00683-1",
+      "journal_tier": 3,
+      "impact": 2.5,
       "section": "klinik",
-      "score": 60.0,
+      "score": 45.0,
       "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42920639",
-      "title": "Phytochemical characterization and effects of Dolomiaea costus root extract on ovariectomy-induced metabolic, skeletal, and uterine alterations in rats.",
-      "abstract": "BACKGROUND: Estrogen deficiency following ovariectomy produces metabolic, skeletal, and uterine alterations. METHODS: In this study, we evaluated an authenticated and chemically characterized dichloromethane-methanol (1:1, v/v) root extract of Dolomiaea costus (Syn. Saussurea costus) in ovariectomized female Wistar rats. Thirty rats were assigned to sham-operated, ovariectomized untreated, and ovariectomized extract-treated groups. Beginning 3 weeks after surgery, the treated group received the extract orally at 300 mg/kg body weight/day for 12 weeks. Metabolic and lipid variables, adipokines, antioxidant status, and bone-related biomarkers were determined. Uterine, femoral, hepatic, and adipose tissues were examined histologically, while estrogen receptor-α (ER-α) and tumor necrosis factor-α (TNF- α) immunoreactivity were evaluated. The extract was characterized using spectrophotometric assays, GC-MS, and HPLC-DAD. RESULTS: Ovariectomy was associated with increased body and adipose-tissue mass, dyslipidemia, impaired glucose homeostasis, altered adipokine concentrations, decreased antioxidant capacity, and structural alterations in the uterus, bone, liver, and adipose tissue. Compared with untreated ovariectomized rats, extract administration was associated with improvements in several biochemical and histological outcomes and with increased uterine ER-α immunoreactivity. Chemical profiling indicated the presence of sesquiterpene lactones, fatty-acid derivatives, and phenolic metabolites. CONCLUSION: Increased ER-α immunoreactivity is consistent with an estrogen-responsive effect but does not establish direct estrogen-receptor agonism. These preclinical findings support further standardized pharmacological and toxicological evaluation of the extract; they do not establish efficacy or safety in menopausal women.",
-      "journal": "Front Pharmacol",
-      "date": "2026-10-09",
-      "authors": [
-        "Aldayel TS",
-        "Mahmoud HS",
-        "Abdelrazek HMA",
-        "Elsayed DH",
-        "Higo MA",
-        "Eltamany EE",
-        "Gad El-Hak HN"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.3389/fphar.2026.1841164",
-      "journal_tier": 2,
-      "impact": 4.4,
-      "section": "kardiyometabolik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42920623",
-      "title": "Tirzepatide versus other glucose-lowering therapies and risk of COPD exacerbations in patients with comorbid type 2 diabetes: a retrospective cohort study.",
-      "abstract": "BACKGROUND: Chronic obstructive pulmonary disease (COPD) and type 2 diabetes (T2D) frequently coexist, sharing inflammatory and metabolic pathways. Tirzepatide (TZP), a dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist, has demonstrated metabolic and anti-inflammatory effects. However, its impact on pulmonary outcomes in patients with COPD and T2D remains uncertain. METHODS: Using the TriNetX global research network, we conducted a retrospective cohort study of adults with coexisting COPD and T2D prescribed TZP, sodium-glucose cotransporter-2 inhibitors (SGLT2i), dipeptidyl peptidase-4 inhibitors (DPP-4i), or glucagon-like peptide-1 receptor agonists (GLP-1RA). Propensity score matching (1:1) was performed separately for each comparison. Primary outcome was COPD exacerbation; secondary outcomes included all-cause mortality, acute respiratory failure, and lower respiratory tract infection. Outcomes were assessed during a prespecified observation period from day one through day 365 after the index date. RESULTS: Matched populations included 6,080 patients per group (TZP-SGLT2i), 4,684 (TZP-DPP-4i), and 6,727 (TZP-GLP-1RA). In the independently matched comparisons, median follow-up was 232 versus 365 days for TZP versus SGLT2i, 235 versus 365 days for TZP versus DPP-4i, and 233 versus 365 days for TZP versus other GLP-1RAs; incidence rates were expressed per 1,000 person-years. Compared with SGLT2i and DPP-4i, TZP significantly reduced COPD exacerbation risk (hazard ratio [HR] 0.73 [95% CI 0.64-0.82] and 0.72 [95% CI 0.63-0.82], respectively) and all-cause mortality (HR 0.30 [95% CI 0.23-0.38] and 0.24 [95% CI 0.18-0.31], respectively). TZP also reduced acute respiratory failure and lower respiratory tract infection risks. Outcomes were similar between TZP and GLP-1RA, except TZP showed lower mortality (HR 0.55 [95% CI 0.42-0.72]). CONCLUSION: Among patients with COPD and T2D, TZP use was associated with lower risks of COPD exacerbations, respiratory complications, and mortality compared with SGLT2i and DPP-4i, findings that warrant confirmation through randomized clinical trials.",
-      "journal": "Front Pharmacol",
-      "date": "2026-10-09",
-      "authors": [
-        "Hsu WH",
-        "Chan YE",
-        "Wu JY",
-        "Chuang YM",
-        "Kuo CY",
-        "Shiau BW",
-        "Huang PY",
-        "Lai CC"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.3389/fphar.2026.1917340",
-      "journal_tier": 2,
-      "impact": 4.4,
-      "section": "klinik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42920608",
-      "title": "Adverse reactions of immune checkpoint inhibitors combined with acetaminophen/non-steroidal anti-inflammatory drugs (NSAIDs): a pharmacovigilance analysis of drug-drug interactions.",
-      "abstract": "BACKGROUND: The combination of immune checkpoint inhibitors (ICIs) with acetaminophen (APAP) and non-steroidal anti-inflammatory drugs (NSAIDs) is commonly employed in cancer treatment. However, potential drug-drug interactions (DDIs) between these agents remain poorly understood. Our study aimed to identify interaction signals associated with the concomitant use of ICIs and APAP/NSAIDs. METHODS: Data were obtained from the US FDA Adverse Event Reporting System (FAERS) covering the period from 1 January 2014, to 30 June 2025. Disproportionality analysis was conducted for data mining by calculating the reporting odds ratio and 95% confidence interval (95% CI). Adjusted RORs were analyzed using logistic regression, accounting for age, sex, and reporting year. Further confirmation was performed using both additive and multiplicative models. RESULTS: We identified 4,613 reports related to the combination of immune checkpoint inhibitors (ICIs) with acetaminophen (APAP) and non-steroidal anti-inflammatory drugs (NSAIDs). Significant interaction signals were observed for gastrointestinal disorders (adjusted ROR: 1.57, 95% CI: 1.41-1.70, additive model: 0.0549), investigations (adjusted ROR: 1.27, 95% CI: 1.13-1.43, additive model: 0.3847, multiplicative model: 1.3135), renal and urinary disorders (adjusted ROR: 4.68, 95% CI: 4.19-5.24, additive model: 3.5771, multiplicative model: 3.6312), and skin and subcutaneous tissue disorders (adjusted ROR: 1.64, 95% CI: 1.47-1.83, additive model: 0.6818, multiplicative model: 1.5996). Subset analysis revealed positive interaction signals for the combination of ICIs with APAP in gastrointestinal disorders and investigations, for all APAP/NSAIDs combinations with ICIs in renal and urinary disorders, and for the combination of NSAIDs with ICIs in skin and subcutaneous tissue disorders. CONCLUSION: Based on data from the FAERS, four systemic disorders were identified to be associated with drug-drug interactions (DDIs) resulting from the combined use of ICIs and APAP/NSAIDs. Further preclinical trials and well-designed, large-scale clinical studies are needed to explore the potential pharmacodynamic crosstalk, alterations in inflammatory pathway and changes in the tumor immune microenvironment induced by the co-administration of ICIs with APAP/NSAIDs. This will help deepen the understanding of DDIs associated with this combination therapy.",
-      "journal": "Front Pharmacol",
-      "date": "2026-10-09",
-      "authors": [
-        "Ren X",
-        "Xue L",
-        "Wang Y",
-        "Xiao J"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.3389/fphar.2026.1833275",
-      "journal_tier": 2,
-      "impact": 4.4,
-      "section": "klinik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42920606",
-      "title": "Population cellular kinetics and exposure-CSR analysis of CAR-T cells in Chinese patients with relapsed/refractory B-ALL.",
-      "abstract": "BACKGROUND: CD19-targeting chimeric antigen receptor (CAR)-T cells have demonstrated great efficacy in treating relapsed and refractory B-cell acute lymphoblastic leukemia (B-ALL). Despite the high objective response rate of CAR-T cell therapy, high-risk adverse event of cytokine-release syndrome occur unexpectedly. OBJECTIVE: As living gene-modified cells, CAR-T cells exhibit unique kinetics. This study aimed to explore the relationship between CAR-T therapy-related CRS and the kinetics of CAR-T cells. METHODS: In this study, data for 2184 CAR-transgene copies from 131 B-ALL patients treated with IL-6 knockdown CD19-targeting CAR-T cells were included to characterize the cellular kinetics using a nonlinear mixed-effects (NLME) model. The extrinsic and intrinsic factors that may impact the kinetics of CAR-T cells were also evaluated. RESULTS: The CD4+/CD8+ ratio of CAR-T cell products was shown to be significantly positively correlated with Tmax, suggesting that a higher CD4+/CD8+ ratio may lead to a delay in reaching the maximum expansion, while other candidate covariates including tumor burden, CAR-T doses and comedication were not significantly associated with the kinetics of CAR-T cells. The estimated values of the cellular kinetic parameters Cmax, Tmax and Foldx were 4.696 × 104 copies/μg, 13.0 days, and 127.5, respectively. The estimated AUC0-28d and AUC0-90d accounted for only 13.0% and 18.5% of AUC0-inf, respectively, indicating that there was long-term persistence of memory CAR-T cells in vivo. In addition, the incidence of CRS was investigated to be correlated with the early kinetics of CAR-T cells, and the optimal cutoff values of Cmax and AUC0-28d for severe CRS were 6.951 × 104 copies/μg and 4.962 × 105 copies/μg × days, respectively.",
-      "journal": "Front Pharmacol",
-      "date": "2026-10-09",
-      "authors": [
-        "Bian Y",
-        "Yuan J",
-        "Huang C",
-        "Zhang K",
-        "Xue L",
-        "Xia F",
-        "Kang L",
-        "Wang Y",
-        "Zhang H",
-        "Yu L",
-        "Wu D",
-        "Miao L"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.3389/fphar.2026.1878984",
-      "journal_tier": 2,
-      "impact": 4.4,
-      "section": "klinik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42920566",
-      "title": "Metformin-associated diarrhea in FAERS: a structured pharmacovigilance study with long-term temporal consistency assessment.",
-      "abstract": "BACKGROUND: Metformin-associated diarrhea is well recognized, but spontaneous-report analyses remain sensitive to outcome definition, reporting background, and incomplete event-date data. This study evaluated whether the reporting imbalance persisted across prespecified definitions, comparator sets, and calendar periods. METHODS: U.S. Food and Drug Administration Adverse Event Reporting System (FAERS) reports from the first quarter of 2020 through the first quarter of 2026 were deduplicated and analyzed with metformin coded as a primary or secondary suspect drug. The primary outcome was the Medical Dictionary for Regulatory Activities preferred term DIARRHOEA. Sensitivity analyses used a broad loose-stool phenotype, a clean gastrointestinal event composite, alternative exposure roles, active comparators, co-medication exclusions, and stratification. Exact-date report-level event-date intervals among reports containing the strict-diarrhea preferred term were summarized descriptively. A separately processed dataset covering the first quarter of 2004 through the first quarter of 2026 assessed temporal consistency. RESULTS: Among 9,112,609 reports, 60,452 involved metformin as a primary or secondary suspect drug and 4,868 included strict diarrhea. The primary reporting odds ratio (ROR) was 2.72 (95% confidence interval, 2.64-2.80). Restriction to non-metformin antidiabetic reports attenuated the ROR to 1.95 (1.89-2.01), showing sensitivity to the reporting background. Only 595 reports (12.2%) yielded a valid report-level event-date interval; the median interval was 14 days (interquartile range, 1-363). The long-term ROR was 2.76 (2.71-2.81), with marked annual variation. CONCLUSION: Metformin showed a persistent but context-dependent diarrhea reporting imbalance in FAERS. Active-comparator attenuation limits causal and clinical-risk interpretation. The selected interval subset supports descriptive reporting only and cannot define diarrhea-specific onset or a clinical monitoring window.",
-      "journal": "Front Pharmacol",
-      "date": "2026-10-09",
-      "authors": [
-        "Chen S",
-        "Xu C"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.3389/fphar.2026.1902348",
-      "journal_tier": 2,
-      "impact": 4.4,
-      "section": "klinik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42920552",
-      "title": "A novel CAF-related gene signature for prognostic and immunotherapy response prediction in PDAC based on single-cell RNA-seq and bulk RNA-seq data.",
-      "abstract": "Increasing evidence shows that cancer-associated fibroblasts (CAFs) contribute to tumor progression, create an immunosuppressive microenvironment, and promote resistance to immunotherapy. However, the CAF-related gene signature in pancreatic ductal adenocarcinoma (PDAC) remains largely unexplored. In our study, we constructed a nine-gene CAF-related signature and found that it strongly correlated with the prognosis of PDAC patients in different cohorts. Subsequently, we found that the CAF-related gene signature was associated with the genomic alteration landscape, immune infiltration landscape and responsiveness to immunotherapy. GJB2 had the highest coefficient in our CAF-related gene signature, thus we explored the role of GJB2 in the interactions between CAFs and PDAC cells. The results showed that conditioned medium (CM) derived from the GJB2 knockdown group could suppress the malignant phenotype of PANC1 and MIAPaCa2 cells. In summary, this CAF-related gene signature is useful for prognosis prediction and precision therapy of PDAC patients.",
-      "journal": "Front Pharmacol",
-      "date": "2026-10-09",
-      "authors": [
-        "Du X",
-        "Li Z",
-        "Wang Y",
-        "Han L",
-        "Sun J",
-        "Gong W"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.3389/fphar.2026.1873756",
-      "journal_tier": 2,
-      "impact": 4.4,
-      "section": "onko",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42920538",
-      "title": "In silico evaluation of potential penicillin-binding protein 2 (PBP2) inhibitors from Borassus flabellifer haustorium against cephalosporin-resistant Neisseria gonorrhoeae.",
-      "abstract": "BACKGROUND: The emergence of cephalosporin-resistant Neisseria gonorrhoeae strains, encoding altered Penicillin-Binding Protein 2 (PBP2), has become a major global public health concern. The increasing prevalence of antimicrobial resistance necessitates the development of novel antimicrobial agents. In the present study, phytocompounds derived from the haustorium of Borassus flabellifer L. were investigated as potential inhibitors of PBP2 using an integrated in silico approach. METHODOLOGY: Phytochemical profiling of the methanol, ethyl acetate and hexane extracts of white spongy palmyra haustorium was performed using GC-MS and the identified compounds were subsequently evaluated for molecular docking, ADMET analysis and molecular dynamics simulation. RESULTS: A total of 69 compounds were identified and subjected to molecular docking against the transpeptidase domain of PBP2. The docking analysis revealed predicted binding affinities, ranging from -4.5 to -9.7 kcal/mol. The top ten compounds were subsequently evaluated for their ADMET and drug-likeness properties. Among these, 5-(4-nitrophenyl)-1,3,4-oxadiazol-2(5H)-one and 1,2,4-triazol-3-amine, 5-(1,3,5-trimethyl-4-pyrazolyl)amino, demonstrated comparatively favourable pharmacokinetic properties and balanced predicted ADMET profile. Furthermore, the stability of the complexes was assessed for a time period of 100 ns using molecular dynamics simulation. RMSD, RMSF, Rg, SASA, and hydrogen bonds were examined to evaluate protein-ligand interactions throughout the time frame. Principal component analysis and free energy landscape studies further supported ligand-induced stabilization of the PBP2 structure. MM-PBSA revealed favourable interaction energies of -19.11 ± 2.29 kJ/mol and -11.16 ± 2.34 kJ/mol for the two selected compounds, respectively. Among them, 5-(4-nitrophenyl)-1,3,4-oxadiazol-2(5H)-one demonstrated comparatively greater binding stability and thermodynamic favourability. CONCLUSION: These findings suggest that 5-(4-nitrophenyl)-1,3,4-oxadiazol-2(5H)-one could serve as a promising lead molecule for the development of new therapeutics against drug-resistant gonococcal infections and necessitate further experimental validation.",
-      "journal": "Front Pharmacol",
-      "date": "2026-10-09",
-      "authors": [
-        "Rajasekaran U",
-        "Sridharan TB"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.3389/fphar.2026.1918221",
-      "journal_tier": 2,
-      "impact": 4.4,
-      "section": "klinik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42920500",
-      "title": "Cannabidiol preserves astrocyte viability and attenuates injury-induced glial stress responses across zebra finch song control nuclei.",
-      "abstract": "Chronic neuroinflammation following traumatic brain injury (TBI) increases the risk of affective disorders and early-onset dementias. Existing anti-inflammatory therapies are limited by systemic side effects with chronic use and by poor brain penetration of newer biologics. Cannabidiol (CBD), a non-euphorigenic phytocannabinoid with a favorable safety profile and multi-target neuroprotective actions, is a promising alternative. Using a songbird microlesion model of learned vocal recovery after targeted damage to the premotor nucleus HVC, we previously showed that systemic CBD (10 mg/kg/day) reduces vocal disruption, inflammatory cytokines, oxidative stress, and synaptic loss. Here we tested the hypothesis that these benefits involve astrocytes. CBD (10 mg/kg/day IM for 7 days) preserved astrocyte viability, attenuated injury-induced lysosomal stress, suppressed reactivity markers (C3, S100A10, aromatase), and upregulated key metabolic and antioxidant transcripts (glutamine synthetase and GCLM) across the interconnected song-control nuclei HVC, RA, and Area X. These changes were accompanied by reduced neuronal apoptosis in lesioned HVC. The results identify astrocyte-associated responses as a candidate cellular substrate of CBD's circuit-wide protective effects and support its translational potential to mitigate secondary injury and communication deficits after TBI.",
-      "journal": "Front Pharmacol",
-      "date": "2026-10-09",
-      "authors": [
-        "Marshall DA",
-        "Litwa KA",
-        "Soderstrom K"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.3389/fphar.2026.1972787",
-      "journal_tier": 2,
-      "impact": 4.4,
-      "section": "noro",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42920446",
-      "title": "Histopathology-guided spatial transcriptomic analysis identifies an ECM-associated stromal pattern in lacrimal gland adenoid cystic carcinoma with complementary proteomic and functional analyses.",
-      "abstract": "BACKGROUND: Lacrimal gland adenoid cystic carcinoma (LGACC) is a rare but locally aggressive malignancy characterized by perineural invasion, recurrence, and limited systemic treatment options. Although extracellular matrix (ECM) remodeling is increasingly recognized as an important regulator of tumor progression, its spatial organization and functional relevance in LGACC remain incompletely understood. METHODS: A publicly available LGACC spatial transcriptomic tissue section was reanalyzed using histopathology-guided annotation to define a highly cellular Tumor Core and an adjacent stromal region, termed the Stroma Boundary. Regional differential expression and functional enrichment analyses were performed, together with module scoring, a sensitivity analysis within a shared transcriptomic cluster spanning both histopathologically defined regions, and CellChat-based ligand-receptor inference. The spatial findings were further contextualized using a public bulk RNA-sequencing cohort and an in-house quantitative proteomic cohort comparing conventional LGACC with LGACC showing high-grade transformation (LGACC-HGT). The effects of type I collagen were evaluated in SACC-LM cells using morphological assessment, CCK-8, wound-healing, Transwell migration, and Western blotting assays. RESULTS: Within the analyzed spatial section, Stroma Boundary spots showed higher expression of ECM-related genes, including COL1A1, COL1A2, SPARC, and DCN, together with enrichment of collagen fibril organization and extracellular matrix organization. A secondary analysis restricted to a shared transcriptomic cluster spanning both histopathologically defined regions showed that ECM-associated differences remained detectable within a more similar transcriptomic background. CellChat analysis nominated collagen-associated interactions involving CD44 as candidate components of region-to-region communication. Bulk RNA-sequencing provided contextual support for the tumor-associated transcriptional program but incompletely captured the localized stromal pattern. Proteomic profiling demonstrated increased abundance of multiple collagen- and matrix-associated proteins in LGACC-HGT, accompanied by enrichment of ECM-receptor interaction and focal adhesion-related pathways. In vitro, type I collagen induced a more dispersed and spread cellular morphology and enhanced wound closure and Transwell migration without significantly altering short-term cell viability. Collagen exposure was also associated with increased CD44 protein expression. CD44 knockdown attenuated the COL1-induced increase in wound closure, suggesting a functional contribution of CD44 to this response. CONCLUSION: Histopathology-guided spatial analysis identified an ECM-enriched regional transcriptional pattern in the stromal compartment of the analyzed LGACC section. Complementary proteomic and functional findings suggest that collagen-associated remodeling may contribute to the migratory phenotype of ACC cells. CD44 represents a biologically plausible candidate associated with the collagen response, although its mechanistic role requires further validation.",
-      "journal": "Front Pharmacol",
-      "date": "2026-10-09",
-      "authors": [
-        "Luan R",
-        "Zuo D",
-        "Wang Y",
-        "Jiang M",
-        "Liu X",
-        "Zhu L",
-        "Lin T"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.3389/fphar.2026.1949721",
-      "journal_tier": 2,
-      "impact": 4.4,
-      "section": "onko",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42920407",
-      "title": "3-[[4-(Benzylamino)quinazolin-2-yl] Amino] Benzenesulfonamide, a Quinazoline-Based PDE5 Inhibitor, Induces Vasorelaxation in Rat Mesenteric Arteries via Multiple Mechanisms.",
-      "abstract": "We synthesised a series of N2,N4-diaminoquinazoline derivatives, among which 3-[[4-(benzylamino)quinazolin-2-yl]amino]benzenesulfonamide (compound 5) exhibited potent phosphodiesterase type 5 (PDE5) inhibitory activity. Increasing evidence suggests that PDE5 inhibition is a promising therapeutic strategy for peripheral vascular disease. This study aimed to investigate vasorelaxant effects of 5 and its underlying mechanisms in rat mesenteric arteries. Compound 5 was synthesised and purified, and evaluated its vascular activity using organ bath assay. Molecular docking was performed to identify its potential molecular targets. Compound 5 (0.0001-30 μM) induced relaxation of phenylephrine (PE)-precontracted mesenteric arteries (EC50 = 0.76 ± 0.29 μM; Emax = 95.6% ± 1.1%). This effect was attenuated by endothelium removal (EC50 = 5.24 ± 0.98 μM) and by L-NAME (eNOS inhibitor). Compound 5 enhanced sodium nitroprusside-induced relaxation, supporting modulation of the NO-sGC-cGMP axis via PDE5 inhibition. Iberiotoxin (BKCa blocker) reduced relaxation, whereas 4-aminopyridine (KV blocker) and glibenclamide (KATP blocker) had no effect. Compound 5 inhibited vasoconstriction mediated by extracellular Ca2+ influx via receptor-operated Ca2+ channels (ROCCs) and α1-adrenergic receptor activation. Molecular docking provided qualitative support for PDE5A, BKCa channels and α1-adrenergic receptor as potential targets. In conclusion, 5 induces potent vasorelaxation in resistance arteries through eNOS/NO/cGMP signalling, BKCa channel activation and inhibition of ROCCs and α1-adrenergic receptors, supporting its potential as a therapeutic candidate for peripheral vascular disorders.",
-      "journal": "Basic Clin Pharmacol Toxicol",
-      "date": "2026-11",
-      "authors": [
-        "Chatturong U",
-        "Chootip K",
-        "Gleeson MP",
-        "Guntur G",
-        "Shigeta Y",
-        "Hengphasatporn K",
-        "Totoson P",
-        "Demougeot C"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1111/bcpt.70324",
-      "journal_tier": 2,
-      "impact": 2.9,
-      "section": "kardiyometabolik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42920403",
-      "title": "Analysis of queries in an HIV drug-drug interaction checker to explore changes in prescribing patterns: A 5-year analysis.",
-      "abstract": "AIMS: Careful consideration of drug-drug interactions (DDIs) is critical as people with HIV age. We analysed queries submitted to the University of Liverpool HIV Drug Interactions Database to assess changes in prescribing patterns over 5 years. METHODS: Queries submitted between January 2020 and December 2024 were extracted and categorized by year, antiretroviral agent, comedication class, interaction severity (green/yellow/amber/red) and country. Descriptive statistics and annual trends were assessed. RESULTS: A total of 7 274 301 queries from 48 countries were recorded, representing a 441% increase over the study period. Dolutegravir (21%) and bictegravir (20%) were the most queried antiretrovirals, and queries involving unboosted integrase inhibitors rose. The most queried comedication classes were antibacterials, lipid-lowering agents and supplements/vitamins. Amber and red DDIs declined by 6% and 3% between January 2020 and December 2024, while green increased by 9%. CONCLUSIONS: Query volume rose markedly while DDI severity declined, likely reflecting broader use of modern antiretrovirals with more favourable interaction profiles. Continued vigilance and interaction-checking tools remain essential in HIV care.",
-      "journal": "Br J Clin Pharmacol",
-      "date": "2026-10-24",
-      "authors": [
-        "Gras C",
-        "Le MP",
-        "Chiong J",
-        "Gibbons S",
-        "Seddon D",
-        "Marzolini C",
-        "Khoo S"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1002/bcp.70872",
-      "journal_tier": 2,
-      "impact": 3.5,
-      "section": "klinik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42920059",
-      "title": "The Predictive Value of Gastrin for the Absorption of Erlotinib in Patients with Non-Small Cell Lung Cancer.",
-      "abstract": "BACKGROUND AND OBJECTIVE: Gastrin regulates gastric acid secretion and increases when gastric acidity is reduced. Erlotinib, a small-molecule inhibitor used to treat patients with advanced non-small cell lung cancer (NSCLC), has a pH-dependent absorption. We therefore investigated whether elevated gastrin levels, for example, due to proton pump inhibitor (PPI) use or achlorhydria, are associated with reduced erlotinib absorption. METHODS: Data of patients treated with erlotinib for NSCLC that were included in two previously conducted pharmacokinetic studies were used for this pharmacological proof-of-principle analysis. In these studies, patients were randomized to PPI use or not. Gastrin levels were quantified in samples drawn just before intake of erlotinib and used to study correlations with erlotinib concentrations. The pharmacokinetic endpoints area under the curve (AUC), trough concentration, and maximum concentration (Cmax) were correlated to gastrin concentrations and compared in patients with and without hypergastrinemia (gastrin ≥ 150 pg/mL). RESULTS: A total of 52 patients on erlotinib were included. Gastrin showed a significant inverse correlation with erlotinib AUC0-12h (r = -0.277; p = 0.047) and Cmax (r = -0.423; p = 0.002). In 11 patients with hypergastrinemia (gastrin ≥ 150 pg/mL), median erlotinib Cmax was > 30% lower (1890 ng/mL vs 1200 ng/mL; p = 0.024). The median AUC0-12h and AUC0-24h of erlotinib showed a non-significant trend towards lower AUCs of, respectively, 29% (p = 0.087) and 23% (p = 0.074), in patients with hypergastrinemia. CONCLUSIONS: Gastrin concentrations could potentially serve as a marker for erlotinib absorption, helping identify patients at risk for low erlotinib exposure.",
-      "journal": "Clin Pharmacokinet",
-      "date": "2026-10-23",
-      "authors": [
-        "Heersche N",
-        "Lanser DAC",
-        "Ernst SM",
-        "Kramers C",
-        "Paats MS",
-        "Dingemans AC",
-        "van Schaik RHN",
-        "Mathijssen RHJ",
-        "Veerman GDM"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s40262-026-01711-8",
-      "journal_tier": 2,
-      "impact": 4.6,
-      "section": "klinik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919977",
-      "title": "Rosmarinic acid combined with cisplatin induces proliferation inhibition of hepatocellular carcinoma.",
-      "abstract": "Hepatocellular carcinoma (HCC) is characterized by high proliferation and metastasis potential and is prone to chemotherapy resistance, which seriously restricts the clinical efficacy of cisplatin (DDP)-based treatment. Rosmarinic acid (RA) is a natural bioactive compound that has shown potential anti-tumor and chemosensitizing effects in preclinical studies. The purpose of this study was to systematically explore the synergistic anti-hepatocellular carcinoma mechanism of RA combined with DDP through network pharmacology, molecular docking, molecular dynamics simulation, and in vitro experimental verification. Network pharmacology analysis identified HCC-related core targets, which were enriched in cell cycle, apoptosis, and tumor metastasis pathways. Molecular simulation results confirmed that both RA and DDP can stably bind to core oncogenic proteins and exhibit good structural stability. In vitro experiments demonstrated that the combination of RA/DDP had a significant time-and dose-dependent inhibitory effect on the proliferation and colony formation of HCC cells. This combination significantly induced cell cycle arrest and apoptosis in Huh-7 cells and inhibited their migration and invasion, outperforming the single-drug groups. This study provides an integrated and preliminary mechanistic exploration of the potential synergistic effects of RA and DDP against HCC, integrating network pharmacology, molecular simulations, and in vitro functional assays. These in vitro findings suggest that RA may enhance DDP sensitivity in HCC cell models. Further in vivo and clinical studies are needed to determine whether RA can serve as a DDP-sensitizing agent and whether these effects translate into clinical benefit in HCC.",
-      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
-      "date": "2026-10-24",
-      "authors": [
-        "Ding D",
-        "Chen Y",
-        "Zhou JK"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00210-026-05990-7",
-      "journal_tier": 2,
-      "impact": 3.2,
-      "section": "onko",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42919976",
-      "title": "Pharmacological interactions of carvedilol and curcumin nanomicelles in spontaneously hypertensive rats: a bliss and HSA analysis.",
-      "abstract": "Hypertensive target organ damage (TOD), including cardiac fibrosis, vascular remodeling, and low-grade inflammation, is driven by oxidative stress and proinflammatory cytokines. We previously demonstrated that acute carvedilol-curcumin co-administration in a Soluplus® nanomicellar formulation synergistically reduces mean arterial pressure in spontaneously hypertensive rats (SHR). However, the chronic protective effects of this combination on TOD remain unknown. The aim of this study to evaluate whether 8-week co-administration of carvedilol and curcumin in a Soluplus® nanomicellar system exerts synergistic effects on carotid SBP, aortic remodeling, cardiac inflammation, and oxidative stress in SHR and to quantify the drug interaction using the Bliss independence model. SHR received carvedilol (9 mg/kg/day), curcumin (6 mg/kg/day), their combination, or vehicle for 8 weeks. We measured (i) hemodynamics (tail-cuff and carotid SBP, beat-to-beat and short-/medium-term blood pressure variability); (ii) aortic and ventricular fibrosis (histomorphometry); (iii) oxidative stress (protein carbonyls, TBARS); and (iv) cardiac TNF-α, IL-6, and TGF-β (Western blot). We assessed synergy using Bliss independence analysis and the Highest Single Agent (HSA) model. The Bliss analysis revealed antagonistic interactions for cardiac fibrosis and cardiac TBARS, and additive interactions for TGF-β, aortic carbonyls, and aortic TBARS. The HSA analysis revealed that IL-6, TNF-α, and cardiomyocyte size showed additive/independent effects, while aortic fibrosis showed a synergistic interaction (ΔE_HSA =  + 22.22%, p < 0.0001). No synergistic interactions were observed for other parameters. However, the combination still significantly reduced all these parameters compared to vehicle-treated SHR. Chronic co-administration of carvedilol and curcumin in Soluplus® nanomicelles produced a synergistic antifibrotic effect on the aorta, while other parameters showed additive, independent, or antagonistic interactions. The combination preserved the beneficial effects of the monotherapies on oxidative stress and fibrosis, suggesting that the co-administration still provides target organ protection, although not through broad synergistic mechanisms.",
-      "journal": "Naunyn Schmiedebergs Arch Pharmacol",
-      "date": "2026-10-24",
-      "authors": [
-        "Plantamura YAS",
-        "Allo M",
-        "Riedel J",
-        "Fuentes P",
-        "Riesco AS",
-        "Carranza A",
-        "Donato M",
-        "Garces M",
-        "Evelson P",
-        "Bernabeu E",
-        "Chiappetta D",
-        "Gorzalczany S",
-        "Höcht C"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1007/s00210-026-06027-9",
-      "journal_tier": 2,
-      "impact": 3.2,
-      "section": "klinik",
-      "score": 60.0,
-      "score_parts": {
-        "journal": 60,
-        "pubtype": 0,
+        "journal": 35,
+        "pubtype": 10,
         "recency": 0.0
       },
       "tier": 3,
@@ -3222,6 +2647,99 @@
       "score_parts": {
         "journal": 35,
         "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42928322",
+      "title": "Neuropsychiatric adverse event reporting with GLP-1-based therapies: a post-marketing pharmacovigilance analysis using the WHO global individual case safety report database (VigiBase).",
+      "abstract": "OBJECTIVE: Concerns regarding neuropsychiatric adverse events (NPAEs), including depression and suicidality, have emerged with the expanding use of GLP-1-based therapies across metabolic and weight-management indications. This study aimed to characterize neuropsychiatric adverse-event reporting patterns for GLP-1-based therapies in VigiBase using disproportionality analysis. METHODS: Individual case safety reports entered into the WHO global pharmacovigilance database (VigiBase) from inception through 31 January 2025 were examined. Disproportionality analysis using the information components and the reporting odds ratio was conducted to identify putative safety signals. The full VigiBase reporting background during the study period was used as the comparator. We described the drug-event pairs, mapped signal overlap across agents, evaluated the relationship between reporting frequency and signal magnitude, and conducted stratified analyses by sex and age. RESULTS: Among 899 280 GLP-1RAs-related reports, 19 811 (2.2%) related NPAEs comprised 273 preferred terms and generated 69 positive signals. Semaglutide and liraglutide presented the broadest and most potent signal portfolios, driven chiefly by binge eating (semaglutide, IC₀₂₅ = 3.379; ROR₀₂₅ = 14.483), and aversion (liraglutide, IC₀₂₅ = 3.365; ROR₀₂₅ = 20.512). In contrast, albiglutide was essentially signal negative, and dulaglutide and tirzepatide generated narrower spectra. In addition, semaglutide was positively associated with two \"suicide/self-injury\" AEs: \"depression suicidal\" (ROR₀₂₅ = 4.822) and \"suicidal ideation\" (ROR₀₂₅ = 2.643). CONCLUSIONS: This study identified several potential drug safety signals. However, the estimates were unadjusted and may be influenced by confounding by indication, channelling, notoriety bias, and event competition. Eating-related signals should be interpreted cautiously because they may overlap with the treated population and appetite-related pharmacology of these agents. Given the spontaneous reporting nature of VigiBase, these findings should be interpreted as potential reporting signals rather than evidence of causality. Further well-designed observational studies and prospective clinical investigations are needed to clarify whether GLP-1-based therapies are associated with increased neuropsychiatric risk and to identify patient-level risk modifiers.",
+      "journal": "BMC Pharmacol Toxicol",
+      "date": "2026-07-28",
+      "authors": [
+        "Liang J",
+        "Bo L",
+        "Miao X",
+        "Guo X",
+        "Xu J",
+        "He J",
+        "Ye X"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1186/s40360-026-01190-4",
+      "journal_tier": 3,
+      "impact": 2.7,
+      "section": "klinik",
+      "score": 35.0,
+      "score_parts": {
+        "journal": 35,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42927649",
+      "title": "A Model for Estimating the Risk of Gastrointestinal Bleeding for Patients on Oral Anticoagulants and Interacting Medications.",
+      "abstract": "INTRODUCTION: Pharmacodynamic drug-drug interactions (DDI) in patients receiving oral anticoagulants (OAC) may increase the risk of gastrointestinal bleeding (GIB). The purpose of this study was to develop and validate a GIB model for patients receiving OACs. METHODS: A risk model, Drug Interactions in Oral AntiCoagulants for Risk of Gastrointestinal Bleeding (DIOAC-GIB), was developed to predict GIB based on interacting medications and other patient-specific risk factors for patients on OAC. Inputs for the model were obtained using random-effect meta-analysis or from the literature for the following attributes: exposure to nonsteroidal anti-inflammatory drugs (NSAIDs); selective serotonin reuptake inhibitors/serotonin-norepinephrine reuptake inhibitors (SSRI/SNRIs); aspirin, antiplatelet medications, and proton pump inhibitors (PPIs); age; and GIB history. The model was correlated to existing OAC models (HAS-BLED and DOAC score). RESULTS: GIB risk for OACs was based on pivotal trials (1.16% for apixaban; 3.15% for rivaroxaban; 3.00% for dabigatran; 3.31% for edoxaban; and 2.00% for warfarin). The odds ratio (OR) of GIB for NSAIDs ranged from 1.16 (95% confidence interval [CI]: 0.84-1.61) for celecoxib to 20.67 (95% CI: 14.56-29.34) for ketorolac. ORs for GIB among SSRI/SNRIs ranged from 1.31 (95% CI: 1.07-1.62) for paroxetine to 1.50 (95% CI: 1.32-1.70) for venlafaxine. Risk of GIB also included persons > 65 years of age (relative risk = 2.50, 95% CI: 1.2-5.5); history of GIB (OR = 5.14, 95% CI: 3.92-6.73); exposure to aspirin (OR = 1.31, 95% CI: 0.93-1.85), antiplatelet medications (OR = 1.97, 95% CI: 1.73-2.25), and corticosteroids (OR = 1.69, 95% CI: 1.53-1.87); and PPIs reduced GIB risk (OR = 0.67, 95% CI: 0.62-0.74). Correlations between the DIOAC-GIB and HAS-BLED and DOAC scores were 0.5 for both (p < 0.01). CONCLUSION: DIOAC-GIB is a novel GIB-risk model that incorporates pharmacodynamic OAC DDIs to assist clinicians and patients to determine a therapeutic plan while accounting for GIB risk. DIOAC-GIB correlates with other bleeding risk scores and may help identify high-risk patients who may benefit from tailored prescribing.",
+      "journal": "Pharmacotherapy",
+      "date": "2026-11",
+      "authors": [
+        "Gomez-Lumbreras A",
+        "Tawfik AG",
+        "Reese T",
+        "Witt DM",
+        "Del Fiol G",
+        "Malone DC"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1002/phar.70205",
+      "journal_tier": 3,
+      "impact": 3.0,
+      "section": "klinik",
+      "score": 35.0,
+      "score_parts": {
+        "journal": 35,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42927533",
+      "title": "Association between perioperative statin-ezetimibe therapy and reoperation following arthroscopic rotator cuff repair: A TriNetX database study.",
+      "abstract": "BACKGROUND: Hyperlipidemia (HLD) impairs tendon healing and is associated with increased revision risk following arthroscopic rotator cuff repair (ARCR). While statins may partially mitigate this effect, residual dyslipidemia may impair healing. Ezetimibe, through inhibition of intestinal cholesterol absorption, has demonstrated favorable effects on tendon healing in preclinical studies. OBJECTIVES: This study evaluated whether perioperative statin-ezetimibe therapy is associated with improved postoperative outcomes following ARCR compared with statin monotherapy and patients without HLD. METHODS: A retrospective cohort study was conducted using the TriNetX Research Network. Adult patients undergoing ARCR were stratified into three cohorts based on HLD status and perioperative (± 6 months) lipid-lowering therapy: (1) documented HLD treated with statin-ezetimibe prescriptions, (2) patients without documented HLD or lipid-lowering therapy prescriptions, and (3) documented HLD treated with statin monotherapy prescriptions. Primary comparisons were predefined between cohort 1 and cohorts 2 and 3. Propensity score matching (1:1) adjusted for demographics and comorbidities. Tear size and presence of fatty atrophy and fatty infiltration were not adjusted for. Outcomes occurring within 5 years included revision rotator cuff repair (RCR), conversion to shoulder arthroplasty, and secondary shoulder arthroscopy. RESULTS: After matching, 1,066 patients were included in cohorts 1 and 2 and 1,114 patients in cohorts 1 and 3. Compared with patients without HLD, statin-ezetimibe therapy demonstrated similar rates of revision RCR (5.4% vs. 6.4%; RR 0.853; p = 0.358), conversion to shoulder arthroplasty (RR 1.227; p = 0.470), and secondary arthroscopy (RR 0.846; p = 0.260). Compared with statin monotherapy, statin-ezetimibe therapy was associated with lower rates of revision RCR (5.6% vs. 8.0%; RR 0.697; p = 0.023) and secondary shoulder arthroscopy (7.3% vs. 9.6%; RR 0.757; p = 0.048), while arthroplasty rates remained similar (RR 1.261; p = 0.400). CONCLUSION: Among patients with HLD undergoing ARCR, perioperative statin-ezetimibe therapy was associated with lower reoperation rates compared with statin monotherapy and postoperative outcomes comparable to patients without HLD. These findings support further investigation of intensified lipid-lowering therapy, while accounting for tear size and fatty infiltration.",
+      "journal": "Daru",
+      "date": "2026-10-25",
+      "authors": [
+        "Mahatme R",
+        "Gangavaram A",
+        "Muthusamy N",
+        "Moore S",
+        "Nayak T",
+        "Shao K",
+        "Grawe B",
+        "Bernholt D"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1007/s40199-026-00678-y",
+      "journal_tier": 3,
+      "impact": 2.5,
+      "section": "kardiyometabolik",
+      "score": 35.0,
+      "score_parts": {
+        "journal": 35,
+        "pubtype": 0,
         "recency": 0.0
       },
       "tier": 3,
@@ -3309,37 +2827,57 @@
       "abstract_tr": ""
     },
     {
-      "pmid": "42920164",
-      "title": "Epinephrine-mediated sensitization of thioredoxin 1 enhances chlorpromazine protection against acute hepatotoxicity.",
-      "abstract": "Acute liver injury (ALI) is characterised by rapid hepatic necrosis and compromised liver functions. Drug-induced ALI, in particular, is associated with glutathione depletion and overproduction of reactive oxygen species (ROS). These alterations highlight the contribution of the thioredoxin system (Trx/TrxR/NADPH) in preserving hepatic redox homeostasis. Previously, we demonstrated that thioredoxin-1 (Trx1) overexpression exerts protective effects against ischemic heart and peripheral vascular disease. Also, the neuroprotective role of thioredoxin reductase (TrxR1) has been reported in Parkinson's Disease. However, it remains unclear whether epinephrine (EP)-mediated boosting of the thioredoxin system, together with chlorpromazine (CPZ), provides sufficient protection against drug-induced ALI. To investigate this hypothesis, C57BL/6 mice were chronically administered a low dose of EP to enhance the expression of Trx1/TrxR1, followed by ALI induction with N-acetyl-para-aminophenol (APAP) and treatment with a subtoxic dose of CPZ. In parallel, hepatoma cell lines were treated with EP and/or CPZ to monitor the associated subcellular and molecular changes. The results showed that EP enhanced the expression of Trx1, thioredoxin-like protein 1 (TrxL1), and TrxR1 in liver and TrxR1 in hepatoma cell lines. Also, EP attenuated liver injury and enhanced the therapeutic effect of CPZ in ALI mice. A significant improvement in liver biomarkers, resolution of inflammation, attenuated oxidative stress, and restoration of hepatic histological architecture accompanied these observations. Moreover, activation of the thioredoxin system in hepatoma cells was associated with overexpression of β-arrestin1, TrxL1, and cAMP-response element-binding protein (CREB1), mirroring their involvement in Trx-mediated protection. Conclusively, these results addressed the protective role of boosting the cytosolic thioredoxin system in drug-induced ALI.",
-      "journal": "BMC Pharmacol Toxicol",
-      "date": "2026-10-22",
+      "pmid": "42928996",
+      "title": "Identifying Dose-Relevant Covariates With SCOUT: A Case Study of Lorlatinib.",
+      "abstract": "Molecularly targeted therapeutics, such as lorlatinib, are typically initiated at fixed starting doses with subsequent tolerability-guided modifications, although substantial interindividual variability in pharmacokinetics and drug exposure may influence both efficacy and safety outcomes. Therefore, identifying patient factors associated with individualized dose requirements is an important step toward precision dosing. The aim of this study was to apply the Systematic Covariate Observational Uncovering Technique (SCOUT) framework to explore patient characteristics that may be associated with the individualized optimal dose of lorlatinib. A previously published population pharmacokinetic model was used to estimate individual pharmacokinetic parameters and individualized optimal doses, targeting a trough concentration of 150 ng/mL 3 weeks after treatment initiation. Associations between the estimated optimal dose and patient covariates were examined through exploratory visualization and quantified using multivariate linear regression with Lindeman-Merenda-Gold relative importance analysis. Individualized optimal doses, successfully estimated in all 330 patients, exhibited a wide distribution (mean ± SD: 194 ± 134 mg/day). The exploratory analyses suggested that older age, female sex, and greater renal impairment were associated with lower estimated optimal doses, with sex explaining the largest proportion of the variance. By reframing the covariate analysis around the dose rather than pharmacokinetic parameters, this study provides a clinically interpretable perspective on interindividual variability in dosing requirements. Although exploratory and hypothesis-generating, this study lays a quantitative foundation for future evaluations of precision dosing strategies for lorlatinib.",
+      "journal": "CPT Pharmacometrics Syst Pharmacol",
+      "date": "2026-11",
       "authors": [
-        "Hessien M",
-        "Donia T",
-        "Khedr S",
-        "Salim EI",
-        "Shamaa MM",
-        "Ismail DF",
-        "Hammady M",
-        "Thirunavukkarasu M",
-        "Watters A",
-        "Taylor N",
-        "Tabll A",
-        "Hassan MH",
-        "Maulik N"
+        "Ideno Y"
       ],
       "pubtypes": [
+        "Case Reports",
         "Journal Article"
       ],
-      "doi": "10.1186/s40360-026-01225-w",
+      "doi": "10.1002/psp4.70355",
       "journal_tier": 3,
-      "impact": 2.7,
-      "section": "noro",
-      "score": 35.0,
+      "impact": 3.7,
+      "section": "klinik",
+      "score": 20.0,
       "score_parts": {
         "journal": 35,
-        "pubtype": 0,
+        "pubtype": -15,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42928033",
+      "title": "Corrigendum to \"LARS inhibition overcomes regorafenib resistance in hepatocellular carcinoma via ferroptosis and drug metabolism\" [European Journal of Pharmaceutical Sciences 225 (2026)107614].",
+      "abstract": "",
+      "journal": "Eur J Pharm Sci",
+      "date": "2026-10-25",
+      "authors": [
+        "Tsai TY",
+        "Lin HH",
+        "Cheng YC",
+        "Yadav VK",
+        "Ko CC",
+        "Cherng YG",
+        "Lai SW"
+      ],
+      "pubtypes": [
+        "Published Erratum"
+      ],
+      "doi": "10.1016/j.ejps.2026.107695",
+      "journal_tier": 2,
+      "impact": 4.5,
+      "section": "onko",
+      "score": -40.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": -100,
         "recency": 0.0
       },
       "tier": 3,
