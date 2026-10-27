@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T12:36:30+00:00",
+  "updated": "2026-10-27T11:53:24+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -656,6 +656,202 @@
         "News"
       ],
       "doi": "10.1038/d41573-026-00166-7",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42934310",
+      "title": "Bridging the capacity gap in advanced therapies.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-10-26",
+      "authors": [
+        "Deshantri AK",
+        "Punt S",
+        "Ramesh G",
+        "Sebestyen Z",
+        "Mahalatchimy A",
+        "Hoogenboom JD",
+        "Mooyaart J",
+        "Chabannon C",
+        "Fernández-Sojo J",
+        "Juan M",
+        "Koehl U",
+        "Hudecek M",
+        "Sanges C",
+        "Mielke S",
+        "Bonini C",
+        "Roddie C",
+        "Delgado J",
+        "Malard F",
+        "Pagliuca S",
+        "Ruggeri A",
+        "Straetemans T",
+        "Kuball J"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00159-6",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42934309",
+      "title": "In vivo engineered CAR NK cells.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-10-26",
+      "authors": [
+        "Crunkhorn S"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00172-9",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42934308",
+      "title": "Antagonizing adenosine receptors alleviates cardiac fibrosis.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-10-26",
+      "authors": [
+        "Crunkhorn S"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00168-5",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "kardiyometabolik",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42934307",
+      "title": "Restoring antibiotic efficacy.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-10-26",
+      "authors": [
+        "Crunkhorn S"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00171-w",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "antimikrobiyal",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42934306",
+      "title": "Nanotherapy targets senescent cells.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-10-26",
+      "authors": [
+        "Crunkhorn S"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00167-6",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42934305",
+      "title": "LNPs deliver large RNA cargos.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-10-26",
+      "authors": [
+        "Crunkhorn S"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00169-4",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42934304",
+      "title": "IL-21 mimic synergizes with KRAS inhibitors.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-10-26",
+      "authors": [
+        "Crunkhorn S"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00170-x",
       "journal_tier": 1,
       "impact": 60.8,
       "section": "diger",
@@ -1608,270 +1804,6 @@
         "recency": 0.0
       },
       "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764924",
-      "title": "The polymeric nanovectors landscape for cancer immunotherapies towards advanced therapy medicinal products (ATMPs).",
-      "abstract": "Despite major advances in oncology, cancer remains one of the leading causes of mortality worldwide, underscoring the need for more effective and personalized therapeutic solutions. Advanced therapy medicinal products (ATMPs), including gene and cell-based therapies, have emerged as a promising frontier for immune cell engineering in oncology. However, current approaches still face several technical/safety issues, mainly associated with the delivery strategies used and their complex manufacturing processes. In this context, polymeric nanovectors (pNVs) have gained attention as a promising tool for developing efficient therapeutic delivery systems. The possibility of customizing pNVs' composition/physicochemical properties, exploiting natural/synthetic polymers, enables more precise and controlled cargo delivery to immune cells, paving the way for the development of future ATMPs-oriented strategies for cancer immunotherapy. This review highlights the recent advancements in the application of pNVs for the editing of immune cells, focusing on innovative nanotechnology-based strategies to enhance the precision and efficacy of immunotherapy with a particular emphasis on their prospective role in next-generation ATMP development.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-16",
-      "authors": [
-        "Palamà IE",
-        "Invidia A",
-        "De Stradis C",
-        "Leccese G",
-        "Baldari C",
-        "Cortese B",
-        "Guido C",
-        "Giglio A",
-        "Quintarelli C",
-        "De Angelis B",
-        "Maiorano G",
-        "Locatelli F",
-        "Gigli G"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.020",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764918",
-      "title": "Artificial \"zombie\" cells: An emerging platform for targeted drug delivery and disease treatment.",
-      "abstract": "Living cell therapy represents a promising strategy for targeted drug delivery and personalized medicine. However, its clinical translation is limited by complex isolation procedures, stringent storage conditions, and inherent risks of pathogenicity. Derived from this approach, cell membrane-coated carrier technology also faces challenges related to scalability and intricate multistep fabrication. To overcome these limitations, artificial \"zombie\" cells (AZCs) therapy has emerged as an innovative alternative. This therapy employs simple methods, such as cryogenic shock, intracellular hydrogelation, or cryo-siliconization, to inactivate cells. This process eliminates potential pathogenicity while preserving membrane integrity and drug-loading functionality. Based on the intact cellular structure or engineering approaches, these \"zombie\" cells gain drug-loading capacity, targeting ability, and therapeutic potential. Compared to traditional therapies, AZCs therapy requires simplified processing and offers enhanced stability and improved safety, demonstrating promising efficacy in treating various cancerous and inflammatory diseases. Current AZCs exhibit diverse types, heterogeneous preparation methods and varied therapeutic mechanisms, highlighting the lack of systematic consolidation in this field. Therefore, this review comprehensively analyzes their preparation technologies, functionalization strategies, mechanisms of action, and disease applications of AZCs, to evaluate current research progress and clinical potential, offering insights to advance preclinical-to-clinical translation.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-29",
-      "authors": [
-        "Sun Y",
-        "Feng J",
-        "Xing Y",
-        "Sun P",
-        "Liao M",
-        "Tan X",
-        "Wang Y"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.037",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764900",
-      "title": "Advances of oral micro- and nanomedicines for modulating intestinal barriers in the treatment of intestinal diseases.",
-      "abstract": "The oral delivery of drugs for treating intestinal diseases, such as inflammatory bowel disease (IBD) and colorectal cancer (CRC), is hindered by four primary intestinal barriers: chemical, microbial, mechanical, and immunological barriers. Micro- and nanoparticles have garnered significant attention as platforms for intestinal-targeted delivery due to their small size and unique structural composition, which enhance drug accumulation and prolong residence time at the site of action, thereby facilitating localized therapy. Oral micro/nanomedicines have emerged as a promising strategy to overcome these barriers and enable the selective targeting of drugs to pathological sites within the intestine. This review systematically examines the chemical, microbial, mechanical, and immune barriers of the intestinal mucosa encountered in intestinal diseases, introduces oral micro/nanomedicines designed to target these barriers, discusses their latest advancements in the context of intestinal diseases, and ultimately provides insights into the challenges faced by oral micro/nanomedicine.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-20",
-      "authors": [
-        "Yang M",
-        "Zhu Y",
-        "Li Q",
-        "Deng Z",
-        "Xu C",
-        "Wei X",
-        "Ma Y",
-        "Ding C",
-        "Zhang M",
-        "Ma S",
-        "Zhang M"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.032",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764884",
-      "title": "Nanomaterial-mediated functional remodeling of antigen-presenting cells: A novel strategy to break tumor immune escape.",
-      "abstract": "With the cross-integration of nanotechnology and immunology, nanomaterials have shown great potential in tumor treatment. This review begins with the nanomaterials have unique advantages in reshaping the tumor immune microenvironment (TIME), including improving targeting, enhancing stability, increasing delivery efficiency, achieving controllable release, and endowing a multi-functional integrated platform. We then systematically reviews the recently research progress on the multi-mechanism regulation of antigen-presenting cells (APCs) by nanomaterials: (1) In the aspect of dendritic cell activation, we focus on the breakthrough achievements such as the activation of immune responses through the generation of immune signal complexes and the promotion of tumor neoantigen presentation; (2) In the field of macrophage reprogramming, we analyze the applications of nanomaterials in inducing macrophage polarization, improving the anti-tumor phagocytosis of macrophages, blocking macrophage autophagy, and enhancing the synergy of immune cells; (3) In the regulation of B cells, we explore the mechanism by which nanomaterials enhance the germinal center response and thereby exert anti-tumor immune effects. This article further discusses key challenges in clinical translation, including the dynamic fate of nanomaterials in complex TIME and the balance between immunogenicity and efficacy, and proposes future directions for accelerating clinical translation through computer-aided design (such as AI prediction of nanomaterial-immune cell interaction networks) and organ-on-a-chip evaluation systems. This review provides a theoretical framework and technical route for the development of next-generation tumor immunonanomedicines.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-24",
-      "authors": [
-        "Dong H",
-        "Song X",
-        "Li Y",
-        "Wei Q",
-        "Ju M",
-        "Li Y",
-        "Cui Q",
-        "Bi J",
-        "Wei M",
-        "Li H",
-        "Zhao L"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.038",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764850",
-      "title": "Targeting the nervous system: Mechanistic insights into neuro-tumor communication and therapeutic opportunities.",
-      "abstract": "The nervous system has emerged as an active regulator of the tumor ecosystem. Neural inputs from the central, peripheral, and enteric nervous systems influence tumor initiation, progression, metastasis, and therapeutic response through innervation and signal transmission. In addition to regulating tumor cell states, neural signaling reshapes stromal and immune compartments, promoting stemness, invasion, angiogenesis, metabolic adaptation, and immune evasion. Tumors, in turn, actively remodel their neural niche through neurogenesis, axonal remodeling, and tumor-nerve feedforward circuits. The biological effects of neuro-tumor crosstalk are highly context-dependent and are jointly determined by neural origin, receptor distribution, tumor state, and the local microenvironment. Accordingly, neural signaling has become a promising axis for therapeutic intervention. In this review, we summarize key advances in the molecular mechanisms of neuro-tumor communication over the past five years. We also highlight neurotransmitter and neuropeptide receptor axes with pharmacological and translational relevance, related targeted agents, and therapeutic strategies for targeting these pathways, as well as recent progress in neuro-immune combination therapy and clinical studies. Together, these advances provide an updated framework for understanding the role of neural signaling in tumor biology and its therapeutic potential.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-11",
-      "authors": [
-        "Wu T",
-        "Zhang Y",
-        "Han J"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.011",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42765076",
-      "title": "Xiangshao granules regulate the dopaminergic synapse pathway and improve menopausal anxiety in peri- and postmenopausal Chinese women: A multi-center, double-blind, randomized controlled trial.",
-      "abstract": "Anxiety is common among peri- and postmenopausal women, and many conventional treatments cause side effects. This multicenter, double-blind, randomized, placebo-controlled trial was conducted from December 2021 to June 2023 at 18 centers in China, enrolling 360 women aged 40‒65 years with menopausal anxiety. Participants were randomly assigned to receive Xiangshao granules (high-dose group, n = 180) or a placebo (very-low-dose group, n = 180) for 8 weeks. The primary outcome was the reductive ratio in self-rating anxiety scale (SAS) scores after 8 weeks, while secondary outcomes included the self-rating depression scale (SDS), Kupperman Index, and gastrointestinal symptom score (GIS). After eight weeks, the mean SAS reductive ratio was greater in the high-dose group than in the very-low-dose group (37.7% vs. 28.9%, P = 0.0052), and scores declined more in the high-dose than in the very-low-dose group, with a higher clinical improvement rate (69.8% vs. 56.9%, P = 0.0151). Although no significant between-group differences were observed for SDS, Kupperman Index, or GIS, all showed improvements from baseline. Adverse event rates were comparable. Transcriptomic analysis revealed modifications in the dopaminergic synapse pathway following Xiangshao treatment, while network pharmacology identified FOS, ATF2, and CREB1 as key dopaminergic pathway-related targets. Metabolomic data corroborated these findings. Collectively, Xiangshao granules safely and effectively alleviate menopausal anxiety, potentially by modulating dopaminergic signaling.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-16",
-      "authors": [
-        "Tang R",
-        "Xie Z",
-        "Fan Y",
-        "Zhang J",
-        "Lu L",
-        "Zhuang Y",
-        "Guo C",
-        "Shu K",
-        "Li S",
-        "Zhang P",
-        "Liu K",
-        "Zhang Y",
-        "Ji J",
-        "Ren Q",
-        "Meng Q",
-        "Lin Y",
-        "Huang X",
-        "Li H",
-        "Liu Y",
-        "Deng Q",
-        "Chen H",
-        "Su M",
-        "Zhang X",
-        "Wang Y",
-        "Liang Y",
-        "Zhang P",
-        "Chen R"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.024",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "noro",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42765066",
-      "title": "The ADP-ribosyltransferases 3 (ART3) is a novel suppressor of pathological cardiac hypertrophy by ribosylating ITGA7.",
-      "abstract": "Pathological cardiac hypertrophy and heart failure remain mechanistically incompletely defined despite their clinical significance in cardiovascular disease. While ADP-ribosyltransferase cholera toxin-like (ARTC) enzymes modulate membrane protein function and downstream signaling via post-translational modifications, their role in cardiac pathology remains unexplored. Herein, we investigated the regulatory involvement of ADP-ribosyltransferase 3 (ART3) in myocardial remodeling. Cardiomyocyte-specific ART3 knockdown and overexpression murine models were established using adeno-associated virus serotype 9 (AAV9), with RNA-sequencing employed to profile ART3-dependent transcriptional responses in pathological cardiac hypertrophy. Functional validation was performed in complementary in vitro and in vivo hypertrophy models, complemented by immunoprecipitation-coupled mass spectrometry to identify ART3 substrates. ART3 was found to be cardiomyocyte-enriched and transcriptionally downregulated during progressive myocardial remodeling and heart failure. Cardiomyocyte-specific ART3 knockdown 3 accelerated the decompensatory transition of cardiac hypertrophy, whereas ART3 overexpression exerted significant anti-hypertrophic and anti-remodeling effects. Mechanistically, ART3 preserved cardiomyocyte mono-ADP-ribosyltransferase activity, catalyzing the site-specific mono-ADP-ribosylation (mADPr) of Integrin Subunit Alpha 7 (ITGA7) at residue R129. This post-translational modification was requisite for integrin signaling pathway activation, which mediated the observed cardioprotective effects. Collectively, these findings establish ART3 as a novel regulator of pathological cardiac hypertrophy by modulating ITGA7 via mADPr, highlighting its therapeutic potential as a target for heart failure intervention.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-01",
-      "authors": [
-        "Meng Y",
-        "Hu S",
-        "Lin F",
-        "Zhu Y",
-        "Xiong Y",
-        "Sun Y",
-        "Lin Q",
-        "Lu M",
-        "Yi N",
-        "Xiao T",
-        "Wang H",
-        "Sheng J",
-        "Xu Y",
-        "Li C",
-        "Zhao C",
-        "Lu H",
-        "Sachinidis A",
-        "Li L",
-        "Peng L"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.053",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
       "abstract_tr": ""
     }
   ]
