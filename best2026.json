@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T12:29:48+00:00",
+  "updated": "2026-10-29T12:39:43+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -1611,6 +1611,41 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42948704",
+      "title": "Association between the use of traditional Chinese medicine patterns as an inclusion criterion and statistical significance in primary outcomes of randomized placebo-controlled trials of Chinese herbal formulas.",
+      "abstract": "Randomized, placebo-controlled trials of Chinese herbal formulas (CHFs) are commonly used to evaluate efficacy, but a proportion of such trials fail to demonstrate statistically significant effects on primary outcomes. Some researchers have pointed out that excluding traditional Chinese medicine (TCM) pattern differentiation from inclusion criteria may reduce the alignment between treatment and enrolled patient characteristics, which could, in turn, affect observed efficacy. This study analyzed 378 randomized, placebo-controlled trials of CHFs with clearly defined primary outcomes that were published between January 1, 2020, and October 21, 2025, and identified through searches of eight databases. A total of 92,691 participants were included in the primary outcome analyses. Of these, 324 trials (85.7%) reported statistically significant results on primary outcomes, and 197 (52.1%) used TCM patterns as an inclusion criterion. Multivariable Poisson regression revealed that trials using TCM patterns were more likely to report statistically significant results (adjusted risk ratio [aRR] = 1.14; 95% CI: 1.06-1.23; P = 0.001). The association was generally consistent across prespecified subgroups and sensitivity analyses; however, only 52 studies (13.8%) were evaluated as low risk of bias according to the Cochrane Risk of Bias 2.0 tool. Because this study included only published trials and few published pattern-based trials reported statistically nonsignificant primary outcomes, the observed association should be interpreted cautiously and may be influenced by publication bias, selective outcome reporting, and contextual differences in research and reporting practices. Further high-quality, prospectively registered, methodologically rigorous, and better-standardized trials are needed to evaluate this association.",
+      "journal": "Acta Pharm Sin B",
+      "date": "2026-07-25",
+      "authors": [
+        "Bu Z",
+        "Song M",
+        "Chen C",
+        "Shi X",
+        "Wang X",
+        "Li Y",
+        "Chong J",
+        "Zhu Y",
+        "Jiang F",
+        "Chen Y"
+      ],
+      "pubtypes": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.apsb.2026.07.033",
+      "journal_tier": 1,
+      "impact": 14.0,
+      "section": "dogal",
+      "score": 115.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 15,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42765004",
       "title": "Nanomaterial-driven spatiotemporal autophagy modulation: The dual-edged sword in precision cancer therapy.",
       "abstract": "Autophagy-modulating nanomaterials have emerged as a promising therapeutic paradigm in oncology, offering precise intervention in tumor progression, metastasis, and treatment resistance. The therapeutic efficacy of these platforms is largely attributed to their context-dependent dual functionality. On one hand, they are capable of inducing cytotoxic autophagy, such as through the activation of oxidative stress or endoplasmic reticulum stress, leading to tumor cell death. On the other hand, they can inhibit cytoprotective autophagy, a crucial survival mechanism exploited by tumor cells, by impairing lysosomal function or perturbing cellular energy metabolism. A key advancement in this field is the ability of nanomaterials to achieve spatiotemporal control over autophagy modulation, allowing targeted regulation at specific tumor sites and disease stages. This review systematically summarizes the molecular mechanisms underlying these bidirectional effects, with particular emphasis on the modulation of selective autophagy pathways including mitophagy, and discusses how rational nanomaterial design adapted to tumor stage and microenvironment dictates therapeutic outcomes. Finally, we highlight major translational challenges, especially the lack of standardized characterization and the difficulty in precisely controlling autophagic responses, which must be addressed to facilitate the clinical translation of these innovative nanotherapeutic strategies.",
@@ -1758,42 +1793,6 @@
         "Review"
       ],
       "doi": "10.1016/j.apsb.2026.07.019",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764940",
-      "title": "Emerging organoids and organoids-on-chip platforms for translational development of antibody‒drug conjugates and next-generation bioconjugates.",
-      "abstract": "The rapid evolution of antibody‒drug conjugates (ADCs) and emerging X-drug conjugates (XDCs) has revolutionized targeted cancer therapy, yet their clinical translation is severely bottlenecked by the lack of human-relevant preclinical models. To bridge this translational gap, patient-derived organoids and organoids-on-chip (OoC) platforms recapitulate key features of human tumor biology, offering powerful tools for investigating cancer heterogeneity and improving the predictive evaluation of bioconjugated therapeutics. In this review, we systematically summarize the current landscape and challenges of ADCs and XDCs development across existing preclinical models, critically discuss the concepts, biological principles and application potential of organoid- and OoC-based systems, and highlight recent global policy developments and collaborative initiatives shaping their translational implementation. Finally, we highlight key challenges and future perspectives for leveraging organoids and OoCs in the druggability assessment, optimization, and translational development of ADCs and XDCs.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-11",
-      "authors": [
-        "Hu Z",
-        "Liao Y",
-        "Niu M",
-        "Kong Z",
-        "Vankelecom H",
-        "Cheng J",
-        "Deleidi M",
-        "Li C",
-        "Jiang Z",
-        "Bian S",
-        "Wang Q"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.apsb.2026.05.032",
       "journal_tier": 1,
       "impact": 14.0,
       "section": "onko",
