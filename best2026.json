@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T12:39:43+00:00",
+  "updated": "2026-10-30T12:30:55+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -852,6 +852,31 @@
         "News"
       ],
       "doi": "10.1038/d41573-026-00170-x",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42957787",
+      "title": "Filling the massive AI drug discovery data gap.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11",
+      "authors": [
+        "Mullard A"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00137-y",
       "journal_tier": 1,
       "impact": 60.8,
       "section": "diger",
@@ -1755,44 +1780,6 @@
         "Review"
       ],
       "doi": "10.1016/j.apsb.2026.06.045",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764959",
-      "title": "Deconvoluting the multi-faceted roles of alternative splicing events in cancer: From underlying mechanisms to innovative therapeutics.",
-      "abstract": "Alternative splicing (AS) is well-known to be a critical mechanism to enhance proteomic diversity from a limited genome. Dysregulation of AS may represent a key tumor-specific molecular feature; thereby driving tumorigenesis and progression. Elucidating the mechanisms underlying AS dysregulation in oncogenesis is paramount for developing more novel therapeutic targets and agents. Thus, in this review, we comprehensively demonstrate the pivotal roles of AS dysregulation across the 14 established cancer hallmarks. We systematically summarize current therapeutic targets and related strategies for targeting AS in cancer, including small molecules and antisense oligonucleotides (ASOs). Moreover, we further discuss the progress, challenges, and potential solutions in drug development by providing both preclinical data and clinical trial outcomes for AS-targeted therapies. In summary, this review aims to deconvolute the multi-faceted roles of alternative splicing events in cancer from underlying mechanisms to innovative therapeutics.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-16",
-      "authors": [
-        "Hu L",
-        "Wang X",
-        "Fan B",
-        "Zhao Q",
-        "Zhong Y",
-        "Lu Y",
-        "Liao M",
-        "Li H",
-        "Fu X",
-        "Wang H",
-        "Du C",
-        "Han B",
-        "Fu L"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.019",
       "journal_tier": 1,
       "impact": 14.0,
       "section": "onko",
