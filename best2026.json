@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T11:58:31+00:00",
+  "updated": "2026-11-01T12:58:21+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -1542,6 +1542,41 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42966247",
+      "title": "PKA-dependent phosphorylation of PSMG1 reduces bortezomib sensitivity in hepatocellular carcinoma.",
+      "abstract": "AIMS: This study aimed to characterize PSMG1 expression and its phosphorylation status in hepatocellular carcinoma (HCC), and dissect its functional role in regulating bortezomib (BTZ) chemosensitivity. METHODS: Western blotting, Flag co-immunoprecipitation and GST pull-down assays were applied to profile protein abundance, protein-protein binding and phosphorylation signaling cascades. Flow cytometry quantified apoptotic cell populations. Fluorogenic peptide substrates were utilized to measure cellular chymotrypsin-like proteasome activity. MTT, colony formation and Transwell migration assays were performed to evaluate proliferative and migratory phenotypes. In vivo anti-tumor efficacy of BTZ monotherapy and BTZ/H89 co-treatment was validated in subcutaneous HCC xenograft mouse models. RESULTS: PSMG1 protein was aberrantly overexpressed in HCC tissues, and high PSMG1 abundance independently predicted dismal patient survival. Genetic ablation of PSMG1 suppressed chymotrypsin-like proteasome activity and sensitized HCC cells to BTZ, without altering intrinsic cell proliferation or migratory capacity. Protein kinase A (PKA) physically bound PSMG1 and was associated with its phosphorylation at residues T18 and T54. This post-translational modification was correlated with elevated chymotrypsin-like proteasome activity and reduced sensitivity of HCC cells to BTZ. Consistently, pharmacological blockade of PKA via H89 enhanced BTZ cytotoxicity in HCC. Immunohistochemical profiling revealed elevated PKA-pT197 levels in HCC lesions, which exhibited a modest positive correlation with PSMG1-pT18 phosphorylation signals. CONCLUSIONS: PKA activity is associated with PSMG1 phosphorylation, which may contribute to reduced BTZ sensitivity in HCC. Pharmacological inhibition of PKA with H89 enhanced bortezomib cytotoxicity in preclinical HCC models, providing a preliminary rationale for combination strategies to increase proteasome inhibitor sensitivity in HCC management.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-10-29",
+      "authors": [
+        "Liu WJ",
+        "Zeng SJ",
+        "Cai SW",
+        "Zhu YQ",
+        "Huang YP",
+        "Niu WY",
+        "Song XP",
+        "Lan ZH",
+        "Wang MJ",
+        "Bao HS",
+        "Shi Z"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.drup.2026.101495",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42786050",
       "title": "Cysteine acquisition in cancer: Cystine import or glutathione catabolism?",
       "abstract": "",
@@ -1753,36 +1788,6 @@
       "journal_tier": 1,
       "impact": 14.0,
       "section": "kardiyometabolik",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764966",
-      "title": "Tuning epigenetics to enhance cancer virotherapy.",
-      "abstract": "Cancer remains a major global health challenge, driving intensive research into novel therapeutic strategies. Oncolytic viruses (OVs) including herpesviruses, adenoviruses and echoviruses, have emerged as promising agents for cancer treatment, with several achieving regulatory approval. These viruses selectively lyse tumor cells and stimulate antitumor immunity. Nevertheless, their efficacy is constrained by limitations such as neutralization by serum factors and tumor cell resistance. Concurrently, epigenetic inhibitors modulate gene expression to suppress tumor proliferation and reshape immune responses. Recent advances highlight the strong synergistic potential of combining epigenetic inhibitors with oncolytic viruses. This strategy enhances viral replication and tumor cell killing, reprograms the tumor microenvironment, and ultimately improves therapeutic efficacy. Consequently, the integration of epigenetic modulators with OV therapy represents a promising frontier in oncology. This review comprehensively examines epigenetic inhibitors, with emphasis on their combined application with oncolytic viruses for cancer treatment.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-26",
-      "authors": [
-        "Wang Y",
-        "Zhang L",
-        "Che Y",
-        "Yang F",
-        "Sun ZJ"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.045",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
