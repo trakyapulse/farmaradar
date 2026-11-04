@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T13:55:22+00:00",
+  "updated": "2026-11-04T14:05:58+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -890,6 +890,31 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42977851",
+      "title": "FDA approves plasmid DNA-based immunotherapy for rare viral disease.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-03",
+      "authors": [
+        "Mullard A"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00175-6",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "immuno",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42768084",
       "title": "Two trials or not two trials? That should not be the question.",
       "abstract": "",
@@ -1760,34 +1785,6 @@
       "journal_tier": 1,
       "impact": 14.0,
       "section": "toksikoloji",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764981",
-      "title": "Lipid nanoparticles as active biointerfaces: From membrane interaction to systemic dysregulation.",
-      "abstract": "Lipid nanoparticles (LNPs) are central to modern mRNA therapeutics, including COVID-19 vaccines. Far from passive carriers, their ionizable lipids actively interact with cellular membranes. Evidence from cellular, transcriptomic, and proteomic studies indicates that LNPs, with or without nucleic acid, alter gene and protein expression, thereby initiating inflammatory, detoxification, and stress responses at the membrane. Key pathways affected include lipid metabolism and detoxification, with roles for Peroxisome Proliferator-Activated Receptor Gamma (PPARγ) and cytochrome P450 enzymes. We hypothesize that the phosphatidylinositol (PI) cycle is the primary site of LNP-induced perturbations, regulating membrane restructuring and organelle trafficking during endocytosis. Disruption of this cycle triggers downstream signaling cascades, including nuclear factor kappa B (NF-κB), mitogen-activated protein kinases (MAPKs), Janus kinase/signal transducers and activators of transcription (JAK/STAT), and mechanistic target of rapamycin (mTOR). We term this systemic effect lipid-nanoparticle-driven membrane dysfunction (L-DMD), characterized by dysregulated cellular communication, stress responses, and energy balance. This review provides a mechanistic framework for understanding the persistent biological effects of modified modRNA-LNP exposure and emphasizes a systems-level intracellular perspective.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-06",
-      "authors": [
-        "Seger F",
-        "Gutschi LM",
-        "Seneff S"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.001",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "kardiyometabolik",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
