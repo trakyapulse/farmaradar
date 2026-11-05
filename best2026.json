@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T14:05:58+00:00",
+  "updated": "2026-11-05T14:25:31+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -1602,6 +1602,47 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42981809",
+      "title": "Calibrating public genome archives for AMR surveillance: Four decades of redundancy-aware phylogenomics of pandemic Escherichia coli ST131.",
+      "abstract": "AIMS: Escherichia coli sequence type (ST)131 is a globally disseminated multidrug-resistant pathogen, yet public genome collections are skewed by uneven sampling and repeated sequencing of genetically near-identical isolates. Rather than another reconstruction of ST131 evolution, we quantified redundancy, reassessed population structure, and tested how sampling bias affects estimates of phylogenetic diversity, clade-specific dating, and fluoroquinolone-resistance-associated diversification. METHODS: EnteroBase core-genome multilocus sequence typing (cgMLST) hierarchical clustering was used to reduce redundancy among 16,713 public ST131 complex genomes. Representative public genomes were combined with 390 unpublished New Zealand ST131 surveillance genomes from 1999 to 2019. Clade-specific phylogenetic and temporal analyses were performed for Clades A, B, and C, with sensitivity analyses using stricter cgMLST clustering and phylogenetic-diversity-guided subsampling. RESULTS: Public genomes were highly redundant: just 2/409 cgMLST groups contained 85.2% of public genomes. After redundancy reduction, dated Clades A, B, and C phylogenies spanning 1999-2023 (n = 113), 1982-2025 (n = 240), and 1999-2025 (n = 614), respectively, were constructed. Clades A and B showed distinct temporal histories and evolutionary rates. Date-randomization supported temporal information in Clade C, although incomplete convergence of the observed-date relaxed-clock and Bayesian Skyline analyses means that exact Clade C molecular-date and demographic estimates should be interpreted cautiously. The broad Clade C reconstruction nevertheless indicated expansion of the dominant fluoroquinolone-resistant lineage in the late 1990s/early 2000s and again in the mid-2000s. CONCLUSIONS: Public ST131 datasets reflect sampling distribution as well as number of available genomes. Redundancy in dominant cgMLST groups can obscure uncommon lineages and blur emergence with later expansion. In Clade C, redundancy-aware analysis was broadly consistent with previous estimates placing major fluoroquinolone-resistant diversification in the early 1990s, while indicating that early resistance diversification preceded later amplification of resistant sublineages.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-10-28",
+      "authors": [
+        "White RT",
+        "Biggs PJ",
+        "Burgess SA",
+        "Collis RM",
+        "Cookson AL",
+        "Downing T",
+        "Elvy J",
+        "Featherstone LA",
+        "French NP",
+        "Pattis I",
+        "Price EP",
+        "Sarovich DS",
+        "Tiong A",
+        "Ussher JE",
+        "Winter DJ",
+        "Yang Z",
+        "Dyet K"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.drup.2026.101497",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42786050",
       "title": "Cysteine acquisition in cancer: Cystine import or glutathione catabolism?",
       "abstract": "",
@@ -1755,36 +1796,6 @@
       "journal_tier": 1,
       "impact": 14.0,
       "section": "onko",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42764996",
-      "title": "Supramolecular strategy in traditional Chinese medicine processing: Mechanistic insights mediated by self-assembly.",
-      "abstract": "The processing of traditional Chinese medicine (TCM) is a critical process that upholds tradition and determines medicinal efficacy. The mechanisms underlying changes in TCM efficacy resulting from processing are currently a key focus of TCM research. Advances in supramolecular chemistry have significantly advanced the understanding of the mechanisms governing the efficacy of TCM complex chemical systems. Both the active ingredient basis and the adjuvant materials used in processing can be regarded as supramolecular units. Processing guides the TCM supermolecules to change structure through covalent forces and self-assemble non-covalently, forming soft matter aggregates that enable selective recognition, transformation, and assembly of components. These aggregates autonomously steer the entire system toward enhanced efficacy and reduced toxicity, thereby revealing the TCM's true active substance foundation. This paper highlights that the dynamic chemical system formed via supramolecular self-assembly during TCM processing can be likened to an \"imprinting template\" with memory function, which underlies the TCM \"holistic\" effects-characterized by multiple components, pathways, and targets. This study aims to provide valuable insights into TCM processing based on supramolecular development, bridging the gap between supramolecular science and TCM. Consequently, it offers profound inspiration for designing next-generation smart drug delivery systems, responsive biomaterials, and adaptive chemical systems.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-26",
-      "authors": [
-        "Song W",
-        "Gong H",
-        "Wang H",
-        "Huang D",
-        "Sun L"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.048",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "toksikoloji",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
