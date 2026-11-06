@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T14:25:31+00:00",
+  "updated": "2026-11-06T14:00:40+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -915,6 +915,83 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42988845",
+      "title": "Degraders take on GPCRs.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-05",
+      "authors": [
+        "Kingwell K"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00177-4",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42982880",
+      "title": "Linking kinase inhibitors for greater selectivity.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-04",
+      "authors": [
+        "Villanueva MT"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00176-5",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42982879",
+      "title": "Checkpoint inhibitor combinations: the trial-to-approval gap.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-04",
+      "authors": [
+        "Benthani F",
+        "Upadhaya S",
+        "Zhou AY"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00174-7",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42768084",
       "title": "Two trials or not two trials? That should not be the question.",
       "abstract": "",
@@ -1283,6 +1360,44 @@
       "journal_tier": 1,
       "impact": 15.0,
       "section": "klinik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42987551",
+      "title": "Drug resistance mechanisms and sensitization strategies in central nervous system tumors.",
+      "abstract": "Central nervous system tumors remain challenging owing to their location, heterogeneity, and relapse, with persistently high mortality to incidence ratios. Current standard therapy (surgery plus temozolomide based chemoradiotherapy) remains first line, yet nearly all patients eventually develop acquired resistance, the major hurdle to survival benefit. Resistance is not driven by single gene mutations but by a multidimensional adaptive network from nucleus to intercellular communication. In the nucleus, backup DNA repair pathways activate with epigenetic regulation, allowing cells to escape via lineage reprogramming or senescence. In the cytoplasm, metabolic reprogramming affects epigenetic enzymes and reshapes antioxidant/repair networks. At the membrane, the blood brain and blood tumor barriers not only physically block drugs but also actively remodel to promote resistance. In intercellular communication, immunosuppressive cells (Tregs, M2 macrophages) and neuron glioma synapses provide signals and metabolic support. Emerging sensitizing strategies include targeting repair, blocking plasticity, eliminating senescent cells, computational combination therapy, epigenetic metabolic interventions, biomimetic delivery, immune microenvironment remodeling, and disrupting neuro tumor crosstalk-but are limited by BBB penetration, preclinical model fidelity, and target selectivity. This review organizes current evidence by spatial mechanisms and proposes a multi modal personalized sensitization framework centered on overcoming barriers, aiming to provide a theoretical reference for precision therapy.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-10-31",
+      "authors": [
+        "Xiong F",
+        "Li G",
+        "Chan YT",
+        "Xin Y",
+        "Hong R",
+        "Xie K",
+        "Zhou W",
+        "Zhang C",
+        "Zhang B",
+        "Feng Y",
+        "Wang N",
+        "Chen ZS",
+        "Huang Q"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.drup.2026.101496",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "onko",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -1667,142 +1782,6 @@
         "recency": 0.0
       },
       "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42837734",
-      "title": "AI-enabled genomic surveillance for antimicrobial resistance: balancing effectiveness, trustworthiness and equity.",
-      "abstract": "",
-      "journal": "Drug Resist Updat",
-      "date": "2026-10-05",
-      "authors": [
-        "Vitiello A",
-        "Zovi A"
-      ],
-      "pubtypes": [
-        "Letter"
-      ],
-      "doi": "10.1016/j.drup.2026.101486",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "antimikrobiyal",
-      "score": 70.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": -30,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42833907",
-      "title": "Corrigendum to \"Tumor-derived KLK5 activates TMEM158+ cancer-associated fibroblasts to induce CD8+ T cell exhaustion and confer resistance to cancer immunotherapy\" [Drug Resist. Updates, Vol. 90, January 2027, 101473].",
-      "abstract": "",
-      "journal": "Drug Resist Updat",
-      "date": "2026-10-05",
-      "authors": [
-        "Pu S",
-        "Li G",
-        "Jiang Y",
-        "Shao C",
-        "Hou X",
-        "You L",
-        "Yu P",
-        "Jiang T",
-        "Zhao Y",
-        "Liu T",
-        "Lu Y",
-        "Wang D",
-        "Du R",
-        "Li C",
-        "Zhang J",
-        "Sun G",
-        "Gao Y"
-      ],
-      "pubtypes": [
-        "Published Erratum"
-      ],
-      "doi": "10.1016/j.drup.2026.101485",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "onko",
-      "score": 0.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": -100,
-        "recency": 0.0
-      },
-      "tier": 3,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42948704",
-      "title": "Association between the use of traditional Chinese medicine patterns as an inclusion criterion and statistical significance in primary outcomes of randomized placebo-controlled trials of Chinese herbal formulas.",
-      "abstract": "Randomized, placebo-controlled trials of Chinese herbal formulas (CHFs) are commonly used to evaluate efficacy, but a proportion of such trials fail to demonstrate statistically significant effects on primary outcomes. Some researchers have pointed out that excluding traditional Chinese medicine (TCM) pattern differentiation from inclusion criteria may reduce the alignment between treatment and enrolled patient characteristics, which could, in turn, affect observed efficacy. This study analyzed 378 randomized, placebo-controlled trials of CHFs with clearly defined primary outcomes that were published between January 1, 2020, and October 21, 2025, and identified through searches of eight databases. A total of 92,691 participants were included in the primary outcome analyses. Of these, 324 trials (85.7%) reported statistically significant results on primary outcomes, and 197 (52.1%) used TCM patterns as an inclusion criterion. Multivariable Poisson regression revealed that trials using TCM patterns were more likely to report statistically significant results (adjusted risk ratio [aRR] = 1.14; 95% CI: 1.06-1.23; P = 0.001). The association was generally consistent across prespecified subgroups and sensitivity analyses; however, only 52 studies (13.8%) were evaluated as low risk of bias according to the Cochrane Risk of Bias 2.0 tool. Because this study included only published trials and few published pattern-based trials reported statistically nonsignificant primary outcomes, the observed association should be interpreted cautiously and may be influenced by publication bias, selective outcome reporting, and contextual differences in research and reporting practices. Further high-quality, prospectively registered, methodologically rigorous, and better-standardized trials are needed to evaluate this association.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-07-25",
-      "authors": [
-        "Bu Z",
-        "Song M",
-        "Chen C",
-        "Shi X",
-        "Wang X",
-        "Li Y",
-        "Chong J",
-        "Zhu Y",
-        "Jiang F",
-        "Chen Y"
-      ],
-      "pubtypes": [
-        "Clinical Trial",
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.apsb.2026.07.033",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "dogal",
-      "score": 115.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 15,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42765004",
-      "title": "Nanomaterial-driven spatiotemporal autophagy modulation: The dual-edged sword in precision cancer therapy.",
-      "abstract": "Autophagy-modulating nanomaterials have emerged as a promising therapeutic paradigm in oncology, offering precise intervention in tumor progression, metastasis, and treatment resistance. The therapeutic efficacy of these platforms is largely attributed to their context-dependent dual functionality. On one hand, they are capable of inducing cytotoxic autophagy, such as through the activation of oxidative stress or endoplasmic reticulum stress, leading to tumor cell death. On the other hand, they can inhibit cytoprotective autophagy, a crucial survival mechanism exploited by tumor cells, by impairing lysosomal function or perturbing cellular energy metabolism. A key advancement in this field is the ability of nanomaterials to achieve spatiotemporal control over autophagy modulation, allowing targeted regulation at specific tumor sites and disease stages. This review systematically summarizes the molecular mechanisms underlying these bidirectional effects, with particular emphasis on the modulation of selective autophagy pathways including mitophagy, and discusses how rational nanomaterial design adapted to tumor stage and microenvironment dictates therapeutic outcomes. Finally, we highlight major translational challenges, especially the lack of standardized characterization and the difficulty in precisely controlling autophagic responses, which must be addressed to facilitate the clinical translation of these innovative nanotherapeutic strategies.",
-      "journal": "Acta Pharm Sin B",
-      "date": "2026-06-29",
-      "authors": [
-        "Xu L",
-        "Hao J",
-        "Zhao Y",
-        "Wang Y",
-        "Yu Y",
-        "He C",
-        "Niu Z",
-        "Ouyang D",
-        "Xiang B"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.apsb.2026.06.049",
-      "journal_tier": 1,
-      "impact": 14.0,
-      "section": "onko",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
       "abstract_tr": ""
     }
   ]
