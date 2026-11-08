@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T12:44:53+00:00",
+  "updated": "2026-11-08T13:02:12+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -992,6 +992,61 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42995240",
+      "title": "Regulatory lessons from FDA review of approved AAV gene therapies.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-06",
+      "authors": [
+        "Bing S",
+        "Argaw T",
+        "Kaushal M",
+        "Mazor R"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00178-3",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42995239",
+      "title": "Decision quality in biopharma portfolio renewal.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-06",
+      "authors": [
+        "Loche A",
+        "Agrawal G",
+        "Ascher J"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00173-8",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42768084",
       "title": "Two trials or not two trials? That should not be the question.",
       "abstract": "",
@@ -1408,6 +1463,37 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "42998578",
+      "title": "Macrophage-centered resistance programs in cancer: A unified framework for therapeutic resistance and precision immunotherapy.",
+      "abstract": "Therapeutic resistance remains a major barrier to durable cancer control despite advances in immunotherapy, targeted therapy, cellular therapies, chemotherapy, and radiotherapy. Although tumor cell-intrinsic genetic and epigenetic alterations are well-established drivers of resistance, treatment outcomes are also shaped by dynamic interactions within the tumor microenvironment (TME). Among its stromal and immune constituents, tumor-associated macrophages (TAMs) are prominent regulators of therapeutic resistance because of their functional plasticity and capacity to integrate diverse environmental signals. Here, we introduce macrophage-centered resistance programs as an integrative framework comprising four recurrent, non-mutually exclusive functional modules: lipid-associated, matrix-remodeling, glyco-immune, and metabolic programs. These modules link tumor-derived stressors to macrophage adaptation, immune suppression, stromal remodeling, and therapeutic persistence, while allowing substantial overlap, context dependence, and dynamic interconversion. We further distinguish associative observations from mechanistic and causal evidence and examine how macrophage-associated resistance mechanisms interact with treatment-specific tumor cell-intrinsic pathways across immune checkpoint blockade, cellular therapy, targeted therapy, chemotherapy, and radiotherapy. Finally, we discuss macrophage-directed therapeutic strategies and the requirements for biomarker-guided precision immunotherapy, including clinical validation, assay standardization, and longitudinal monitoring. This framework is intended as a testable organizational model for understanding macrophage-mediated therapeutic resistance and guiding more precise macrophage-directed interventions.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-11-04",
+      "authors": [
+        "Li Y",
+        "Xu S",
+        "Xie H",
+        "Wang Q",
+        "Lu L",
+        "Ma W"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.drup.2026.101498",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "kardiyometabolik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42759446",
       "title": "Tumor-derived KLK5 activates TMEM158+ cancer-associated fibroblasts to induce CD8+ T cell exhaustion and confer immunotherapy resistance in lung cancer.",
       "abstract": "AIM: Immune checkpoint blockade (ICB) has improved the treatment landscape of lung squamous cell carcinoma (LUSC), but durable clinical benefit is limited by frequent therapeutic resistance. We aimed to define the microenvironmental mechanisms underlying ICB resistance in LUSC. METHODS: Surgical specimens from LUSC patients treated with neoadjuvant anti-PD-1 therapy plus chemotherapy were analyzed using integrated single-cell and spatial transcriptomics. Our findings were validated in independent bulk RNA-seq and multiplex immunofluorescence cohorts and functionally tested in fibroblast-specific conditional knockout and humanized mouse models. RESULTS: We identified a TMEM158⁺ cancer-associated fibroblast (CAF) subpopulation enriched in non-responders and associated with poor prognosis. Spatial and functional analyses showed that TMEM158⁺ CAFs promoted CD8⁺ T-cell exhaustion. Mechanistically, tumor-derived KLK5 engaged TMEM158, recruited SDCBP, activated the MEK/ERK-ELK1 signaling axis, and induced TNC and SPP1 expression, thereby establishing an immunosuppressive niche. Genetic ablation or functional inhibition of TMEM158⁺ CAFs enhanced sensitivity to anti-PD-1 therapy in LUSC. CONCLUSION: TMEM158⁺ CAFs are key stromal mediators of immune evasion and ICB resistance in LUSC and represent a promising biomarker and therapeutic target.",
@@ -1679,109 +1765,6 @@
         "recency": 0.0
       },
       "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42966247",
-      "title": "PKA-dependent phosphorylation of PSMG1 reduces bortezomib sensitivity in hepatocellular carcinoma.",
-      "abstract": "AIMS: This study aimed to characterize PSMG1 expression and its phosphorylation status in hepatocellular carcinoma (HCC), and dissect its functional role in regulating bortezomib (BTZ) chemosensitivity. METHODS: Western blotting, Flag co-immunoprecipitation and GST pull-down assays were applied to profile protein abundance, protein-protein binding and phosphorylation signaling cascades. Flow cytometry quantified apoptotic cell populations. Fluorogenic peptide substrates were utilized to measure cellular chymotrypsin-like proteasome activity. MTT, colony formation and Transwell migration assays were performed to evaluate proliferative and migratory phenotypes. In vivo anti-tumor efficacy of BTZ monotherapy and BTZ/H89 co-treatment was validated in subcutaneous HCC xenograft mouse models. RESULTS: PSMG1 protein was aberrantly overexpressed in HCC tissues, and high PSMG1 abundance independently predicted dismal patient survival. Genetic ablation of PSMG1 suppressed chymotrypsin-like proteasome activity and sensitized HCC cells to BTZ, without altering intrinsic cell proliferation or migratory capacity. Protein kinase A (PKA) physically bound PSMG1 and was associated with its phosphorylation at residues T18 and T54. This post-translational modification was correlated with elevated chymotrypsin-like proteasome activity and reduced sensitivity of HCC cells to BTZ. Consistently, pharmacological blockade of PKA via H89 enhanced BTZ cytotoxicity in HCC. Immunohistochemical profiling revealed elevated PKA-pT197 levels in HCC lesions, which exhibited a modest positive correlation with PSMG1-pT18 phosphorylation signals. CONCLUSIONS: PKA activity is associated with PSMG1 phosphorylation, which may contribute to reduced BTZ sensitivity in HCC. Pharmacological inhibition of PKA with H89 enhanced bortezomib cytotoxicity in preclinical HCC models, providing a preliminary rationale for combination strategies to increase proteasome inhibitor sensitivity in HCC management.",
-      "journal": "Drug Resist Updat",
-      "date": "2026-10-29",
-      "authors": [
-        "Liu WJ",
-        "Zeng SJ",
-        "Cai SW",
-        "Zhu YQ",
-        "Huang YP",
-        "Niu WY",
-        "Song XP",
-        "Lan ZH",
-        "Wang MJ",
-        "Bao HS",
-        "Shi Z"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.drup.2026.101495",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42981809",
-      "title": "Calibrating public genome archives for AMR surveillance: Four decades of redundancy-aware phylogenomics of pandemic Escherichia coli ST131.",
-      "abstract": "AIMS: Escherichia coli sequence type (ST)131 is a globally disseminated multidrug-resistant pathogen, yet public genome collections are skewed by uneven sampling and repeated sequencing of genetically near-identical isolates. Rather than another reconstruction of ST131 evolution, we quantified redundancy, reassessed population structure, and tested how sampling bias affects estimates of phylogenetic diversity, clade-specific dating, and fluoroquinolone-resistance-associated diversification. METHODS: EnteroBase core-genome multilocus sequence typing (cgMLST) hierarchical clustering was used to reduce redundancy among 16,713 public ST131 complex genomes. Representative public genomes were combined with 390 unpublished New Zealand ST131 surveillance genomes from 1999 to 2019. Clade-specific phylogenetic and temporal analyses were performed for Clades A, B, and C, with sensitivity analyses using stricter cgMLST clustering and phylogenetic-diversity-guided subsampling. RESULTS: Public genomes were highly redundant: just 2/409 cgMLST groups contained 85.2% of public genomes. After redundancy reduction, dated Clades A, B, and C phylogenies spanning 1999-2023 (n = 113), 1982-2025 (n = 240), and 1999-2025 (n = 614), respectively, were constructed. Clades A and B showed distinct temporal histories and evolutionary rates. Date-randomization supported temporal information in Clade C, although incomplete convergence of the observed-date relaxed-clock and Bayesian Skyline analyses means that exact Clade C molecular-date and demographic estimates should be interpreted cautiously. The broad Clade C reconstruction nevertheless indicated expansion of the dominant fluoroquinolone-resistant lineage in the late 1990s/early 2000s and again in the mid-2000s. CONCLUSIONS: Public ST131 datasets reflect sampling distribution as well as number of available genomes. Redundancy in dominant cgMLST groups can obscure uncommon lineages and blur emergence with later expansion. In Clade C, redundancy-aware analysis was broadly consistent with previous estimates placing major fluoroquinolone-resistant diversification in the early 1990s, while indicating that early resistance diversification preceded later amplification of resistant sublineages.",
-      "journal": "Drug Resist Updat",
-      "date": "2026-10-28",
-      "authors": [
-        "White RT",
-        "Biggs PJ",
-        "Burgess SA",
-        "Collis RM",
-        "Cookson AL",
-        "Downing T",
-        "Elvy J",
-        "Featherstone LA",
-        "French NP",
-        "Pattis I",
-        "Price EP",
-        "Sarovich DS",
-        "Tiong A",
-        "Ussher JE",
-        "Winter DJ",
-        "Yang Z",
-        "Dyet K"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.drup.2026.101497",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "diger",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42786050",
-      "title": "Cysteine acquisition in cancer: Cystine import or glutathione catabolism?",
-      "abstract": "",
-      "journal": "Drug Resist Updat",
-      "date": "2026-09-23",
-      "authors": [
-        "Xia C",
-        "Chen ZS",
-        "Fu C"
-      ],
-      "pubtypes": [
-        "Editorial"
-      ],
-      "doi": "10.1016/j.drup.2026.101483",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "onko",
-      "score": 75.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": -25,
-        "recency": 0.0
-      },
-      "tier": 3,
       "abstract_tr": ""
     }
   ]
