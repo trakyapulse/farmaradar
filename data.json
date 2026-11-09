@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-08T13:02:12+00:00",
+  "updated": "2026-11-09T15:45:22+00:00",
   "window_days": 1,
   "datetype": "edat",
-  "count": 59,
+  "count": 70,
   "tier1_count": 3,
   "source": "PubMed (NCBI E-utilities)",
   "articles": [
@@ -97,6 +97,50 @@
         "recency": 0.0
       },
       "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43000179",
+      "title": "α-tocopherol (Vitamin E) inhibits second mitochondria-derived activator of caspases (SMAC) mimetic-induced cell death by directly targeting cIAP1 degradation.",
+      "abstract": "BACKGROUND AND PURPOSE: Tocopherols (vitamin E) are well characterized as essential lipophilic antioxidant agents. However, recent evidence suggests that tocopherols may also regulate cellular signalling through direct interactions with specific protein targets. This study aimed to investigate the molecular mechanism by which α-tocopherol regulates programmed cell death and to identify its direct molecular target. EXPERIMENTAL APPROACH: A high-throughput screen identified α-tocopherol as an inhibitor of TNF-α/SMAC-mimetic-induced cell death. The mechanism(s) underlying this action of α-tocopherol was investigated using western blotting, immunoprecipitation, ubiquitination assays, drug affinity responsive target stability, cellular thermal shift assay, isothermal titration calorimetry and molecular docking. Its efficacy, in vivo, was evaluated in a murine model of ulcerative colitis, induced by dextran sulphate sodium (DSS). KEY RESULTS: α-Tocopherol selectively inhibited TNF-α/SMAC-mimetic-induced cell death by directly and competitively binding to the BIR3 domain of the inhibitor of apoptosis protein-1 (cIAP1). This interaction stabilized cIAP1, prevented the formation of RIPK1-dependent death complexes and suppressed apoptosis and necroptosis. In a murine model of DSS-induced colitis, α-tocopherol significantly alleviated disease severity while preserving cIAP1 protein expression. CONCLUSION AND IMPLICATIONS: Our findings identified cIAP1 as a previously unrecognized molecular target of α-tocopherol and demonstrated that cIAP1 stabilization contributed to the suppression of RIPK1-dependent cell death. These findings expand the current understanding of the biological functions of tocopherols and provide a mechanistic basis for their potential therapeutic application in inflammatory diseases associated with aberrant cIAP1 degradation.",
+      "journal": "Br J Pharmacol",
+      "date": "2026-11-08",
+      "authors": [
+        "Zhu J",
+        "Tian X",
+        "Zhao Y",
+        "Yang F",
+        "Wang R",
+        "Wang F",
+        "Wang Z",
+        "Zhang T",
+        "Ren W",
+        "Tang C",
+        "Ren J",
+        "Cai J",
+        "He Y",
+        "Zhu C",
+        "Feng X",
+        "Liu Y",
+        "Jitkaew S",
+        "Zhuang C",
+        "Zhao Y",
+        "Cai Z"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1111/bph.70694",
+      "journal_tier": 1,
+      "impact": 6.8,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
       "abstract_tr": ""
     },
     {
@@ -537,6 +581,63 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "43000045",
+      "title": "Gut-active polysaccharide carriers for colonic 5-ASA delivery in ulcerative colitis.",
+      "abstract": "INTRODUCTION: Ulcerative colitis (UC) affects approximately 4.9 million people worldwide, with incidence rising globally and prevalence approaching 1% in industrialized nations. 5-Aminosalicylic acid (5-ASA) is first-line therapy for mild-to-moderately active UC, yet pooled endoscopic mucosal healing averages only approximately 37% and 10-year relapse approaches 67%. A central reason is ineffective drug delivery: current technologies release 5-ASA into the bulk lumen, and pH-dependent coatings fail in active UC, where intracolonic pH is variable. Mucosal tissue concentration, not luminal concentration, determines efficacy, and concurrent gut dysbiosis sustains inflammation that current 5-ASA formulations fail to address. AREAS COVERED: UC-associated gut dysbiosis, the limitations of current colonic 5-ASA delivery, and gut-active polysaccharide carriers (inulin and modified inulin, pectin, guar gum, konjac glucomannan [KGM], resistant starch, and hyaluronic acid [HA]) applied specifically to 5-ASA. Advanced nanoparticle and hydrogel platforms and translational and regulatory priorities are also discussed. EXPERT OPINION: Gut-active, enzyme-responsive polysaccharide carriers are a rational formulation strategy for UC. By coupling colonic 5-ASA release to microbial fermentation at the mucosal interface, they deliver drug closer to the epithelial target while generating short-chain fatty acids (SCFA) that may attenuate dysbiosis. Since release is enzyme-triggered rather than pH-dependent, these systems can overcome the dissolution failure that limits current 5-ASA delivery.",
+      "journal": "Expert Opin Drug Deliv",
+      "date": "2026-11-08",
+      "authors": [
+        "Ariaee A",
+        "Prestidge CA",
+        "Joyce PM"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1080/17425247.2026.2761122",
+      "journal_tier": 2,
+      "impact": 5.0,
+      "section": "immuno",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42999025",
+      "title": "Semi-randomized zwitterionic peptides: a breakthrough in drug delivery.",
+      "abstract": "INTRODUCTION: Nanoparticle drug delivery systems (NP DDS) have transformed therapeutic delivery by improving drug stability, extending circulation time, and enabling targeted biodistribution. However, clinical translation remains limited by protein corona formation, immune recognition, and accelerated blood clearance following repeated administration. Poly(ethylene glycol) (PEG) has been the gold-standard antifouling material for decades, but emerging anti-PEG immune responses have driven the search for alternative stealth technologies. AREAS COVERED: Zwitterionic peptides (ZIPs) have emerged as a promising class of antifouling materials because they combine the hydration-mediated stealth properties of zwitterionic polymers with the molecular precision and programmability of peptide synthesis. Here, ZIP applications in drug delivery were reviewed using the Web of Science database from 2014-2026, focusing on reducing and controlling the protein corona, recent advances in ZIP-based drug delivery, and the potential of high-throughput screening platforms and machine learning-guided ZIP design. Recent studies suggest that biological interactions of ZIP-functionalized NPs are governed primarily by charge motifs rather than precise sequences, creating new opportunities for material design. EXPERT OPINION: This observation motivates developing semi-randomized ZIPs (srZIPs) that preserve charge organization while introducing sequence diversity. By maintaining key physicochemical and biological properties while diversifying composition, srZIPs may reduce immune recognition without sacrificing antifouling function.",
+      "journal": "Expert Opin Drug Deliv",
+      "date": "2026-11-07",
+      "authors": [
+        "Hernandez PA",
+        "Moore CJ",
+        "Overby CT",
+        "Benoit DSW"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1080/17425247.2026.2761123",
+      "journal_tier": 2,
+      "impact": 5.0,
+      "section": "immuno",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42998849",
       "title": "Targeting the metabolism-autophagy-ferroptosis interactome in cancer drug resistance: molecular targets, structural pharmacology, and combination strategies.",
       "abstract": "Cancer drug resistance can involve both genetic alterations and reversible changes in metabolism, stress responses, and susceptibility to cell death.Metabolic reprogramming, autophagy, and ferroptosis are closely connected in this process: metabolic adaptation sustains energy and antioxidant production and remodels membrane lipids; autophagy buffers therapeutic stress through nutrient recycling and organelle quality control; and ferroptosis-defense systems limit lethal phospholipid peroxidation. Their interactions can stabilize treatment-tolerant states, although the direction and importance of each process vary by tumor lineage, treatment history, and microenvironment. This review evaluates molecular nodes connecting these processes, with emphasis on GPX4, SLC7A11/xCT, the NCOA4-FTH1 ferritinophagy interface, the USP18-hyperoside (HYP; not to be confused with hypericin) axis, WWP1, ENO1, and DHODH. In this review, we compare interventions using explicit evidence criteria: physical target engagement, causal contribution to a defined resistant phenotype, and pathway association when direct engagement or resistance causality has not been established. We also assess how experimentally determined structures, selective autophagic cargo, parallel ferroptosis-defense systems, tumor context, and translational constraints affect the interpretation of resistance-reversal claims. This framework is intended to distinguish mechanistic plausibility from pharmacologically actionable evidence.",
@@ -932,6 +1033,267 @@
       "score_parts": {
         "journal": 60,
         "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43000172",
+      "title": "Adapting the WHO Global Competency Framework for Regulators of Medicines: Implementation lessons from the South African Health Products Regulatory Authority.",
+      "abstract": "AIMS: Medicines regulatory authorities require skilled staff to ensure timely, consistent and high-quality regulatory decision making. The World Health Organization Global Competency Framework (WHO-GCF) for Regulators of Medicines provides a common reference for defining regulatory workforce competencies while allowing adaptation to local needs. We describe the South African Health Products Regulatory Authority's (SAHPRA) implementation of the WHO-GCF and lessons learnt for other national regulatory authorities. METHODS: SAHPRA adapted the WHO-GCF through consultations with internal regulatory assessors, their supervisors and external experts. Activities, skills, responsibilities and competencies were reviewed for relevance and usability and adapted to reflect SAHPRA functions. The three WHO-GCF proficiency levels were expanded to four, informing revised assessor job profiles. The framework was implemented in a secure digital platform for self-assessment, supervisor validation and development planning. Graphical and summary reports were used to develop training and development plans at the team and individual levels. Hypothetical scenarios illustrate potential applications while protecting SAHPRA data confidentiality. RESULTS: The adapted framework retained the WHO-GCF domains relevant to SAHPRA with approximately 20% fewer competency statements. The laboratory analyst role was omitted, and SAHPRA-specific emphases such as biosimilar evaluation were added. Implementation challenges included assessment length, role specificity and the need to supplement ratings with evidence such as work samples. CONCLUSIONS: The WHO-GCF can be operationalized as an institution-specific framework while retaining a shared regulatory competency language. Local adaptation, involvement of frontline staff and evidence of competence are important for implementation. Competency frameworks can support targeted capacity building, reliance and work-sharing.",
+      "journal": "Br J Clin Pharmacol",
+      "date": "2026-11-08",
+      "authors": [
+        "Pillai G",
+        "Semete-Makokotlela B",
+        "Asiimwe IG",
+        "Suliman S",
+        "Munbodh S",
+        "Mukanga D",
+        "McNair D",
+        "Dube-Mwedzi S",
+        "Rosenkranz B",
+        "Gwaza L"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1002/bcp.70916",
+      "journal_tier": 2,
+      "impact": 3.5,
+      "section": "diger",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43000105",
+      "title": "\"Nano-in-Gel Platforms for the Topical Treatment of Staphylococcus aureus Skin Infections\".",
+      "abstract": "Staphylococcus aureus (S. aureus) is the leading cause of skin infections worldwide. Rising antimicrobial resistance limits the effectiveness of current treatments, highlighting the need for new therapeutic strategies. In this context, Rifabutin (RFB), could be repurposed for skin infections based on its strong anti-staphylococcal activity. However, its low oral bioavailability, and the rapid capacity of bacteria to develop drug tolerance, makes necessary to find novel platforms to ensure antimicrobial efficacy. This work proposes the development of Nano-in-Gel drug delivery systems, integrating RFB-loaded nanostructured lipid carriers (NLCs) into gelatin hydrogels for topical administration. These composite materials combine the controlled release capacity of hydrogels with NLCs´ ability to maximize RFB clinical potential. RFB-loaded NLCs were prepared and characterized in terms of physicochemical properties and cytocompatibility in human dermal fibroblasts (HDF). Moreover, their antibacterial activity against two different S. aureus strains-including mutants generated after RFB exposure was evaluated using a combination of conventional quantification methods and droplet digital PCR (ddPCR). Following the incorporation of NLCs into the gels, the mechanical properties of the Nano-in-Gel systems, and their ability to modulate nanoparticle release were assessed. Results demonstrated that the RFB-loaded NLCs possessed optimal physicochemical characteristics and high biocompatibility. Furthermore, the nanocarriers exhibited enhanced anti-staphylococcal activity compared to the free drug and successfully overcame RFB-resistance in mutant strains. The Nano-in-Gel platforms showed excellent mechanical performance for topical application and achieved a controlled NLCs release profile. These findings suggest that the Nano-in-Gel systems constitute a promising strategy for the advanced management of S. aureus skin infections.",
+      "journal": "Eur J Pharm Sci",
+      "date": "2026-11-08",
+      "authors": [
+        "Rouco H",
+        "Vieitez I",
+        "Menéndez-Rodríguez C",
+        "Potel C",
+        "Otero A",
+        "Diaz-Rodriguez P",
+        "Landin M"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ejps.2026.107712",
+      "journal_tier": 2,
+      "impact": 4.5,
+      "section": "kardiyometabolik",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43000104",
+      "title": "Reduced hypoxanthine Ameliorates LPS-triggered autism-like stereotyped behaviors in intestinal Tlr4 knockout mice via the DRN ROS-5-HT axis.",
+      "abstract": "Autism spectrum disorder (ASD) involves social deficits and severe stereotyped behavior. While central serotonin (5-HT) systems and Toll-like receptor 4 (TLR4) activation are known to be implicated in ASD, how gut TLR4 affects central 5-HT and stereotyped behavior remains unknown. This study demonstrated that prenatal lipopolysaccharide (LPS)-induced social deficits in offspring of both intestinal Tlr4 knockout (Tlr4△IEC) and Tlr4fl/fl mice. However, the stereotyped behaviors and the inhibition of dorsal raphe nuclei (DRN) 5-HT were reduced in Tlr4△IEC-LPS mice compared with those in Tlr4fl/fl-LPS mice. By intersecting metabolites present in both colonic and cerebrospinal fluid, and selecting those exclusively changing in the colon of Tlr4fl/floffspring, hypoxanthine was identified as a metabolite that can cross the blood-brain barrier and mediate the effects of intestinal Tlr4 knockout on DRN 5-HT signaling. Remarkably, hypoxanthine and xanthine oxidase were increased in the serum of ASD children compared to typical development (TD) children. In vivo and in vitro experiments confirmed that hypoxanthine increased reactive oxygen species (ROS) and reduced 5-HT production, thereby promoting 5-HT neuron apoptosis. The inhibition of both the PI3K/AKT and 5-HT pathways in H2O2-treated PC12 cells was rescued by glutathione pretreatment in vitro. Meanwhile, the above LPS-induced DRN changes were significantly different in the Tlr4fl/fl offspring, and were reversed in the Tlr4△IEC mice after LPS exposure. Collectively, intestinal Tlr4 knockout reduces LPS-induced stereotyped behaviors, and the mechanism involves reduced hypoxanthine production and ROS-mediated inhibition of PI3K/AKT signaling, thereby decreasing 5-HT neuronal apoptosis by elevating the 5-HT level in DRN.",
+      "journal": "Biochem Pharmacol",
+      "date": "2026-11-08",
+      "authors": [
+        "Luo R",
+        "Liu Y",
+        "Yan J",
+        "Hu R",
+        "Lin F",
+        "Yuan B",
+        "Xiang X",
+        "Yang T",
+        "Sun Z",
+        "Xiao L",
+        "Chen J"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.bcp.2026.118603",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "noro",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43000103",
+      "title": "Paeoniflorin Alleviates inflammatory injury in mastitis by targeting AKT1-Mediated mitochondrial damage and epithelial cell apoptosis.",
+      "abstract": "Peony can clear heat, promote blood circulation, and relieve pain, and peony-containing formulas exert favorable therapeutic effects on mastitis. Paeoniflorin is the primary bioactive component of peony. This study aimed to investigate the therapeutic targets and underlying mechanism of paeoniflorin (Pae) against mastitis, leveraging network pharmacology to guide experimental validation. A mouse mastitis model was established using lipopolysaccharide (LPS). Three concentrations of Pae were administered to evaluate its dose-dependent therapeutic effects, with dexamethasone (DXMS) serving as the positive control drug. Pae treatment significantly ameliorated mastitis in mice, reduced the expression of inflammatory cytokines, and alleviated cellular injury. Network pharmacology analysis revealed that AKT serine/threonine kinase 1 (AKT1) signaling was the most significantly enriched pathway, strongly correlated with both Pae and mastitis. Molecular dynamics simulation and CO-IP experiments confirmed the direct binding between Pae and AKT1. In vitro, we used bovine mammary epithelial cells, in which LPS was applied to induce inflammatory injury, to further verify the protective effects of Pae against cellular damage. The results showed that Pae protected against LPS-induced cellular injury in an AKT1-dependent manner. Mechanistically, Pae suppresses AKT1 phosphorylation and promotes AKT1 protein degradation. Collectively, through an integrated approach of network pharmacology and experimental validation, we identified that the therapeutic mechanism of Pae against mastitis is mediated by direct targeting of AKT1. Pae can bind to AKT1 and subsequently inhibit AKT1-mediated mitochondrial damage and epithelial apoptosis.",
+      "journal": "Biochem Pharmacol",
+      "date": "2026-11-08",
+      "authors": [
+        "Liu X",
+        "Wang Z",
+        "Lu S",
+        "Li X",
+        "Guo C",
+        "Zha K",
+        "Deng S",
+        "Wu Y",
+        "Zhang Z",
+        "Zhao X",
+        "Feng Y"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.bcp.2026.118598",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "noro",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43000093",
+      "title": "Local transdermal delivery of Gallic acid using borneol-based transferosomes for enhanced breast cancer management.",
+      "abstract": "Local transdermal therapy (LTT) is a promising approach under investigation for breast cancer (BC) management. This approach primarily promotes the accumulation of the drug within breast tissue, rather than disseminating through the systemic circulation after topical application to the breast skin. Gallic acid (GA) is a versatile phenolic acid known for its antitumor activity. However, poor stability, degradation under alkaline conditions, oxidation sensitivity, and limited permeability restrict its therapeutic efficacy. Different transferosomes (TFs) were formulated via the thin film hydration method, and a D-optimal design was employed for their statistical analysis with respect to particle size (PS), polydispersity index (PDI), and entrapment efficiency (EE%). Moreover, to augment GA's skin penetration, penetration-enhanced transferosomes (PE-TFs) were prepared based on the optimized TFs. GA skin delivery was assessed through the evaluation of ex vivo skin permeation and deposition studies. The MTT assay was conducted to evaluate GA's antitumor activity. In vivo, an assessment of the selected formulations using 7,12-dimethylbenz[a]anthracene (DMBA)-induced BC was conducted. The PS, PDI, and EE% were 140 ± 1.17 nm, 0.25 ± 0.05, and 65% ± 5.51 for optimized TFs and 177.5 ± 2.38 nm, 0.291 ± 0.02, and 66% ± 1.81 for GA-borneol PE-TFs. The ex vivo permeation study demonstrated enhanced GA permeation from GA-borneol PE-TFs compared to the other tested formulations. The MTT assay indicated GA cytotoxic activity. Moreover, the GA-borneol PE-TFs gel demonstrated the highest percentage of drug retention, and in vivo studies emphasized its superiority in mitigating DMBA-induced BC during therapeutic and prophylactic studies.",
+      "journal": "Int J Pharm",
+      "date": "2026-11-08",
+      "authors": [
+        "Samy OM",
+        "Abd-Allah H",
+        "Osman R"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127654",
+      "journal_tier": 2,
+      "impact": 5.3,
+      "section": "onko",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43000067",
+      "title": "A multi-platform characterization of aggregation in morpholino oligonucleotide drug products: From soluble aggregates to subvisible particles.",
+      "abstract": "Antisense oligonucleotides (ASOs) represent a promising class of therapeutic agents; however, their efficacy and quality can be compromised by aggregation, a critical quality attribute that remains inadequately understood and analytically challenging. To address these methodological limitations, we evaluated the feasibility of both conventional and emerging analytical techniques for characterizing phosphorodiamidate morpholino oligomer (PMO) aggregates across their complete size distribution, from nanometer-scale soluble oligomers to micrometer-scale subvisible particles (SVP). Four FDA-approved PMO drug products were analyzed using five complementary methods selected to cover distinct size ranges: flow imaging (FI) microscopy for SVP (3-100 μm), microfluidic resistive pulse sensing (MRPS) for submicron particles (250-2000 nm), size-exclusion chromatography with multi-angle light scattering (SEC-MALS) and asymmetric flow field-flow fractionation (AF4) for soluble aggregates, and intact mass spectrometry for rapid qualitative assessment of noncovalent assemblies. Method performance, recovery, and orthogonality were systematically evaluated. Additionally, we assessed the effectiveness of filtration (0.2 μm and 0.02 μm) as a risk mitigation strategy and examined the impact of product age on aggregation extent. Aggregates were detected across all size ranges in all four marketed PMO products, with substantial product-specific variability in both quantity and size distribution. SEC-MALS achieved >80% recovery and detected oligomeric species ranging from dimers to tetramers, with soluble aggregate levels ranging from 0.27% to 6.75% for the products tested. MRPS quantified submicron particles at concentrations exceeding 10⁵ particles/mL, while FI detected SVP concentrations ranging from 129 to 3,544 particles/mL. These PMO aggregates exhibited moderate transparency (transparency < 0.6), suggesting potential undercounting by traditional light obscuration methods. AF4 and intact mass spectrometry-applied here for the first time to PMOs-confirmed the presence of high molecular weight species, although AF4 separation of monomers and dimers was incomplete for some products. Intact mass spectrometry enabled direct detection of noncovalent aggregates without chromatographic separation. Assessment of product stability revealed that expired products exhibited up to a 1,000-fold increase in particle burden compared to products within shelf life. Evaluation of filtration as a control strategy demonstrated that 0.2 μm filtration reduced SVP by >95% while leaving soluble aggregates unaffected. This multi-platform analytical approach enables comprehensive characterization of PMO aggregation spanning from nanometer to micrometer scales. The current study provides analytical scientists with enhanced understanding of analytical technologies for subvisible particles measurements which may be selected as part of a control strategy and used to monitor this critical quality attribute in oligonucleotide therapeutic during development and manufacturing.",
+      "journal": "J Pharm Sci",
+      "date": "2026-11-08",
+      "authors": [
+        "Dong X",
+        "Qu H",
+        "Shih M",
+        "Xu X",
+        "Faustino P",
+        "Tian G",
+        "Ashraf M",
+        "Korang-Yeboah M"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1016/j.xphs.2026.104588",
+      "journal_tier": 2,
+      "impact": 3.3,
+      "section": "diger",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42999035",
+      "title": "The impact of perceived volume limits on subcutaneous biologic drug development: an industry survey.",
+      "abstract": "As multiple large-volume subcutaneous (SC) biologics enter trials or gain approval, understanding how administration volume impacts biologic development is critical. While patients often prefer SC over intravenous administration, large-volume SC delivery adoption is hindered by the belief that SC delivery must be ≤3 mL without a permeation enhancer (PE). A 21-item online survey was conducted among professionals working in research and development; chemistry, manufacturing, and controls (CMC); portfolio strategy, new product planning; and combination products. Questions explored perceptions of SC administration volume limits, biologic deprioritization and abandonment, large-volume delivery considerations, and organizational approaches to revisiting deprioritized candidates. Eighty-eight participants completed the survey; 90.9% reported direct involvement in at least one project in which a biologic had been deprioritized or abandoned due to challenges achieving an SC volume of ≤3 mL. Respondents estimated that a weighted mean of 32.4% of relevant biologics had been abandoned and 28.9% had been deprioritized because of such challenges. Frequently selected reasons included limited experience with large-volume formulations or devices (29.5%), patient and/or healthcare provider preference (19.3%), and development costs or timelines (17.0%). Overall, 33.0% of respondents selected ≤3 mL as the maximum volume for SC infusion over several minutes without a PE. These findings indicate that perceived SC volume constraints may influence development decisions and highlight the importance of differentiating between device-related and physiological limits on SC administration volume. This study demonstrates that misconceptions about SC injection volume limits may lead to deprioritization or abandonment of viable assets during biologic development.",
+      "journal": "Drug Deliv",
+      "date": "2026-11-07",
+      "authors": [
+        "Desai M",
+        "Chen W",
+        "Koobatian M",
+        "Rajagopalan D",
+        "Ingawale S",
+        "Bhattacharya D"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1080/10717544.2026.2756024",
+      "journal_tier": 2,
+      "impact": 6.0,
+      "section": "formulasyon",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "42999034",
+      "title": "Cell-penetrating peptide functionalized ZIF-90 platform for photodynamic-chemical combined therapy in colorectal cancer.",
+      "abstract": "Colorectal cancer (CRC) is one of the major concerns of developed nations. The combination of different treatment modalities has been shown to be effective in improving tumor therapy efficiency and reducing side effects. However, the synergistic anti-tumor efficiency and highly responsive drug release still remain challenging. Curcumin (CCM) has a chemotherapeutic effect as well as significant photodynamic activity, which is a promising component for the treatment of tumors. Herein, we report a cell-penetrating peptide functionalized ZIF-90-based drug delivery platform (PEG-CPP2@NPs) for synergistic photodynamic-chemical combined therapy in colorectal cancer. Polyethylene glycol (PEG)-conjugated CPP2 coating obviously increased the uptake of nanoparticles in tumor cells and their accumulation in tumor tissues. We conducted in vivo and in vitro experiments to evaluate the anti-tumor effects of CCM-loaded multifunctional nanoparticles. The PEG-CPP2@NPs exhibited significant tumor inhibition. After laser irradiation treatment, the generation of reactive oxygen species (ROS), mitochondrial damage, and cell apoptosis, as well as the expressions of Bax/Bcl-2, cytochrome C, and caspase-3, were all significantly enhanced. The tumor suppression rates in mice across the treatment groups were 25.46% for CCM, 33.16% for NPs, 43.5% for CCM+L, 48.45% for NPs+L, 66.05% for PEG-CPP2@NPs, and 80.64% for PEG-CPP2@NPs+L. This indicates that the functionalized ZIF-90 platform, when combined with chemotherapy and photodynamic therapy, has a stronger anti-tumor effect. Overall, the novel drug-delivery platform designed herein has demonstrated significant potential in the treatment of colon cancer and has provided a new approach for enhancing anti-tumor efficacy.",
+      "journal": "Drug Deliv",
+      "date": "2026-11-07",
+      "authors": [
+        "Fu T",
+        "Ni B",
+        "Yin D",
+        "Zhu R",
+        "Liao S",
+        "Du Y",
+        "Jing X",
+        "Sun Y",
+        "Deng X",
+        "Wu C",
+        "Cao X",
+        "Cai M",
+        "Yin X"
+      ],
+      "pubtypes": [
+        "Journal Article"
+      ],
+      "doi": "10.1080/10717544.2026.2746812",
+      "journal_tier": 2,
+      "impact": 6.0,
+      "section": "onko",
+      "score": 60.0,
+      "score_parts": {
+        "journal": 60,
+        "pubtype": 0,
         "recency": 0.0
       },
       "tier": 3,
