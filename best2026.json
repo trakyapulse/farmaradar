@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T14:38:22+00:00",
+  "updated": "2026-11-11T13:53:59+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -207,6 +207,62 @@
       "journal_tier": 1,
       "impact": 60.8,
       "section": "kardiyometabolik",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43003986",
+      "title": "Conditional biologics in cancer immunotherapy: mechanisms, applications and clinical progress.",
+      "abstract": "Immunotherapy has transformed cancer treatment, enabling durable responses and long-term survival in many patients. However, widespread use remains limited by refractory indications, immune-related toxicities and acquired resistance. Complications such as cytokine release syndrome, immune-related adverse events, infusion-related reactions and on-target, off-tumour toxicities have emerged as specific safety concerns. Approaches that can direct immunotherapy to the tumour microenvironment (TME), such as intratumoural administration, have only partially mitigated these risks and present additional logistical and technical barriers. Conditional biologics, in which proteins are engineered to become active in response to tumour-associated signals or in the TME, enable the uncoupling of efficacy from toxicity. By enhancing tumour accumulation, targeting activity to a particular cell type and minimizing off-target effects, conditional activation offers a potential strategy to expand the therapeutic window of cancer therapeutics. This Review provides a comprehensive overview of the mechanisms, applications, challenges and future directions of this approach, while assessing completed and ongoing clinical trials.",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-09",
+      "authors": [
+        "Keenan BP",
+        "Killebrew JR",
+        "Hollenbaugh D",
+        "Fong L"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1038/s41573-026-01552-x",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "onko",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43003985",
+      "title": "Histone lysine demethylases in the third decade: biology and therapeutic prospects.",
+      "abstract": "Histone post-translational modifications, such as methylation, acetylation, phosphorylation and ubiquitination, have fundamental roles in regulating chromatin structure and gene expression. Histone methylation was once considered a static modification until the discovery of the histone lysine demethylase LSD1 (KDM1A), more than two decades ago. Since then, numerous KDMs in two main enzyme classes have been identified. Their diverse roles in regulating gene expression, metabolism, immune responses and disease pathogenesis have been extensively studied and small-molecule inhibitors have been developed. KDMs exert context-dependent functions as either oncogenes or tumour suppressors, which complicates their therapeutic targeting. As we enter the third decade of investigations into histone demethylation, unlocking the full therapeutic potential of inhibiting KDMs will require a deeper understanding of their biology, substrate specificity, interaction networks and regulatory crosstalk. In this Review, we discuss the functions of KDMs in metabolic and immune regulation and their roles in cancer and other diseases. We describe the landscape of KDM inhibitors, especially LSD1 inhibitors, which are the most advanced demethylase inhibitors in clinical trials. We highlight the need for more potent and selective KDM inhibitors, biomarkers of therapeutic response, novel combinatorial treatments and innovative drug discovery strategies.",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-09",
+      "authors": [
+        "Hosseini A",
+        "Shi Y"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1038/s41573-026-01561-w",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "onko",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -1678,86 +1734,6 @@
       "journal_tier": 1,
       "impact": 15.0,
       "section": "kardiyometabolik",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42914937",
-      "title": "Genomic dynamics and macrolide resistance in Bordetella pertussis: implications for surveillance and rapid visual detection.",
-      "abstract": "BACKGROUND: The post-COVID-19 resurgence of pertussis has raised concerns regarding shifts in circulating Bordetella pertussis populations and increasing macrolide resistance. This study aims to characterize the population dynamics and clinically relevant genomic changes of B. pertussis in China and globally, and to develop a rapid visual assay for detecting the macrolide resistance-associated 23S rRNA A2047G mutation. METHODS: In this cross-sectional genomic epidemiology study, 22 recent clinical isolates were sequenced and analyzed with 7322 publicly available B. pertussis genomes. Global population structure was assessed using 7344 genomes, and Bayesian phylodynamic analysis was performed on 1054 temporally informative Chinese genomes selected from 1292 isolates collected during 1951-2024. We designed and optimized an allele-specific loop-mediated isothermal amplification (LAMP) assay incorporating a 3'-terminal artificial mismatch and a neutral red indicator for detection of the macrolide resistance-associated 23S rRNA A2047G mutation. Its analytical sensitivity and specificity were evaluated alongside quantitative PCR (qPCR) using serially diluted plasmids and 39 contrived DNA samples. RESULTS: The macrolide resistance of B. pertussis in China, defined by the 23S rRNA A2047G mutation, reached 98.9% (88/89; 95% CI 93.9-100) among available genomes in 2024, concurrent with the rapid clonal expansion of the ptxP3-MT28 sub-lineage. Among the available Chinese isolates, the proportion of predicted Prn-deficient strains increased to 31.46% in 2024, with 12 distinct prn inactivation mechanisms, predominantly IS481-mediated insertions. The optimized LAMP assay differentiated mutant and wild-type alleles within 50 min at 65°C, with a neutral red visual limit of detection (LOD) of 10 copies/μL, compared with 100 copies/μL for qPCR. The results of LAMP-based differentiation were consistent with those obtained by qPCR for all 39 contrived samples. CONCLUSIONS: B. pertussis populations have undergone marked genomic shifts characterized by antigenic variation and macrolide resistance, although the evolutionary drivers underlying these temporal and genomic patterns remain to be determined. The visual LAMP assay provides a proof-of-concept analytical evidence for rapid A2047G allele discrimination and may have future point-of-care potential following validation with prospective clinical respiratory specimens. These findings support continued genomic surveillance and further evaluation of vaccine antigen matching and antimicrobial resistance.",
-      "journal": "Drug Resist Updat",
-      "date": "2026-10-20",
-      "authors": [
-        "Zhuang Y",
-        "Li S",
-        "Bao D",
-        "Jin X",
-        "Xiao F",
-        "He Q",
-        "Jia H",
-        "Shen F",
-        "Jiang T",
-        "Xie X",
-        "Zhang J",
-        "Butaye P",
-        "Furlan JPR",
-        "He F",
-        "Zhang Y",
-        "Lin X",
-        "Ruan Z"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.drup.2026.101494",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "antimikrobiyal",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42925861",
-      "title": "Targeting V-ATPase assembly via sEVs-delivered doxorubicin triggers methuosis and circumvents temozolomide resistance in glioblastoma.",
-      "abstract": "AIM: Temozolomide (TMZ) resistance remains a major challenge in glioblastoma (GBM). Whether lysosomal alterations represent a targetable vulnerability in TMZ-resistant GBM (TR-GBM) is unclear. This study investigates whether small extracellular vesicles (sEVs) can reprogram doxorubicin (DOX) subcellular trafficking to exploit lysosomal vulnerabilities and circumvent resistance. METHODS: Paired primary/recurrent GBM tissues, TR-GBM cell lines (TR-U87, TR-U251), patient-derived xenografts (PDX), and orthotopic models were used. DOX-loaded sEVs (sEVs-DOX) were characterized. Subcellular DOX distribution was assessed by confocal microscopy, organelle staining, and Percoll gradient fractionation. V-ATPase assembly and function were evaluated by co-immunoprecipitation, immunofluorescence, lysosomal pH measurement, and proton-pumping activity. ATP6V1D overexpression and knockdown were used for validation. RESULTS: TR-GBM showed lysosomal expansion and instability. sEVs-DOX redirected DOX to lysosomes, inducing methuosis and circumventing TMZ resistance. Mechanistically, lysosomal DOX directly bound ATP6V1D, disrupting V-ATPase assembly, causing lysosomal deacidification and dysfunction. ATP6V1D overexpression rescued these defects, whereas knockdown phenocopied sEVs-DOX effects. sEVs-DOX demonstrated potent efficacy in subcutaneous, orthotopic, and PDX models with minimal toxicity. CONCLUSION: Lysosomal dysfunction is a targetable vulnerability in TR-GBM. sEVs-DOX circumvents resistance by inducing V-ATPase-dependent methuosis, offering a promising therapeutic strategy.",
-      "journal": "Drug Resist Updat",
-      "date": "2026-10-20",
-      "authors": [
-        "Guo Y",
-        "Tang R",
-        "Dai Z",
-        "Wu L",
-        "Liu Y",
-        "Cai L",
-        "Lu J",
-        "Yang S",
-        "Xu F",
-        "Yang Y",
-        "Wang C",
-        "Wang X",
-        "Zeng B",
-        "Li Q",
-        "Su Z"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.drup.2026.101493",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "onko",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
