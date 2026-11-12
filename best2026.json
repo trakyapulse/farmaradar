@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T13:53:59+00:00",
+  "updated": "2026-11-12T14:55:06+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -263,6 +263,35 @@
       "journal_tier": 1,
       "impact": 60.8,
       "section": "onko",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43015486",
+      "title": "The expansion of kinase drug discovery: new targets, platforms and indications.",
+      "abstract": "In the past 25 years, kinase drug discovery has grown into one of the most thriving areas in pharmaceutical research and development. What began as a field dominated by ATP-competitive small molecules has diversified into a broad therapeutic landscape that includes allosteric and covalent inhibitors, activators, proximity-induced modulators, targeted protein degraders and antibody-based therapies, with more than 150 regulatory approvals so far worldwide. In this Review, we provide a comprehensive analysis of the current kinase therapeutic landscape, including more than 2,100 kinase-targeting agents that have entered clinical development in more than 23,000 clinical trials. We cover drug platforms, new targeting approaches, the expanding target spectrum, approvals and clinical trends. Nearly half of the canonical human protein kinases have at least one clinical-stage agent, placing kinases among the most intensively explored drug target classes. Nevertheless, development remains highly concentrated around a small set of blockbuster kinase targets, such as EGFR. We also examine the features associated with successful kinase-targeting agents and causes of agent discontinuations and regulatory withdrawal.",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-11",
+      "authors": [
+        "Sokolov AV",
+        "Fabbro D",
+        "Knapp S",
+        "Schiöth HB"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1038/s41573-026-01551-y",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -1103,6 +1132,31 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "43015353",
+      "title": "First factor XIa inhibitor nabs FDA approval for stroke prevention.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-11",
+      "authors": [
+        "Mullard A"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00180-9",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42768084",
       "title": "Two trials or not two trials? That should not be the question.",
       "abstract": "",
@@ -1338,6 +1392,35 @@
       "journal_tier": 1,
       "impact": 19.3,
       "section": "noro",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43014236",
+      "title": "Defining the druggability of viral macrodomains in coronaviruses and alphaviruses.",
+      "abstract": "Viral macrodomains are ADP-ribosylhydrolases encoded within the nonstructural proteins of coronaviruses and alphaviruses-2 RNA virus families with pandemic potential. Genetic studies demonstrate that ADP-ribose binding and ADP-ribosylhydrolase activity are critical for replication in alphaviruses and select coronaviruses, such as Middle East respiratory syndrome coronavirus and murine hepatitis virus. In contrast, for severe acute respiratory syndrome coronavirus (SARS-CoV) and SARS-CoV-2, this domain primarily enhances in vivo fitness by modulating the innate immune response, establishing the macrodomain as a validated antiviral target. Structure-guided and high-throughput efforts have identified selective inhibitors for SARS-CoV-2 and, more recently, early-stage inhibitors of the alphavirus chikungunya virus. Both exploit a conserved active-site architecture that organizes ligand recognition into adenine, phosphate, ribose, and oxyanion subsites. Despite screening of extensive chemical libraries, inhibitor discovery has repeatedly converged on adenine-anchored scaffolds requiring polar engagement of the oxyanion region to achieve potency. This convergence defines a structurally confined druggable corridor but reveals a persistent permeability-potency tradeoff imposed by the polarity required for catalytic engagement. Cross-family comparisons further demonstrate localized divergence that shapes selectivity and constrains straightforward scaffold portability. Here, we synthesize structural, biochemical, and antiviral advances across SARS-CoV-2 and chikungunya virus, define the current boundaries of macrodomain chemical space, and delineate the chemical and biological constraints that now govern translation of catalytic inhibition into predictable antiviral efficacy. SIGNIFICANCE STATEMENT: Viral macrodomains have emerged as compelling antiviral targets in 2 pandemic-potential virus families, coronaviruses and alphaviruses, owing to their conservation and role in virulence. This review defines the chemical space and druggability of the severe acute respiratory syndrome coronavirus 2 and chikungunya virus macrodomains and the structural and biological constraints that must be overcome to translate catalytic inhibition into next-generation antivirals.",
+      "journal": "Pharmacol Rev",
+      "date": "2026-09-30",
+      "authors": [
+        "Biswas B",
+        "Abraham R",
+        "Bosch J",
+        "Leung AKL"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.pharmr.2026.100162",
+      "journal_tier": 1,
+      "impact": 19.3,
+      "section": "immuno",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -1617,123 +1700,6 @@
       "journal_tier": 1,
       "impact": 15.0,
       "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42809895",
-      "title": "UBR5-KDM5A axis rewires redox metabolism to confer cisplatin resistance in triple-negative breast cancer via the cAMP-PKA-SIRT3 cascade.",
-      "abstract": "Triple-negative breast cancer (TNBC) lacks actionable therapeutic targets and remains highly dependent on cytotoxic chemotherapy, yet the rapid emergence of cisplatin resistance severely limits clinical benefits. The molecular mechanisms underlying this resistance and effective combination strategies remain incompletely defined. Here, we identify an epigenetic-metabolic signaling axis that drives cisplatin resistance in TNBC. Mechanistically, the histone demethylase KDM5A suppresses the endogenous protein kinase A inhibitor PKIA, thereby activating the cAMP-PKA pathway, enhancing CREB phosphorylation, and upregulating mitochondrial deacetylase SIRT3 transcription. Elevated SIRT3 subsequently deacetylates and activates SOD2, reducing intracellular reactive oxygen species (ROS) levels and attenuating cisplatin-induced oxidative damage and apoptosis, thereby promoting a drug-resistant phenotype. Upstream, we demonstrate that the E3 ubiquitin ligase UBR5 directly interacts with KDM5A and mediates its ubiquitin-dependent degradation, acting as a negative regulator of this pathway. Loss or attenuation of UBR5 stabilizes KDM5A and amplifies the KDM5A-cAMP-PKA-SIRT3 signaling cascade, conferring resistance to cisplatin. Therapeutically, pharmacologic inhibition of KDM5A restores cisplatin sensitivity and suppresses tumor growth in both cellular and in vivo models. Collectively, our findings establish the UBR5-KDM5A-cAMP-PKA-SIRT3 axis as a central regulator of cisplatin resistance in TNBC and highlight KDM5A as a promising therapeutic target for combination treatment strategies.",
-      "journal": "Drug Resist Updat",
-      "date": "2026-09-21",
-      "authors": [
-        "Gong M",
-        "Liang F",
-        "Wang H",
-        "Gong M",
-        "Zuo P",
-        "Zhang Y",
-        "Liu P",
-        "Han X",
-        "Qiu W",
-        "Wang S",
-        "Wang S",
-        "Wang Z",
-        "Yu H",
-        "Lv E",
-        "Liu Y",
-        "Sun L",
-        "Tian L",
-        "Yu L",
-        "Liao X",
-        "Li D"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.drup.2026.101484",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42896293",
-      "title": "Nationwide dalbavancin surveillance identifies sagB-associated cell-wall adaptation linked to reduced lipoglycopeptide susceptibility in CC5 Staphylococcus aureus.",
-      "abstract": "AIMS: Dalbavancin is a long-acting lipoglycopeptide with potent activity against Staphylococcus aureus. However, the emergence of reduced dalbavancin susceptibility and its underlying molecular mechanisms remain poorly understood. METHODS: Dalbavancin MICs were determined for 1803 S. aureus isolates from 37 hospitals in 27 provinces of China. Comparative genomics of a clinical dalbavancin-nonsusceptible (DAL-NS) isolate and in vitro vancomycin-selected derivatives was performed to identify resistance-associated mutations. The role of sagB was assessed by gene deletion and complementation, followed by antimicrobial susceptibility testing and phenotypic assays. Transcriptomic profiling, autolysis assays, electron microscopy, cytochrome c binding assays, and time-kill assays were performed to characterize the cellular effects of sagB dysfunction. RESULTS: Dalbavancin showed potent activity, with MIC50/MIC90 values of 0.06/0.125 μg/mL, and only one nonsusceptible isolate was detected (0.06%, 1/1803). This isolate belonged to ST5523/CC5 and had prior vancomycin exposure but no dalbavancin treatment. sagB mutations occurred in both the clinical isolate and independent vancomycin-selected derivatives with reduced dalbavancin susceptibility. Genetic complementation and deletion supported sagB dysfunction as contributing to reduced susceptibility to lipoglycopeptides, glycopeptides, and lipopeptides, with reciprocal β-lactam sensitization. Mechanistically, sagB dysfunction altered cell-wall hydrolase expression, autolysis, and envelope properties, and was associated with prolonged survival under dalbavancin exposure but enhanced killing by oxacillin. CONCLUSIONS: Dalbavancin remains highly active against clinical S. aureus in China. Rare nonsusceptibility may emerge under glycopeptide pressure through lineage-conditioned sagB-associated cell-wall remodeling.",
-      "journal": "Drug Resist Updat",
-      "date": "2026-10-09",
-      "authors": [
-        "Hong Y",
-        "Zhuang H",
-        "Wang H",
-        "Guo Y",
-        "Shi K",
-        "Chen Y",
-        "Zhu F",
-        "Zhang X",
-        "Hu F",
-        "Sun L",
-        "Yu Y",
-        "Chen Y"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.drup.2026.101487",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "antimikrobiyal",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42901085",
-      "title": "SRSF1-DLAT axis drives mitochondrial fusion to confer therapy resistance in diabetes-associated pancreatic ductal adenocarcinoma.",
-      "abstract": "BACKGROUND: Patients with pancreatic ductal adenocarcinoma (PDAC) and concurrent diabetes mellitus frequently exhibit poor outcomes. This study aims to elucidate the molecular mechanism linking diabetes with therapeutic failure. METHODS: We integrated clinical analysis, diabetic-KPC mouse models, multi-omics approaches including scRNA-seq and eCLIP-seq analysis, and functional validations to investigate the mechanisms of therapy resistance in PDAC associated with diabetes. RESULTS: It was found that pancreatic cancer with concurrent diabetes is prone to chemoresistance, which is accompanied by Serine/arginine-rich splicing factor 1(SRSF1)-driven altered splicing and expression of Dihydrolipoamide S-Acetyltransferase(DLAT). Our results showed that lactate accumulation in the diabetic tumor microenvironment induces K48-lactylation and stabilization of SRSF1. Crucially, stabilized SRSF1 directly binds to DLAT pre-mRNA, promoting the retention of Exon 5. This enhanced exon retention prevents nonsense-mediated decay (NMD) of DLAT, thereby elevating DLAT protein levels.The resulting SRSF1/DLAT axis drives mitochondrial hyperfusion, conferring chemoresistance by inhibiting senescence and apoptosis. Furthermore, the hyperfusion of mitochondria facilitates immune evasion by promoting the acetylation and stabilization of PD-L1. Notably, pharmacological intervention with Berberine effectively suppressed this SRSF1-DLAT axis, thereby re-sensitizing diabetes-associated PDAC tumors to combined chemo- and immunotherapy in vivo. CONCLUSIONS: Our findings reveal that the SRSF1-DLAT-mitochondrial fusion axis drives therapeutic resistance in diabetes-associated PDAC. Targeting this metabolic-immune crosstalk offers a promising strategy for PDAC treatment.",
-      "journal": "Drug Resist Updat",
-      "date": "2026-10-16",
-      "authors": [
-        "Wang Z",
-        "Chen Y",
-        "Lu J",
-        "Zhang H",
-        "Pan Y",
-        "Zhu S",
-        "Lin H",
-        "Li G",
-        "Chen Y",
-        "Liao C",
-        "Huang L",
-        "Tian Y",
-        "Chen S"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.drup.2026.101489",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "kardiyometabolik",
       "score": 100.0,
       "score_parts": {
         "journal": 100,
