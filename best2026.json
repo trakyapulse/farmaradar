@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T14:55:06+00:00",
+  "updated": "2026-11-13T14:20:54+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -1633,6 +1633,41 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "43019741",
+      "title": "Resistance of digestive system malignancies to Claudin 18.2-targeting therapy: Mechanistic heterogeneity, tumor ecosystem remodeling, and rational precision strategies.",
+      "abstract": "Claudin 18.2 (CLDN18.2) is a promising therapeutic target for gastric, gastroesophageal junction (GEJ), and pancreatic cancers, with CLDN18.2-targeting agents yielding encouraging clinical outcomes; however, intrinsic and acquired drug resistance is still a key obstacle limiting long-term clinical benefits and disease control. The intricate molecular mechanisms underlying resistance have not yet been fully elucidated, and clinically feasible strategies to reverse it are urgently needed. This review establishes a five-tiered resistance framework (dysregulated expression and aberrant subcellular localization of CLDN18.2, metabolic reprogramming, intracellular bypass signaling compensation, tumor microenvironment [TME] remodeling, and immune evasion) to summarize previously fragmented resistance mechanisms. It also elucidates newly discovered core resistance mechanisms: O-GlcNAc glycosylation-induced cytoplasmic retention of CLDN18.2, trogocytosis-mediated transfer of cell membrane CLDN18.2 (mem-CLDN18.2) from tumor cells to cluster of differentiation (CD)8+ T cells, and spatial intratumoral heterogeneity-related target loss. Furthermore, it compares distinct resistance profiles across diverse therapeutic modalities and summarizes validated and emerging predictive biomarkers, artificial intelligence (AI)-based risk assessment models, and clinical advances involving the use of novel agents and rational combination regimens to overcome resistance. It also comprehensively synthesizes cutting-edge findings on CLDN18.2-targeting drug resistance, forming an integrated system covering mechanisms, biomarkers, and translational strategies. This review could offer a theoretical reference for overcoming clinical drug resistance, improving the precision treatment of digestive system malignancies, and promoting the research and development of next-generation CLDN18.2-targeting drugs.",
+      "journal": "Drug Resist Updat",
+      "date": "2026-08-01",
+      "authors": [
+        "Wang Q",
+        "Yang T",
+        "Liang N",
+        "Gao P",
+        "Zhou S",
+        "Fang X",
+        "Qiao Q",
+        "He X",
+        "Wang N",
+        "Wang G"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1016/j.drup.2026.101503",
+      "journal_tier": 1,
+      "impact": 15.0,
+      "section": "onko",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42759446",
       "title": "Tumor-derived KLK5 activates TMEM158+ cancer-associated fibroblasts to induce CD8+ T cell exhaustion and confer immunotherapy resistance in lung cancer.",
       "abstract": "AIM: Immune checkpoint blockade (ICB) has improved the treatment landscape of lung squamous cell carcinoma (LUSC), but durable clinical benefit is limited by frequent therapeutic resistance. We aimed to define the microenvironmental mechanisms underlying ICB resistance in LUSC. METHODS: Surgical specimens from LUSC patients treated with neoadjuvant anti-PD-1 therapy plus chemotherapy were analyzed using integrated single-cell and spatial transcriptomics. Our findings were validated in independent bulk RNA-seq and multiplex immunofluorescence cohorts and functionally tested in fibroblast-specific conditional knockout and humanized mouse models. RESULTS: We identified a TMEM158⁺ cancer-associated fibroblast (CAF) subpopulation enriched in non-responders and associated with poor prognosis. Spatial and functional analyses showed that TMEM158⁺ CAFs promoted CD8⁺ T-cell exhaustion. Mechanistically, tumor-derived KLK5 engaged TMEM158, recruited SDCBP, activated the MEK/ERK-ELK1 signaling axis, and induced TNC and SPP1 expression, thereby establishing an immunosuppressive niche. Genetic ablation or functional inhibition of TMEM158⁺ CAFs enhanced sensitivity to anti-PD-1 therapy in LUSC. CONCLUSION: TMEM158⁺ CAFs are key stromal mediators of immune evasion and ICB resistance in LUSC and represent a promising biomarker and therapeutic target.",
@@ -1661,42 +1696,6 @@
         "Journal Article"
       ],
       "doi": "10.1016/j.drup.2026.101473",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42762799",
-      "title": "Nucleolar METTL16 drives ccRCC tumorigenesis and pazopanib resistance via translational activation of JAG1/Notch signaling pathway.",
-      "abstract": "Resistance to tyrosine kinase inhibitors (TKIs), particularly pazopanib, is the primary driver of treatment failure in patients with advanced clear cell renal cell carcinoma (ccRCC). However, the epitranscriptomic mechanisms underlying TKI resistance, especially the regulatory role of N6-methyladenosine (m6A) modification, remain poorly understood. We integrated multi-omics analyses with in vitro and in vivo functional assays, multi-cohort clinical validation, and development of targeted small-molecule inhibitors to dissect the role of methyltransferase-like 16 (METTL16) in ccRCC resistance to pazopanib. METTL16, an independent catalytically active m6A writer, was significantly upregulated in pazopanib-resistant ccRCC cells and in clinical tumor tissues. High METTL16 expression was strongly associated with advanced nuclear grade, pazopanib non-response, and unfavorable clinical prognosis in ccRCC patients. Functionally, METTL16 promoted ccRCC proliferation, metastasis, stemness, and pazopanib resistance in both in vitro and in vivo settings. Mechanistically, METTL16 bound and stabilized the small nucleolar RNA SNORA80B in an m6A-dependent manner, which was associated with enhanced translational output and activation of the JAG1/Notch signaling axis. A novel small-molecule inhibitor targeting the METTL16 methyltransferase activity pocket, METTL16-IN, markedly suppressed resistant tumor growth and synergized with pazopanib to reverse TKI resistance. Our findings support a model in which METTL16-mediated m6A remodeling contributes to pazopanib resistance through altered ribosome biogenesis and translational reprogramming.",
-      "journal": "Drug Resist Updat",
-      "date": "2026-09-18",
-      "authors": [
-        "Gong Z",
-        "Dong K",
-        "Chen W",
-        "Liu Y",
-        "Li M",
-        "Ma W",
-        "Zheng H",
-        "Zhang H",
-        "Di S",
-        "Zhou W",
-        "Pan X",
-        "Cui X"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.drup.2026.101476",
       "journal_tier": 1,
       "impact": 15.0,
       "section": "onko",
