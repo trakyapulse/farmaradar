@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T14:20:54+00:00",
+  "updated": "2026-11-14T13:16:28+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -292,6 +292,35 @@
       "journal_tier": 1,
       "impact": 60.8,
       "section": "diger",
+      "score": 110.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 10,
+        "recency": 0.0
+      },
+      "tier": 1,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43026293",
+      "title": "Immunogenicity risk assessment of novel modalities using new approach methodologies.",
+      "abstract": "A new generation of medicines that includes gene therapies, cell-based treatments and gene editors have the potential to treat a vast range of diseases. However, the clinical success of these novel modalities is limited by unwanted immune responses, which can compromise both safety and efficacy. Regulatory agencies have recently emphasized reducing animal testing in preclinical safety studies and envisioned a strategic approach for basing regulatory decisions on scientifically validated new approach methodologies (NAMs). These methods encompass mathematical models, artificial intelligence tools, organ-on-a-chip systems, and advanced in vitro and ex vivo assays. In combination, these approaches seem potentially well suited for assessing unwanted immune responses of the novel modalities. Key challenges to be addressed include predicting the immunogenicity risks from transgene products, delivery vehicles and gene-editing machinery; managing pre-existing immunity; overcoming barriers to repeat dosing; and establishing robust long-term monitoring strategies. In this Perspective, we critically evaluate how the current NAMs toolkit, originally developed for protein therapeutics, can be adapted to assess the unwanted immune responses of novel modalities. We provide a forward-looking framework for developing and validating the next generation of predictive immunogenicity tools required to safely unlock the full therapeutic potential of these revolutionary medicines.",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-13",
+      "authors": [
+        "Simhadri VL",
+        "Vijayanand S",
+        "Jawa V",
+        "Sauna ZE"
+      ],
+      "pubtypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "doi": "10.1038/s41573-026-01562-9",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "immuno",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
@@ -1157,6 +1186,56 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "43026303",
+      "title": "Cancer vaccine development gets complicated.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-13",
+      "authors": [
+        "Mullard A"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00181-8",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43026302",
+      "title": "How can gene therapy platforms be scaled up to treat thousands of rare diseases?",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-13",
+      "authors": [
+        "Mullard A"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00179-2",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42768084",
       "title": "Two trials or not two trials? That should not be the question.",
       "abstract": "",
@@ -1177,6 +1256,50 @@
         "Letter"
       ],
       "doi": "10.1038/s41573-026-01537-w",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": -30,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43026294",
+      "title": "From hope to adoption: an industry perspective on the maturation of new approach methodologies.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-13",
+      "authors": [
+        "Royer L",
+        "Rytved KA",
+        "Babinet L",
+        "Beilmann M",
+        "Boonen H",
+        "Couvreur N",
+        "Damme K",
+        "De Smedt A",
+        "Doherty A",
+        "Kustermann S",
+        "Mazelin-Winum L",
+        "Mow T",
+        "Oinonen T",
+        "Steger-Hartmann T",
+        "Tilmant K",
+        "Vicart A",
+        "Weber S",
+        "Lyon J",
+        "Hewitt P",
+        "Valentin JP"
+      ],
+      "pubtypes": [
+        "Letter"
+      ],
+      "doi": "10.1038/s41573-026-01583-4",
       "journal_tier": 1,
       "impact": 60.8,
       "section": "diger",
@@ -1561,151 +1684,6 @@
         "recency": 0.0
       },
       "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42987551",
-      "title": "Drug resistance mechanisms and sensitization strategies in central nervous system tumors.",
-      "abstract": "Central nervous system tumors remain challenging owing to their location, heterogeneity, and relapse, with persistently high mortality to incidence ratios. Current standard therapy (surgery plus temozolomide based chemoradiotherapy) remains first line, yet nearly all patients eventually develop acquired resistance, the major hurdle to survival benefit. Resistance is not driven by single gene mutations but by a multidimensional adaptive network from nucleus to intercellular communication. In the nucleus, backup DNA repair pathways activate with epigenetic regulation, allowing cells to escape via lineage reprogramming or senescence. In the cytoplasm, metabolic reprogramming affects epigenetic enzymes and reshapes antioxidant/repair networks. At the membrane, the blood brain and blood tumor barriers not only physically block drugs but also actively remodel to promote resistance. In intercellular communication, immunosuppressive cells (Tregs, M2 macrophages) and neuron glioma synapses provide signals and metabolic support. Emerging sensitizing strategies include targeting repair, blocking plasticity, eliminating senescent cells, computational combination therapy, epigenetic metabolic interventions, biomimetic delivery, immune microenvironment remodeling, and disrupting neuro tumor crosstalk-but are limited by BBB penetration, preclinical model fidelity, and target selectivity. This review organizes current evidence by spatial mechanisms and proposes a multi modal personalized sensitization framework centered on overcoming barriers, aiming to provide a theoretical reference for precision therapy.",
-      "journal": "Drug Resist Updat",
-      "date": "2026-10-31",
-      "authors": [
-        "Xiong F",
-        "Li G",
-        "Chan YT",
-        "Xin Y",
-        "Hong R",
-        "Xie K",
-        "Zhou W",
-        "Zhang C",
-        "Zhang B",
-        "Feng Y",
-        "Wang N",
-        "Chen ZS",
-        "Huang Q"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.drup.2026.101496",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "onko",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42998578",
-      "title": "Macrophage-centered resistance programs in cancer: A unified framework for therapeutic resistance and precision immunotherapy.",
-      "abstract": "Therapeutic resistance remains a major barrier to durable cancer control despite advances in immunotherapy, targeted therapy, cellular therapies, chemotherapy, and radiotherapy. Although tumor cell-intrinsic genetic and epigenetic alterations are well-established drivers of resistance, treatment outcomes are also shaped by dynamic interactions within the tumor microenvironment (TME). Among its stromal and immune constituents, tumor-associated macrophages (TAMs) are prominent regulators of therapeutic resistance because of their functional plasticity and capacity to integrate diverse environmental signals. Here, we introduce macrophage-centered resistance programs as an integrative framework comprising four recurrent, non-mutually exclusive functional modules: lipid-associated, matrix-remodeling, glyco-immune, and metabolic programs. These modules link tumor-derived stressors to macrophage adaptation, immune suppression, stromal remodeling, and therapeutic persistence, while allowing substantial overlap, context dependence, and dynamic interconversion. We further distinguish associative observations from mechanistic and causal evidence and examine how macrophage-associated resistance mechanisms interact with treatment-specific tumor cell-intrinsic pathways across immune checkpoint blockade, cellular therapy, targeted therapy, chemotherapy, and radiotherapy. Finally, we discuss macrophage-directed therapeutic strategies and the requirements for biomarker-guided precision immunotherapy, including clinical validation, assay standardization, and longitudinal monitoring. This framework is intended as a testable organizational model for understanding macrophage-mediated therapeutic resistance and guiding more precise macrophage-directed interventions.",
-      "journal": "Drug Resist Updat",
-      "date": "2026-11-04",
-      "authors": [
-        "Li Y",
-        "Xu S",
-        "Xie H",
-        "Wang Q",
-        "Lu L",
-        "Ma W"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.drup.2026.101498",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "kardiyometabolik",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "43019741",
-      "title": "Resistance of digestive system malignancies to Claudin 18.2-targeting therapy: Mechanistic heterogeneity, tumor ecosystem remodeling, and rational precision strategies.",
-      "abstract": "Claudin 18.2 (CLDN18.2) is a promising therapeutic target for gastric, gastroesophageal junction (GEJ), and pancreatic cancers, with CLDN18.2-targeting agents yielding encouraging clinical outcomes; however, intrinsic and acquired drug resistance is still a key obstacle limiting long-term clinical benefits and disease control. The intricate molecular mechanisms underlying resistance have not yet been fully elucidated, and clinically feasible strategies to reverse it are urgently needed. This review establishes a five-tiered resistance framework (dysregulated expression and aberrant subcellular localization of CLDN18.2, metabolic reprogramming, intracellular bypass signaling compensation, tumor microenvironment [TME] remodeling, and immune evasion) to summarize previously fragmented resistance mechanisms. It also elucidates newly discovered core resistance mechanisms: O-GlcNAc glycosylation-induced cytoplasmic retention of CLDN18.2, trogocytosis-mediated transfer of cell membrane CLDN18.2 (mem-CLDN18.2) from tumor cells to cluster of differentiation (CD)8+ T cells, and spatial intratumoral heterogeneity-related target loss. Furthermore, it compares distinct resistance profiles across diverse therapeutic modalities and summarizes validated and emerging predictive biomarkers, artificial intelligence (AI)-based risk assessment models, and clinical advances involving the use of novel agents and rational combination regimens to overcome resistance. It also comprehensively synthesizes cutting-edge findings on CLDN18.2-targeting drug resistance, forming an integrated system covering mechanisms, biomarkers, and translational strategies. This review could offer a theoretical reference for overcoming clinical drug resistance, improving the precision treatment of digestive system malignancies, and promoting the research and development of next-generation CLDN18.2-targeting drugs.",
-      "journal": "Drug Resist Updat",
-      "date": "2026-08-01",
-      "authors": [
-        "Wang Q",
-        "Yang T",
-        "Liang N",
-        "Gao P",
-        "Zhou S",
-        "Fang X",
-        "Qiao Q",
-        "He X",
-        "Wang N",
-        "Wang G"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.drup.2026.101503",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "onko",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42759446",
-      "title": "Tumor-derived KLK5 activates TMEM158+ cancer-associated fibroblasts to induce CD8+ T cell exhaustion and confer immunotherapy resistance in lung cancer.",
-      "abstract": "AIM: Immune checkpoint blockade (ICB) has improved the treatment landscape of lung squamous cell carcinoma (LUSC), but durable clinical benefit is limited by frequent therapeutic resistance. We aimed to define the microenvironmental mechanisms underlying ICB resistance in LUSC. METHODS: Surgical specimens from LUSC patients treated with neoadjuvant anti-PD-1 therapy plus chemotherapy were analyzed using integrated single-cell and spatial transcriptomics. Our findings were validated in independent bulk RNA-seq and multiplex immunofluorescence cohorts and functionally tested in fibroblast-specific conditional knockout and humanized mouse models. RESULTS: We identified a TMEM158⁺ cancer-associated fibroblast (CAF) subpopulation enriched in non-responders and associated with poor prognosis. Spatial and functional analyses showed that TMEM158⁺ CAFs promoted CD8⁺ T-cell exhaustion. Mechanistically, tumor-derived KLK5 engaged TMEM158, recruited SDCBP, activated the MEK/ERK-ELK1 signaling axis, and induced TNC and SPP1 expression, thereby establishing an immunosuppressive niche. Genetic ablation or functional inhibition of TMEM158⁺ CAFs enhanced sensitivity to anti-PD-1 therapy in LUSC. CONCLUSION: TMEM158⁺ CAFs are key stromal mediators of immune evasion and ICB resistance in LUSC and represent a promising biomarker and therapeutic target.",
-      "journal": "Drug Resist Updat",
-      "date": "2026-08-25",
-      "authors": [
-        "Pu S",
-        "Li G",
-        "Jiang Y",
-        "Shao C",
-        "Hou X",
-        "You L",
-        "Yu P",
-        "Jiang T",
-        "Zhao Y",
-        "Liu T",
-        "Lu Y",
-        "Wang D",
-        "Du R",
-        "Li C",
-        "Zhang J",
-        "Sun G",
-        "Gao Y"
-      ],
-      "pubtypes": [
-        "Journal Article"
-      ],
-      "doi": "10.1016/j.drup.2026.101473",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "onko",
-      "score": 100.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 0,
-        "recency": 0.0
-      },
-      "tier": 2,
       "abstract_tr": ""
     }
   ]
