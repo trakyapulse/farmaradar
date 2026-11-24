@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T17:46:55+00:00",
+  "updated": "2026-11-24T17:19:17+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -1236,6 +1236,106 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "43073342",
+      "title": "METTL1 inhibition impairs tumour growth.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-23",
+      "authors": [
+        "Crunkhorn S"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00186-3",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "onko",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43073341",
+      "title": "Gene writing in vivo.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-23",
+      "authors": [
+        "Crunkhorn S"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00183-6",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43073340",
+      "title": "TREM2 agonist to treat Alzheimer disease.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-23",
+      "authors": [
+        "Crunkhorn S"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00185-4",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "noro",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43073339",
+      "title": "Muscle myosin inhibitor rescues ischaemia.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-23",
+      "authors": [
+        "Crunkhorn S"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00184-5",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42768084",
       "title": "Two trials or not two trials? That should not be the question.",
       "abstract": "",
@@ -1303,6 +1403,33 @@
       "journal_tier": 1,
       "impact": 60.8,
       "section": "diger",
+      "score": 70.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": -30,
+        "recency": 0.0
+      },
+      "tier": 3,
+      "abstract_tr": ""
+    },
+    {
+      "pmid": "43073649",
+      "title": "Formalizing combination therapy for resistant bacterial infections.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-23",
+      "authors": [
+        "Rangarajan R",
+        "Chopra S",
+        "Silver LL"
+      ],
+      "pubtypes": [
+        "Letter"
+      ],
+      "doi": "10.1038/s41573-026-01575-4",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "antimikrobiyal",
       "score": 70.0,
       "score_parts": {
         "journal": 100,
@@ -1515,168 +1642,6 @@
       "journal_tier": 1,
       "impact": 19.3,
       "section": "noro",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "43014236",
-      "title": "Defining the druggability of viral macrodomains in coronaviruses and alphaviruses.",
-      "abstract": "Viral macrodomains are ADP-ribosylhydrolases encoded within the nonstructural proteins of coronaviruses and alphaviruses-2 RNA virus families with pandemic potential. Genetic studies demonstrate that ADP-ribose binding and ADP-ribosylhydrolase activity are critical for replication in alphaviruses and select coronaviruses, such as Middle East respiratory syndrome coronavirus and murine hepatitis virus. In contrast, for severe acute respiratory syndrome coronavirus (SARS-CoV) and SARS-CoV-2, this domain primarily enhances in vivo fitness by modulating the innate immune response, establishing the macrodomain as a validated antiviral target. Structure-guided and high-throughput efforts have identified selective inhibitors for SARS-CoV-2 and, more recently, early-stage inhibitors of the alphavirus chikungunya virus. Both exploit a conserved active-site architecture that organizes ligand recognition into adenine, phosphate, ribose, and oxyanion subsites. Despite screening of extensive chemical libraries, inhibitor discovery has repeatedly converged on adenine-anchored scaffolds requiring polar engagement of the oxyanion region to achieve potency. This convergence defines a structurally confined druggable corridor but reveals a persistent permeability-potency tradeoff imposed by the polarity required for catalytic engagement. Cross-family comparisons further demonstrate localized divergence that shapes selectivity and constrains straightforward scaffold portability. Here, we synthesize structural, biochemical, and antiviral advances across SARS-CoV-2 and chikungunya virus, define the current boundaries of macrodomain chemical space, and delineate the chemical and biological constraints that now govern translation of catalytic inhibition into predictable antiviral efficacy. SIGNIFICANCE STATEMENT: Viral macrodomains have emerged as compelling antiviral targets in 2 pandemic-potential virus families, coronaviruses and alphaviruses, owing to their conservation and role in virulence. This review defines the chemical space and druggability of the severe acute respiratory syndrome coronavirus 2 and chikungunya virus macrodomains and the structural and biological constraints that must be overcome to translate catalytic inhibition into next-generation antivirals.",
-      "journal": "Pharmacol Rev",
-      "date": "2026-09-30",
-      "authors": [
-        "Biswas B",
-        "Abraham R",
-        "Bosch J",
-        "Leung AKL"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.pharmr.2026.100162",
-      "journal_tier": 1,
-      "impact": 19.3,
-      "section": "immuno",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "43050842",
-      "title": "Immunopathological mechanisms linking atherosclerosis and ischemic stroke: From microenvironmental vulnerability to precision therapeutics.",
-      "abstract": "Atherosclerotic ischemic stroke results from a multistage process in which systemic susceptibility and local arterial biology converge to generate plaque vulnerability, thrombosis, embolization, and cerebral ischemia. This review critically integrates experimental, human tissue, observational, imaging, and randomized clinical evidence across this continuum. We distinguish disturbed flow-induced endothelial dysfunction and intimal retention of apolipoprotein B-containing lipoproteins as upstream processes from macrophage dysfunction, defective efferocytosis, vascular smooth muscle cell remodeling, pathological neovascularization, and intraplaque hemorrhage that promote structural vulnerability. We then examine how plaque rupture and, with less direct cerebrovascular evidence, superficial erosion interact with platelet activation, coagulation, and neutrophil-associated immunothrombosis to produce artery-to-artery embolization or hemodynamic ischemia. Systemic modifiers, including clonal hematopoiesis, trained immunity, gut-derived metabolites, psychological stress, infection, and environmental exposures, are evaluated according to evidence maturity and stroke-specific relevance. Poststroke neuroimmune-hematopoietic reprogramming is considered an experimentally supported but incompletely validated feedback mechanism in humans. Among imaging-defined plaque features, carotid intraplaque hemorrhage has comparatively mature human prognostic evidence, whereas many molecular signatures remain investigational. Emerging single-cell, spatial, multiomic, molecular-imaging, and thrombus-profiling technologies are considered separately from clinically validated risk tools. Finally, therapeutic strategies are organized by mechanism and strength of clinical evidence, distinguishing established lipid-lowering, antithrombotic, and reperfusion approaches from investigational inflammatory, lipoprotein(a)-directed, and genome-editing strategies. This evidence-based framework identifies where mechanistic insight is mature, where translation remains uncertain, and how precision prevention may be advanced in atherosclerotic stroke. SIGNIFICANCE STATEMENT: Atherosclerotic ischemic stroke is driven by more than arterial narrowing: plaque vulnerability, immune inflammation, thrombosis, and impaired cerebral perfusion interact to determine clinical risk. By separating findings supported by human cerebrovascular evidence from emerging experimental mechanisms, this review clarifies opportunities and limitations for improved risk stratification, biomarker development, and mechanism-guided prevention.",
-      "journal": "Pharmacol Rev",
-      "date": "2026-10-15",
-      "authors": [
-        "Liu W",
-        "Zou Q",
-        "Liu W",
-        "Huang Z"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.pharmr.2026.100164",
-      "journal_tier": 1,
-      "impact": 19.3,
-      "section": "kardiyometabolik",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42777406",
-      "title": "Extracellular vesicle-mediated drug resistance in cancer.",
-      "abstract": "Drug resistance remains a major challenge to successful cancer treatment. Although cell-autonomous genetic, molecular, and cellular modifications have historically been linked to resistance, there is growing evidence that extracellular vesicles (EVs) can promote the intercellular transfer of resistance-associated components. With a focus on the ways in which EV cargo modifies treatment response, this review critically investigates the role of EVs in therapeutic resistance in breast cancer, lung cancer, leukemia, glioblastoma, pancreatic cancer, and melanoma. The effects of major EV-associated factors on drug efflux, apoptosis, survival signaling, DNA repair, and metabolic adaptation are discussed. These factors include drug-efflux transporters, anti-apoptotic and oncogenic proteins, non-coding RNAs, DNA-repair molecules, metabolic components, and drug-sequestering molecules. As components of the tumor microenvironment that may strengthen treatment resistance, the review also considers EVs released by mesenchymal stromal cells, cancer-associated fibroblasts, and tumor-associated macrophages. By combining these results, we present a community-level view of EV-mediated resistance, where multidrug resistance and treatment failure may be caused by tumor-intrinsic resistance, horizontal transfer via tumor-derived EVs, and TME-derived EV signaling. Lastly, the potential of EVs as delivery systems, biomarkers, predictors, and therapeutic targets is examined, along with the present translational constraints and open issues. This synthesis emphasizes EV-mediated communication as a crucial addition to traditional cancer medication resistance models.",
-      "journal": "Drug Resist Updat",
-      "date": "2026-09-16",
-      "authors": [
-        "Zhao B",
-        "Chen Y",
-        "Khan H",
-        "Wang Y",
-        "Tang H",
-        "Swati K",
-        "Anand K",
-        "Parvez S",
-        "Lin Y",
-        "Wu H"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.drup.2026.101474",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "klinik",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42896292",
-      "title": "Structural insights into P-glycoprotein substrate polyspecificity: A dynamic conformational sampling model.",
-      "abstract": "P-glycoprotein (P-gp, also known as ABCB1) is a member of the ATP-binding cassette (ABC) transporter family that protects tissues from diverse xenobiotics and contributes to multidrug resistance in cancer. Despite extensive structural, biochemical, and biophysical studies, the molecular basis of its remarkable substrate polyspecificity remains incompletely understood. Recent structures of P-gp and its homologs, including zebrafish Abcb4, have revealed extensive conformational heterogeneity and provided unprecedented views of substrate and inhibitor recognition. In this review, we integrate structural and functional studies to examine how conformational variability of the drug-binding site contributes to P-gp polyspecificity. We highlight the continuum of inward-facing conformations and the coupling between local changes in drug-binding site architecture, including transmembrane-helix rotation and tilting, and the global opening and closing of the transporter's two pseudo-symmetric halves. We propose a dynamic conformational sampling model in which diverse substrates can recognize and possibly stabilize different conformational states of P-gp and, in some cases, adopt distinct binding poses. We further discuss how this dynamic view provides a framework for understanding the complex pharmacological behavior of P-gp and may inform the development of more effective inhibitors.",
-      "journal": "Drug Resist Updat",
-      "date": "2026-10-15",
-      "authors": [
-        "Zhan J",
-        "Hsieh CM",
-        "Esser L",
-        "Huang RK",
-        "Shafrir Y",
-        "Wlodawer A",
-        "Ambudkar SV",
-        "Gottesman MM",
-        "Xia D"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.drup.2026.101491",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "onko",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42901086",
-      "title": "Advancements in peptidomimetics as a strategy against multidrug resistance: Fundamentals, rational design, resistance mechanisms, and artificial intelligence.",
-      "abstract": "Antimicrobial peptides offer rapid, often membrane centered activity, but their therapeutic translation is limited by proteolytic instability, toxicity, reduced activity under physiological conditions, unfavourable pharmacokinetics, and manufacturing challenges. Peptidomimetics seek to retain the functional logic of antimicrobial peptides while improving these properties. This review presents a unified framework for peptidomimetic based antimicrobial discovery. It describes the fundamentals and classes of antimicrobial peptidomimetics, discusses mechanisms of antibacterial activity and the molecular basis of multidrug resistance. The review also highlights advances in molecular modelling and the growing role of artificial intelligence. A literature search was performed using PubMed, Scopus, Web of Science, and Google Scholar to review experimental, computational, and translational studies on peptidomimetics. Relevant studies were selected. The review examines the fundamentals of peptidomimetics, including key classes, structural modifications, and optimization strategies designed to overcome antimicrobial resistance. The review also highlights that effective antibacterial action involves electrostatic accumulation, selective membrane anchoring, transition into a membrane active conformation, and, in some cases, permeation to intracellular targets. In Gram-negative organisms, lipopolysaccharide organization and Ca²⁺/Mg²⁺ mediated cross linking increases the energetic barrier to membrane engagement. Furthermore, advances in synthetic methodologies, coupled with AI, are expected to enable faster and more efficient synthesis routes. Peptidomimetics seek to redefine antibacterial strategy by encoding resistance resilience into molecular design rather than relying on single target novelty. Their future impact will depend on integrating structure-activity relationships, mechanistic understanding with AI guided design.",
-      "journal": "Drug Resist Updat",
-      "date": "2026-10-15",
-      "authors": [
-        "Ibisanmi TA",
-        "Bahatheg G",
-        "Urmi UL",
-        "Mishra SK",
-        "Khan RA",
-        "Shen J",
-        "Enninful GN",
-        "To TA",
-        "Willcox MDP",
-        "Kumar N"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.drup.2026.101490",
-      "journal_tier": 1,
-      "impact": 15.0,
-      "section": "klinik",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
