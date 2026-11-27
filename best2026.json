@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T16:41:56+00:00",
+  "updated": "2026-11-27T16:27:15+00:00",
   "year": 2026,
   "count": 60,
   "criteria": "Etki faktörü (sonra etki skoru) sıralı",
@@ -1336,6 +1336,31 @@
       "abstract_tr": ""
     },
     {
+      "pmid": "43099122",
+      "title": "Unleashing an E3 ligase to degrade multiple targets.",
+      "abstract": "",
+      "journal": "Nat Rev Drug Discov",
+      "date": "2026-11-26",
+      "authors": [
+        "Eccleston A"
+      ],
+      "pubtypes": [
+        "News"
+      ],
+      "doi": "10.1038/d41573-026-00190-7",
+      "journal_tier": 1,
+      "impact": 60.8,
+      "section": "diger",
+      "score": 100.0,
+      "score_parts": {
+        "journal": 100,
+        "pubtype": 0,
+        "recency": 0.0
+      },
+      "tier": 2,
+      "abstract_tr": ""
+    },
+    {
       "pmid": "42768084",
       "title": "Two trials or not two trials? That should not be the question.",
       "abstract": "",
@@ -1608,40 +1633,6 @@
       "journal_tier": 1,
       "impact": 19.3,
       "section": "klinik",
-      "score": 110.0,
-      "score_parts": {
-        "journal": 100,
-        "pubtype": 10,
-        "recency": 0.0
-      },
-      "tier": 1,
-      "abstract_tr": ""
-    },
-    {
-      "pmid": "42887433",
-      "title": "Harnessing autophagy and its transcriptional regulation in tumorigenesis and neurodegeneration: Potential and existing therapeutic strategies.",
-      "abstract": "Autophagy is a fundamental cellular process that maintains homeostasis by degrading and recycling cellular components. As autophagy is essential for metabolizing damaged organelles and toxic substances, it plays a crucial role in both normal physiology and pathological conditions. However, autophagy has dual roles in both tumorigenesis and neurodegeneration. In cancer, autophagy can act as a tumor suppressor by clearing damaged components in early stages, but promotes tumor survival and growth in later stages, particularly under stress. In neurodegeneration, impaired autophagy is implicated in the disease progression of conditions such as Alzheimer, Parkinson, and Huntington diseases, in which the failure to clear misfolded proteins and damaged organelles exacerbates disease pathology. This review is organized to cover the molecular machinery and transcriptional regulation of autophagy, its disease-specific subtypes, its dual roles in tumorigenesis and neurodegeneration, and the current pharmacological landscape for therapeutic targeting. Attention is given to pharmacological modulation of autophagy, including senolytic drugs that selectively eliminate senescent cells by exploiting their dependence on antiapoptotic survival pathways, and small-molecule regulators targeting key pathways such as phosphoinositide 3-kinase/Akt serine/threonine kinase/mechanistic target of rapamycin and AMP-activated protein kinase. Depending on the pathological context, these drugs are under development to either inhibit or induce autophagy. Additionally, we address the challenges and limitations in developing effective autophagy-targeting drugs, underscoring the need for further research to identify new compounds that can modulate cellular autophagic flux. SIGNIFICANCE STATEMENT: Autophagy is an important homeostatic mechanism, and its dysregulation contributes to a wide range of diseases, including cancer and neurodegenerative disorders. Therefore, a deeper mechanistic understanding of the regulation of autophagy is crucial for advancing targeted therapies with significant clinical impact.",
-      "journal": "Pharmacol Rev",
-      "date": "2026-08-22",
-      "authors": [
-        "Suri P",
-        "Daartey AB",
-        "Olive Khan DMI",
-        "Rayana NP",
-        "Chilamakuri R",
-        "Godugu D",
-        "Azad MG",
-        "Reeb KL",
-        "Richardson DR"
-      ],
-      "pubtypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "doi": "10.1016/j.pharmr.2026.100158",
-      "journal_tier": 1,
-      "impact": 19.3,
-      "section": "noro",
       "score": 110.0,
       "score_parts": {
         "journal": 100,
